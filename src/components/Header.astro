@@ -1,0 +1,34 @@
+---
+const here = Astro.url.pathname.replace(/\/$/, '') || '/';
+const links = [
+  ['/', 'Shelf'],
+  ['/submit', 'Submit'],
+  ['/stats', 'Stats'],
+  ['/about', 'About'],
+  ['/contribute', 'Contribute'],
+];
+
+function current(href) {
+  if (href === '/') return here === '/';
+  return here === href || here.startsWith(href + '/');
+}
+---
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="/">
+      <svg class="sign" viewBox="0 0 42 42" aria-hidden="true">
+        <rect x="1" y="8" width="40" height="32" fill="#1e1a14" stroke="#c4a574" stroke-width="1.5"/>
+        <path d="M21 1 v7" stroke="#c4a574" stroke-width="1.5"/>
+        <circle cx="21" cy="1.5" r="1.5" fill="#d4783c"/>
+        <text x="21" y="28" text-anchor="middle" fill="#efe6d6" font-size="8" font-family="Georgia, serif" letter-spacing="1.2">H</text>
+        <rect x="8" y="33" width="26" height="1" fill="#d4783c"/>
+      </svg>
+      <span class="wordmark">Howff <small>Edinburgh</small></span>
+    </a>
+    <nav class="nav" aria-label="Primary">
+      {links.map(([href, label]) => (
+        <a href={href} aria-current={current(href) ? 'page' : undefined}>{label}</a>
+      ))}
+    </nav>
+  </div>
+</header>
