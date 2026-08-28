@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://howff.dev/schema/entry.json",
+  "title": "Howff catalogue entry",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "slug",
+    "name",
+    "type",
+    "tagline",
+    "description",
+    "runtimes",
+    "install",
+    "source",
+    "homepage",
+    "license",
+    "author",
+    "tags",
+    "verified",
+    "added",
+    "notes"
+  ],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "name": { "type": "string", "minLength": 1 },
+    "type": { "enum": ["template", "skill", "mcp"] },
+    "tagline": { "type": "string", "minLength": 1 },
+    "description": { "type": "string", "minLength": 1 },
+    "runtimes": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "enum": ["cursor", "claude", "grok-bot", "codex", "any"] }
+    },
+    "install": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["kind", "command", "url"],
+      "properties": {
+        "kind": { "enum": ["url", "npx", "skill-md", "mcp-json", "git"] },
+        "command": { "type": ["string", "null"] },
+        "url": { "type": ["string", "null"] }
+      }
+    },
+    "source": { "type": ["string", "null"] },
+    "homepage": { "type": ["string", "null"] },
+    "license": { "type": ["string", "null"] },
+    "author": { "type": ["string", "null"] },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "verified": { "type": "boolean" },
+    "added": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" },
+    "notes": { "type": ["string", "null"] }
+  }
+}
