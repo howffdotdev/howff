@@ -1,0 +1,38 @@
+---
+import fs from 'node:fs';
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+const prompt = fs.readFileSync('public/rebuild-prompt.txt', 'utf8');
+---
+<Base title="Build this site" description="The rebuild prompt for Howff." path="/build-this-site">
+  <Header />
+  <main class="page">
+    <div class="wrap">
+      <p class="kicker">Rebuild</p>
+      <h1>Yes, you can rebuild this site.</h1>
+      <p class="muted">Paste into an agent in an empty folder. Or fork the source.</p>
+      <pre id="prompt"><code>{prompt}</code></pre>
+      <div class="actions" style="margin-top: 0.8rem">
+        <button type="button" id="copy-prompt">Copy prompt</button>
+        <a class="btn ghost" href="https://github.com/howffdotdev/howff">Source</a>
+      </div>
+      <p class="muted" id="copied" hidden>Copied.</p>
+    </div>
+  </main>
+  <Footer />
+  <script>
+    const btn = document.getElementById('copy-prompt');
+    const promptEl = document.getElementById('prompt');
+    const copied = document.getElementById('copied');
+    btn?.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(promptEl?.innerText || '');
+        if (copied) copied.hidden = false;
+      } catch {
+        /* leave the block selectable */
+      }
+    });
+  </script>
+</Base>

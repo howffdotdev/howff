@@ -1,0 +1,74 @@
+---
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+const today = new Date().toISOString().slice(0, 10);
+---
+<Base title="Submit" description="Draft a Howff JSON entry and open a pull request." path="/submit">
+  <Header />
+  <main class="page">
+    <div class="wrap">
+      <p class="kicker">Submit</p>
+      <h1>Draft the JSON. Open the PR.</h1>
+      <p class="muted prose">
+        Nothing is posted from this page. Fill the form, copy the file, and add
+        <code>data/entries/&lt;slug&gt;.json</code> on GitHub. The spec lives in
+        <a href="/contribute">CONTRIBUTING</a>.
+      </p>
+      <div class="grid-2" style="margin-top: 1.6rem; align-items: start">
+        <form class="form" id="entry-form">
+          <div class="row-2">
+            <label class="field">Slug <input id="slug" required placeholder="filesystem-mcp" /></label>
+            <label class="field">Name <input id="name" required placeholder="Filesystem MCP" /></label>
+          </div>
+          <label class="field">
+            Type
+            <select id="type">
+              <option value="template">template</option>
+              <option value="skill">skill</option>
+              <option value="mcp">mcp</option>
+            </select>
+          </label>
+          <label class="field">Tagline <input id="tagline" required placeholder="One dry line." /></label>
+          <label class="field">Description <textarea id="description" rows="5" required></textarea></label>
+          <label class="field">Runtimes <input id="runtimes" placeholder="cursor, claude, any" /></label>
+          <div class="row-2">
+            <label class="field">
+              Install kind
+              <select id="install-kind">
+                <option value="url">url</option>
+                <option value="npx">npx</option>
+                <option value="skill-md">skill-md</option>
+                <option value="mcp-json">mcp-json</option>
+                <option value="git">git</option>
+              </select>
+            </label>
+            <label class="field">Install command <input id="install-command" placeholder="npx -y package" /></label>
+          </div>
+          <label class="field">Install url <input id="install-url" type="url" placeholder="https://" /></label>
+          <label class="field">Source <input id="source" type="url" placeholder="https://github.com/…" /></label>
+          <label class="field">Homepage <input id="homepage" type="url" /></label>
+          <div class="row-2">
+            <label class="field">Licence <input id="license" placeholder="MIT" /></label>
+            <label class="field">Author <input id="author" /></label>
+          </div>
+          <label class="field">Tags <input id="tags" placeholder="mcp, docs" /></label>
+          <label class="field">Added <input id="added" value={today} /></label>
+          <label class="field">Notes <input id="notes" placeholder="leave blank if none" /></label>
+        </form>
+        <div>
+          <label class="field" for="json-out">Entry JSON</label>
+          <textarea class="json-out" id="json-out" readonly rows="22"></textarea>
+          <div class="actions" style="margin-top: 0.7rem">
+            <button type="button" id="copy-json">Copy JSON</button>
+            <a class="btn ghost" id="open-pr" href="https://github.com/howffdotdev/howff/new/main/data/entries" target="_blank" rel="noreferrer">Open GitHub</a>
+          </div>
+          <p class="muted" id="copy-status" style="margin-top: 0.5rem">verified is always false here. Curators flip it.</p>
+        </div>
+      </div>
+    </div>
+  </main>
+  <Footer />
+  <script src="../scripts/submit.js"></script>
+</Base>
