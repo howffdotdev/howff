@@ -1,0 +1,21 @@
+{
+  "slug": "agents-md",
+  "name": "AGENTS.md",
+  "type": "template",
+  "tagline": "A README for coding agents. One file, many tools.",
+  "description": "The AGENTS.md format: a predictable markdown file that tells Cursor, Codex, Copilot, Gemini CLI, and others how to work on a repo. The agentsmd/agents.md repository holds the spec, a minimal example, and the public site. MIT, copyright OpenAI.",
+  "runtimes": ["cursor", "codex", "any"],
+  "install": {
+    "kind": "url",
+    "command": null,
+    "url": "https://agents.md"
+  },
+  "source": "https://github.com/agentsmd/agents.md",
+  "homepage": "https://agents.md",
+  "license": "MIT",
+  "author": "OpenAI / agents.md contributors",
+  "tags": ["agents-md", "instructions", "spec"],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": "Claude Code still prefers CLAUDE.md. A one-line CLAUDE.md that imports @AGENTS.md is the usual bridge."
+}

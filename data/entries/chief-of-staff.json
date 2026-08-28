@@ -1,0 +1,21 @@
+{
+  "slug": "chief-of-staff",
+  "name": "Chief of Staff",
+  "type": "template",
+  "tagline": "One ops digest from Slack, calendar, and Notion.",
+  "description": "Grok Bot profile from awesome-grokbot, under bots/ops/chief-of-staff. Morning front door: today's commitments, two blockers, and the decision that is stuck. Does not recap every channel.",
+  "runtimes": ["grok-bot"],
+  "install": {
+    "kind": "url",
+    "command": "Paste this SETUP.md URL as the first message in a new Grok Bot chat.",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/ops/chief-of-staff/SETUP.md"
+  },
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/ops/chief-of-staff/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/ops/chief-of-staff",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": ["grok-bot", "ops", "digest"],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}
