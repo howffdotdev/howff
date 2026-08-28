@@ -1,0 +1,21 @@
+{
+  "slug": "bug-reproduction",
+  "name": "Bug Reproduction",
+  "type": "template",
+  "tagline": "Turns a report into a staging repro pack a human can file from.",
+  "description": "Grok Bot profile from awesome-grokbot. Reads a GitHub issue or Slack report and returns steps, expected vs actual, screenshots, and a minimal case. Draft only. Does not comment on the issue unless asked.",
+  "runtimes": ["grok-bot"],
+  "install": {
+    "kind": "url",
+    "command": "Paste this SETUP.md URL as the first message in a new Grok Bot chat.",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/development/bug-reproduction/SETUP.md"
+  },
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/development/bug-reproduction/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/development/bug-reproduction",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": ["grok-bot", "development", "bugs"],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": "Do not use production customer data."
+}

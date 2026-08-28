@@ -1,0 +1,21 @@
+{
+  "slug": "github-mcp-server",
+  "name": "GitHub MCP Server",
+  "type": "mcp",
+  "tagline": "GitHub's official MCP server for repos, issues, and PRs.",
+  "description": "Connects an MCP client to GitHub so the agent can read repositories, manage issues and pull requests, search code, and work with Actions. Available as a GitHub-hosted remote server or a local Docker image.",
+  "runtimes": ["any"],
+  "install": {
+    "kind": "url",
+    "command": null,
+    "url": "https://api.githubcopilot.com/mcp/"
+  },
+  "source": "https://github.com/github/github-mcp-server",
+  "homepage": "https://github.com/github/github-mcp-server",
+  "license": "MIT",
+  "author": "GitHub",
+  "tags": ["github", "issues", "pull-requests", "official"],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": "Remote endpoint needs a compatible MCP host. Local install uses the public GHCR image."
+}

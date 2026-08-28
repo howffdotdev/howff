@@ -1,0 +1,21 @@
+{
+  "slug": "skill-creator",
+  "name": "Skill Creator",
+  "type": "skill",
+  "tagline": "A skill that teaches an agent how to write other skills.",
+  "description": "Anthropic's skill-creator: the working example of how to structure a SKILL.md, when to split scripts and references, and how to keep the description specific enough that the agent actually loads it. Apache 2.0.",
+  "runtimes": ["claude", "cursor", "codex", "any"],
+  "install": {
+    "kind": "skill-md",
+    "command": "npx skills add anthropics/skills --skill skill-creator",
+    "url": "https://github.com/anthropics/skills/tree/main/skills/skill-creator"
+  },
+  "source": "https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md",
+  "homepage": "https://github.com/anthropics/skills",
+  "license": "Apache-2.0",
+  "author": "Anthropic",
+  "tags": ["skills", "authoring", "meta"],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

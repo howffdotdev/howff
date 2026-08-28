@@ -1,0 +1,21 @@
+{
+  "slug": "sequential-thinking",
+  "name": "Sequential Thinking MCP",
+  "type": "mcp",
+  "tagline": "A tool for step-by-step, revisable problem solving.",
+  "description": "Reference MCP server that exposes a sequential_thinking tool. The host can call it repeatedly while the model plans, branches, and revises. Useful when you want the agent to show its working rather than jump to an answer. Published as @modelcontextprotocol/server-sequential-thinking.",
+  "runtimes": ["any"],
+  "install": {
+    "kind": "npx",
+    "command": "npx -y @modelcontextprotocol/server-sequential-thinking",
+    "url": "https://www.npmjs.com/package/@modelcontextprotocol/server-sequential-thinking"
+  },
+  "source": "https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking",
+  "homepage": "https://modelcontextprotocol.io/examples",
+  "license": "MIT",
+  "author": "Model Context Protocol (LF Projects)",
+  "tags": ["reasoning", "reference", "planning"],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

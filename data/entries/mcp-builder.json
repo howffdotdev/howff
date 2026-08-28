@@ -1,0 +1,21 @@
+{
+  "slug": "mcp-builder",
+  "name": "MCP Builder",
+  "type": "skill",
+  "tagline": "How to write a decent MCP server in Python or TypeScript.",
+  "description": "Anthropic skill for designing MCP servers: tools that talk to an external API without dumping the whole kitchen into context. Covers FastMCP on the Python side and the MCP TypeScript SDK on the Node side.",
+  "runtimes": ["claude", "cursor", "codex", "any"],
+  "install": {
+    "kind": "skill-md",
+    "command": "npx skills add anthropics/skills --skill mcp-builder",
+    "url": "https://github.com/anthropics/skills/tree/main/skills/mcp-builder"
+  },
+  "source": "https://github.com/anthropics/skills/blob/main/skills/mcp-builder/SKILL.md",
+  "homepage": "https://github.com/anthropics/skills",
+  "license": "Apache-2.0",
+  "author": "Anthropic",
+  "tags": ["mcp", "python", "typescript"],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

@@ -4,7 +4,9 @@
   "type": "template",
   "tagline": "Designs high-quality Grok Bots, then creates them.",
   "description": "Native Grok Bot share. Asks a few preference questions, then creates a bot with CreateAgent. Coding bots get the pstack bar: one job, unslopped, verified. Non-coding bots get the same tightness. Casual, a little mad-scientist, short lowercase. Does not default to shareable templates.",
-  "runtimes": ["grok-bot"],
+  "runtimes": [
+    "grok-bot"
+  ],
   "install": {
     "kind": "url",
     "command": "Open this share link and click Add to Grok Bot.",
@@ -14,7 +16,12 @@
   "homepage": "https://x.ai/bot/93gOz3op1UQdBdbekQFLK",
   "license": null,
   "author": "Lauren",
-  "tags": ["grok-bot", "template", "createagent", "bots"],
+  "tags": [
+    "grok-bot",
+    "template",
+    "createagent",
+    "bots"
+  ],
   "verified": false,
   "added": "2026-08-28",
   "notes": "First native Grok Bot share link on the shelf. Third-party bot; not from xAI."

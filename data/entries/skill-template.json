@@ -1,0 +1,21 @@
+{
+  "slug": "skill-template",
+  "name": "Skill template",
+  "type": "template",
+  "tagline": "The blank SKILL.md Anthropic ships for copying.",
+  "description": "Starter folder in anthropics/skills/template. A SKILL.md with the required name and description frontmatter, plus comments on how to fill the rest. Copy it, rename the folder, write the craft.",
+  "runtimes": ["claude", "cursor", "codex", "any"],
+  "install": {
+    "kind": "git",
+    "command": "git clone https://github.com/anthropics/skills.git",
+    "url": "https://github.com/anthropics/skills/tree/main/template"
+  },
+  "source": "https://github.com/anthropics/skills/tree/main/template",
+  "homepage": "https://github.com/anthropics/skills",
+  "license": "Apache-2.0",
+  "author": "Anthropic",
+  "tags": ["skills", "starter", "skill-md"],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": "The template lives at template/ in the skills repo, not under skills/."
+}

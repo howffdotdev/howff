@@ -1,0 +1,21 @@
+{
+  "slug": "agents-md-starter",
+  "name": "AGENTS.md starter kit",
+  "type": "template",
+  "tagline": "Fill-in templates and per-tool bridges for AGENTS.md.",
+  "description": "Community starter kit with generic, Next.js, FastAPI, and minimal AGENTS.md templates, plus adapters that wire the one file into Claude Code, Cursor, Copilot, and others. Companion to the AGENTS.md spec.",
+  "runtimes": ["cursor", "claude", "codex", "any"],
+  "install": {
+    "kind": "git",
+    "command": "git clone https://github.com/abhishekray07/agents-md-templates.git",
+    "url": "https://github.com/abhishekray07/agents-md-templates"
+  },
+  "source": "https://github.com/abhishekray07/agents-md-templates",
+  "homepage": "https://github.com/abhishekray07/agents-md-templates",
+  "license": "MIT",
+  "author": "Abhishek Ray",
+  "tags": ["agents-md", "starter", "adapters"],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}
