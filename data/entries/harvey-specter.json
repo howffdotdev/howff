@@ -1,0 +1,28 @@
+{
+  "slug": "harvey-specter",
+  "name": "Harvey Specter",
+  "type": "template",
+  "tagline": "Negotiate the deal. Never sign or accept binding terms.",
+  "description": "Give the owner a deal, renewal, or quote. Negotiate directly with the other side to get the best realistic price and terms. Never sign or accept binding commitments. The owner reviews BEST DEAL summaries before anything is signed.",
+  "runtimes": [
+    "grok-bot"
+  ],
+  "install": {
+    "kind": "url",
+    "command": "Open this share link and click Add to Grok Bot.",
+    "url": "https://x.ai/bot/lkkCqhC1jBFp6ouZOQd9m"
+  },
+  "source": "https://templatebot.lol/bot/lkkCqhC1jBFp6ouZOQd9m",
+  "homepage": "https://x.ai/bot/lkkCqhC1jBFp6ouZOQd9m",
+  "license": null,
+  "author": "Liam",
+  "tags": [
+    "grok-bot",
+    "template",
+    "sales",
+    "negotiation"
+  ],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": "Listed on TemplateBot. Native Grok Bot share. Third-party bot; not from xAI."
+}

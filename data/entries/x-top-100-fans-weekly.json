@@ -1,0 +1,28 @@
+{
+  "slug": "x-top-100-fans-weekly",
+  "name": "X Top 100 Fans Weekly",
+  "type": "template",
+  "tagline": "Weekly digest of your top 100 X fans by engagement.",
+  "description": "Ranks your top 100 X fans each week by how they engaged with your posts, then sends you the digest.",
+  "runtimes": [
+    "grok-bot"
+  ],
+  "install": {
+    "kind": "url",
+    "command": "Open this share link and click Add to Grok Bot.",
+    "url": "https://x.ai/bot/HU7XArfGhUgLnzVcr7neB"
+  },
+  "source": "https://templatebot.lol/bot/HU7XArfGhUgLnzVcr7neB",
+  "homepage": "https://x.ai/bot/HU7XArfGhUgLnzVcr7neB",
+  "license": null,
+  "author": "Adam",
+  "tags": [
+    "grok-bot",
+    "template",
+    "marketing",
+    "x"
+  ],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": "Listed on TemplateBot. Native Grok Bot share. Third-party bot; not from xAI."
+}
