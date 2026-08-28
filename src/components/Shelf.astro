@@ -16,34 +16,40 @@ const runtimeLabel = runtime === 'all' ? null : (RUNTIME_LABEL[runtime] ?? runti
       <p class="pronounce">HOWFF · how + f · a Scots meeting-place</p>
       <p class="lede">
         {runtimeLabel
-          ? `Listings that run on ${runtimeLabel}. One shelf. JSON files in the repo.`
+          ? `Listings that run on ${runtimeLabel}. JSON files in the repo. One PR adds one.`
           : 'One shelf. JSON files in the repo. You come here to pick something up, not to be sold a platform.'}
       </p>
+      <div class="hero-actions">
+        <a class="btn" href="#list">Browse</a>
+        <a class="btn ghost" href="/submit">Add one</a>
+      </div>
     </div>
   </section>
-  <div class="wrap">
+  <div class="wrap shelf">
     <form class="controls" id="filters" role="search" onsubmit="return false">
-      <label class="field">
+      <label class="field search">
         Search
         <input id="q" type="search" name="q" placeholder="name, tag, author…" autocomplete="off" />
       </label>
-      <label class="field">
-        Type
-        <select id="type" name="type">
-          <option value="all">all</option>
-          {TYPES.map((t) => <option value={t}>{t}</option>)}
-        </select>
-      </label>
-      <label class="field">
-        Runtime
-        <select id="runtime" name="runtime">
-          <option value="all" selected={runtime === 'all'}>all</option>
-          {RUNTIMES.map((r) => (
-            <option value={r} selected={runtime === r}>{RUNTIME_LABEL[r]}</option>
+      <div class="pill-row">
+        <p class="pill-label">Type</p>
+        <div class="pills" id="type-pills">
+          <button type="button" class="pill is-on" data-filter-type="all">all</button>
+          {TYPES.map((t) => (
+            <button type="button" class="pill" data-filter-type={t}>{t}</button>
           ))}
-        </select>
-      </label>
-      <label class="field">
+        </div>
+      </div>
+      <div class="pill-row">
+        <p class="pill-label">Runtime</p>
+        <div class="pills">
+          <a class:list={['pill', { 'is-on': runtime === 'all' }]} href="/">all</a>
+          {RUNTIMES.map((r) => (
+            <a class:list={['pill', { 'is-on': runtime === r }]} href={`/${r}`}>{RUNTIME_LABEL[r]}</a>
+          ))}
+        </div>
+      </div>
+      <label class="field tag-field">
         Tag
         <select id="tag" name="tag">
           <option value="all">all</option>

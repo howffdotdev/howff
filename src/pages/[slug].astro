@@ -3,6 +3,7 @@ import Base from '../layouts/Base.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import Shelf from '../components/Shelf.astro';
+import EntryCard from '../components/EntryCard.astro';
 import { loadEntries, related, RUNTIME_LABEL, RUNTIMES } from '../lib/entries.js';
 
 export function getStaticPaths() {
@@ -85,13 +86,7 @@ const runtimeLabel = isRuntime ? (RUNTIME_LABEL[runtime] ?? runtime) : null;
           <h2 class="kicker">Nearby on the shelf</h2>
           <div class="related">
             {also.map((e) => (
-              <a class="card" href={`/${e.slug}`}>
-                <span class={`badge ${e.type}`}>{e.type}</span>
-                <div>
-                  <h2>{e.name}</h2>
-                  <p>{e.tagline}</p>
-                </div>
-              </a>
+              <EntryCard entry={e} />
             ))}
           </div>
         </section>

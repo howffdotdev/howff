@@ -2,14 +2,13 @@
 const here = Astro.url.pathname.replace(/\/$/, '') || '/';
 const links = [
   ['/', 'Shelf'],
-  ['/submit', 'Submit'],
   ['/stats', 'Stats'],
   ['/about', 'About'],
   ['/contribute', 'Contribute'],
 ];
 
 function current(href) {
-  if (href === '/') return here === '/';
+  if (href === '/') return here === '/' || ['/cursor','/claude','/grok-bot','/codex','/any'].includes(here);
   return here === href || here.startsWith(href + '/');
 }
 ---
@@ -17,7 +16,7 @@ function current(href) {
   <div class="wrap header-inner">
     <a class="brand" href="/">
       <svg class="sign" viewBox="0 0 42 42" aria-hidden="true">
-        <rect x="1" y="8" width="40" height="32" fill="#1e1a14" stroke="#c4a574" stroke-width="1.5"/>
+        <rect x="1" y="8" width="40" height="32" rx="3" fill="#1e1a14" stroke="#c4a574" stroke-width="1.5"/>
         <path d="M21 1 v7" stroke="#c4a574" stroke-width="1.5"/>
         <circle cx="21" cy="1.5" r="1.5" fill="#d4783c"/>
         <text x="21" y="28" text-anchor="middle" fill="#efe6d6" font-size="8" font-family="Georgia, serif" letter-spacing="1.2">H</text>
@@ -29,6 +28,7 @@ function current(href) {
       {links.map(([href, label]) => (
         <a href={href} aria-current={current(href) ? 'page' : undefined}>{label}</a>
       ))}
+      <a class="btn nav-cta" href="/submit">Add one</a>
     </nav>
   </div>
 </header>

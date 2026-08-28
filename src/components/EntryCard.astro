@@ -23,17 +23,13 @@ const search = [
   data-tags={entry.tags.join(' ')}
   data-search={search}
 >
-  <span class={`badge ${entry.type}`}>{entry.type}</span>
-  <div>
-    <h2>{entry.name}</h2>
-    <p>{entry.tagline}</p>
-    <div class="chips">
-      {entry.runtimes.map((r) => <span class="chip">{RUNTIME_LABEL[r] ?? r}</span>)}
-      {entry.tags.slice(0, 4).map((t) => <span class="chip">{t}</span>)}
-    </div>
+  <div class="card-top">
+    <span class={`badge ${entry.type}`}>{entry.type}</span>
+    <span class="card-author">{entry.author ?? 'anon'}</span>
   </div>
-  <div class="meta">
-    <div>{entry.license ?? 'licence n/a'}</div>
-    <div>{entry.author ?? ''}</div>
+  <h2>{entry.name}</h2>
+  <p>{entry.tagline}</p>
+  <div class="chips">
+    {entry.runtimes.map((r) => <span class="chip">{RUNTIME_LABEL[r] ?? r}</span>)}
   </div>
 </a>
