@@ -9,11 +9,10 @@ jobs:
   entries:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
           node-version: 22
-          cache: npm
       - run: npm install
       - run: npm run validate
       - run: npm run build
