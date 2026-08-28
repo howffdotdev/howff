@@ -12,8 +12,15 @@ Scripts: dev, build, preview, validate. Node 22+.
 
 ## Deploy
 
-Cloudflare Pages: output directory dist, custom domain howff.dev.
-Use the build script. Config file is wrangler.toml. A VPS can serve the dist folder as any static site.
+Cloudflare. This is a static Astro site, not a Worker.
+
+Build command: `npm run build`
+Output: `dist`
+If the dashboard insists on a deploy command, use:
+`npx wrangler pages deploy dist`
+Do not use `npx wrangler deploy` unless wrangler.toml has an `[assets]` directory (this repo now does).
+
+Custom domain: howff.dev. wrangler.toml is the config.
 
 ## Add an entry
 
