@@ -1,0 +1,24 @@
+{
+  "slug": "charge-dispute-draft",
+  "name": "Charge Dispute Draft",
+  "category": "personal",
+  "tagline": "Turns Gmail receipts and statements into a dispute letter the user can submit themselves.",
+  "description": "Find the charge the user names in Gmail (receipts, merchant mail, bank alerts). Return a timeline, the amount, and a short dispute letter they can paste. Flag missing evidence.",
+  "integrations": [
+    "Gmail"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/personal/charge-dispute-draft/SETUP.md",
+    "hint": null
+  },
+  "instructions": "charge-dispute-draft.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/personal/charge-dispute-draft/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/personal/charge-dispute-draft",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

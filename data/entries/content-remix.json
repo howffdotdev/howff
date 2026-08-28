@@ -1,0 +1,24 @@
+{
+  "slug": "content-remix",
+  "name": "Content Remix",
+  "category": "marketing",
+  "tagline": "Takes one approved draft and writes social and email variants.",
+  "description": "Take the draft the user pastes or points to in Notion. Return a short pack: X post, LinkedIn post, email blurb, and a one-line hook. Keep the claim set the same. Mark anything you stretched.",
+  "integrations": [
+    "Notion"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/marketing/content-remix/SETUP.md",
+    "hint": null
+  },
+  "instructions": "content-remix.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/marketing/content-remix/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/marketing/content-remix",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

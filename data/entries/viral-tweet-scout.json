@@ -1,0 +1,24 @@
+{
+  "slug": "viral-tweet-scout",
+  "name": "Viral Tweet Scout",
+  "category": "marketing",
+  "tagline": "Skims high-engagement posts on X so you can steal the craft, not the post.",
+  "description": "Scan X for high-engagement posts in the topics the user names. Return: hook, why it worked, and one idea you could adapt in your own voice.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/marketing/viral-tweet-scout/SETUP.md",
+    "hint": null
+  },
+  "instructions": "viral-tweet-scout.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/marketing/viral-tweet-scout/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/marketing/viral-tweet-scout",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

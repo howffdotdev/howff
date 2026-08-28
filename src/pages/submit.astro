@@ -1,74 +1,106 @@
 ---
 import Base from '../layouts/Base.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
+import { CATEGORIES, CATEGORY_LABEL, INTEGRATIONS } from '../lib/entries.js';
 
 const today = new Date().toISOString().slice(0, 10);
 ---
-<Base title="Submit" description="Draft a Howff JSON entry and open a pull request." path="/submit">
-  <Header />
-  <main class="page">
+<Base
+  title="Submit"
+  description="Draft the two files for a Grok Bot and open a pull request."
+  path="/submit"
+>
+  <main id="main" class="page">
     <div class="wrap">
       <p class="kicker">Submit</p>
-      <h1>Draft the JSON. Open the PR.</h1>
+      <h1>Draft the files. Open the PR.</h1>
       <p class="muted prose">
-        Nothing is posted from this page. Fill the form, copy the file, and add
-        <code>data/entries/&lt;slug&gt;.json</code> on GitHub. The spec lives in
-        <a href="/contribute">CONTRIBUTING</a>.
+        Nothing is posted from this page. Fill the form, copy each file, and add them to
+        <code>data/entries/</code> on GitHub. Both files go in the same pull request. The spec
+        lives in <a href="/contribute">contribute</a>.
       </p>
-      <div class="grid-2" style="margin-top: 1.6rem; align-items: start">
+      <div class="grid-2" style="margin-top: 2rem; align-items: start">
         <form class="form" id="entry-form">
           <div class="row-2">
-            <label class="field">Slug <input id="slug" required placeholder="filesystem-mcp" /></label>
-            <label class="field">Name <input id="name" required placeholder="Filesystem MCP" /></label>
+            <label class="field" for="slug">Slug <input id="slug" required placeholder="inbox-triage" /></label>
+            <label class="field" for="name">Name <input id="name" required placeholder="Inbox Triage" /></label>
           </div>
-          <label class="field">
-            Type
-            <select id="type">
-              <option value="template">template</option>
-              <option value="skill">skill</option>
-              <option value="mcp">mcp</option>
+          <label class="field" for="category">
+            Category
+            <select id="category">
+              {CATEGORIES.map((c) => <option value={c}>{CATEGORY_LABEL[c]}</option>)}
             </select>
           </label>
-          <label class="field">Tagline <input id="tagline" required placeholder="One dry line." /></label>
-          <label class="field">Description <textarea id="description" rows="5" required></textarea></label>
-          <label class="field">Runtimes <input id="runtimes" placeholder="cursor, claude, any" /></label>
+          <label class="field" for="tagline">
+            Tagline <input id="tagline" required placeholder="One dry line about what it does." />
+          </label>
+          <label class="field" for="description">
+            Description <textarea id="description" rows="4" required></textarea>
+          </label>
+
+          <fieldset class="field" style="border: 0; padding: 0; margin: 0">
+            <legend class="pill-label">Integrations</legend>
+            <div class="checks">
+              {INTEGRATIONS.map((name) => (
+                <label>
+                  <input type="checkbox" name="integration" value={name} />
+                  {name}
+                </label>
+              ))}
+            </div>
+          </fieldset>
+
+          <label class="field" for="add-kind">
+            How is it added
+            <select id="add-kind">
+              <option value="share-link">share-link · native x.ai one-click</option>
+              <option value="profile-url">profile-url · paste as first message</option>
+            </select>
+          </label>
+          <label class="field" for="add-url">Add URL <input id="add-url" type="url" required placeholder="https://x.ai/bot/…" /></label>
+          <label class="field" for="add-hint">Add hint <input id="add-hint" placeholder="leave blank unless it needs a step" /></label>
+
+          <label class="field" for="instructions">
+            Instructions <span id="ins-req" class="muted">(markdown, optional for share links)</span>
+            <textarea id="instructions" rows="10" placeholder="You are …"></textarea>
+          </label>
+
+          <label class="field" for="source">Source <input id="source" type="url" placeholder="https://github.com/…" /></label>
+          <label class="field" for="homepage">Homepage <input id="homepage" type="url" /></label>
           <div class="row-2">
-            <label class="field">
-              Install kind
-              <select id="install-kind">
-                <option value="url">url</option>
-                <option value="npx">npx</option>
-                <option value="skill-md">skill-md</option>
-                <option value="mcp-json">mcp-json</option>
-                <option value="git">git</option>
-              </select>
-            </label>
-            <label class="field">Install command <input id="install-command" placeholder="npx -y package" /></label>
+            <label class="field" for="license">Licence <input id="license" placeholder="CC0-1.0" /></label>
+            <label class="field" for="author">Author <input id="author" /></label>
           </div>
-          <label class="field">Install url <input id="install-url" type="url" placeholder="https://" /></label>
-          <label class="field">Source <input id="source" type="url" placeholder="https://github.com/…" /></label>
-          <label class="field">Homepage <input id="homepage" type="url" /></label>
-          <div class="row-2">
-            <label class="field">Licence <input id="license" placeholder="MIT" /></label>
-            <label class="field">Author <input id="author" /></label>
-          </div>
-          <label class="field">Tags <input id="tags" placeholder="mcp, docs" /></label>
-          <label class="field">Added <input id="added" value={today} /></label>
-          <label class="field">Notes <input id="notes" placeholder="leave blank if none" /></label>
+          <label class="field" for="tags">Tags <input id="tags" placeholder="email, triage" /></label>
+          <label class="field" for="added">Added <input id="added" value={today} /></label>
+          <label class="field" for="notes">Notes <input id="notes" placeholder="leave blank if none" /></label>
         </form>
-        <div>
-          <label class="field" for="json-out">Entry JSON</label>
-          <textarea class="json-out" id="json-out" readonly rows="22"></textarea>
-          <div class="actions" style="margin-top: 0.7rem">
-            <button type="button" id="copy-json">Copy JSON</button>
-            <a class="btn ghost" id="open-pr" href="https://github.com/howffdotdev/howff/new/main/data/entries" target="_blank" rel="noreferrer">Open GitHub</a>
+
+        <div class="out">
+          <p class="muted mono" id="warnings" role="status"></p>
+
+          <label class="field" for="json-out"><span id="json-name">Entry JSON</span></label>
+          <textarea id="json-out" readonly rows="20"></textarea>
+          <div class="actions">
+            <button type="button" data-copy="" data-label="Copy JSON" id="copy-json">Copy JSON</button>
+            <a class="btn ghost" id="pr-json" href="https://github.com/howffdotdev/howff/new/main/data/entries" target="_blank" rel="noreferrer">New file on GitHub</a>
           </div>
-          <p class="muted" id="copy-status" style="margin-top: 0.5rem">verified is always false here. Curators flip it.</p>
+
+          <div id="md-block" hidden>
+            <label class="field" for="md-out"><span id="md-name">Instructions markdown</span></label>
+            <textarea id="md-out" readonly rows="12"></textarea>
+            <div class="actions">
+              <button type="button" data-copy="" data-label="Copy markdown" id="copy-md">Copy markdown</button>
+              <a class="btn ghost" id="pr-md" href="https://github.com/howffdotdev/howff/new/main/data/entries" target="_blank" rel="noreferrer">New file on GitHub</a>
+            </div>
+          </div>
+
+          <p class="muted">
+            <code>verified</code> is always <code>false</code> here. Maintainers flip it.
+          </p>
         </div>
       </div>
     </div>
   </main>
-  <Footer />
+  <script src="../scripts/copy.js"></script>
   <script src="../scripts/submit.js"></script>
 </Base>

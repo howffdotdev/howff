@@ -1,33 +1,78 @@
 ---
 import Base from '../layouts/Base.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
+import { loadEntries, stats as fromData } from '../lib/entries.js';
+
+const s = fromData(loadEntries());
 ---
-<Base title="About" description="What a howff is, and why this one exists." path="/about">
-  <Header />
-  <main class="page">
+<Base title="About" description="What a howff is, and why Grok Bots need one." path="/about">
+  <main id="main" class="page">
     <div class="wrap prose">
       <p class="kicker">About</p>
       <h1>A place you go.</h1>
       <p>
         Howff is a Scots word for a haunt. A meeting-place. The pub you keep going back to.
-        This one is for the bits you keep handing your bot.
+        This one is for Grok Bots.
       </p>
       <p class="muted">Pronounced HOWFF · how + f. Not an acronym.</p>
+
       <h2>The gap</h2>
       <p>
-        MCP dirs list servers. Skill indexes list SKILL.md files. Templates live elsewhere.
-        The three catalogues do not share a shelf. Howff does.
+        A Grok Bot is shared as a link. You click it, you trust it, and you have no idea what
+        it was told to do. The prompt is the whole product, and it is the one part you cannot
+        see. Links rot, nobody can diff them, and a bot only improves if its author happens
+        to come back to it.
       </p>
       <p>
-        Same schema. Same pull request. Same dry tone. MIT. No accounts.
-        The repo is the CMS: one JSON file per entry in data/entries.
+        So: put the instructions in a git repo. Every bot on this shelf carries its full prompt
+        as a markdown file you can read before you add it, copy into your own chat, or improve
+        by opening a pull request. {s.withInstructions} of {s.total} bots here do. The rest are
+        native share links whose prompts are not public anywhere, and their pages say so
+        plainly rather than pretending otherwise.
+      </p>
+
+      <h2>How it works</h2>
+      <p>
+        The repo is the CMS. One <code>&lt;slug&gt;.json</code> for the metadata and one
+        <code>&lt;slug&gt;.md</code> for the instructions, both in <code>data/entries/</code>.
+        A script validates every file in CI. The site is static HTML with no backend, no
+        accounts, and no tracking. MIT. See <a href="/contribute">contribute</a>.
+      </p>
+
+      <h2>Credit where it is due</h2>
+      <p>Most of this shelf came from two people who did the work first:</p>
+      <ul>
+        <li>
+          <a href="https://github.com/mergisi/awesome-grokbot">mergisi/awesome-grokbot</a>
+          · CC0-1.0 · the bulk of the catalogue.
+        </li>
+        <li>
+          <a href="https://github.com/HAEGONG/grok-bot-profiles">HAEGONG/grok-bot-profiles</a>
+          · CC-BY-4.0 · the development bots. Attribution is a licence condition, so every
+          page carries it.
+        </li>
+      </ul>
+      <p>
+        Grok and Grok Bot are xAI products. Howff is not affiliated with xAI. Official docs:
+        <a href="https://docs.x.ai/grok-bot/bots">docs.x.ai/grok-bot/bots</a>.
+      </p>
+
+      <h2>The shelf, counted</h2>
+      <table class="stat-table">
+        <tbody>
+          <tr><td>Bots</td><td class="num">{s.total}</td></tr>
+          <tr><td>With full instructions</td><td class="num">{s.withInstructions}</td></tr>
+          <tr><td>One-click share links</td><td class="num">{s.byAdd['share-link']}</td></tr>
+          <tr><td>Checked by a maintainer</td><td class="num">{s.verified}</td></tr>
+          <tr><td>Integrations covered</td><td class="num">{s.integrations.length}</td></tr>
+        </tbody>
+      </table>
+      <p class="muted">
+        Counted from <code>data/entries/</code> at build time. No invented analytics.
       </p>
       <p>
-        Kept by Nikola Babic. Org howffdotdev.
-        Site <a href="https://howff.dev">howff.dev</a>.
+        Kept by Nikola Babic · org howffdotdev ·
+        <a href="https://github.com/howffdotdev/howff">source on GitHub</a>.
       </p>
     </div>
   </main>
-  <Footer />
 </Base>

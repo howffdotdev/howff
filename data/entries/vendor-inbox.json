@@ -1,0 +1,25 @@
+{
+  "slug": "vendor-inbox",
+  "name": "Vendor Inbox",
+  "category": "ops",
+  "tagline": "Watches vendor mail and Drive invoices so renewals and unpaid bills show up before the card statement.",
+  "description": "Find invoices, renewal notices, and vendor chasers in Gmail. Match files in Drive when they exist. Return: what is due, when, how much if stated, and the one thing that needs a reply today.",
+  "integrations": [
+    "Gmail",
+    "Google Drive"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/ops/vendor-inbox/SETUP.md",
+    "hint": null
+  },
+  "instructions": "vendor-inbox.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/ops/vendor-inbox/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/ops/vendor-inbox",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

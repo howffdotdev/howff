@@ -1,0 +1,25 @@
+{
+  "slug": "trip-concierge",
+  "name": "Trip Concierge",
+  "category": "personal",
+  "tagline": "Turns flight and hotel mail plus the calendar into one itinerary you can actually follow.",
+  "description": "Read booking emails and calendar holds. Build a day-by-day itinerary: flights, hotels, gaps, and the one thing that looks wrong (tight layover, missing hotel night, time",
+  "integrations": [
+    "Gmail",
+    "Google Calendar"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/personal/trip-concierge/SETUP.md",
+    "hint": null
+  },
+  "instructions": "trip-concierge.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/personal/trip-concierge/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/personal/trip-concierge",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

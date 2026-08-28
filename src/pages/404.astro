@@ -1,14 +1,27 @@
 ---
 import Base from '../layouts/Base.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
+import { CATEGORIES, CATEGORY_LABEL } from '../lib/entries.js';
 ---
 <Base title="Not found" description="This booth is empty." path="/404">
-  <Header />
-  <main class="notfound">
-    <p class="kicker">404</p>
-    <h1>This booth is empty.</h1>
-    <p class="muted">The shelf does not have that slug. Try the <a href="/">catalogue</a>.</p>
+  <main id="main" class="notfound">
+    <div>
+      <p class="kicker">404</p>
+      <h1>This booth is empty.</h1>
+      <p class="muted">The shelf does not have that slug. Try a search.</p>
+      <form class="filters-top" role="search" action="/" method="get" style="max-width: 22rem; margin: 1.5rem auto">
+        <label class="field search-field" for="q">
+          Search the shelf
+          <input id="q" type="search" name="q" placeholder="inbox, slack, review…" />
+        </label>
+        <button type="submit">Search</button>
+      </form>
+      <div class="pills" style="justify-content: center; max-width: 40rem; margin-inline: auto">
+        {CATEGORIES.map((cat) => (
+          <a class="pill" href={`/c/${cat}`} style={`--cat: var(--cat-${cat})`}>
+            {CATEGORY_LABEL[cat]}
+          </a>
+        ))}
+      </div>
+    </div>
   </main>
-  <Footer />
 </Base>

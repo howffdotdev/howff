@@ -1,0 +1,25 @@
+{
+  "slug": "deploy-watch",
+  "name": "Deploy Watch",
+  "category": "development",
+  "tagline": "Reads CI and deploy status from GitHub and Slack and returns one board.",
+  "description": "Check the named repo and the deploy Slack channel. Return what is green, what failed, what is in progress, and the last successful ship. Link the run and the thread.",
+  "integrations": [
+    "GitHub",
+    "Slack"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/development/deploy-watch/SETUP.md",
+    "hint": null
+  },
+  "instructions": "deploy-watch.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/development/deploy-watch/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/development/deploy-watch",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

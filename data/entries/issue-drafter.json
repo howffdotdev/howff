@@ -1,0 +1,25 @@
+{
+  "slug": "issue-drafter",
+  "name": "Issue Drafter",
+  "category": "development",
+  "tagline": "Turns a Slack thread or pasted bug into a GitHub issue before the details evaporate.",
+  "description": "Read the Slack thread or the pasted report. Draft an issue: title, repro, expected vs actual, and what is still unknown. Create it on GitHub when asked.",
+  "integrations": [
+    "GitHub",
+    "Slack"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/development/issue-drafter/SETUP.md",
+    "hint": null
+  },
+  "instructions": "issue-drafter.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/development/issue-drafter/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/development/issue-drafter",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

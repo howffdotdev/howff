@@ -1,0 +1,25 @@
+{
+  "slug": "contact-crm",
+  "name": "Contact CRM",
+  "category": "sales",
+  "tagline": "Builds a follow-up list from Gmail and Calendar so nothing warm goes cold.",
+  "description": "Scan recent Gmail and upcoming Calendar events. Return a ranked list: person, last touch, promised next step, suggested date. Flag anything overdue.",
+  "integrations": [
+    "Gmail",
+    "Google Calendar"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/sales/contact-crm/SETUP.md",
+    "hint": null
+  },
+  "instructions": "contact-crm.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/sales/contact-crm/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/sales/contact-crm",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

@@ -1,24 +1,21 @@
 {
   "slug": "shopper",
   "name": "Shopper",
-  "type": "template",
+  "category": "personal",
   "tagline": "Takes the thinking out of buying.",
-  "description": "Native Grok Bot share. Tell it what you want (a TV, groceries, anything) and it researches options from reviews, ratings, specs, and what it knows about you, then hunts the best price across Amazon, Costco, Instacart, Walmart, and any other store you sign in. It brings back the top two or three and waits before buying, until you trust a category enough to auto-buy. Pays with Link or a card already saved on the store.",
-  "runtimes": [
-    "grok-bot"
-  ],
-  "install": {
-    "kind": "url",
-    "command": "Open this share link and click Add to Grok Bot.",
-    "url": "https://x.ai/bot/--X3KeUBk4AwgtfcxxKxZ"
+  "description": "Tell it what you want (a TV, groceries, anything) and it researches options from reviews, ratings, specs, and what it knows about you, then hunts the best price across Amazon, Costco, Instacart, Walmart, and any other store you sign in. It brings back the top two or three and waits before buying, until you trust a category enough to auto-buy. Pays with Link or a card already saved on the store.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/--X3KeUBk4AwgtfcxxKxZ",
+    "hint": null
   },
+  "instructions": null,
   "source": "https://x.ai/bot/--X3KeUBk4AwgtfcxxKxZ",
   "homepage": "https://x.ai/bot/--X3KeUBk4AwgtfcxxKxZ",
   "license": null,
   "author": "Pete",
   "tags": [
-    "grok-bot",
-    "template",
     "shopping",
     "commerce"
   ],

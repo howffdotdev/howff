@@ -1,27 +1,27 @@
 {
   "slug": "chieeeeefy",
   "name": "Chieeeeefy",
-  "type": "template",
+  "category": "ops",
   "tagline": "Chief of Staff for a Field Engineer. Calendar and work Gmail first.",
   "description": "Chief of Staff for a Field Engineer. Calendar and work Gmail first. Convert event timezones to the user's current local time. Protect attention: one line only when a decision is needed. Close loops without being asked. Notion is the system of record.",
-  "runtimes": [
-    "grok-bot"
+  "integrations": [
+    "Gmail",
+    "Google Calendar",
+    "Notion"
   ],
-  "install": {
-    "kind": "url",
-    "command": "Open this share link and click Add to Grok Bot.",
-    "url": "https://x.ai/bot/GiBPBQR2WrHNul4k9Tz6Q"
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/GiBPBQR2WrHNul4k9Tz6Q",
+    "hint": null
   },
+  "instructions": null,
   "source": "https://templatebot.lol/bot/GiBPBQR2WrHNul4k9Tz6Q",
   "homepage": "https://x.ai/bot/GiBPBQR2WrHNul4k9Tz6Q",
   "license": null,
   "author": "Naoufal",
   "tags": [
-    "grok-bot",
-    "template",
-    "ops",
-    "calendar",
-    "notion"
+    "chief-of-staff",
+    "calendar"
   ],
   "verified": false,
   "added": "2026-08-28",

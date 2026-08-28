@@ -1,33 +1,98 @@
 ---
 import Base from '../layouts/Base.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
+import { CATEGORIES, INTEGRATIONS, CATEGORY_LABEL } from '../lib/entries.js';
+
+const example = {
+  slug: 'inbox-triage',
+  name: 'Inbox Triage',
+  category: 'productivity',
+  tagline: 'Sorts the morning inbox into reply, read, and ignore.',
+  description: 'Reads unread Gmail, groups by what it wants from you, and drafts the easy replies.',
+  integrations: ['Gmail'],
+  add: {
+    kind: 'profile-url',
+    url: 'https://raw.githubusercontent.com/you/your-repo/main/bots/inbox-triage/SETUP.md',
+    hint: null,
+  },
+  instructions: 'inbox-triage.md',
+  source: 'https://github.com/you/your-repo/blob/main/bots/inbox-triage/PROFILE.md',
+  homepage: null,
+  license: 'CC0-1.0',
+  author: 'you',
+  tags: ['email', 'triage'],
+  verified: false,
+  added: '2026-08-28',
+  notes: null,
+};
 ---
-<Base title="Contribute" description="How to add an entry to Howff." path="/contribute">
-  <Header />
-  <main class="page">
+<Base title="Contribute" description="How to add a Grok Bot to Howff." path="/contribute">
+  <main id="main" class="page">
     <div class="wrap prose">
       <p class="kicker">Contribute</p>
       <h1>The repo is the admin panel.</h1>
       <p>
-        Every entry is one JSON file in <code>data/entries/</code>.
-        The <a href="/submit">submit form</a> drafts it.
-        Full spec: <a href="https://github.com/howffdotdev/howff/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>.
+        Each bot is two files in <code>data/entries/</code>: a JSON file for the metadata and
+        a markdown file for the instructions. The <a href="/submit">submit form</a> drafts both
+        for you. Full spec:
+        <a href="https://github.com/howffdotdev/howff/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>.
       </p>
+
       <h2>House rules</h2>
       <ul>
-        <li>Real software. Live URLs you can open.</li>
-        <li>All keys required; null or [] if empty.</li>
-        <li>Filename matches slug (lowercase, hyphens).</li>
-        <li>verified stays false until a maintainer checks it.</li>
-        <li>One entry per pull request.</li>
-        <li>British English. Middots (·) or commas.</li>
+        <li>Real bots. Live URLs you can open.</li>
+        <li>All keys required; <code>null</code> or <code>[]</code> if empty.</li>
+        <li>Filename matches the slug, lowercase with hyphens.</li>
+        <li><code>verified</code> stays <code>false</code> until a maintainer checks it.</li>
+        <li>One bot per pull request.</li>
+        <li>British English. Middots (·) or commas, not em dashes.</li>
+        <li>Run <code>npm run validate</code> before you push.</li>
       </ul>
+
+      <h2>Instructions are the point</h2>
       <p>
-        Types: template, skill, mcp.
-        Runtimes: cursor, claude, grok-bot, codex, any.
+        The markdown file holds the bot's actual prompt, and it is required for every bot whose
+        prompt you can publish. The one exemption is a native x.ai share link, where the prompt
+        stays behind the link and is not yours to copy: set <code>instructions</code> to
+        <code>null</code> there.
+      </p>
+      <p>
+        Only submit instructions you wrote or that are licensed for redistribution, and record
+        the licence in the <code>license</code> field. If it is CC-BY, the author goes in
+        <code>author</code>, because that is a legal requirement and not a courtesy.
+      </p>
+
+      <h2>Two ways to add</h2>
+      <ul>
+        <li>
+          <code>share-link</code> · a native <code>x.ai/bot/…</code> URL. One click for the
+          reader.
+        </li>
+        <li>
+          <code>profile-url</code> · a raw URL the reader pastes as the first message in a new
+          chat. Use a <code>raw.githubusercontent.com</code> URL, never a
+          <code>blob</code> page, or the bot receives HTML.
+        </li>
+      </ul>
+
+      <h2>Categories</h2>
+      <p class="muted">Pick exactly one. Closed list; adding to it is its own pull request.</p>
+      <ul>
+        {CATEGORIES.map((c) => <li><code>{c}</code> · {CATEGORY_LABEL[c]}</li>)}
+      </ul>
+
+      <h2>Integrations</h2>
+      <p class="muted">
+        Exact spellings, and only the tools the bot genuinely needs. Closed for the same reason.
+      </p>
+      <p><code>{INTEGRATIONS.join(' · ')}</code></p>
+
+      <h2>An example</h2>
+      <p class="muted"><code>data/entries/inbox-triage.json</code></p>
+      <pre><code>{JSON.stringify(example, null, 2)}</code></pre>
+      <p class="muted">
+        With <code>data/entries/inbox-triage.md</code> beside it holding the prompt, as plain
+        markdown, no frontmatter.
       </p>
     </div>
   </main>
-  <Footer />
 </Base>

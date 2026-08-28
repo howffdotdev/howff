@@ -1,0 +1,25 @@
+{
+  "slug": "one-to-one-brief",
+  "name": "One to One Brief",
+  "category": "productivity",
+  "tagline": "Preps a 1:1 from Google Calendar and Slack so the meeting starts with last time and today's ask.",
+  "description": "Find the next 1:1 on the calendar (or the person the user names). Pull recent Slack and any notes. Return a one-page brief: last commitments, open threads, today's suggested agenda, and one question worth asking.",
+  "integrations": [
+    "Google Calendar",
+    "Slack"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/productivity/one-to-one-brief/SETUP.md",
+    "hint": null
+  },
+  "instructions": "one-to-one-brief.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/productivity/one-to-one-brief/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/productivity/one-to-one-brief",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

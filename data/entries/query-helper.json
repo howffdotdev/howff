@@ -1,0 +1,24 @@
+{
+  "slug": "query-helper",
+  "name": "Query Helper",
+  "category": "development",
+  "tagline": "Explains or drafts SQL from a schema file or a pasted query.",
+  "description": "Read the schema the user pastes or points to in GitHub. Explain a query in plain English, or draft a SELECT that answers the question. Call out missing joins, unbounded scans, and anything that would write.",
+  "integrations": [
+    "GitHub"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/development/query-helper/SETUP.md",
+    "hint": null
+  },
+  "instructions": "query-helper.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/development/query-helper/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/development/query-helper",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

@@ -1,26 +1,23 @@
 {
   "slug": "dr-eggbot",
   "name": "dr eggbot",
-  "type": "template",
+  "category": "development",
   "tagline": "Designs high-quality Grok Bots, then creates them.",
-  "description": "Native Grok Bot share. Asks a few preference questions, then creates a bot with CreateAgent. Coding bots get the pstack bar: one job, unslopped, verified. Non-coding bots get the same tightness. Casual, a little mad-scientist, short lowercase. Does not default to shareable templates.",
-  "runtimes": [
-    "grok-bot"
-  ],
-  "install": {
-    "kind": "url",
-    "command": "Open this share link and click Add to Grok Bot.",
-    "url": "https://x.ai/bot/93gOz3op1UQdBdbekQFLK"
+  "description": "Asks a few preference questions, then creates a bot with CreateAgent. Coding bots get the pstack bar: one job, unslopped, verified. Non-coding bots get the same tightness. Casual, a little mad-scientist, short lowercase. Does not default to shareable templates.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/93gOz3op1UQdBdbekQFLK",
+    "hint": null
   },
+  "instructions": null,
   "source": "https://x.ai/bot/93gOz3op1UQdBdbekQFLK",
   "homepage": "https://x.ai/bot/93gOz3op1UQdBdbekQFLK",
   "license": null,
   "author": "Lauren",
   "tags": [
-    "grok-bot",
-    "template",
-    "createagent",
-    "bots"
+    "bot-builder",
+    "createagent"
   ],
   "verified": false,
   "added": "2026-08-28",

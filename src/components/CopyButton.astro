@@ -1,0 +1,11 @@
+---
+const { text, label = 'Copy', done = 'Copied', ghost = false } = Astro.props;
+---
+<button
+  type="button"
+  class:list={['copy', { ghost }]}
+  data-copy={text}
+  data-label={label}
+  data-done={done}
+  aria-live="polite"
+>{label}</button>

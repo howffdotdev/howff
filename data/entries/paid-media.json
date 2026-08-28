@@ -1,0 +1,25 @@
+{
+  "slug": "paid-media",
+  "name": "Paid Media",
+  "category": "marketing",
+  "tagline": "Watches campaign spend and drafts reallocations so a human still moves the money.",
+  "description": "Pull current spend and results from the sources the user points at (ads UI, a Drive sheet, analytics). Compare to the stated budget and CAC target. Recommend where to shift spend, with the numbers attached. Draft a Slack update.",
+  "integrations": [
+    "Slack",
+    "Google Drive"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/marketing/paid-media/SETUP.md",
+    "hint": null
+  },
+  "instructions": "paid-media.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/marketing/paid-media/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/marketing/paid-media",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

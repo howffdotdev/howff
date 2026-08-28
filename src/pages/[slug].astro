@@ -1,98 +1,157 @@
 ---
+import { getCollection, render } from 'astro:content';
 import Base from '../layouts/Base.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
-import Shelf from '../components/Shelf.astro';
-import EntryCard from '../components/EntryCard.astro';
-import { loadEntries, related, RUNTIME_LABEL, RUNTIMES } from '../lib/entries.js';
+import BotCard from '../components/BotCard.astro';
+import CopyButton from '../components/CopyButton.astro';
+import { loadEntries, related, readInstructions, CATEGORY_LABEL } from '../lib/entries.js';
 
-export function getStaticPaths() {
-  const entries = loadEntries();
-  const taken = new Set(entries.map((e) => e.slug));
-  return [
-    ...entries.map((entry) => ({
-      params: { slug: entry.slug },
-      props: { kind: 'entry', entry },
-    })),
-    ...RUNTIMES.filter((r) => !taken.has(r)).map((runtime) => ({
-      params: { slug: runtime },
-      props: { kind: 'runtime', runtime },
-    })),
-  ];
+export async function getStaticPaths() {
+  const docs = await getCollection('instructions');
+  const byId = new Map(docs.map((d) => [d.id, d]));
+  return loadEntries().map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry, doc: entry.instructions ? byId.get(entry.slug) : undefined },
+  }));
 }
 
-const { kind, entry, runtime } = Astro.props;
-const isRuntime = kind === 'runtime';
-const also = !isRuntime && entry ? related(entry) : [];
-const installCmd = entry?.install?.command;
-const installUrl = entry?.install?.url;
-const runtimeLabel = isRuntime ? (RUNTIME_LABEL[runtime] ?? runtime) : null;
+const { entry, doc } = Astro.props;
+const { Content } = doc ? await render(doc) : { Content: null };
+
+// The rendered markdown is for reading; the raw file is what gets copied, so
+// the clipboard holds a prompt you can paste straight into Grok.
+const raw = readInstructions(entry);
+const also = related(entry);
+const isShare = entry.add.kind === 'share-link';
+const host = (url) => url.replace(/^https?:\/\//, '').replace(/\/$/, '');
+const cc = entry.license?.startsWith('CC-BY');
 ---
-{isRuntime ? (
-  <Base
-    title={`${runtimeLabel} · Howff`}
-    description={`Bot templates, skills, and MCPs that run on ${runtimeLabel}.`}
-    path={`/${runtime}`}
-  >
-    <Header />
-    <Shelf runtime={runtime} />
-    <Footer />
-    <script src="../scripts/shelf.js"></script>
-  </Base>
-) : (
 <Base title={entry.name} description={entry.tagline} path={`/${entry.slug}`}>
-  <Header />
-  <main class="page">
-    <div class="wrap">
-      <p class="kicker">{entry.type} · {entry.added}</p>
+  <main id="main" class="wrap entry">
+    <div>
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Shelf</a> · <a href={`/c/${entry.category}`}>{CATEGORY_LABEL[entry.category]}</a>
+      </nav>
       <h1>{entry.name}</h1>
       <p class="tagline">{entry.tagline}</p>
-      <div class="chips" style="margin: 0.8rem 0 1.4rem">
-        <span class={`badge ${entry.type}`}>{entry.type}</span>
-        {entry.runtimes.map((r) => <a class="chip" href={`/${r}`}>{RUNTIME_LABEL[r] ?? r}</a>)}
+      <div class="entry-meta">
+        <a class="cat" href={`/c/${entry.category}`} style={`--cat: var(--cat-${entry.category})`}>
+          {CATEGORY_LABEL[entry.category]}
+        </a>
+        {entry.integrations.map((name) => <span class="chip">{name}</span>)}
         {entry.tags.map((t) => <span class="chip">{t}</span>)}
+        {entry.verified && <span class="verified">✓ Checked</span>}
       </div>
-      <div class="grid-2">
-        <div class="prose">
-          <p>{entry.description}</p>
-          {entry.notes && <p class="notice">{entry.notes}</p>}
-          <div class="install-box">
-            <p class="kind">Install · {entry.install.kind}</p>
-            {installCmd && <pre><code>{installCmd}</code></pre>}
-            {installUrl && (
-              <p>
-                <a href={installUrl}>{installUrl}</a>
-              </p>
-            )}
-          </div>
+
+      <section class="panel add-panel" aria-labelledby="add-h">
+        <div class="panel-head">
+          <h2 id="add-h">Add this bot</h2>
+          <span class="muted mono">{isShare ? 'One click' : 'Paste one URL'}</span>
         </div>
+        <div class="panel-body">
+          {isShare ? (
+            <>
+              <div class="actions">
+                <a class="btn lg" href={entry.add.url} target="_blank" rel="noreferrer">
+                  Add to Grok Bot ↗
+                </a>
+                <CopyButton text={entry.add.url} label="Copy link" ghost />
+              </div>
+              <p class="muted mono" style="margin: 0">Opens x.ai · nothing installs here.</p>
+            </>
+          ) : (
+            <>
+              <ol class="steps">
+                <li>Start a new Grok Bot chat.</li>
+                <li>Paste this URL as the first message.</li>
+                <li>The bot sets itself up from the profile.</li>
+              </ol>
+              <div class="url-box">
+                <code>{entry.add.url}</code>
+                <CopyButton text={entry.add.url} label="Copy URL" />
+              </div>
+            </>
+          )}
+          {entry.add.hint && <p class="notice" style="margin: 0">{entry.add.hint}</p>}
+        </div>
+      </section>
+
+      <div class="prose">
+        <p>{entry.description}</p>
+        {entry.notes && <p class="notice">{entry.notes}</p>}
+      </div>
+
+      <section class="panel instructions" aria-labelledby="ins-h" style="margin-top: 1.5rem">
+        <div class="panel-head">
+          <h2 id="ins-h">Instructions</h2>
+          {raw && (
+            <div class="actions">
+              <button type="button" class="pill" id="expand" aria-expanded="false" hidden>
+                Show all
+              </button>
+              <CopyButton text={raw} label="Copy instructions" done="Copied ✓" />
+            </div>
+          )}
+        </div>
+        {raw ? (
+          <>
+            {/* The CSS cap is only safe because JS supplies the expand control. */}
+            <noscript>
+              <style is:inline>
+                .instructions-body { max-height: none; }
+                .instructions-body::after { content: none; }
+              </style>
+            </noscript>
+            <div class="instructions-body" id="ins-body">
+              <div><Content /></div>
+            </div>
+            <p class="panel-foot">
+              Instructions by {entry.author ?? 'unknown'}
+              {entry.license && ` · ${entry.license}`}
+              {entry.source && <> · <a href={entry.source}>source</a></>}
+              {cc && ' · attribution required if you republish'}
+            </p>
+          </>
+        ) : (
+          <div class="panel-body">
+            <p class="muted" style="margin: 0">
+              Not published. This is a native share link, so the author's prompt is not public
+              anywhere. Open it to review the bot in Grok before you keep it.
+            </p>
+          </div>
+        )}
+      </section>
+    </div>
+
+    <aside class="entry-side">
+      <div>
+        <h2 class="kicker">Details</h2>
         <dl class="facts">
           <dt>Author</dt>
-          <dd>{entry.author ?? 'n/a'}</dd>
+          <dd>{entry.author ?? 'anon'}</dd>
           <dt>Licence</dt>
-          <dd>{entry.license ?? 'n/a'}</dd>
+          <dd>{entry.license ?? 'unspecified'}</dd>
+          <dt>Add method</dt>
+          <dd>{isShare ? 'Share link' : 'Profile URL'}</dd>
           <dt>Source</dt>
-          <dd>{entry.source ? <a href={entry.source}>{entry.source.replace(/^https?:\/\//, '')}</a> : 'n/a'}</dd>
+          <dd>{entry.source ? <a href={entry.source}>{host(entry.source)}</a> : 'n/a'}</dd>
           <dt>Homepage</dt>
-          <dd>{entry.homepage ? <a href={entry.homepage}>{entry.homepage.replace(/^https?:\/\//, '')}</a> : 'n/a'}</dd>
-          <dt>Verified</dt>
-          <dd>{entry.verified ? 'yes' : 'not yet'}</dd>
+          <dd>{entry.homepage ? <a href={entry.homepage}>{host(entry.homepage)}</a> : 'n/a'}</dd>
           <dt>Added</dt>
           <dd>{entry.added}</dd>
+          <dt>Checked</dt>
+          <dd>{entry.verified ? 'yes' : 'not yet'}</dd>
         </dl>
       </div>
       {also.length > 0 && (
-        <section style="margin-top: 2.4rem">
+        <div>
           <h2 class="kicker">Nearby on the shelf</h2>
           <div class="related">
-            {also.map((e) => (
-              <EntryCard entry={e} />
-            ))}
+            {also.map((e) => <BotCard entry={e} />)}
           </div>
-        </section>
+        </div>
       )}
-    </div>
+    </aside>
   </main>
-  <Footer />
+  <script src="../scripts/copy.js"></script>
+  <script src="../scripts/instructions.js"></script>
 </Base>
-)}

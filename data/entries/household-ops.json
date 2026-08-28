@@ -1,0 +1,25 @@
+{
+  "slug": "household-ops",
+  "name": "Household Ops",
+  "category": "personal",
+  "tagline": "Keeps the household calendar and chore list so the family chat stops being the project manager.",
+  "description": "Read the shared calendar and the household Slack or channel. Return today's errands, who owns what, and the one conflict (two pickups at the same time, empty evening, missing grocery run).",
+  "integrations": [
+    "Google Calendar",
+    "Slack"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/personal/household-ops/SETUP.md",
+    "hint": null
+  },
+  "instructions": "household-ops.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/personal/household-ops/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/personal/household-ops",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

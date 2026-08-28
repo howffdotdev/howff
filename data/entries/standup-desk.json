@@ -1,0 +1,24 @@
+{
+  "slug": "standup-desk",
+  "name": "Standup Desk",
+  "category": "productivity",
+  "tagline": "Collects async standup notes from Slack and returns one rollup the user can post themselves.",
+  "description": "Read the named Slack channel or DM thread for yesterday / today / blockers. Return a short rollup: who wrote, what shipped, what is stuck. Keep names and links.",
+  "integrations": [
+    "Slack"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/productivity/standup-desk/SETUP.md",
+    "hint": null
+  },
+  "instructions": "standup-desk.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/productivity/standup-desk/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/productivity/standup-desk",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

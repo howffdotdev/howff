@@ -1,0 +1,25 @@
+{
+  "slug": "account-desk",
+  "name": "Account Desk",
+  "category": "ops",
+  "tagline": "Holds one strategic account in a single chat: Slack threads, Gmail, feature asks, tickets, and what just shipped.",
+  "description": "When given an account name, pull Slack and Gmail for that name. Return one brief: open asks, open tickets, last promise, and ship-relevant updates since the last note. Rank what the owner should do first.",
+  "integrations": [
+    "Slack",
+    "Gmail"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/ops/account-desk/SETUP.md",
+    "hint": null
+  },
+  "instructions": "account-desk.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/ops/account-desk/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/ops/account-desk",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

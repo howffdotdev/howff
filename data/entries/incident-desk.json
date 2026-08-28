@@ -1,0 +1,25 @@
+{
+  "slug": "incident-desk",
+  "name": "Incident Desk",
+  "category": "ops",
+  "tagline": "Turns Slack and GitHub noise during an incident into a timeline.",
+  "description": "Read the incident Slack thread and related GitHub issues or PRs. Return a timeline: first signal, what we think is broken, who is on it, and open questions. Separate facts from guesses.",
+  "integrations": [
+    "Slack",
+    "GitHub"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/ops/incident-desk/SETUP.md",
+    "hint": null
+  },
+  "instructions": "incident-desk.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/ops/incident-desk/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/ops/incident-desk",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

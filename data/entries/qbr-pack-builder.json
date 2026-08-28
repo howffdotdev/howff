@@ -1,0 +1,25 @@
+{
+  "slug": "qbr-pack-builder",
+  "name": "QBR Pack Builder",
+  "category": "ops",
+  "tagline": "Drafts a QBR pack from notes so a human still presents it.",
+  "description": "Read Slack threads and Drive notes the user points at. Draft a QBR outline: wins, risks, usage, asks, next quarter. Put the draft in Drive if asked, or return markdown.",
+  "integrations": [
+    "Slack",
+    "Google Drive"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/ops/qbr-pack-builder/SETUP.md",
+    "hint": null
+  },
+  "instructions": "qbr-pack-builder.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/ops/qbr-pack-builder/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/ops/qbr-pack-builder",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

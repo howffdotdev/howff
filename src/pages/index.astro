@@ -1,15 +1,19 @@
 ---
 import Base from '../layouts/Base.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
 import Shelf from '../components/Shelf.astro';
+import { loadEntries, categoryCounts, CATEGORY_LABEL, CATEGORIES } from '../lib/entries.js';
+
+const entries = loadEntries();
+const counts = new Map(categoryCounts(entries));
+const description =
+  'An open shelf of Grok Bots. Read the full instructions, then add one in a click.';
 
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'WebSite',
   name: 'Howff',
   url: 'https://howff.dev',
-  description: 'A haunt for bot templates, skills, and MCPs.',
+  description,
   potentialAction: {
     '@type': 'SearchAction',
     target: 'https://howff.dev/?q={search_term_string}',
@@ -17,10 +21,35 @@ const jsonLd = {
   },
 };
 ---
-<Base title="Howff" description="A haunt for bot templates, skills, and MCPs." path="/">
-  <Header />
-  <Shelf />
-  <Footer />
+<Base title="Howff" description={description} path="/">
+  <main id="main">
+    <section class="hero">
+      <div class="wrap">
+        <p class="kicker">{entries.length} Grok Bots</p>
+        <h1>Grok Bots you can <span>read</span> before you run.</h1>
+        <p class="pronounce">HOWFF · how + f · a Scots meeting-place</p>
+        <p class="lede">
+          Every bot here shows its full instructions. Copy the prompt, or add the bot in one
+          click. One JSON file and one markdown file per bot, in the open, in the repo.
+        </p>
+        <div class="hero-actions">
+          <a class="btn lg" href="#list">Browse the shelf</a>
+          <a class="btn ghost lg" href="/submit">Add your bot</a>
+        </div>
+      </div>
+    </section>
+    <div class="wrap">
+      <nav class="cat-tiles" aria-label="Categories">
+        {CATEGORIES.map((cat) => (
+          <a class="cat-tile" href={`/c/${cat}`} style={`--cat: var(--cat-${cat})`}>
+            <span class="label">{CATEGORY_LABEL[cat]}</span>
+            <span class="n">{counts.get(cat) ?? 0} bots</span>
+          </a>
+        ))}
+      </nav>
+      <Shelf entries={entries} />
+    </div>
+  </main>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <script src="../scripts/shelf.js"></script>
 </Base>

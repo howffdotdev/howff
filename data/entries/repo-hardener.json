@@ -1,0 +1,24 @@
+{
+  "slug": "repo-hardener",
+  "name": "Repo Hardener",
+  "category": "development",
+  "tagline": "Reviews a GitHub repo for security and hygiene, then opens issues or draft PRs only.",
+  "description": "Scan the named repo for missing branch protection signals, secret-looking files, stale dependencies called out in the tree, and obvious hygiene gaps. Return a ranked list with file links. Open issues or draft pull requests when the user asks. Do not push, force-push, or merge.",
+  "integrations": [
+    "GitHub"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/development/repo-hardener/SETUP.md",
+    "hint": null
+  },
+  "instructions": "repo-hardener.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/development/repo-hardener/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/development/repo-hardener",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

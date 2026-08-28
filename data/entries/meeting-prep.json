@@ -1,0 +1,26 @@
+{
+  "slug": "meeting-prep",
+  "name": "Meeting Prep",
+  "category": "sales",
+  "tagline": "Builds a pre-call brief from the last emails, the calendar invite, and Slack so you know the last promise.",
+  "description": "Look up the next call on the calendar, pull the related Gmail thread and Slack mentions, and write a one-page brief: who is on it, what was promised last time, open questions, and the ask for this call.",
+  "integrations": [
+    "Gmail",
+    "Google Calendar",
+    "Slack"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/sales/meeting-prep/SETUP.md",
+    "hint": null
+  },
+  "instructions": "meeting-prep.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/sales/meeting-prep/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/sales/meeting-prep",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

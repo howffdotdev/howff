@@ -1,0 +1,25 @@
+{
+  "slug": "security-questionnaire",
+  "name": "Security Questionnaire",
+  "category": "ops",
+  "tagline": "Drafts security and vendor questionnaire answers from Drive and Notion so the 90-question form stops blocking the deal.",
+  "description": "Take the questionnaire (pasted or in Drive) and answer from existing security docs in Drive and Notion. Mark each answer: sourced, needs legal, or unknown.",
+  "integrations": [
+    "Google Drive",
+    "Notion"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/ops/security-questionnaire/SETUP.md",
+    "hint": null
+  },
+  "instructions": "security-questionnaire.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/ops/security-questionnaire/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/ops/security-questionnaire",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

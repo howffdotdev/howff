@@ -2,16 +2,18 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://howff.dev/schema/entry.json",
   "title": "Howff catalogue entry",
+  "description": "One Grok Bot. Documentation only: scripts/validate.js is the gate and enforces cross-file rules this schema cannot express.",
   "type": "object",
   "additionalProperties": false,
   "required": [
     "slug",
     "name",
-    "type",
+    "category",
     "tagline",
     "description",
-    "runtimes",
-    "install",
+    "integrations",
+    "add",
+    "instructions",
     "source",
     "homepage",
     "license",
@@ -27,26 +29,58 @@
       "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
     },
     "name": { "type": "string", "minLength": 1 },
-    "type": { "enum": ["template", "skill", "mcp"] },
+    "category": {
+      "enum": [
+        "productivity",
+        "development",
+        "marketing",
+        "sales",
+        "ops",
+        "personal",
+        "research",
+        "writing",
+        "finance",
+        "fun"
+      ]
+    },
     "tagline": { "type": "string", "minLength": 1 },
     "description": { "type": "string", "minLength": 1 },
-    "runtimes": {
+    "integrations": {
       "type": "array",
-      "minItems": 1,
-      "items": { "enum": ["cursor", "claude", "grok-bot", "codex", "any"] }
-    },
-    "install": {
-      "type": "object",
-      "additionalProperties": false,
-      "required": ["kind", "command", "url"],
-      "properties": {
-        "kind": { "enum": ["url", "npx", "skill-md", "mcp-json", "git"] },
-        "command": { "type": ["string", "null"] },
-        "url": { "type": ["string", "null"] }
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "Slack",
+          "Gmail",
+          "Google Calendar",
+          "Google Docs",
+          "Google Drive",
+          "Google Search Console",
+          "GitHub",
+          "Notion",
+          "LinkedIn",
+          "X",
+          "Stripe",
+          "Reddit"
+        ]
       }
     },
-    "source": { "type": ["string", "null"] },
-    "homepage": { "type": ["string", "null"] },
+    "add": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["kind", "url", "hint"],
+      "properties": {
+        "kind": { "enum": ["share-link", "profile-url"] },
+        "url": { "type": "string", "pattern": "^https?://" },
+        "hint": { "type": ["string", "null"] }
+      }
+    },
+    "instructions": {
+      "type": ["string", "null"],
+      "description": "Filename of the sibling markdown, always <slug>.md. Null only when add.kind is share-link."
+    },
+    "source": { "type": ["string", "null"], "pattern": "^https?://" },
+    "homepage": { "type": ["string", "null"], "pattern": "^https?://" },
     "license": { "type": ["string", "null"] },
     "author": { "type": ["string", "null"] },
     "tags": { "type": "array", "items": { "type": "string" } },

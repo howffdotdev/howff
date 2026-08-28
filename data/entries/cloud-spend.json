@@ -1,0 +1,25 @@
+{
+  "slug": "cloud-spend",
+  "name": "Cloud Spend",
+  "category": "ops",
+  "tagline": "Turns cloud invoices and usage notes in Gmail and Drive into a spend memo.",
+  "description": "Find the latest cloud bill or usage export the user names (AWS, GCP, A",
+  "integrations": [
+    "Gmail",
+    "Google Drive"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/ops/cloud-spend/SETUP.md",
+    "hint": null
+  },
+  "instructions": "cloud-spend.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/ops/cloud-spend/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/ops/cloud-spend",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

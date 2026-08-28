@@ -1,20 +1,24 @@
 {
   "slug": "master",
   "name": "Master",
-  "type": "template",
+  "category": "ops",
   "tagline": "Lean orchestrator. Routes work to specialists, then stops.",
-  "description": "Native Grok Bot share. Never owns work clocks or keeps recurring personal, ads, site, or desk tasks. Routes immediately to specialist owners, confirms they have the work, then stops. Does not run the job because it is faster. Only pings the user when they must act.",
-  "runtimes": ["grok-bot"],
-  "install": {
-    "kind": "url",
-    "command": "Open this share link and click Add to Grok Bot.",
-    "url": "https://x.ai/bot/j7B5LHnEIPTuPQZxxQwpx"
+  "description": "Never owns work clocks or keeps recurring personal, ads, site, or desk tasks. Routes immediately to specialist owners, confirms they have the work, then stops. Does not run the job because it is faster. Only pings the user when they must act.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/j7B5LHnEIPTuPQZxxQwpx",
+    "hint": null
   },
+  "instructions": null,
   "source": "https://x.ai/bot/j7B5LHnEIPTuPQZxxQwpx",
   "homepage": "https://x.ai/bot/j7B5LHnEIPTuPQZxxQwpx",
   "license": null,
   "author": "Farzad",
-  "tags": ["grok-bot", "template", "orchestrator", "ops"],
+  "tags": [
+    "orchestration",
+    "routing"
+  ],
   "verified": false,
   "added": "2026-08-28",
   "notes": "Native Grok Bot share link. Third-party bot; not from xAI."

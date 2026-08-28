@@ -1,0 +1,24 @@
+{
+  "slug": "subscription-pruner",
+  "name": "Subscription Pruner",
+  "category": "personal",
+  "tagline": "Finds recurring charges and trial-to-paid mail so unused subscriptions get cancelled on purpose.",
+  "description": "Scan Gmail for receipts, trials ending, and renewal notices. List: service, last signal, and whether it looks unused. Draft a cancel or downgrade email when asked.",
+  "integrations": [
+    "Gmail"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/personal/subscription-pruner/SETUP.md",
+    "hint": null
+  },
+  "instructions": "subscription-pruner.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/personal/subscription-pruner/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/personal/subscription-pruner",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

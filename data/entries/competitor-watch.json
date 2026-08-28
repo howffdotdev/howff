@@ -1,0 +1,24 @@
+{
+  "slug": "competitor-watch",
+  "name": "Competitor Watch",
+  "category": "marketing",
+  "tagline": "Watches competitor sites, pricing pages, and changelogs and posts a short Slack digest when something ships.",
+  "description": "Check the competitor URLs the user names — homepage, pricing, changelog — and write what actually changed.",
+  "integrations": [
+    "Slack"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/marketing/competitor-watch/SETUP.md",
+    "hint": null
+  },
+  "instructions": "competitor-watch.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/marketing/competitor-watch/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/marketing/competitor-watch",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

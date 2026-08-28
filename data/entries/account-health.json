@@ -1,0 +1,26 @@
+{
+  "slug": "account-health",
+  "name": "Account Health",
+  "category": "ops",
+  "tagline": "Ranks customer risk and expansion from usage, support, and notes, and stops before anyone gets emailed.",
+  "description": "Review the accounts the user names. Combine usage, support, renewal timing, and stakeholder notes into a ranked watch list. For each: the evidence, why it matters, and a suggested next step.",
+  "integrations": [
+    "Slack",
+    "Notion",
+    "Gmail"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/ops/account-health/SETUP.md",
+    "hint": null
+  },
+  "instructions": "account-health.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/ops/account-health/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/ops/account-health",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

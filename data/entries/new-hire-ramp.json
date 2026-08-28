@@ -1,0 +1,25 @@
+{
+  "slug": "new-hire-ramp",
+  "name": "New Hire Ramp",
+  "category": "ops",
+  "tagline": "Turns a first week into a calendar and Slack plan so onboarding is not a wiki dump.",
+  "description": "Take the role and start date. Build a day-by-day first week: who to meet, what to read, what to ship. Hold times on Calendar if asked. Draft Slack intros.",
+  "integrations": [
+    "Google Calendar",
+    "Slack"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/ops/new-hire-ramp/SETUP.md",
+    "hint": null
+  },
+  "instructions": "new-hire-ramp.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/ops/new-hire-ramp/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/ops/new-hire-ramp",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

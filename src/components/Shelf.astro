@@ -1,69 +1,38 @@
 ---
-import EntryCard from './EntryCard.astro';
-import { loadEntries, allTags, RUNTIME_LABEL, TYPES, RUNTIMES } from '../lib/entries.js';
+import BotCard from './BotCard.astro';
+import FilterBar from './FilterBar.astro';
+import {
+  allTags,
+  allIntegrations,
+  categoryCounts,
+  readInstructions,
+} from '../lib/entries.js';
 
-const { runtime = 'all' } = Astro.props;
-const all = loadEntries();
-const entries = runtime === 'all' ? all : all.filter((e) => e.runtimes.includes(runtime));
-const tags = allTags(entries).map(([t]) => t);
-const runtimeLabel = runtime === 'all' ? null : (RUNTIME_LABEL[runtime] ?? runtime);
+const { entries, scope = 'all' } = Astro.props;
+
+// Facets are counted from what is on screen, so a category page never offers a
+// filter that would empty the grid.
+const categories = categoryCounts(entries);
+const integrations = allIntegrations(entries);
+const tags = allTags(entries);
+const instructions = new Map(entries.map((e) => [e.slug, readInstructions(e) ?? '']));
 ---
-<main>
-  <section class="hero">
-    <div class="wrap">
-      <p class="kicker">{runtimeLabel ?? 'The shelf'}</p>
-      <h1>Howff · a haunt for bot templates, skills, and MCPs.</h1>
-      <p class="pronounce">HOWFF · how + f · a Scots meeting-place</p>
-      <p class="lede">
-        {runtimeLabel
-          ? `Listings that run on ${runtimeLabel}. JSON files in the repo. One PR adds one.`
-          : 'One shelf. JSON files in the repo. You come here to pick something up, not to be sold a platform.'}
-      </p>
-      <div class="hero-actions">
-        <a class="btn" href="#list">Browse</a>
-        <a class="btn ghost" href="/submit">Add one</a>
-      </div>
-    </div>
-  </section>
-  <div class="wrap shelf">
-    <form class="controls" id="filters" role="search" onsubmit="return false">
-      <label class="field search">
-        Search
-        <input id="q" type="search" name="q" placeholder="name, tag, author…" autocomplete="off" />
-      </label>
-      <div class="pill-row">
-        <p class="pill-label">Type</p>
-        <div class="pills" id="type-pills">
-          <button type="button" class="pill is-on" data-filter-type="all">all</button>
-          {TYPES.map((t) => (
-            <button type="button" class="pill" data-filter-type={t}>{t}</button>
-          ))}
-        </div>
-      </div>
-      <div class="pill-row">
-        <p class="pill-label">Runtime</p>
-        <div class="pills">
-          <a class:list={['pill', { 'is-on': runtime === 'all' }]} href="/">all</a>
-          {RUNTIMES.map((r) => (
-            <a class:list={['pill', { 'is-on': runtime === r }]} href={`/${r}`}>{RUNTIME_LABEL[r]}</a>
-          ))}
-        </div>
-      </div>
-      <label class="field tag-field">
-        Tag
-        <select id="tag" name="tag">
-          <option value="all">all</option>
-          {tags.map((t) => <option value={t}>{t}</option>)}
-        </select>
-      </label>
-    </form>
-    <div class="shelf-meta">
-      <span id="count">{entries.length} on the shelf</span>
-      <a href="/submit">Add one</a>
-    </div>
-    <div class="list" id="list">
-      {entries.map((entry) => <EntryCard entry={entry} />)}
-    </div>
-    <p class="empty" id="empty" hidden>Nothing on that hook. Clear a filter or <a href="/submit">send a PR</a>.</p>
+<FilterBar
+  entries={entries}
+  categories={categories}
+  integrations={integrations}
+  tags={tags}
+  scope={scope}
+/>
+<div class="list" id="list">
+  {entries.map((entry) => (
+    <BotCard entry={entry} instructions={instructions.get(entry.slug)} />
+  ))}
+</div>
+<div class="empty" id="empty" hidden>
+  <p>Nothing on that hook.</p>
+  <div class="actions" style="justify-content: center">
+    <button type="button" class="btn ghost" data-clear>Clear filters</button>
+    <a class="btn ghost" href="/submit">Add a bot</a>
   </div>
-</main>
+</div>

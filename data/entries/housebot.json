@@ -1,26 +1,23 @@
 {
   "slug": "housebot",
   "name": "HouseBot",
-  "type": "template",
+  "category": "personal",
   "tagline": "Hunts rentals and homes on a 12-hour cadence.",
   "description": "Hunts rentals and homes on a 12-hour cadence across Redfin, Zillow, Craigslist, Facebook, MLS, ApartmentList, and other listing sites. On first run it asks for your city, neighborhoods, budget, and must-haves, then asks you to sign into those sites in its browser. Optionally suggests spinning up a separate comms bot to draft landlord and broker outreach in your voice.",
-  "runtimes": [
-    "grok-bot"
-  ],
-  "install": {
-    "kind": "url",
-    "command": "Open this share link and click Add to Grok Bot.",
-    "url": "https://x.ai/bot/3ufXSXC-Z8OadVsV9yMLL"
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3ufXSXC-Z8OadVsV9yMLL",
+    "hint": null
   },
+  "instructions": null,
   "source": "https://templatebot.lol/bot/3ufXSXC-Z8OadVsV9yMLL",
   "homepage": "https://x.ai/bot/3ufXSXC-Z8OadVsV9yMLL",
   "license": null,
   "author": "Shub",
   "tags": [
-    "grok-bot",
-    "template",
-    "personal",
-    "housing"
+    "housing",
+    "listings"
   ],
   "verified": false,
   "added": "2026-08-28",

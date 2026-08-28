@@ -1,20 +1,23 @@
 {
   "slug": "spec-writer",
   "name": "Spec Writer",
-  "type": "template",
-  "tagline": "Turns a vague request into an implementation-ready spec.",
-  "description": "HAEGONG Grok Bot profile. Reads a selected issue or chat request and returns a versioned specification with observable acceptance criteria. Stops before approving or implementing. Paste the SETUP.md URL as the first message.",
-  "runtimes": ["grok-bot"],
-  "install": {
-    "kind": "url",
-    "command": "Paste this SETUP.md URL as the first message in a new Grok Bot chat.",
-    "url": "https://raw.githubusercontent.com/HAEGONG/grok-bot-profiles/main/bots/development/spec-writer/SETUP.md"
+  "category": "development",
+  "tagline": "Turn vague requests into implementation-ready specs",
+  "description": "Use the GitHub integration and API to read the selected issue when one exists, plus repository instructions, relevant source and documentation, and existing contracts. If the user provides an idea or request only in chat, use the repository context without requiring a GitHub issue. Do not clone or check out the repository.",
+  "integrations": [
+    "GitHub"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/HAEGONG/grok-bot-profiles/main/bots/development/spec-writer/SETUP.md",
+    "hint": null
   },
+  "instructions": "spec-writer.md",
   "source": "https://github.com/HAEGONG/grok-bot-profiles/blob/main/bots/development/spec-writer/PROFILE.md",
   "homepage": "https://github.com/HAEGONG/grok-bot-profiles/tree/main/bots/development/spec-writer",
   "license": "CC-BY-4.0",
   "author": "HAEGONG",
-  "tags": ["grok-bot", "development", "specs"],
+  "tags": [],
   "verified": false,
   "added": "2026-08-28",
   "notes": null

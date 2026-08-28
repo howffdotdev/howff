@@ -1,0 +1,25 @@
+{
+  "slug": "outbound-voice",
+  "name": "Outbound Voice",
+  "category": "sales",
+  "tagline": "Writes personalized outbound in the user's voice so volume does not sound like a sequence tool.",
+  "description": "Take a list, a LinkedIn profile, or a pasted context and write a first-touch email (and a LinkedIn note if asked) that sounds like the user, not a cadence.",
+  "integrations": [
+    "Gmail",
+    "LinkedIn"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/sales/outbound-voice/SETUP.md",
+    "hint": null
+  },
+  "instructions": "outbound-voice.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/sales/outbound-voice/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/sales/outbound-voice",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "feature-ask-finder",
+  "name": "Feature Ask Finder",
+  "category": "ops",
+  "tagline": "Pulls repeated product asks out of Slack so they stop living in twelve threads.",
+  "description": "Read the Slack channels the user names. Cluster similar feature asks. For each cluster: the ask in one line, how often it showed up, sample links, and who asked.",
+  "integrations": [
+    "Slack"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/ops/feature-ask-finder/SETUP.md",
+    "hint": null
+  },
+  "instructions": "feature-ask-finder.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/ops/feature-ask-finder/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/ops/feature-ask-finder",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

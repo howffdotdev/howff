@@ -1,0 +1,53 @@
+---
+import Base from '../../layouts/Base.astro';
+import Shelf from '../../components/Shelf.astro';
+import {
+  loadEntries,
+  byCategory,
+  CATEGORIES,
+  CATEGORY_LABEL,
+  CATEGORY_BLURB,
+} from '../../lib/entries.js';
+
+export function getStaticPaths() {
+  return CATEGORIES.map((category) => ({ params: { category } }));
+}
+
+const { category } = Astro.params;
+const label = CATEGORY_LABEL[category];
+const entries = byCategory(category, loadEntries());
+const i = CATEGORIES.indexOf(category);
+const prev = CATEGORIES[(i - 1 + CATEGORIES.length) % CATEGORIES.length];
+const next = CATEGORIES[(i + 1) % CATEGORIES.length];
+const description = `${label} Grok Bots on Howff. ${CATEGORY_BLURB[category]}`;
+---
+<Base title={label} description={description} path={`/c/${category}`}>
+  <main id="main">
+    <section class="hero">
+      <div class="wrap">
+        <p class="kicker"><a href="/">Shelf</a> · {label}</p>
+        <h1>{label}</h1>
+        <p class="lede">{CATEGORY_BLURB[category]}</p>
+      </div>
+    </section>
+    <div class="wrap">
+      {entries.length > 0 ? (
+        <Shelf entries={entries} scope={category} />
+      ) : (
+        <div class="empty">
+          <p>Nothing filed under {label} yet. The first one is yours.</p>
+          <div class="actions" style="justify-content: center">
+            <a class="btn" href="/submit">Add a bot</a>
+            <a class="btn ghost" href="/">Browse everything</a>
+          </div>
+        </div>
+      )}
+      <p class="muted mono" style="margin-top: 2rem">
+        <a href={`/c/${prev}`}>← {CATEGORY_LABEL[prev]}</a>
+        ·
+        <a href={`/c/${next}`}>{CATEGORY_LABEL[next]} →</a>
+      </p>
+    </div>
+  </main>
+  {entries.length > 0 && <script src="../../scripts/shelf.js"></script>}
+</Base>

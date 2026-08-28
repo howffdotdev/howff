@@ -1,0 +1,25 @@
+{
+  "slug": "brand-watch",
+  "name": "Brand Watch",
+  "category": "marketing",
+  "tagline": "Pulls brand mentions from Slack and X into one digest.",
+  "description": "Scan Slack and X for the brand or product names the user gives. Return a ranked mention list: source, snippet, link, and whether it needs a human. Group repeats.",
+  "integrations": [
+    "Slack",
+    "X"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/marketing/brand-watch/SETUP.md",
+    "hint": null
+  },
+  "instructions": "brand-watch.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/marketing/brand-watch/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/marketing/brand-watch",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

@@ -1,0 +1,53 @@
+---
+import { CATEGORY_LABEL, ADD_LABEL } from '../lib/entries.js';
+
+const { entry, instructions = '' } = Astro.props;
+
+// One lowercase haystack for the client filter. Instructions are included so a
+// search for "gmail" finds bots that only mention it in their prompt.
+const search = [
+  entry.name,
+  entry.slug,
+  entry.tagline,
+  entry.description,
+  entry.author,
+  entry.category,
+  ...entry.integrations,
+  ...entry.tags,
+  instructions,
+]
+  .filter(Boolean)
+  .join(' ')
+  .toLowerCase();
+
+const isShare = entry.add.kind === 'share-link';
+---
+<article
+  class="card"
+  data-entry
+  data-name={entry.name}
+  data-added={entry.added}
+  data-category={entry.category}
+  data-integrations={entry.integrations.join('|')}
+  data-tags={entry.tags.join('|')}
+  data-search={search}
+  style={`--cat: var(--cat-${entry.category})`}
+>
+  <div class="card-top">
+    <span class="cat">{CATEGORY_LABEL[entry.category]}</span>
+    <span class="card-author">{entry.author ?? 'anon'}</span>
+  </div>
+  <h3><a href={`/${entry.slug}`}>{entry.name}</a></h3>
+  <p class="card-tagline">{entry.tagline}</p>
+  <div class="card-foot">
+    <div class="chips">
+      {entry.integrations.slice(0, 3).map((name) => <span class="chip">{name}</span>)}
+      {entry.integrations.length > 3 && (
+        <span class="chip">+{entry.integrations.length - 3}</span>
+      )}
+    </div>
+    <span class:list={['add-mark', { 'is-share': isShare }]}>
+      {ADD_LABEL[entry.add.kind]}
+    </span>
+  </div>
+</article>

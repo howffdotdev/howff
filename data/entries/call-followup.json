@@ -1,0 +1,25 @@
+{
+  "slug": "call-followup",
+  "name": "Call Followup",
+  "category": "sales",
+  "tagline": "Drafts the follow-up email while the call is still warm — recap, owners, next step.",
+  "description": "Take the just-ended (or just-pasted) call, match it to the calendar event, and draft a follow-up in Gmail: what we agreed, who owns what, and the next meeting or ask.",
+  "integrations": [
+    "Gmail",
+    "Google Calendar"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/sales/call-followup/SETUP.md",
+    "hint": null
+  },
+  "instructions": "call-followup.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/sales/call-followup/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/sales/call-followup",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

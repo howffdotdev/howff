@@ -1,0 +1,24 @@
+{
+  "slug": "bug-reproducer",
+  "name": "Bug Reproducer",
+  "category": "development",
+  "tagline": "Reproduce bugs without changing code",
+  "description": "Use the GitHub integration and API to read the issue, repository source, and metadata. Do not clone or check out the repository. Use the browser on this Bot's computer to reproduce the linked product behavior. Do not invoke any cloud coding agent.",
+  "integrations": [
+    "GitHub"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/HAEGONG/grok-bot-profiles/main/bots/development/bug-reproducer/SETUP.md",
+    "hint": null
+  },
+  "instructions": "bug-reproducer.md",
+  "source": "https://github.com/HAEGONG/grok-bot-profiles/blob/main/bots/development/bug-reproducer/PROFILE.md",
+  "homepage": "https://github.com/HAEGONG/grok-bot-profiles/tree/main/bots/development/bug-reproducer",
+  "license": "CC-BY-4.0",
+  "author": "HAEGONG",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

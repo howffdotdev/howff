@@ -1,20 +1,23 @@
 {
   "slug": "pr-reviewer",
   "name": "PR Reviewer",
-  "type": "template",
-  "tagline": "Reviews pull requests for risk, missing tests, and thin context.",
-  "description": "Grok Bot profile from awesome-grokbot. Opens the PR and leads with what can break, what is untested, and what the description promised but the diff did not do. Needs GitHub.",
-  "runtimes": ["grok-bot"],
-  "install": {
-    "kind": "url",
-    "command": "Paste this SETUP.md URL as the first message in a new Grok Bot chat.",
-    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/development/pr-reviewer/SETUP.md"
+  "category": "development",
+  "tagline": "Reviews pull requests for risk, missing tests, and thin context so review starts with the scary diff.",
+  "description": "Open the PR. Lead with: what can break, what is untested, and what the description promised but the diff did not do. Then nits.",
+  "integrations": [
+    "GitHub"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/development/pr-reviewer/SETUP.md",
+    "hint": null
   },
+  "instructions": "pr-reviewer.md",
   "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/development/pr-reviewer/PROFILE.md",
   "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/development/pr-reviewer",
   "license": "CC0-1.0",
   "author": "mergisi",
-  "tags": ["grok-bot", "development", "github", "review"],
+  "tags": [],
   "verified": false,
   "added": "2026-08-28",
   "notes": null

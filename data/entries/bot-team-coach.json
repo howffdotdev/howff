@@ -1,0 +1,22 @@
+{
+  "slug": "bot-team-coach",
+  "name": "Bot Team Coach",
+  "category": "productivity",
+  "tagline": "Helps a new user name a small roster, pick plugins, and avoid a pile of overlapping bots.",
+  "description": "Ask what work is noisy this week. Propose 2–4 named roles with a one-line job each, the plugins each role needs (Settings → Plugins), and the first message to send that bot. Keep the roster small. Merge overlapping jobs.",
+  "integrations": [],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/productivity/bot-team-coach/SETUP.md",
+    "hint": null
+  },
+  "instructions": "bot-team-coach.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/productivity/bot-team-coach/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/productivity/bot-team-coach",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "what-did-we-promise",
+  "name": "What Did We Promise",
+  "category": "ops",
+  "tagline": "Finds commitments made to customers in Slack and Drive so the next call is not a surprise.",
+  "description": "Search Slack and Drive for promises, dates, and owners (\"we'll send\", \"by Friday\", \"I owe you\"). Return a list: the promise, who said it, when, the source link, and whether it looks open or done.",
+  "integrations": [
+    "Slack",
+    "Google Drive"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/ops/what-did-we-promise/SETUP.md",
+    "hint": null
+  },
+  "instructions": "what-did-we-promise.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/ops/what-did-we-promise/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/ops/what-did-we-promise",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

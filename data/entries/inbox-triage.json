@@ -1,20 +1,23 @@
 {
   "slug": "inbox-triage",
   "name": "Inbox Triage",
-  "type": "template",
-  "tagline": "Sorts Gmail into act, wait, or archive, and drafts replies.",
-  "description": "Grok Bot profile from awesome-grokbot. Groups unread mail, drafts replies in the user's voice, and never sends unless asked. Needs the Gmail plugin.",
-  "runtimes": ["grok-bot"],
-  "install": {
-    "kind": "url",
-    "command": "Paste this SETUP.md URL as the first message in a new Grok Bot chat.",
-    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/productivity/inbox-triage/SETUP.md"
+  "category": "productivity",
+  "tagline": "Sorts Gmail into act / wait / archive and drafts the replies you still have to send.",
+  "description": "Open Gmail, group the unread pile, and return a short triage: reply now, waiting on someone else, or archive.",
+  "integrations": [
+    "Gmail"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/productivity/inbox-triage/SETUP.md",
+    "hint": null
   },
+  "instructions": "inbox-triage.md",
   "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/productivity/inbox-triage/PROFILE.md",
   "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/productivity/inbox-triage",
   "license": "CC0-1.0",
   "author": "mergisi",
-  "tags": ["grok-bot", "productivity", "email"],
+  "tags": [],
   "verified": false,
   "added": "2026-08-28",
   "notes": null

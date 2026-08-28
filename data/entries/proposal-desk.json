@@ -1,0 +1,25 @@
+{
+  "slug": "proposal-desk",
+  "name": "Proposal Desk",
+  "category": "sales",
+  "tagline": "Turns notes into a freelance or sales proposal draft.",
+  "description": "Take Slack notes, a Doc, or pasted bullets. Return a short proposal: problem, approach, scope, timeline, price placeholder. Mark anything you assumed.",
+  "integrations": [
+    "Google Docs",
+    "Slack"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/sales/proposal-desk/SETUP.md",
+    "hint": null
+  },
+  "instructions": "proposal-desk.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/sales/proposal-desk/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/sales/proposal-desk",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

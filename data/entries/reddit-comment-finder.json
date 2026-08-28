@@ -1,0 +1,24 @@
+{
+  "slug": "reddit-comment-finder",
+  "name": "Reddit Comment Finder",
+  "category": "marketing",
+  "tagline": "Finds relevant threads so you can decide whether to join, not dump a pitch.",
+  "description": "Search Reddit for threads that match the product or topic the user names. Return: title, why it is relevant, tone of the thread, and a draft reply if asked.",
+  "integrations": [
+    "Reddit"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/marketing/reddit-comment-finder/SETUP.md",
+    "hint": null
+  },
+  "instructions": "reddit-comment-finder.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/marketing/reddit-comment-finder/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/marketing/reddit-comment-finder",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

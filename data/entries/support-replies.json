@@ -1,0 +1,25 @@
+{
+  "slug": "support-replies",
+  "name": "Support Replies",
+  "category": "ops",
+  "tagline": "Drafts support replies from the inbound email and the docs in Notion so a human can send them in minutes.",
+  "description": "Read the customer email and the matching Notion doc. Draft a reply: answer first, then the steps, then what you need back. Match a calm, clear voice.",
+  "integrations": [
+    "Gmail",
+    "Notion"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/ops/support-replies/SETUP.md",
+    "hint": null
+  },
+  "instructions": "support-replies.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/ops/support-replies/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/ops/support-replies",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

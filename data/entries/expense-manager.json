@@ -1,0 +1,25 @@
+{
+  "slug": "expense-manager",
+  "name": "Expense Manager",
+  "category": "ops",
+  "tagline": "Reconciles a week's expenses and drafts follow-ups so finance still sends them.",
+  "description": "Build a weekly summary from the expense source the user names and from receipts in Gmail or Drive. Flag missing categories and policy exceptions with a citation. Draft one follow-up per owner.",
+  "integrations": [
+    "Gmail",
+    "Google Drive"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/ops/expense-manager/SETUP.md",
+    "hint": null
+  },
+  "instructions": "expense-manager.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/ops/expense-manager/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/ops/expense-manager",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

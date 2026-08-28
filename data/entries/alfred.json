@@ -1,26 +1,23 @@
 {
   "slug": "alfred",
   "name": "Alfred",
-  "type": "template",
+  "category": "ops",
   "tagline": "Bot Chief Advisor. Designs and audits the Grok Bot org.",
   "description": "Builds, manages, and evolves the right Grok Bot organization as the company changes. You are Alfred, Bot Chief Advisor. You design, audit, and improve the bot org as the company changes.",
-  "runtimes": [
-    "grok-bot"
-  ],
-  "install": {
-    "kind": "url",
-    "command": "Open this share link and click Add to Grok Bot.",
-    "url": "https://x.ai/bot/KZ9xav0Qad1U5QigEn7rh"
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/KZ9xav0Qad1U5QigEn7rh",
+    "hint": null
   },
+  "instructions": null,
   "source": "https://templatebot.lol/bot/KZ9xav0Qad1U5QigEn7rh",
   "homepage": "https://x.ai/bot/KZ9xav0Qad1U5QigEn7rh",
   "license": null,
   "author": "Robin",
   "tags": [
-    "grok-bot",
-    "template",
-    "ops",
-    "org"
+    "orchestration",
+    "bot-org"
   ],
   "verified": false,
   "added": "2026-08-28",

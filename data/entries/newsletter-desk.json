@@ -1,0 +1,25 @@
+{
+  "slug": "newsletter-desk",
+  "name": "Newsletter Desk",
+  "category": "marketing",
+  "tagline": "Builds a weekly newsletter from links and notes you already saved, then parks the draft in a Doc.",
+  "description": "Collect the week's saved links, forwarded mail, and notes, then write a short newsletter: one lede, a handful of items, one closer.",
+  "integrations": [
+    "Gmail",
+    "Google Docs"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/marketing/newsletter-desk/SETUP.md",
+    "hint": null
+  },
+  "instructions": "newsletter-desk.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/marketing/newsletter-desk/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/marketing/newsletter-desk",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

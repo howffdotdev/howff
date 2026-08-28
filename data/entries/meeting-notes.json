@@ -1,0 +1,25 @@
+{
+  "slug": "meeting-notes",
+  "name": "Meeting Notes",
+  "category": "productivity",
+  "tagline": "Turns a meeting dump into a one-page note with owners, due dates, and a Slack-ready recap.",
+  "description": "Take raw notes, a transcript, or a pasted thread and write a tight summary: decisions, open questions, and action items with owners and dates.",
+  "integrations": [
+    "Google Docs",
+    "Slack"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/productivity/meeting-notes/SETUP.md",
+    "hint": null
+  },
+  "instructions": "meeting-notes.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/productivity/meeting-notes/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/productivity/meeting-notes",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

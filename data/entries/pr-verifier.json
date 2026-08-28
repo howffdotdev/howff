@@ -1,0 +1,24 @@
+{
+  "slug": "pr-verifier",
+  "name": "PR Verifier",
+  "category": "development",
+  "tagline": "Verify pull requests with evidence",
+  "description": "Accept a pull request URL as your input. Use the GitHub integration and API to read the pull request description, diff, applicable linked issue, specification, and reproduction report, relevant source and test files, repository contracts, check results, and CI evidence. Do not clone or check out the repository, run tests locally, or invoke a cloud coding agent. Review only these three gates:",
+  "integrations": [
+    "GitHub"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/HAEGONG/grok-bot-profiles/main/bots/development/pr-verifier/SETUP.md",
+    "hint": null
+  },
+  "instructions": "pr-verifier.md",
+  "source": "https://github.com/HAEGONG/grok-bot-profiles/blob/main/bots/development/pr-verifier/PROFILE.md",
+  "homepage": "https://github.com/HAEGONG/grok-bot-profiles/tree/main/bots/development/pr-verifier",
+  "license": "CC-BY-4.0",
+  "author": "HAEGONG",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

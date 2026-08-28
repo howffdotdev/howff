@@ -1,20 +1,26 @@
 {
   "slug": "projects-manager",
   "name": "Projects Manager",
-  "type": "template",
+  "category": "ops",
   "tagline": "Notion as source of truth. One project row, one Grok Bot channel, tasks on a board.",
-  "description": "Native Grok Bot share. A projects manager: Notion is source of truth, with one Projects row and a Grok Bot channel per project, and tasks on a Tasks board. Specialists claim work. The user decides. Agents execute. Does not do specialist work.",
-  "runtimes": ["grok-bot"],
-  "install": {
-    "kind": "url",
-    "command": "Open this share link and click Add to Grok Bot.",
-    "url": "https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD"
+  "description": "A projects manager: Notion is source of truth, with one Projects row and a Grok Bot channel per project, and tasks on a Tasks board. Specialists claim work. The user decides. Agents execute. Does not do specialist work.",
+  "integrations": [
+    "Notion"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD",
+    "hint": null
   },
+  "instructions": null,
   "source": "https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD",
   "homepage": "https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD",
   "license": null,
   "author": "Eric",
-  "tags": ["grok-bot", "template", "notion", "projects", "ops"],
+  "tags": [
+    "projects",
+    "notion"
+  ],
   "verified": false,
   "added": "2026-08-28",
   "notes": "Native Grok Bot share link. Third-party bot; not from xAI."

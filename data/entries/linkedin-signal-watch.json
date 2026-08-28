@@ -1,0 +1,24 @@
+{
+  "slug": "linkedin-signal-watch",
+  "name": "LinkedIn Signal Watch",
+  "category": "sales",
+  "tagline": "Watches ICP signals on LinkedIn and stops before anyone gets a message.",
+  "description": "Watch the ICP the user describes: job changes, hiring posts, funding mentions, relevant comments. Return a watch list: who, the signal, why it matters, and a draft note if asked.",
+  "integrations": [
+    "LinkedIn"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/sales/linkedin-signal-watch/SETUP.md",
+    "hint": null
+  },
+  "instructions": "linkedin-signal-watch.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/sales/linkedin-signal-watch/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/sales/linkedin-signal-watch",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

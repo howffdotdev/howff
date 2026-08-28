@@ -1,0 +1,6 @@
+# The runtime filter routes are retired: Howff is Grok Bots only.
+/cursor   /  301
+/claude   /  301
+/grok-bot /  301
+/codex    /  301
+/any      /  301

@@ -1,34 +1,42 @@
 ---
+import ThemeToggle from './ThemeToggle.astro';
+
 const here = Astro.url.pathname.replace(/\/$/, '') || '/';
 const links = [
-  ['/', 'Shelf'],
-  ['/stats', 'Stats'],
-  ['/about', 'About'],
-  ['/contribute', 'Contribute'],
+  ['/', 'Shelf', false],
+  ['/about', 'About', true],
+  ['/contribute', 'Contribute', true],
 ];
 
 function current(href) {
-  if (href === '/') return here === '/' || ['/cursor','/claude','/grok-bot','/codex','/any'].includes(here);
-  return here === href || here.startsWith(href + '/');
+  if (href === '/') return here === '/' || here.startsWith('/c/');
+  return here === href || here.startsWith(`${href}/`);
 }
 ---
 <header class="site-header">
   <div class="wrap header-inner">
     <a class="brand" href="/">
       <svg class="sign" viewBox="0 0 42 42" aria-hidden="true">
-        <rect x="1" y="8" width="40" height="32" rx="3" fill="#1e1a14" stroke="#c4a574" stroke-width="1.5"/>
-        <path d="M21 1 v7" stroke="#c4a574" stroke-width="1.5"/>
+        <rect x="1" y="8" width="40" height="32" rx="3" fill="none" stroke="currentColor" stroke-width="1.5" opacity="0.45"/>
+        <path d="M21 1 v7" stroke="currentColor" stroke-width="1.5" opacity="0.45"/>
         <circle cx="21" cy="1.5" r="1.5" fill="#d4783c"/>
-        <text x="21" y="28" text-anchor="middle" fill="#efe6d6" font-size="8" font-family="Georgia, serif" letter-spacing="1.2">H</text>
+        <text x="21" y="28" text-anchor="middle" fill="currentColor" font-size="8" font-family="Georgia, serif" letter-spacing="1.2">H</text>
         <rect x="8" y="33" width="26" height="1" fill="#d4783c"/>
       </svg>
       <span class="wordmark">Howff</span>
     </a>
-    <nav class="nav" aria-label="Primary">
-      {links.map(([href, label]) => (
-        <a href={href} aria-current={current(href) ? 'page' : undefined}>{label}</a>
-      ))}
-      <a class="btn nav-cta" href="/submit">Add one</a>
-    </nav>
+    <div class="header-right">
+      <nav class="nav" aria-label="Primary">
+        {links.map(([href, label, secondary]) => (
+          <a
+            href={href}
+            class:list={[{ 'nav-more': secondary }]}
+            aria-current={current(href) ? 'page' : undefined}
+          >{label}</a>
+        ))}
+        <a class="btn" href="/submit" aria-current={current('/submit') ? 'page' : undefined}>Add one</a>
+      </nav>
+      <ThemeToggle />
+    </div>
   </div>
 </header>

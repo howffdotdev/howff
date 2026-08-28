@@ -1,0 +1,24 @@
+{
+  "slug": "reading-digest",
+  "name": "Reading Digest",
+  "category": "personal",
+  "tagline": "Turns a Notion reading list into a short weekly pack you can finish, not a graveyard of links.",
+  "description": "Read saved Notion articles or links. Pick five worth the time. For each: three-sentence summary, why it matters, and one takeaway. Skip fluff.",
+  "integrations": [
+    "Notion"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/personal/reading-digest/SETUP.md",
+    "hint": null
+  },
+  "instructions": "reading-digest.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/personal/reading-digest/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/personal/reading-digest",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

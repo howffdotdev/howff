@@ -1,0 +1,26 @@
+{
+  "slug": "talent-scout",
+  "name": "Talent Scout",
+  "category": "sales",
+  "tagline": "Sources candidates and drafts outreach so a hiring manager reviews a shortlist before anyone is contacted.",
+  "description": "Take a role description. Find people who meet the must-haves. Skip anyone already in the user's process if you can see them. For each match: the evidence, the gaps, and a draft note in the user's voice.",
+  "integrations": [
+    "Gmail",
+    "Google Calendar",
+    "LinkedIn"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/sales/talent-scout/SETUP.md",
+    "hint": null
+  },
+  "instructions": "talent-scout.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/sales/talent-scout/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/sales/talent-scout",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

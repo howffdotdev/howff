@@ -1,0 +1,24 @@
+{
+  "slug": "pr-producer",
+  "name": "PR Producer",
+  "category": "development",
+  "tagline": "Turn approved work into a reviewable pull request",
+  "description": "Read the issue, specification, or reproduction report the user selects, plus the target repository's instructions. Convert them into a bounded task with explicit acceptance criteria, affected surfaces, required tests, and out-of-scope work. Direct the built-in Cursor Cloud Agent to implement that task on a dedicated branch and open a pull request. Keep work together when one user outcome crosses multiple layers; do not split it by stack alone.",
+  "integrations": [
+    "GitHub"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/HAEGONG/grok-bot-profiles/main/bots/development/pr-producer/SETUP.md",
+    "hint": null
+  },
+  "instructions": "pr-producer.md",
+  "source": "https://github.com/HAEGONG/grok-bot-profiles/blob/main/bots/development/pr-producer/PROFILE.md",
+  "homepage": "https://github.com/HAEGONG/grok-bot-profiles/tree/main/bots/development/pr-producer",
+  "license": "CC-BY-4.0",
+  "author": "HAEGONG",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

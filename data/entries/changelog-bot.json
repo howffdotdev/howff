@@ -1,0 +1,24 @@
+{
+  "slug": "changelog-bot",
+  "name": "Changelog Bot",
+  "category": "development",
+  "tagline": "Writes release notes from merged PRs and commits so ship notes do not take a Friday archaeology session.",
+  "description": "Read merged PRs and commits since the last tag or a date the user gives. Group: user-facing, fixes, internal. Write notes a customer could read.",
+  "integrations": [
+    "GitHub"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/development/changelog-bot/SETUP.md",
+    "hint": null
+  },
+  "instructions": "changelog-bot.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/development/changelog-bot/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/development/changelog-bot",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

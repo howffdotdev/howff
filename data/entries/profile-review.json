@@ -1,0 +1,24 @@
+{
+  "slug": "profile-review",
+  "name": "Profile Review",
+  "category": "marketing",
+  "tagline": "Audits a LinkedIn profile and returns suggested edits.",
+  "description": "Read the connected LinkedIn profile (or a URL the user pastes). Return a short audit: headline, about, experience, and the first two things to change, with rewritten copy they can paste.",
+  "integrations": [
+    "LinkedIn"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/marketing/profile-review/SETUP.md",
+    "hint": null
+  },
+  "instructions": "profile-review.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/marketing/profile-review/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/marketing/profile-review",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

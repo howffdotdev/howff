@@ -1,0 +1,25 @@
+{
+  "slug": "seo-pages",
+  "name": "SEO Pages",
+  "category": "marketing",
+  "tagline": "Rewrites titles, meta, and internal links for pages that already rank — no new blog ideas.",
+  "description": "Pull pages from Google Search Console that sit on page two or leak clicks, then rewrite the title, meta description, H1, and two internal-link targets.",
+  "integrations": [
+    "Google Search Console",
+    "GitHub"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/marketing/seo-pages/SETUP.md",
+    "hint": null
+  },
+  "instructions": "seo-pages.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/marketing/seo-pages/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/marketing/seo-pages",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

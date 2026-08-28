@@ -1,0 +1,25 @@
+{
+  "slug": "focus-defender",
+  "name": "Focus Defender",
+  "category": "productivity",
+  "tagline": "Guards deep-work blocks on the calendar and tells Slack when you are not interruptible.",
+  "description": "Look at the week, find the hours that are still free, and hold them. Propose 90-minute deep-work blocks, decline or reschedule the meetings that land on them, and post a short Slack status when a block starts.",
+  "integrations": [
+    "Google Calendar",
+    "Slack"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/productivity/focus-defender/SETUP.md",
+    "hint": null
+  },
+  "instructions": "focus-defender.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/productivity/focus-defender/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/productivity/focus-defender",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

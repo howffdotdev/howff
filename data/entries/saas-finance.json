@@ -1,0 +1,25 @@
+{
+  "slug": "saas-finance",
+  "name": "SaaS Finance",
+  "category": "ops",
+  "tagline": "Turns Stripe plus billing mail into a weekly money memo: collected, renewals coming due, and past-due.",
+  "description": "Read Stripe for collected revenue, renewals in the next 14 days, and past-due invoices. Cross-check Gmail for billing threads. Return one weekly memo with counts and the few accounts that need a human.",
+  "integrations": [
+    "Stripe",
+    "Gmail"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/ops/saas-finance/SETUP.md",
+    "hint": null
+  },
+  "instructions": "saas-finance.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/ops/saas-finance/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/ops/saas-finance",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

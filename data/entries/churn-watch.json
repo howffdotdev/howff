@@ -1,0 +1,26 @@
+{
+  "slug": "churn-watch",
+  "name": "Churn Watch",
+  "category": "ops",
+  "tagline": "Ranks accounts that look at risk from Slack, Notion, and Gmail, then stops at the list.",
+  "description": "Scan Slack, Notion, and Gmail for cancel language, usage drops, unpaid invoices, and stalled renewals. Return a ranked watch list: account, signal, source link, and one suggested next step for the owner.",
+  "integrations": [
+    "Slack",
+    "Notion",
+    "Gmail"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/ops/churn-watch/SETUP.md",
+    "hint": null
+  },
+  "instructions": "churn-watch.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/ops/churn-watch/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/ops/churn-watch",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

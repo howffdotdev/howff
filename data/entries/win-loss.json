@@ -1,0 +1,25 @@
+{
+  "slug": "win-loss",
+  "name": "Win Loss",
+  "category": "sales",
+  "tagline": "Turns closed deals into short win/loss memos so the team sees a pattern instead of a vibe.",
+  "description": "Read the deal notes in Notion and the Slack thread around the close. Write a one-page memo: why we won or lost, the real objection, who decided, and what to change next time.",
+  "integrations": [
+    "Notion",
+    "Slack"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/sales/win-loss/SETUP.md",
+    "hint": null
+  },
+  "instructions": "win-loss.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/sales/win-loss/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/sales/win-loss",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

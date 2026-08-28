@@ -1,0 +1,24 @@
+{
+  "slug": "slack-noise-filter",
+  "name": "Slack Noise Filter",
+  "category": "productivity",
+  "tagline": "Reads noisy Slack channels and returns only what needs a reply.",
+  "description": "Scan the channels the user names. Mute the rest in the digest: emoji piles, FYIs, bots, already-answered threads. Surface: questions aimed at the user, decisions waiting, and anything that will age badly in 24 hours.",
+  "integrations": [
+    "Slack"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/productivity/slack-noise-filter/SETUP.md",
+    "hint": null
+  },
+  "instructions": "slack-noise-filter.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/productivity/slack-noise-filter/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/productivity/slack-noise-filter",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "docs-writer",
+  "name": "Docs Writer",
+  "category": "development",
+  "tagline": "Writes README and API docs from the repo so the docs catch up to the code in one pass.",
+  "description": "Read the repo on GitHub — README, public APIs, recent commits — and draft the missing pages or the stale sections.",
+  "integrations": [
+    "GitHub"
+  ],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/mergisi/awesome-grokbot/main/bots/development/docs-writer/SETUP.md",
+    "hint": null
+  },
+  "instructions": "docs-writer.md",
+  "source": "https://github.com/mergisi/awesome-grokbot/blob/main/bots/development/docs-writer/PROFILE.md",
+  "homepage": "https://github.com/mergisi/awesome-grokbot/tree/main/bots/development/docs-writer",
+  "license": "CC0-1.0",
+  "author": "mergisi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": null
+}
