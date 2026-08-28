@@ -1,0 +1,33 @@
+---
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+<Base title="Contribute" description="How to add an entry to Howff." path="/contribute">
+  <Header />
+  <main class="page">
+    <div class="wrap prose">
+      <p class="kicker">Contribute</p>
+      <h1>The repo is the admin panel.</h1>
+      <p>
+        Every entry is one JSON file in <code>data/entries/</code>.
+        The <a href="/submit">submit form</a> drafts it.
+        Full spec: <a href="https://github.com/howffdotdev/howff/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>.
+      </p>
+      <h2>House rules</h2>
+      <ul>
+        <li>Real software. Live URLs you can open.</li>
+        <li>All keys required; null or [] if empty.</li>
+        <li>Filename matches slug (lowercase, hyphens).</li>
+        <li>verified stays false until a maintainer checks it.</li>
+        <li>One entry per pull request.</li>
+        <li>British English. Middots (·) or commas.</li>
+      </ul>
+      <p>
+        Types: template, skill, mcp.
+        Runtimes: cursor, claude, grok-bot, codex, any.
+      </p>
+    </div>
+  </main>
+  <Footer />
+</Base>

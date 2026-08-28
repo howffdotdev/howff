@@ -1,0 +1,80 @@
+---
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { loadEntries, getEntry, related, RUNTIME_LABEL } from '../lib/entries.js';
+
+export function getStaticPaths() {
+  return loadEntries().map((entry) => ({ params: { slug: entry.slug } }));
+}
+
+const { slug } = Astro.params;
+const entry = getEntry(slug);
+if (!entry) {
+  return Astro.redirect('/404');
+}
+const also = related(entry);
+const installCmd = entry.install.command;
+const installUrl = entry.install.url;
+---
+<Base title={entry.name} description={entry.tagline} path={`/${entry.slug}`}>
+  <Header />
+  <main class="page">
+    <div class="wrap">
+      <p class="kicker">{entry.type} · {entry.added}</p>
+      <h1>{entry.name}</h1>
+      <p class="tagline">{entry.tagline}</p>
+      <div class="chips" style="margin: 0.8rem 0 1.4rem">
+        <span class={`badge ${entry.type}`}>{entry.type}</span>
+        {entry.runtimes.map((r) => <span class="chip">{RUNTIME_LABEL[r] ?? r}</span>)}
+        {entry.tags.map((t) => <span class="chip">{t}</span>)}
+      </div>
+      <div class="grid-2">
+        <div class="prose">
+          <p>{entry.description}</p>
+          {entry.notes && <p class="notice">{entry.notes}</p>}
+          <div class="install-box">
+            <p class="kind">Install · {entry.install.kind}</p>
+            {installCmd && <pre><code>{installCmd}</code></pre>}
+            {installUrl && (
+              <p>
+                <a href={installUrl}>{installUrl}</a>
+              </p>
+            )}
+          </div>
+        </div>
+        <dl class="facts">
+          <dt>Author</dt>
+          <dd>{entry.author ?? 'n/a'}</dd>
+          <dt>Licence</dt>
+          <dd>{entry.license ?? 'n/a'}</dd>
+          <dt>Source</dt>
+          <dd>{entry.source ? <a href={entry.source}>{entry.source.replace(/^https?:\/\//, '')}</a> : 'n/a'}</dd>
+          <dt>Homepage</dt>
+          <dd>{entry.homepage ? <a href={entry.homepage}>{entry.homepage.replace(/^https?:\/\//, '')}</a> : 'n/a'}</dd>
+          <dt>Verified</dt>
+          <dd>{entry.verified ? 'yes' : 'not yet'}</dd>
+          <dt>Added</dt>
+          <dd>{entry.added}</dd>
+        </dl>
+      </div>
+      {also.length > 0 && (
+        <section style="margin-top: 2.4rem">
+          <h2 class="kicker">Nearby on the shelf</h2>
+          <div class="related">
+            {also.map((e) => (
+              <a class="card" href={`/${e.slug}`}>
+                <span class={`badge ${e.type}`}>{e.type}</span>
+                <div>
+                  <h2>{e.name}</h2>
+                  <p>{e.tagline}</p>
+                </div>
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
+    </div>
+  </main>
+  <Footer />
+</Base>

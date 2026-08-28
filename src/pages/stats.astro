@@ -1,0 +1,67 @@
+---
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { loadEntries, stats as fromData, RUNTIME_LABEL, TYPE_LABEL } from '../lib/entries.js';
+
+const entries = loadEntries();
+const s = fromData(entries);
+---
+<Base title="Stats" description="Counts from the Howff dataset. Nothing else." path="/stats">
+  <Header />
+  <main class="page">
+    <div class="wrap">
+      <p class="kicker">Stats</p>
+      <h1>{s.total} on the shelf</h1>
+      <p class="muted">Counted from <code>data/entries/*.json</code> at build time. No invented analytics.</p>
+      <div class="grid-2" style="margin-top: 1.8rem">
+        <div>
+          <h2 class="kicker">By type</h2>
+          <table class="stat-table">
+            <thead><tr><th>Type</th><th></th></tr></thead>
+            <tbody>
+              {Object.entries(s.byType).map(([k, v]) => (
+                <tr><td>{TYPE_LABEL[k]}</td><td class="num">{v}</td></tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <div>
+          <h2 class="kicker">By runtime</h2>
+          <table class="stat-table">
+            <thead><tr><th>Runtime</th><th></th></tr></thead>
+            <tbody>
+              {Object.entries(s.byRuntime).map(([k, v]) => (
+                <tr><td>{RUNTIME_LABEL[k] ?? k}</td><td class="num">{v}</td></tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <div>
+          <h2 class="kicker">By licence</h2>
+          <table class="stat-table">
+            <thead><tr><th>Licence</th><th></th></tr></thead>
+            <tbody>
+              {s.byLicense.map(([k, v]) => (
+                <tr><td>{k}</td><td class="num">{v}</td></tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <div>
+          <h2 class="kicker">Tags</h2>
+          <table class="stat-table">
+            <thead><tr><th>Tag</th><th></th></tr></thead>
+            <tbody>
+              {s.tags.map(([k, v]) => (
+                <tr><td>{k}</td><td class="num">{v}</td></tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <p class="muted" style="margin-top: 1.6rem">Verified entries: {s.verified} of {s.total}.</p>
+    </div>
+  </main>
+  <Footer />
+</Base>

@@ -1,0 +1,14 @@
+---
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+<Base title="Not found" description="This booth is empty." path="/404">
+  <Header />
+  <main class="notfound">
+    <p class="kicker">404</p>
+    <h1>This booth is empty.</h1>
+    <p class="muted">The shelf does not have that slug. Try the <a href="/">catalogue</a>.</p>
+  </main>
+  <Footer />
+</Base>
