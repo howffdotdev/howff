@@ -1,0 +1,29 @@
+{
+  "name": "howff",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "description": "A haunt for bot templates, skills, and MCPs.",
+  "homepage": "https://howff.dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/howffdotdev/howff"
+  },
+  "bugs": {
+    "url": "https://github.com/howffdotdev/howff/issues"
+  },
+  "engines": {
+    "node": ">=20.3.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "validate": "node scripts/validate.js"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.3",
+    "astro": "5.18.2"
+  }
+}

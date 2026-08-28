@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://howff.dev/sitemap-index.xml
