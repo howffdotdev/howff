@@ -314,6 +314,12 @@ button.ghost:hover, .btn.ghost:hover {
   position: relative;
 }
 
+.card[hidden],
+.empty[hidden] {
+  display: none;
+}
+
+
 .card:hover {
   background: linear-gradient(90deg, rgba(212, 120, 60, 0.07), transparent 42%);
 }
