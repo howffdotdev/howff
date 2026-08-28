@@ -8,6 +8,7 @@ const DIR = path.join(ROOT, 'data', 'entries');
 
 const TYPES = new Set(['template', 'skill', 'mcp']);
 const RUNTIMES = new Set(['cursor', 'claude', 'grok-bot', 'codex', 'any']);
+const RESERVED = new Set([...TYPES, ...['cursor', 'claude', 'grok-bot', 'codex', 'any'], 'about', 'submit', 'stats', 'contribute']);
 const INSTALL_KINDS = new Set(['url', 'npx', 'skill-md', 'mcp-json', 'git']);
 const REQUIRED = [
   'slug',
@@ -83,6 +84,7 @@ for (const file of files) {
   } else {
     if (file !== `${data.slug}.json`) fail(file, `filename must be ${data.slug}.json`);
     if (slugs.has(data.slug)) fail(file, 'duplicate slug');
+    if (RESERVED.has(data.slug)) fail(file, 'slug is reserved for a filter or page');
     slugs.add(data.slug);
   }
 

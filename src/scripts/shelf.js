@@ -6,6 +6,15 @@ const items = [...document.querySelectorAll('[data-entry]')];
 const count = document.getElementById('count');
 const empty = document.getElementById('empty');
 
+function here() {
+  return (location.pathname.replace(/\/$/, '') || '/');
+}
+
+function pathForRuntime(r) {
+  if (!r || r === 'all') return '/';
+  return '/' + r;
+}
+
 function apply() {
   const query = (q.value || '').trim().toLowerCase();
   const t = type.value;
@@ -26,7 +35,18 @@ function apply() {
   empty.hidden = n !== 0;
 }
 
-for (const el of [q, type, runtime, tag]) {
+for (const el of [q, type, tag]) {
   el.addEventListener('input', apply);
   el.addEventListener('change', apply);
 }
+
+runtime.addEventListener('change', () => {
+  const next = pathForRuntime(runtime.value);
+  if (here() !== next) {
+    location.assign(next);
+    return;
+  }
+  apply();
+});
+
+apply();

@@ -1,0 +1,63 @@
+---
+import EntryCard from './EntryCard.astro';
+import { loadEntries, allTags, RUNTIME_LABEL, TYPES, RUNTIMES } from '../lib/entries.js';
+
+const { runtime = 'all' } = Astro.props;
+const all = loadEntries();
+const entries = runtime === 'all' ? all : all.filter((e) => e.runtimes.includes(runtime));
+const tags = allTags(entries).map(([t]) => t);
+const runtimeLabel = runtime === 'all' ? null : (RUNTIME_LABEL[runtime] ?? runtime);
+---
+<main>
+  <section class="hero">
+    <div class="wrap">
+      <p class="kicker">{runtimeLabel ?? 'The shelf'}</p>
+      <h1>Howff · a haunt for bot templates, skills, and MCPs.</h1>
+      <p class="pronounce">HOWFF · how + f · a Scots meeting-place</p>
+      <p class="lede">
+        {runtimeLabel
+          ? `Listings that run on ${runtimeLabel}. One shelf. JSON files in the repo.`
+          : 'One shelf. JSON files in the repo. You come here to pick something up, not to be sold a platform.'}
+      </p>
+    </div>
+  </section>
+  <div class="wrap">
+    <form class="controls" id="filters" role="search" onsubmit="return false">
+      <label class="field">
+        Search
+        <input id="q" type="search" name="q" placeholder="name, tag, author…" autocomplete="off" />
+      </label>
+      <label class="field">
+        Type
+        <select id="type" name="type">
+          <option value="all">all</option>
+          {TYPES.map((t) => <option value={t}>{t}</option>)}
+        </select>
+      </label>
+      <label class="field">
+        Runtime
+        <select id="runtime" name="runtime">
+          <option value="all" selected={runtime === 'all'}>all</option>
+          {RUNTIMES.map((r) => (
+            <option value={r} selected={runtime === r}>{RUNTIME_LABEL[r]}</option>
+          ))}
+        </select>
+      </label>
+      <label class="field">
+        Tag
+        <select id="tag" name="tag">
+          <option value="all">all</option>
+          {tags.map((t) => <option value={t}>{t}</option>)}
+        </select>
+      </label>
+    </form>
+    <div class="shelf-meta">
+      <span id="count">{entries.length} on the shelf</span>
+      <a href="/submit">Add one</a>
+    </div>
+    <div class="list" id="list">
+      {entries.map((entry) => <EntryCard entry={entry} />)}
+    </div>
+    <p class="empty" id="empty" hidden>Nothing on that hook. Clear a filter or <a href="/submit">send a PR</a>.</p>
+  </div>
+</main>

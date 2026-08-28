@@ -2,11 +2,8 @@
 import Base from '../layouts/Base.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import EntryCard from '../components/EntryCard.astro';
-import { loadEntries, allTags, RUNTIME_LABEL, TYPES, RUNTIMES } from '../lib/entries.js';
+import Shelf from '../components/Shelf.astro';
 
-const entries = loadEntries();
-const tags = allTags(entries).map(([t]) => t);
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'WebSite',
@@ -22,55 +19,7 @@ const jsonLd = {
 ---
 <Base title="Howff" description="A haunt for bot templates, skills, and MCPs." path="/">
   <Header />
-  <main>
-    <section class="hero">
-      <div class="wrap">
-        <p class="kicker">The shelf</p>
-        <h1>Howff · a haunt for bot templates, skills, and MCPs.</h1>
-        <p class="pronounce">HOWFF · how + f · a Scots meeting-place</p>
-        <p class="lede">
-          One shelf. JSON files in the repo. You come here to pick something up, not to be sold a platform.
-        </p>
-      </div>
-    </section>
-    <div class="wrap">
-      <form class="controls" id="filters" role="search" onsubmit="return false">
-        <label class="field">
-          Search
-          <input id="q" type="search" name="q" placeholder="name, tag, author…" autocomplete="off" />
-        </label>
-        <label class="field">
-          Type
-          <select id="type" name="type">
-            <option value="all">all</option>
-            {TYPES.map((t) => <option value={t}>{t}</option>)}
-          </select>
-        </label>
-        <label class="field">
-          Runtime
-          <select id="runtime" name="runtime">
-            <option value="all">all</option>
-            {RUNTIMES.map((r) => <option value={r}>{RUNTIME_LABEL[r]}</option>)}
-          </select>
-        </label>
-        <label class="field">
-          Tag
-          <select id="tag" name="tag">
-            <option value="all">all</option>
-            {tags.map((t) => <option value={t}>{t}</option>)}
-          </select>
-        </label>
-      </form>
-      <div class="shelf-meta">
-        <span id="count">{entries.length} on the shelf</span>
-        <a href="/submit">Add one</a>
-      </div>
-      <div class="list" id="list">
-        {entries.map((entry) => <EntryCard entry={entry} />)}
-      </div>
-      <p class="empty" id="empty" hidden>Nothing on that hook. Clear a filter or <a href="/submit">send a PR</a>.</p>
-    </div>
-  </main>
+  <Shelf />
   <Footer />
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <script src="../scripts/shelf.js"></script>

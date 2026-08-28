@@ -2,21 +2,43 @@
 import Base from '../layouts/Base.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import { loadEntries, getEntry, related, RUNTIME_LABEL } from '../lib/entries.js';
+import Shelf from '../components/Shelf.astro';
+import { loadEntries, related, RUNTIME_LABEL, RUNTIMES } from '../lib/entries.js';
 
 export function getStaticPaths() {
-  return loadEntries().map((entry) => ({ params: { slug: entry.slug } }));
+  const entries = loadEntries();
+  const taken = new Set(entries.map((e) => e.slug));
+  return [
+    ...entries.map((entry) => ({
+      params: { slug: entry.slug },
+      props: { kind: 'entry', entry },
+    })),
+    ...RUNTIMES.filter((r) => !taken.has(r)).map((runtime) => ({
+      params: { slug: runtime },
+      props: { kind: 'runtime', runtime },
+    })),
+  ];
 }
 
-const { slug } = Astro.params;
-const entry = getEntry(slug);
-if (!entry) {
-  return Astro.redirect('/404');
-}
-const also = related(entry);
-const installCmd = entry.install.command;
-const installUrl = entry.install.url;
+const { kind, entry, runtime } = Astro.props;
+const isRuntime = kind === 'runtime';
+const also = !isRuntime && entry ? related(entry) : [];
+const installCmd = entry?.install?.command;
+const installUrl = entry?.install?.url;
+const runtimeLabel = isRuntime ? (RUNTIME_LABEL[runtime] ?? runtime) : null;
 ---
+{isRuntime ? (
+  <Base
+    title={`${runtimeLabel} · Howff`}
+    description={`Bot templates, skills, and MCPs that run on ${runtimeLabel}.`}
+    path={`/${runtime}`}
+  >
+    <Header />
+    <Shelf runtime={runtime} />
+    <Footer />
+    <script src="../scripts/shelf.js"></script>
+  </Base>
+) : (
 <Base title={entry.name} description={entry.tagline} path={`/${entry.slug}`}>
   <Header />
   <main class="page">
@@ -26,7 +48,7 @@ const installUrl = entry.install.url;
       <p class="tagline">{entry.tagline}</p>
       <div class="chips" style="margin: 0.8rem 0 1.4rem">
         <span class={`badge ${entry.type}`}>{entry.type}</span>
-        {entry.runtimes.map((r) => <span class="chip">{RUNTIME_LABEL[r] ?? r}</span>)}
+        {entry.runtimes.map((r) => <a class="chip" href={`/${r}`}>{RUNTIME_LABEL[r] ?? r}</a>)}
         {entry.tags.map((t) => <span class="chip">{t}</span>)}
       </div>
       <div class="grid-2">
@@ -78,3 +100,4 @@ const installUrl = entry.install.url;
   </main>
   <Footer />
 </Base>
+)}
