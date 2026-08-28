@@ -1,0 +1,21 @@
+{
+  "slug": "vercel-react-best-practices",
+  "name": "Vercel React Best Practices",
+  "type": "skill",
+  "tagline": "Vercel Engineering rules for React and Next.js performance.",
+  "description": "Official Vercel agent skill packing dozens of performance rules across waterfalls, bundle size, server rendering, data fetching, and re-renders. Triggered when writing, reviewing, or refactoring React or Next.js. SKILL.md name is vercel-react-best-practices.",
+  "runtimes": ["cursor", "claude", "codex", "any"],
+  "install": {
+    "kind": "skill-md",
+    "command": "npx skills add vercel-labs/agent-skills --skill vercel-react-best-practices",
+    "url": "https://github.com/vercel-labs/agent-skills/blob/main/skills/react-best-practices/SKILL.md"
+  },
+  "source": "https://github.com/vercel-labs/agent-skills",
+  "homepage": "https://github.com/vercel-labs/agent-skills",
+  "license": "MIT",
+  "author": "Vercel",
+  "tags": ["react", "nextjs", "performance"],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": "Full compiled rules live in AGENTS.md next to SKILL.md."
+}

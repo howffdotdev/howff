@@ -1,0 +1,21 @@
+{
+  "slug": "playwright-mcp",
+  "name": "Playwright MCP",
+  "type": "mcp",
+  "tagline": "Browser automation through accessibility snapshots.",
+  "description": "Microsoft's Playwright MCP server lets an agent drive a browser using the page accessibility tree rather than screenshots. Works with Cursor, Claude Desktop, VS Code, and other MCP clients. Install with npx @playwright/mcp@latest.",
+  "runtimes": ["any"],
+  "install": {
+    "kind": "npx",
+    "command": "npx @playwright/mcp@latest",
+    "url": "https://playwright.dev/docs/getting-started-mcp"
+  },
+  "source": "https://github.com/microsoft/playwright-mcp",
+  "homepage": "https://playwright.dev/docs/getting-started-mcp",
+  "license": "Apache-2.0",
+  "author": "Microsoft",
+  "tags": ["browser", "testing", "accessibility"],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": "Headed by default. Pass --headless if you do not want a visible window."
+}

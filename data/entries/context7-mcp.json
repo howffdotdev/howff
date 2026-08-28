@@ -1,0 +1,21 @@
+{
+  "slug": "context7-mcp",
+  "name": "Context7 MCP",
+  "type": "mcp",
+  "tagline": "Up-to-date library docs, fetched for the agent.",
+  "description": "Upstash's Context7 MCP server resolves a library name to a docs ID and returns version-specific documentation for the question at hand. Stops the agent quoting stale training data. Published as @upstash/context7-mcp. An API key is recommended for higher rate limits.",
+  "runtimes": ["any"],
+  "install": {
+    "kind": "npx",
+    "command": "npx -y @upstash/context7-mcp",
+    "url": "https://www.npmjs.com/package/@upstash/context7-mcp"
+  },
+  "source": "https://github.com/upstash/context7",
+  "homepage": "https://context7.com",
+  "license": "MIT",
+  "author": "Upstash",
+  "tags": ["docs", "libraries", "context"],
+  "verified": false,
+  "added": "2026-08-28",
+  "notes": "Remote HTTP endpoint also exists at https://mcp.context7.com/mcp."
+}
