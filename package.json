@@ -17,8 +17,8 @@
     "node": ">=20.3.0"
   },
   "scripts": {
-    "dev": "astro dev",
-    "build": "astro build",
+    "dev": "node scripts/write-og.js && astro dev",
+    "build": "node scripts/write-og.js && astro build",
     "preview": "astro preview",
     "validate": "node scripts/validate.js"
   },
