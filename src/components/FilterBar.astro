@@ -1,8 +1,8 @@
 ---
 import { CATEGORY_LABEL } from '../lib/entries.js';
 
-// scope is 'all' on the homepage, or a category slug on /c/<category>. When
-// scoped, category is fixed by the URL so the pills become plain links out.
+// scope is 'all' on the homepage, or a category slug on /c/<category>.
+// When scoped, category is the URL, so that control is omitted.
 const { entries, categories, integrations, tags, scope = 'all' } = Astro.props;
 const scoped = scope !== 'all';
 ---
@@ -21,7 +21,38 @@ const scoped = scope !== 'all';
         <kbd aria-hidden="true">/</kbd>
       </span>
     </label>
-    <label class="field sort-field" for="sort">
+    {!scoped && (
+      <label class="field facet-field" for="cat">
+        Category
+        <select id="cat" name="cat">
+          <option value="all">All</option>
+          {categories.map(([cat, n]) => (
+            <option value={cat}>{CATEGORY_LABEL[cat]} ({n})</option>
+          ))}
+        </select>
+      </label>
+    )}
+    {integrations.length > 0 && (
+      <label class="field facet-field" for="int">
+        Connects to
+        <select id="int" name="int">
+          <option value="all">Any</option>
+          {integrations.map(([name, n]) => (
+            <option value={name}>{name} ({n})</option>
+          ))}
+        </select>
+      </label>
+    )}
+    {tags.length > 0 && (
+      <label class="field facet-field" for="tag">
+        Tag
+        <select id="tag" name="tag">
+          <option value="all">Any tag</option>
+          {tags.map(([t, n]) => <option value={t}>{t} ({n})</option>)}
+        </select>
+      </label>
+    )}
+    <label class="field facet-field" for="sort">
       Sort
       <select id="sort" name="sort">
         <option value="new">Newest first</option>
@@ -30,62 +61,17 @@ const scoped = scope !== 'all';
     </label>
     <noscript><button type="submit">Search</button></noscript>
   </div>
-
-  <div class="facets">
-    <div class="pill-row" role="group" aria-labelledby="cat-label">
-      <p class="pill-label" id="cat-label">Category</p>
-      <div class="pills" id="cat-pills">
-        {scoped ? (
-          <a class="pill" href="/">All</a>
-        ) : (
-          <button type="button" class="pill" data-cat="all" aria-pressed="true">All</button>
-        )}
-        {categories.map(([cat, n]) =>
-          scoped ? (
-            <a
-              class="pill"
-              href={`/c/${cat}`}
-              style={`--cat: var(--cat-${cat})`}
-              aria-current={cat === scope ? 'page' : undefined}
-            >{CATEGORY_LABEL[cat]} <span class="n">{n}</span></a>
-          ) : (
-            <button type="button" class="pill" data-cat={cat} aria-pressed="false">
-              {CATEGORY_LABEL[cat]} <span class="n">{n}</span>
-            </button>
-          ),
-        )}
-      </div>
-    </div>
-
-    {integrations.length > 0 && (
-      <div class="pill-row" role="group" aria-labelledby="int-label">
-        <p class="pill-label" id="int-label">Connects to</p>
-        <div class="pills" id="int-pills">
-          <button type="button" class="pill" data-int="all" aria-pressed="true">Any</button>
-          {integrations.map(([name, n]) => (
-            <button type="button" class="pill" data-int={name} aria-pressed="false">
-              {name} <span class="n">{n}</span>
-            </button>
-          ))}
-        </div>
-      </div>
-    )}
-
-    {tags.length > 0 && (
-      <label class="field tag-field" for="tag">
-        Tag
-        <select id="tag" name="tag">
-          <option value="all">Any tag</option>
-          {tags.map(([t, n]) => <option value={t}>{t} ({n})</option>)}
-        </select>
-      </label>
-    )}
-  </div>
 </form>
 
 <div class="shelf-meta">
   <p class="count" id="count" role="status">
-    {entries.length === 1 ? '1 bot' : `${entries.length} bots`}
+    <span id="count-n">{entries.length === 1 ? '1 bot' : `${entries.length} bots`}</span>
+    {scoped && (
+      <>
+        {' · '}
+        <a href="/">All categories</a>
+      </>
+    )}
   </p>
   <button type="button" class="pill clear" id="clear" hidden>Clear filters</button>
 </div>

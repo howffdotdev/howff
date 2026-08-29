@@ -2,23 +2,22 @@
 // the single source of filter state, so a filtered view is shareable.
 const form = document.getElementById('filters');
 const q = document.getElementById('q');
+const cat = document.getElementById('cat');
+const int = document.getElementById('int');
 const tag = document.getElementById('tag');
 const sort = document.getElementById('sort');
 const list = document.getElementById('list');
 const count = document.getElementById('count');
+const countN = document.getElementById('count-n') || count;
 const empty = document.getElementById('empty');
 const clear = document.getElementById('clear');
-const catPills = [...document.querySelectorAll('[data-cat]')];
-const intPills = [...document.querySelectorAll('[data-int]')];
 const cards = [...document.querySelectorAll('[data-entry]')];
 
 const state = { q: '', cat: 'all', int: 'all', tag: 'all', sort: 'new' };
 let announce;
 
-function pressed(pills, key, value) {
-  for (const btn of pills) {
-    btn.setAttribute('aria-pressed', String(btn.getAttribute(key) === value));
-  }
+function hasOption(select, value) {
+  return Boolean(select && [...select.options].some((o) => o.value === value));
 }
 
 function isDefault() {
@@ -63,11 +62,11 @@ function apply({ quiet = false } = {}) {
   const text = n === 1 ? '1 bot' : `${n} bots`;
   clearTimeout(announce);
   if (quiet) {
-    count.textContent = text;
+    countN.textContent = text;
   } else {
     // Debounced so the live region does not chatter once per keystroke.
     announce = setTimeout(() => {
-      count.textContent = text;
+      countN.textContent = text;
     }, 350);
   }
 
@@ -84,16 +83,15 @@ function readUrl() {
   state.tag = params.get('tag') ?? 'all';
   state.sort = params.get('sort') === 'az' ? 'az' : 'new';
 
-  // Only honour values this page actually offers.
-  if (!catPills.some((b) => b.dataset.cat === state.cat)) state.cat = 'all';
-  if (!intPills.some((b) => b.dataset.int === state.int)) state.int = 'all';
-  if (tag && ![...tag.options].some((o) => o.value === state.tag)) state.tag = 'all';
+  if (cat && !hasOption(cat, state.cat)) state.cat = 'all';
+  if (int && !hasOption(int, state.int)) state.int = 'all';
+  if (tag && !hasOption(tag, state.tag)) state.tag = 'all';
 
   if (q) q.value = state.q;
+  if (cat) cat.value = state.cat;
+  if (int) int.value = state.int;
   if (tag) tag.value = state.tag;
   if (sort) sort.value = state.sort;
-  pressed(catPills, 'data-cat', state.cat);
-  pressed(intPills, 'data-int', state.int);
 }
 
 function reset() {
@@ -102,15 +100,25 @@ function reset() {
   state.int = 'all';
   state.tag = 'all';
   if (q) q.value = '';
+  if (cat) cat.value = 'all';
+  if (int) int.value = 'all';
   if (tag) tag.value = 'all';
-  pressed(catPills, 'data-cat', 'all');
-  pressed(intPills, 'data-int', 'all');
   apply();
   q?.focus();
 }
 
 q?.addEventListener('input', () => {
   state.q = q.value.trim();
+  apply();
+});
+
+cat?.addEventListener('change', () => {
+  state.cat = cat.value;
+  apply();
+});
+
+int?.addEventListener('change', () => {
+  state.int = int.value;
   apply();
 });
 
@@ -124,22 +132,6 @@ sort?.addEventListener('change', () => {
   order();
   apply();
 });
-
-for (const btn of catPills) {
-  btn.addEventListener('click', () => {
-    state.cat = btn.dataset.cat;
-    pressed(catPills, 'data-cat', state.cat);
-    apply();
-  });
-}
-
-for (const btn of intPills) {
-  btn.addEventListener('click', () => {
-    state.int = btn.dataset.int;
-    pressed(intPills, 'data-int', state.int);
-    apply();
-  });
-}
 
 clear?.addEventListener('click', reset);
 document.querySelector('[data-clear]')?.addEventListener('click', reset);

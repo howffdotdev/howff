@@ -1,10 +1,9 @@
 ---
 import Base from '../layouts/Base.astro';
 import Shelf from '../components/Shelf.astro';
-import { loadEntries, categoryCounts, CATEGORY_LABEL, CATEGORIES } from '../lib/entries.js';
+import { loadEntries } from '../lib/entries.js';
 
 const entries = loadEntries();
-const counts = new Map(categoryCounts(entries));
 const description =
   'An open shelf of Grok Bots. Read the full instructions, then add one in a click.';
 
@@ -39,14 +38,6 @@ const jsonLd = {
       </div>
     </section>
     <div class="wrap">
-      <nav class="cat-tiles" aria-label="Categories">
-        {CATEGORIES.map((cat) => (
-          <a class="cat-tile" href={`/c/${cat}`} style={`--cat: var(--cat-${cat})`}>
-            <span class="label">{CATEGORY_LABEL[cat]}</span>
-            <span class="n">{counts.get(cat) ?? 0} bots</span>
-          </a>
-        ))}
-      </nav>
       <Shelf entries={entries} />
     </div>
   </main>
