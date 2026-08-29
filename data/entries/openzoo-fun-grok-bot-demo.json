@@ -1,0 +1,25 @@
+{
+  "slug": "openzoo-fun-grok-bot-demo",
+  "name": "OpenZoo.fun Grok Bot Demo",
+  "category": "development",
+  "tagline": "Binds a repo, a book or logs once, then answers from retrieval with the cost shown",
+  "description": "A retrieval demo: you bind one source, it answers from that, and it shows what the lookup cost. It is a demo of OpenZoo rather than a general researcher.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/QhfOU5SJ60U8g2x2pUFcT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/QhfOU5SJ60U8g2x2pUFcT",
+  "homepage": "https://x.ai/bot/QhfOU5SJ60U8g2x2pUFcT",
+  "license": null,
+  "author": "STACCoverflow",
+  "tags": [
+    "engineering",
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

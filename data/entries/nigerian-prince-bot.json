@@ -1,0 +1,26 @@
+{
+  "slug": "nigerian-prince-bot",
+  "name": "Nigerian Prince Bot",
+  "category": "fun",
+  "tagline": "A one-ask tip jar via official X Money to @suddenlyjon",
+  "description": "The joke is the product: one ask, paid through official X Money, $0.69 or more. Not a scam bot in the functional sense, a bit.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/6R04SyIqh-omLtqYD7FCy",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/6R04SyIqh-omLtqYD7FCy",
+  "homepage": "https://x.ai/bot/6R04SyIqh-omLtqYD7FCy",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [
+    "fun"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

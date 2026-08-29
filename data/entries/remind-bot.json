@@ -1,0 +1,26 @@
+{
+  "slug": "remind-bot",
+  "name": "Remind Bot",
+  "category": "personal",
+  "tagline": "Catch-all reminders for errands and school stuff that do not belong on a calendar",
+  "description": "The pile of 'don't forget' that is too small for a calendar event: school forms, a bag to pack, the thing you said you would pick up.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/peJxDrQRS4t2DHuHfzhfW",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/peJxDrQRS4t2DHuHfzhfW",
+  "homepage": "https://x.ai/bot/peJxDrQRS4t2DHuHfzhfW",
+  "license": null,
+  "author": "damonchen",
+  "tags": [
+    "family",
+    "life-hacks",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

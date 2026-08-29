@@ -1,0 +1,26 @@
+{
+  "slug": "overnight-shipper",
+  "name": "Overnight Shipper",
+  "category": "development",
+  "tagline": "Night-shift coding bot: queue an idea, review the PRs in the morning",
+  "description": "You leave work on the pile before you sleep. It ships pull requests overnight so the morning is review rather than a blank page.",
+  "integrations": [
+    "GitHub"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/aaqCOb-3SE48_7qAEAzAf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/aaqCOb-3SE48_7qAEAzAf",
+  "homepage": "https://x.ai/bot/aaqCOb-3SE48_7qAEAzAf",
+  "license": null,
+  "author": "joshkim",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

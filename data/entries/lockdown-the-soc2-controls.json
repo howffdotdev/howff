@@ -1,0 +1,24 @@
+{
+  "slug": "lockdown-the-soc2-controls",
+  "name": "lockdown the soc2 controls",
+  "category": "ops",
+  "tagline": "Reviews the OneLeet control dashboard, vulns, and auditor requests",
+  "description": "A SOC 2 desk for one company's control dashboard: what is failing, what the auditor asked, and what still needs a human.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/P1LmE76VG38Ui-XCmzAZE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/P1LmE76VG38Ui-XCmzAZE",
+  "homepage": "https://x.ai/bot/P1LmE76VG38Ui-XCmzAZE",
+  "license": null,
+  "author": "clairevo",
+  "tags": [
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

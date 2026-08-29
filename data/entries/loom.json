@@ -1,0 +1,27 @@
+{
+  "slug": "loom",
+  "name": "loom",
+  "category": "productivity",
+  "tagline": "Gathers a Gmail thread and drafts a reply. Never sends or files it",
+  "description": "Reads the thread, drafts the answer, and stops. It does not send, delete, archive, or trash.",
+  "integrations": [
+    "Gmail"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/cElGnAaR55iPHK2DGdPdu",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/cElGnAaR55iPHK2DGdPdu",
+  "homepage": "https://x.ai/bot/cElGnAaR55iPHK2DGdPdu",
+  "license": null,
+  "author": "Lauren",
+  "tags": [
+    "email",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

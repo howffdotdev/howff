@@ -1,0 +1,25 @@
+{
+  "slug": "money-maker-bot",
+  "name": "Money Maker Bot",
+  "category": "finance",
+  "tagline": "Finds legal ways to make money. First run sets up a wallet",
+  "description": "Looks for lawful ways to earn rather than a trading scheme. The first run creates a wallet, so know that before you add it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H",
+  "homepage": "https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H",
+  "license": null,
+  "author": "mbhound",
+  "tags": [
+    "finance",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

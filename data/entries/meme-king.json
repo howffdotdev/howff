@@ -1,0 +1,26 @@
+{
+  "slug": "meme-king",
+  "name": "Meme King",
+  "category": "fun",
+  "tagline": "Makes a meme from a topic you drop. Funny first, never shock",
+  "description": "You name the subject, it makes the meme. The brief is to be funny without going for shock value.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/zpd49S_sQMCx9QCTfN2wp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/zpd49S_sQMCx9QCTfN2wp",
+  "homepage": "https://x.ai/bot/zpd49S_sQMCx9QCTfN2wp",
+  "license": null,
+  "author": "DogecoinNorway",
+  "tags": [
+    "creator",
+    "content",
+    "fun"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

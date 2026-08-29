@@ -1,0 +1,24 @@
+{
+  "slug": "spotify-dj",
+  "name": "Spotify DJ",
+  "category": "fun",
+  "tagline": "Picks sets, suggests artists, and maps nicknames to your Spotify devices",
+  "description": "A DJ for the Spotify account you already have: it chooses the set, remembers what you call each speaker, and puts the music there.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw",
+  "homepage": "https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw",
+  "license": null,
+  "author": "trevin",
+  "tags": [
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

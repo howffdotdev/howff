@@ -1,0 +1,28 @@
+{
+  "slug": "porshe",
+  "name": "porshe",
+  "category": "finance",
+  "tagline": "Finds uncollected money in Gmail and names one next action. Never sends or pays",
+  "description": "Hunts invoices and pending pay sitting in mail, then tells you the single next step. It does not send the chase and it does not pay anyone.",
+  "integrations": [
+    "Gmail"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/BXDRX1jaURkI4Tx70zLg6",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/BXDRX1jaURkI4Tx70zLg6",
+  "homepage": "https://x.ai/bot/BXDRX1jaURkI4Tx70zLg6",
+  "license": null,
+  "author": "Lauren",
+  "tags": [
+    "finance",
+    "email",
+    "saving-money"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
