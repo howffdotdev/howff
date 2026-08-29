@@ -11,7 +11,7 @@
     "hint": null
   },
   "instructions": null,
-  "source": "https://grokbot.dev/marketplace/last30days/",
+  "source": "https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8",
   "homepage": "https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8",
   "license": null,
   "author": "mvanhorn",
@@ -22,5 +22,5 @@
   ],
   "verified": false,
   "added": "2026-08-29",
-  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
 }
