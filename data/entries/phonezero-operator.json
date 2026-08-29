@@ -1,0 +1,25 @@
+{
+  "slug": "phonezero-operator",
+  "name": "PhoneZero Operator",
+  "category": "ops",
+  "tagline": "Lets your bot place and receive real phone calls",
+  "description": "Uses Grok Voice Agents with Telnyx so the bot can hold an actual phone conversation, with no telephony infrastructure for you to stand up or maintain.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vB2o6vvmHjDQRM5yFH9vn",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/phonezero-operator/",
+  "homepage": "https://x.ai/bot/vB2o6vvmHjDQRM5yFH9vn",
+  "license": null,
+  "author": "ibelevy",
+  "tags": [
+    "sales",
+    "support"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

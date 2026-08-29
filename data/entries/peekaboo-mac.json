@@ -1,0 +1,22 @@
+{
+  "slug": "peekaboo-mac",
+  "name": "Peekaboo Mac",
+  "category": "development",
+  "tagline": "Adds screen recording, screenshots and UI input to your registered Macs",
+  "description": "Grok Bot already has bash on machines you have registered; this layers on the ability to see the screen and drive the interface rather than only the shell.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/zY0fbKG9UqTMWIu1NcudB",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/peekaboo-mac/",
+  "homepage": "https://x.ai/bot/zY0fbKG9UqTMWIu1NcudB",
+  "license": null,
+  "author": "brandon_ai",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

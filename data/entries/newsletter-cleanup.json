@@ -1,0 +1,26 @@
+{
+  "slug": "newsletter-cleanup",
+  "name": "Newsletter Cleanup",
+  "category": "productivity",
+  "tagline": "Audits six months of newsletters and unsubscribes only from what you approve",
+  "description": "Buckets everything into a review page you can actually read, then acts on your decisions. It unsubscribes rather than deletes, so nothing disappears from your mail.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/dHd69sBvMG2o3lJa__T7K",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/newsletter-cleanup/",
+  "homepage": "https://x.ai/bot/dHd69sBvMG2o3lJa__T7K",
+  "license": null,
+  "author": "scheemunai",
+  "tags": [
+    "email",
+    "productivity",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

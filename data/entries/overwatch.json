@@ -1,0 +1,24 @@
+{
+  "slug": "overwatch",
+  "name": "Overwatch",
+  "category": "development",
+  "tagline": "Housekeeper for your Grok Bot VM so a shared machine does not rot",
+  "description": "Gives each bot its own workspace, backs the machine up to git, and handles cleanup and archiving, which is the work nobody does until the shared box is already a mess.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7u3XiRiTYw4GVZmuZboyP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/overwatch/",
+  "homepage": "https://x.ai/bot/7u3XiRiTYw4GVZmuZboyP",
+  "license": null,
+  "author": "scheemunai",
+  "tags": [
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

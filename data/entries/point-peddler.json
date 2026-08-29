@@ -1,0 +1,27 @@
+{
+  "slug": "point-peddler",
+  "name": "point peddler",
+  "category": "finance",
+  "tagline": "An award-travel brain that makes points optimisation effortless",
+  "description": "Its one job is credit-card and airline points, so you never spend longer than a moment deciding how to book. Redemptions and miles get worked out for you rather than by you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/PFD95widaEeqjkYLLUZmD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/point-peddler/",
+  "homepage": "https://x.ai/bot/PFD95widaEeqjkYLLUZmD",
+  "license": null,
+  "author": "Lauren",
+  "tags": [
+    "finance",
+    "travel",
+    "saving-money",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

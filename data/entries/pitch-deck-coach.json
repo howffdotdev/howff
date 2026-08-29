@@ -1,0 +1,25 @@
+{
+  "slug": "pitch-deck-coach",
+  "name": "Pitch Deck Coach",
+  "category": "sales",
+  "tagline": "Tells you what an investor will actually understand and remember",
+  "description": "Upload the deck and it reports back on what lands, what gets believed, what raises a question, and what survives the meeting, then helps you sharpen the story around that.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/mqVPHm0oB3WPsnxbU1qB9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/pitch-deck-coach/",
+  "homepage": "https://x.ai/bot/mqVPHm0oB3WPsnxbU1qB9",
+  "license": null,
+  "author": "hnshah",
+  "tags": [
+    "decision-support",
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

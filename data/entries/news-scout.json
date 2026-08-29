@@ -1,0 +1,24 @@
+{
+  "slug": "news-scout",
+  "name": "News Scout",
+  "category": "research",
+  "tagline": "A weekday morning news digest in your own timezone",
+  "description": "Runs on request rather than firing at you constantly, and works in local time so the morning brief lands in your morning rather than someone else's.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9Mo5saoPQYIp45IgzMT7P",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/news-scout/",
+  "homepage": "https://x.ai/bot/9Mo5saoPQYIp45IgzMT7P",
+  "license": null,
+  "author": "byeleni",
+  "tags": [
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

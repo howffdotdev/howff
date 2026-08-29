@@ -1,0 +1,27 @@
+{
+  "slug": "neuroscience",
+  "name": "Neuroscience",
+  "category": "research",
+  "tagline": "A neuroscience and brain-computer-interface specialist",
+  "description": "Covers EEG and BCI signal interpretation, decoding brain states and intentions, and the OpenBCI-class hardware that produces the signal in the first place.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/l_MfrDAGFed5t2A9Wrzqz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/neuroscience/",
+  "homepage": "https://x.ai/bot/l_MfrDAGFed5t2A9Wrzqz",
+  "license": null,
+  "author": "monomyth",
+  "tags": [
+    "research",
+    "learning",
+    "knowledge-base",
+    "health"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

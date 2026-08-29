@@ -1,0 +1,26 @@
+{
+  "slug": "pg-prospecting",
+  "name": "PG (Prospecting)",
+  "category": "sales",
+  "tagline": "Researches accounts and mines podcasts for a real outreach hook",
+  "description": "Works target accounts before you make contact, digging through recent podcasts and webinars for something specific enough to open with that is not obviously scraped from a profile page.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/fcJJMM58AdXSTBdW3xWyW",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/pg-prospecting/",
+  "homepage": "https://x.ai/bot/fcJJMM58AdXSTBdW3xWyW",
+  "license": null,
+  "author": "kristaletz",
+  "tags": [
+    "sales",
+    "growth",
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

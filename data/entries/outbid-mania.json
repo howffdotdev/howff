@@ -1,0 +1,26 @@
+{
+  "slug": "outbid-mania",
+  "name": "OutBid Mania",
+  "category": "finance",
+  "tagline": "Tracks a viral bidding-site trend and its clones on a daily dashboard",
+  "description": "Watches the original and the copies, follows their revenue, and reports daily on whether the trend is actually growing or just loud.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Sj_LPMP7hKOOSzF8YDiNr",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/outbid-mania/",
+  "homepage": "https://x.ai/bot/Sj_LPMP7hKOOSzF8YDiNr",
+  "license": null,
+  "author": "dragosroua",
+  "tags": [
+    "analytics",
+    "research",
+    "news"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}
