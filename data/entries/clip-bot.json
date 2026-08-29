@@ -1,0 +1,27 @@
+{
+  "slug": "clip-bot",
+  "name": "Clip Bot",
+  "category": "marketing",
+  "tagline": "Cuts captioned 16:9 highlights from any YouTube podcast",
+  "description": "Pulls social-ready clips with karaoke-style captions and a source card, then drops the file straight onto your computer rather than leaving it in a cloud folder.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Vk0cnF2c364QxNv-Xip1M",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/clip-bot/",
+  "homepage": "https://x.ai/bot/Vk0cnF2c364QxNv-Xip1M",
+  "license": null,
+  "author": "ThisWeeknAI",
+  "tags": [
+    "creator",
+    "youtube",
+    "video",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

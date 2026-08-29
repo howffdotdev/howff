@@ -1,0 +1,26 @@
+{
+  "slug": "chief-of-staff-aryaman",
+  "name": "Chief of Staff (Aryaman)",
+  "category": "ops",
+  "tagline": "Low-noise chief of staff across desk, Slack, inbox and calendar",
+  "description": "Surfaces only three things: new results, new failures, and decisions that genuinely need you. It will draft an email but never sends one on your behalf.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XjQ-AZTMrGLmQOTeMu3LF",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/chief-of-staff-aryaman/",
+  "homepage": "https://x.ai/bot/XjQ-AZTMrGLmQOTeMu3LF",
+  "license": null,
+  "author": "aryamankhawow",
+  "tags": [
+    "productivity",
+    "email",
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

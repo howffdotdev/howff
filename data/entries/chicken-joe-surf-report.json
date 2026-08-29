@@ -1,0 +1,25 @@
+{
+  "slug": "chicken-joe-surf-report",
+  "name": "Chicken Joe (Surf Report)",
+  "category": "fun",
+  "tagline": "Scans NorCal surf reports and cams each morning and tells you where to go",
+  "description": "Works through the breaks from Marin County down to Santa Cruz before you are awake, so the answer is one message rather than nine tabs of cams and forecasts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7f5AjmpjZkmTIsSybedYS",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/chicken-joe-surf-report/",
+  "homepage": "https://x.ai/bot/7f5AjmpjZkmTIsSybedYS",
+  "license": null,
+  "author": "parker__conrad",
+  "tags": [
+    "life-hacks",
+    "travel"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

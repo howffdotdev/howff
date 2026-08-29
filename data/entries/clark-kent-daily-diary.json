@@ -1,0 +1,24 @@
+{
+  "slug": "clark-kent-daily-diary",
+  "name": "Clark Kent (Daily Diary)",
+  "category": "ops",
+  "tagline": "Writes up what actually happened in your shop each day",
+  "description": "Watches the day's work and records it in plain language, noticing the mistakes and the skipped steps rather than only the things that went to plan.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/6sF7_MwHMcWgWwq0Z6Xes",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/clark-kent-daily-diary/",
+  "homepage": "https://x.ai/bot/6sF7_MwHMcWgWwq0Z6Xes",
+  "license": null,
+  "author": "RichSilver",
+  "tags": [
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

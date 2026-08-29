@@ -1,0 +1,28 @@
+{
+  "slug": "bounty-hunter",
+  "name": "Bounty Hunter",
+  "category": "finance",
+  "tagline": "Digs through your email and bills for refunds and credits you never chased",
+  "description": "Goes looking for money that is already yours but unclaimed: missed refunds, forgotten credits, overcharges and things you are owed and never got round to pursuing.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/gCWYD009F66A3XDEYdZgf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/bounty-hunter/",
+  "homepage": "https://x.ai/bot/gCWYD009F66A3XDEYdZgf",
+  "license": null,
+  "author": "Liam",
+  "tags": [
+    "saving-money",
+    "life-hacks",
+    "email",
+    "finance",
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "canvas",
+  "name": "Canvas",
+  "category": "writing",
+  "tagline": "Pulls your university units and deadlines out of Canvas",
+  "description": "It signs into your university portal in the browser to read your units and deadlines, so be aware it is holding a session on your student account. It helps you work through assignments rather than doing them.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YihRBqrXaDwRdjN79Uofl",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/canvas/",
+  "homepage": "https://x.ai/bot/YihRBqrXaDwRdjN79Uofl",
+  "license": null,
+  "author": "daxperera",
+  "tags": [
+    "student",
+    "learning",
+    "calendar",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

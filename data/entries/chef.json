@@ -1,0 +1,26 @@
+{
+  "slug": "chef",
+  "name": "Chef",
+  "category": "personal",
+  "tagline": "Plans the week's meals, builds the list and orders the groceries",
+  "description": "Defaults to seasonal local recipes rather than whatever is trending, turns the plan into a shopping list, and places the order online.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3U6zxtPa1b8GbWheaIr4J",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/chef/",
+  "homepage": "https://x.ai/bot/3U6zxtPa1b8GbWheaIr4J",
+  "license": null,
+  "author": "DogecoinNorway",
+  "tags": [
+    "shopping",
+    "life-hacks",
+    "saving-money"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

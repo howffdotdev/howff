@@ -1,0 +1,24 @@
+{
+  "slug": "chief-of-staff-avid",
+  "name": "Chief of Staff (Avid)",
+  "category": "ops",
+  "tagline": "A single-desk chief of staff that runs your day and your company at once",
+  "description": "One conversation covers both, and it locks down who you are and what the company is before it starts operating, rather than guessing from context.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/d8OshqLZvtcKDcNluPuyo",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/chief-of-staff-avid/",
+  "homepage": "https://x.ai/bot/d8OshqLZvtcKDcNluPuyo",
+  "license": null,
+  "author": "Av1dlive",
+  "tags": [
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "clipper",
+  "name": "Clipper",
+  "category": "marketing",
+  "tagline": "Turns videos into short clips and captioned GIFs, picking the joke itself",
+  "description": "Takes footage from X or your own files, watches it, decides what the moment actually is, captions the talking GIFs, and files the output into buckets rather than dumping it in one folder.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ozEfaAFJMDGoB-ysym8_V",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/clipper/",
+  "homepage": "https://x.ai/bot/ozEfaAFJMDGoB-ysym8_V",
+  "license": null,
+  "author": "thesoragirls",
+  "tags": [
+    "creator",
+    "content",
+    "social-media",
+    "design",
+    "video"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}
