@@ -1515,19 +1515,17 @@ dl.facts dd {
     grid-template-columns: 1fr;
   }
 
+  /* Grid, not a flex column: four stacked facets eat the screen, and in a
+     column the search field's flex-basis would set its height, not its width. */
   .filters-top {
-    flex-direction: column;
-    align-items: stretch;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-2) var(--space-3);
+    align-items: end;
   }
 
-  .facet-field,
-  .sort-field {
-    flex: 1 1 auto;
-  }
-
-  .facet-field select,
-  .sort-field select {
-    width: 100%;
+  .search-field {
+    grid-column: 1 / -1;
   }
 
   /* Ten wrapped tiles or pills eat the whole first screen, so they scroll. */
