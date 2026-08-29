@@ -1,0 +1,27 @@
+{
+  "slug": "imogen-alt-text",
+  "name": "Imogen (Alt Text)",
+  "category": "writing",
+  "tagline": "Replies to images you post with clean, copyable alt text",
+  "description": "Writes short alt text focused on the part of the image that actually matters, so posts stay accessible to blind readers without you writing it every time.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9y2GcFkKMAUhYlMxRUS0X",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/imogen-alt-text/",
+  "homepage": "https://x.ai/bot/9y2GcFkKMAUhYlMxRUS0X",
+  "license": null,
+  "author": "Kent C. Dodds",
+  "tags": [
+    "creator",
+    "social-media",
+    "content",
+    "design"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

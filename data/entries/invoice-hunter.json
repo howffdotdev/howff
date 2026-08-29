@@ -1,0 +1,26 @@
+{
+  "slug": "invoice-hunter",
+  "name": "Invoice Hunter",
+  "category": "finance",
+  "tagline": "Finds invoice PDFs in Gmail and packs a month into a CSV",
+  "description": "Pulls the vendor, date, amount and invoice number out of each PDF, bundles a whole month with an index, and waits for your approval before anything reaches your accountant.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-kO6HrXokJZANVwUOMZO9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/invoice-hunter/",
+  "homepage": "https://x.ai/bot/-kO6HrXokJZANVwUOMZO9",
+  "license": null,
+  "author": "scheemunai",
+  "tags": [
+    "back-office",
+    "finance",
+    "email"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

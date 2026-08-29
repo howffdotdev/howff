@@ -1,0 +1,27 @@
+{
+  "slug": "keywire-comic-week-brief",
+  "name": "KeyWire Comic Week Brief",
+  "category": "fun",
+  "tagline": "Weekly pull-list reminder and a comics digest tuned to your taste",
+  "description": "It asks what you actually follow before it starts, so the weekly digest is the issues you care about rather than everything that shipped.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1hyNK6vXzs_8QamyfhvCV",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/keywire-comic-week-brief/",
+  "homepage": "https://x.ai/bot/1hyNK6vXzs_8QamyfhvCV",
+  "license": null,
+  "author": "CryptoVonDoom",
+  "tags": [
+    "creator",
+    "research",
+    "content",
+    "news"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

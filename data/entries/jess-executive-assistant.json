@@ -1,0 +1,26 @@
+{
+  "slug": "jess-executive-assistant",
+  "name": "Jess (Executive Assistant)",
+  "category": "productivity",
+  "tagline": "Recaps email, calendar, Notion and Slack before you open any of them",
+  "description": "A weekday executive assistant: it reads everything first, answers staff questions from a written playbook, and posts the client call notes so you start the day already briefed.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/jess-executive-assistant/",
+  "homepage": "https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN",
+  "license": null,
+  "author": "LoganARobison",
+  "tags": [
+    "productivity",
+    "email",
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

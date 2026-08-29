@@ -1,0 +1,27 @@
+{
+  "slug": "illo",
+  "name": "illo",
+  "category": "writing",
+  "tagline": "Turns ideas and posts into mascot-led editorial illustrations",
+  "description": "Close to zero setup: hand it the announcement or the post and it comes back with an illustration built around a mascot rather than a stock-looking image.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/y3uTGY5hkl6iTmE-ZAX02",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/illo/",
+  "homepage": "https://x.ai/bot/y3uTGY5hkl6iTmE-ZAX02",
+  "license": null,
+  "author": "trevin",
+  "tags": [
+    "creator",
+    "design",
+    "content",
+    "social-media"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

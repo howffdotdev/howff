@@ -1,0 +1,24 @@
+{
+  "slug": "interrogator",
+  "name": "Interrogator",
+  "category": "research",
+  "tagline": "Finds the assumptions you have been treating as facts",
+  "description": "Digs out the things you have stopped questioning, then checks the ones where being wrong would actually change what you do next rather than fact-checking everything equally.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/interrogator/",
+  "homepage": "https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7",
+  "license": null,
+  "author": "Liam",
+  "tags": [
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

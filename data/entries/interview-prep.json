@@ -1,0 +1,26 @@
+{
+  "slug": "interview-prep",
+  "name": "Interview Prep",
+  "category": "development",
+  "tagline": "Picks a topic and level and climbs it with you until you are actually ready",
+  "description": "Examples, runnable code and quizzes, and it keeps going rather than stopping at a fixed syllabus, so the finish line is you being ready rather than the material running out.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4aTE8S1KT93GkqHYxWIo3",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/interview-prep/",
+  "homepage": "https://x.ai/bot/4aTE8S1KT93GkqHYxWIo3",
+  "license": null,
+  "author": "techdevnotes",
+  "tags": [
+    "student",
+    "learning",
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

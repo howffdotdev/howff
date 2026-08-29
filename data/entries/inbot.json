@@ -1,0 +1,26 @@
+{
+  "slug": "inbot",
+  "name": "Inbot",
+  "category": "productivity",
+  "tagline": "An inbox-zero bot across every inbox you actually use",
+  "description": "Setup asks you to connect the lot, mail, Slack or Teams, calendars, Notion and messengers, and then it works them down instead of you checking six places.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yH2UttxbMwMugweZrigHT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/inbot/",
+  "homepage": "https://x.ai/bot/yH2UttxbMwMugweZrigHT",
+  "license": null,
+  "author": "matt_silberman",
+  "tags": [
+    "email",
+    "productivity",
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}
