@@ -1,0 +1,26 @@
+{
+  "slug": "competitor-watching",
+  "name": "Competitor Watching",
+  "category": "marketing",
+  "tagline": "Snapshots you against 3-8 competitors and alerts only on material change",
+  "description": "Watches pricing, changelogs, features, job posts and messaging every week, and stays quiet unless something actually moved, so the alert still means something when it arrives.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5PKSzU0ruN_DQbNXc7m0N",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/competitor-watching/",
+  "homepage": "https://x.ai/bot/5PKSzU0ruN_DQbNXc7m0N",
+  "license": null,
+  "author": "scheemunai",
+  "tags": [
+    "growth",
+    "research",
+    "data"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

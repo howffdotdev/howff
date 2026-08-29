@@ -1,0 +1,22 @@
+{
+  "slug": "cursor-agent-local",
+  "name": "Cursor Agent (Local)",
+  "category": "development",
+  "tagline": "Runs the cursor-agent CLI locally for experiments and shop-floor work",
+  "description": "Local-only by design: it keeps hands-on work on your own laptop while cloud agents stay the default for anything that ends in a GitHub PR.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/z4r7D8iILsTQDf7r7DwKR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/cursor-agent-local/",
+  "homepage": "https://x.ai/bot/z4r7D8iILsTQDf7r7DwKR",
+  "license": null,
+  "author": "ryanthawks",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

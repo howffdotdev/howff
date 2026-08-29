@@ -1,0 +1,27 @@
+{
+  "slug": "data-science-querie",
+  "name": "Data Science (Querie)",
+  "category": "development",
+  "tagline": "Owns analytics queries, spreadsheet pulls and metric definitions",
+  "description": "Give one bot the job of answering data questions and the rest of your roster routes query work to it instead of each improvising its own definition of the same metric.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Bu2sEQqu0hEjpbzN_07D3",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/data-science-querie/",
+  "homepage": "https://x.ai/bot/Bu2sEQqu0hEjpbzN_07D3",
+  "license": null,
+  "author": "egavrilenko11",
+  "tags": [
+    "data",
+    "research",
+    "back-office",
+    "analytics"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

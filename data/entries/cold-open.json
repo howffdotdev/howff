@@ -1,0 +1,26 @@
+{
+  "slug": "cold-open",
+  "name": "Cold Open",
+  "category": "marketing",
+  "tagline": "Turns an idea into a short sitcom-style clip, script first",
+  "description": "It writes the script and waits for your approval before generating anything, which keeps a text-to-video tool from spending your budget on a premise you would have rejected.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/h4suD8jA37Wsb7tS4giUO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/cold-open/",
+  "homepage": "https://x.ai/bot/h4suD8jA37Wsb7tS4giUO",
+  "license": null,
+  "author": "altryne",
+  "tags": [
+    "creator",
+    "content",
+    "video"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

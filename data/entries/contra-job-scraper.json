@@ -1,0 +1,26 @@
+{
+  "slug": "contra-job-scraper",
+  "name": "Contra Job Scraper",
+  "category": "sales",
+  "tagline": "Checks Contra's freelance feed every 6 hours and emails only on change",
+  "description": "Archives every listing to Notion and re-checks old leads, so the email you get is new openings and newly-closed leads rather than the same board reprinted four times a day.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/__sNWxlx-8H08UluQuOeo",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/contra-job-scraper/",
+  "homepage": "https://x.ai/bot/__sNWxlx-8H08UluQuOeo",
+  "license": null,
+  "author": "techking_007",
+  "tags": [
+    "creator",
+    "sales",
+    "growth"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "decklens-pitch-deck-analyzer",
+  "name": "DeckLens (Pitch Deck Analyzer)",
+  "category": "research",
+  "tagline": "Interviews you to build a review rubric, then scores pitch decks against it",
+  "description": "A ten-question interview turns your actual taste into an explicit, editable profile, and every deck after that is graded against your standard rather than a generic one.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/KlcxAG1I8cMQoqS_8Hrdn",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/decklens-pitch-deck-analyzer/",
+  "homepage": "https://x.ai/bot/KlcxAG1I8cMQoqS_8Hrdn",
+  "license": null,
+  "author": "BrianDEvans",
+  "tags": [
+    "investor",
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

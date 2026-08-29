@@ -1,0 +1,27 @@
+{
+  "slug": "credit-card-max",
+  "name": "Credit Card Max",
+  "category": "finance",
+  "tagline": "Tells you which card to use for a purchase to maximise points and perks",
+  "description": "Tracks the cards you hold, flags the benefits you are paying for and never using, and catches recurring charges sitting on the wrong card.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/D831qeIZ5QrobdVh-X79U",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/credit-card-max/",
+  "homepage": "https://x.ai/bot/D831qeIZ5QrobdVh-X79U",
+  "license": null,
+  "author": "trevin",
+  "tags": [
+    "finance",
+    "saving-money",
+    "life-hacks",
+    "shopping"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

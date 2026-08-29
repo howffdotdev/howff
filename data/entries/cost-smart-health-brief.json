@@ -1,0 +1,26 @@
+{
+  "slug": "cost-smart-health-brief",
+  "name": "Cost-Smart Health Brief",
+  "category": "research",
+  "tagline": "Turns one health question into a three-minute brief",
+  "description": "Covers what the evidence actually says, which cheaper treatment options exist, and the point at which you should stop reading and see a doctor.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Rm6VqcE8cOWXwotPth9qM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/cost-smart-health-brief/",
+  "homepage": "https://x.ai/bot/Rm6VqcE8cOWXwotPth9qM",
+  "license": null,
+  "author": "GuleidAmina",
+  "tags": [
+    "health",
+    "saving-money",
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

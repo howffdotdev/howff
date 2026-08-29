@@ -1,0 +1,26 @@
+{
+  "slug": "deal-hunting",
+  "name": "Deal Hunting",
+  "category": "personal",
+  "tagline": "Landed-cost shopping that compares real prices including shipping and tax",
+  "description": "Compares what you will actually pay across your preferred retailers rather than the sticker price, keeps an optional watchlist, and never buys anything unless you ask it to.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MGiEdMz0TNxBkvMgUZAbf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/deal-hunting/",
+  "homepage": "https://x.ai/bot/MGiEdMz0TNxBkvMgUZAbf",
+  "license": null,
+  "author": "scheemunai",
+  "tags": [
+    "shopping",
+    "saving-money",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

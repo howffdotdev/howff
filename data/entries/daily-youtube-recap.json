@@ -1,0 +1,27 @@
+{
+  "slug": "daily-youtube-recap",
+  "name": "Daily YouTube Recap",
+  "category": "personal",
+  "tagline": "Morning recap of the YouTube channels you follow, silent when nothing dropped",
+  "description": "Works from real transcripts rather than scraped descriptions, and says nothing at all on the days your channels did not post, which is what makes it survivable daily.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/dug1Zq29P009fdcI5-tTC",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/daily-youtube-recap/",
+  "homepage": "https://x.ai/bot/dug1Zq29P009fdcI5-tTC",
+  "license": null,
+  "author": "scheemunai",
+  "tags": [
+    "creator",
+    "youtube",
+    "research",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}
