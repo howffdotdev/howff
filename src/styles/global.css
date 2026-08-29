@@ -1302,8 +1302,11 @@ a.cat:hover {
   font-size: var(--text-sm);
 }
 
+/* min-width: 0 or the nowrap URL's min-content width wins over the grid
+   track and pushes the page sideways instead of ellipsising. */
 .url-box {
   display: flex;
+  min-width: 0;
   gap: var(--space-2);
   align-items: center;
 }
