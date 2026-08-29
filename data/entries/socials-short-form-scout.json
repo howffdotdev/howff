@@ -1,0 +1,28 @@
+{
+  "slug": "socials-short-form-scout",
+  "name": "Socials (Short-Form Scout)",
+  "category": "marketing",
+  "tagline": "Hourly scout that hands you filmable short-form content kits",
+  "description": "Watches X and Reddit for AI and tech moments worth filming, then delivers briefs rather than scripts, so what arrives is an angle you can shoot rather than words to read aloud.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bjsbaj_a2ds2pQY1YiXqE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/socials-short-form-scout/",
+  "homepage": "https://x.ai/bot/bjsbaj_a2ds2pQY1YiXqE",
+  "license": null,
+  "author": "ashen_one",
+  "tags": [
+    "creator",
+    "social-media",
+    "content",
+    "growth",
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

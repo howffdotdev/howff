@@ -1,0 +1,26 @@
+{
+  "slug": "stitchy-personal-stylist",
+  "name": "Stitchy (Personal Stylist)",
+  "category": "personal",
+  "tagline": "Suggests a fresh outfit each morning and hunts for bargains overnight",
+  "description": "Connects to your existing wardrobe and account, briefs you at six with the weather and an outfit from clothes you already own, and surfaces only the genuinely good finds.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/P-8iKYx3Eeq3pelx_UPHq",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/stitchy-personal-stylist/",
+  "homepage": "https://x.ai/bot/P-8iKYx3Eeq3pelx_UPHq",
+  "license": null,
+  "author": "Mitch_Sweigart",
+  "tags": [
+    "shopping",
+    "saving-money",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

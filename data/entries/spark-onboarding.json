@@ -1,0 +1,24 @@
+{
+  "slug": "spark-onboarding",
+  "name": "Spark (Onboarding)",
+  "category": "ops",
+  "tagline": "A five-minute onboarding bot that spawns the starter bots you need",
+  "description": "Asks a short set of questions, creates the bots that match your answers, and then nudges you towards connecting the accounts that make those bots actually useful.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_2vi1lOY4oiBaJDA3S8l1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/spark-onboarding/",
+  "homepage": "https://x.ai/bot/_2vi1lOY4oiBaJDA3S8l1",
+  "license": null,
+  "author": "vincentzhu",
+  "tags": [
+    "learning"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "thoth-researcher-archivist",
+  "name": "Thoth (Researcher & Archivist)",
+  "category": "research",
+  "tagline": "Does deep research and files the dossiers so you can find them again",
+  "description": "The filing is the point: it builds source briefs and longer dossiers, then puts them somewhere with enough structure that the work is still findable months later.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/W4Z5pvEm6UgCml48Ig4dT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/thoth-researcher-archivist/",
+  "homepage": "https://x.ai/bot/W4Z5pvEm6UgCml48Ig4dT",
+  "license": null,
+  "author": "RichSilver",
+  "tags": [
+    "student",
+    "research",
+    "data",
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

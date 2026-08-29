@@ -1,0 +1,28 @@
+{
+  "slug": "storiesbot",
+  "name": "StoriesBot",
+  "category": "research",
+  "tagline": "Searches 17 years of MacStories, filterable by time and author",
+  "description": "Longform reviews, Setups and the Shortcuts Archive, all answerable in one place. Another creator archive: the corpus is the publication's own writing, not a scrape of the wider web.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/cV7nGFO88pb2WXNN56h8A",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/storiesbot/",
+  "homepage": "https://x.ai/bot/cV7nGFO88pb2WXNN56h8A",
+  "license": null,
+  "author": "viticci",
+  "tags": [
+    "creator",
+    "research",
+    "learning",
+    "content",
+    "knowledge-base"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

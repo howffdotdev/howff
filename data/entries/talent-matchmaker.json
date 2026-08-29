@@ -1,0 +1,27 @@
+{
+  "slug": "talent-matchmaker",
+  "name": "Talent Matchmaker",
+  "category": "sales",
+  "tagline": "Matches people looking for work against roles hiding in your inbox",
+  "description": "Scans investor updates and inbound mail for hiring signals on one side and people quietly looking on the other, then tracks both sides so an introduction is actually possible.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/l8p6rXw-lalL-UNiHySnJ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/talent-matchmaker/",
+  "homepage": "https://x.ai/bot/l8p6rXw-lalL-UNiHySnJ",
+  "license": null,
+  "author": "Lenny",
+  "tags": [
+    "investor",
+    "recruiting",
+    "growth",
+    "email"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

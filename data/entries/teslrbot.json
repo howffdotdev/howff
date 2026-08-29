@@ -1,0 +1,22 @@
+{
+  "slug": "teslrbot",
+  "name": "TeslrBot",
+  "category": "personal",
+  "tagline": "Run your Tesla's charging, climate, locks and navigation from a chat",
+  "description": "Control happens through a third-party connector you log into on the bot's own machine, so the car is reachable without you copying tokens around. That connector is who you are trusting, alongside the bot.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_S9OOSBgXixedyANQSYjQ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/teslrbot/",
+  "homepage": "https://x.ai/bot/_S9OOSBgXixedyANQSYjQ",
+  "license": null,
+  "author": "HeresMyEth",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

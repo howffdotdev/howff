@@ -1,0 +1,27 @@
+{
+  "slug": "tradbot",
+  "name": "Tradbot",
+  "category": "finance",
+  "tagline": "A household chief of staff for family plans, school and home admin",
+  "description": "Despite the name it is not a trading bot: it watches your personal inbox and calendar so school items, family plans and household follow-ups stop slipping through.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/uY_7s1TZILVzUeJ9lLOx9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/tradbot/",
+  "homepage": "https://x.ai/bot/uY_7s1TZILVzUeJ9lLOx9",
+  "license": null,
+  "author": "clairevo",
+  "tags": [
+    "family",
+    "email",
+    "calendar",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

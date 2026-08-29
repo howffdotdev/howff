@@ -1,0 +1,27 @@
+{
+  "slug": "shorty",
+  "name": "Shorty",
+  "category": "marketing",
+  "tagline": "Cuts YouTube Shorts from the long-form videos that already worked",
+  "description": "Starts from proven performers rather than everything you have posted, picks the strong hooks, formats 9:16 with captions, and ships in weekday batches.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/32fHIBw9Yz-s_o35KycGX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/shorty/",
+  "homepage": "https://x.ai/bot/32fHIBw9Yz-s_o35KycGX",
+  "license": null,
+  "author": "Farzad",
+  "tags": [
+    "creator",
+    "youtube",
+    "video",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

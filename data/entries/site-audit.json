@@ -1,0 +1,25 @@
+{
+  "slug": "site-audit",
+  "name": "Site Audit",
+  "category": "marketing",
+  "tagline": "One-pass site audit across SEO, speed, accessibility, CRO and schema",
+  "description": "Everything is scored P0, P1 or P2 with an evidence URL attached, and each month is diffed against the last so you see what moved rather than a fresh wall of findings.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/site-audit/",
+  "homepage": "https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW",
+  "license": null,
+  "author": "scheemunai",
+  "tags": [
+    "growth",
+    "data"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}
