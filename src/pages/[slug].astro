@@ -4,6 +4,7 @@ import Base from '../layouts/Base.astro';
 import BotCard from '../components/BotCard.astro';
 import CopyButton from '../components/CopyButton.astro';
 import { loadEntries, related, readInstructions, CATEGORY_LABEL } from '../lib/entries.js';
+import { botMark } from '../lib/botmark.js';
 
 export async function getStaticPaths() {
   const docs = await getCollection('instructions');
@@ -24,15 +25,27 @@ const also = related(entry);
 const isShare = entry.add.kind === 'share-link';
 const host = (url) => url.replace(/^https?:\/\//, '').replace(/\/$/, '');
 const cc = entry.license?.startsWith('CC-BY');
+const mark = botMark(entry.slug, entry.category, { size: 64, attrs: 'aria-hidden="true"' });
 ---
-<Base title={entry.name} description={entry.tagline} path={`/${entry.slug}`}>
+<Base
+  title={entry.name}
+  description={entry.tagline}
+  path={`/${entry.slug}`}
+  ogImage={`/og/${entry.slug}.png`}
+  ogImageAlt={`${entry.name} on Howff. ${entry.tagline}`}
+>
   <main id="main" class="wrap entry">
     <div>
       <nav class="breadcrumb" aria-label="Breadcrumb">
         <a href="/">Shelf</a> · <a href={`/c/${entry.category}`}>{CATEGORY_LABEL[entry.category]}</a>
       </nav>
-      <h1>{entry.name}</h1>
-      <p class="tagline">{entry.tagline}</p>
+      <div class="entry-head">
+        <span class="botmark botmark-lg" set:html={mark} />
+        <div>
+          <h1>{entry.name}</h1>
+          <p class="tagline">{entry.tagline}</p>
+        </div>
+      </div>
       <div class="entry-meta">
         <a class="cat" href={`/c/${entry.category}`} style={`--cat: var(--cat-${entry.category})`}>
           {CATEGORY_LABEL[entry.category]}

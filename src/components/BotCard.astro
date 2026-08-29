@@ -1,7 +1,10 @@
 ---
 import { CATEGORY_LABEL, ADD_LABEL } from '../lib/entries.js';
+import { botMark } from '../lib/botmark.js';
 
 const { entry, instructions = '' } = Astro.props;
+
+const mark = botMark(entry.slug, entry.category, { size: 34, attrs: 'aria-hidden="true"' });
 
 // One lowercase haystack for the client filter. Instructions are included so a
 // search for "gmail" finds bots that only mention it in their prompt.
@@ -37,7 +40,10 @@ const isShare = entry.add.kind === 'share-link';
     <span class="cat">{CATEGORY_LABEL[entry.category]}</span>
     <span class="card-author">{entry.author ?? 'anon'}</span>
   </div>
-  <h3><a href={`/${entry.slug}`}>{entry.name}</a></h3>
+  <div class="card-head">
+    <span class="botmark" set:html={mark} />
+    <h3><a href={`/${entry.slug}`}>{entry.name}</a></h3>
+  </div>
   <p class="card-tagline">{entry.tagline}</p>
   <div class="card-foot">
     <div class="chips">

@@ -1028,6 +1028,18 @@ button[aria-live] {
   justify-content: space-between;
 }
 
+.card-head {
+  display: flex;
+  gap: var(--space-3);
+  align-items: center;
+}
+
+/* Generated from the slug, so it is decoration, not information. */
+.botmark {
+  display: flex;
+  flex: none;
+}
+
 .card h3 {
   margin: 0;
   font-size: var(--text-xl);
@@ -1183,6 +1195,16 @@ a.cat:hover {
 
 .breadcrumb a:hover {
   color: var(--accent-text);
+}
+
+.entry-head {
+  display: flex;
+  gap: var(--space-4);
+  align-items: flex-start;
+}
+
+.botmark-lg {
+  margin-top: var(--space-1);
 }
 
 .entry h1 {
