@@ -1,0 +1,25 @@
+{
+  "slug": "bodyguard",
+  "name": "Bodyguard",
+  "category": "ops",
+  "tagline": "Sorts incoming requests by whether they deserve your time",
+  "description": "Splits everything arriving at you into worth-answering, deal-with-later and probably-ignore. It never replies for you; the triage is the whole product.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/tII28kVM4dxPvzSLjwqko",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/bodyguard/",
+  "homepage": "https://x.ai/bot/tII28kVM4dxPvzSLjwqko",
+  "license": null,
+  "author": "Liam",
+  "tags": [
+    "productivity",
+    "email"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

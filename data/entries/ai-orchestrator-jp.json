@@ -1,0 +1,22 @@
+{
+  "slug": "ai-orchestrator-jp",
+  "name": "AI Orchestrator (JP)",
+  "category": "ops",
+  "tagline": "A Japanese-language commander that distributes work to specialists",
+  "description": "Assigns one job per specialist, keeps the departments tidy, runs scheduled check-ins, and manages the shared memory. Posting and destructive changes wait for the owner's approval.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-kSMWtBCorQFkgUhm0DLk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/ai-orchestrator-jp/",
+  "homepage": "https://x.ai/bot/-kSMWtBCorQFkgUhm0DLk",
+  "license": null,
+  "author": "mei_999_",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

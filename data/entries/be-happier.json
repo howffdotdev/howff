@@ -1,0 +1,28 @@
+{
+  "slug": "be-happier",
+  "name": "Be Happier",
+  "category": "fun",
+  "tagline": "Suggests three concrete things each week that would make you happier",
+  "description": "Reads your mail and calendar, then proposes changes to the life you already have. It deliberately does not add habits, which is what makes the suggestions survivable past week two.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0VC1XzREXRFGe0hVo-JEG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/be-happier/",
+  "homepage": "https://x.ai/bot/0VC1XzREXRFGe0hVo-JEG",
+  "license": null,
+  "author": "Lenny",
+  "tags": [
+    "health",
+    "life-hacks",
+    "productivity",
+    "learning",
+    "wellbeing"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

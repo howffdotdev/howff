@@ -1,0 +1,26 @@
+{
+  "slug": "blair-personal-shopper",
+  "name": "Blair (Personal Shopper)",
+  "category": "personal",
+  "tagline": "A personal shopper that hunts down secondhand designer pieces and can buy them",
+  "description": "Give it the specific thing you want and it goes looking, with a bias towards used and quiet-luxury finds rather than whatever is currently in stock at full price.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/blair-personal-shopper/",
+  "homepage": "https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme",
+  "license": null,
+  "author": "jediahkatz",
+  "tags": [
+    "shopping",
+    "saving-money",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

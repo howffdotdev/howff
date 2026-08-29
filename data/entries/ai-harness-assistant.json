@@ -1,0 +1,24 @@
+{
+  "slug": "ai-harness-assistant",
+  "name": "AI Harness Assistant",
+  "category": "development",
+  "tagline": "Keeps every AI coding tool on your machines up to date",
+  "description": "Codex, Claude Code, Cursor, OpenCode and the rest, updated on a schedule instead of whenever you happen to notice one is three versions behind.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/ai-harness-assistant/",
+  "homepage": "https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB",
+  "license": null,
+  "author": "gheeunit",
+  "tags": [
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

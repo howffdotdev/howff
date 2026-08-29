@@ -1,0 +1,26 @@
+{
+  "slug": "aio-specialist-aeo-geo",
+  "name": "AIO Specialist (AEO/GEO)",
+  "category": "marketing",
+  "tagline": "Treats AI Overviews and answer-engine optimisation as a standing program",
+  "description": "Answer-engine and generative-engine optimisation run as ongoing work rather than a one-off check of what a chatbot says about you today.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wOvqAFpr3o8VB3g4Tmpxr",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/aio-specialist-aeo-geo/",
+  "homepage": "https://x.ai/bot/wOvqAFpr3o8VB3g4Tmpxr",
+  "license": null,
+  "author": "mathiasnoyez",
+  "tags": [
+    "seo",
+    "content",
+    "growth"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "ai-usage-meter",
+  "name": "AI Usage Meter",
+  "category": "finance",
+  "tagline": "Tracks how much of each AI subscription you have actually used",
+  "description": "You tell it which subscriptions to watch and where the usage lives, and it warns you as the remaining quota falls, so you find out before the month ends rather than after.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/2atUDeldi9vF1R_ySRgCo",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/ai-usage-meter/",
+  "homepage": "https://x.ai/bot/2atUDeldi9vF1R_ySRgCo",
+  "license": null,
+  "author": "BrianDEvans",
+  "tags": [
+    "saving-money",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

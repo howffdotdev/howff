@@ -1,0 +1,27 @@
+{
+  "slug": "ai-resource-sift",
+  "name": "AI Resource Sift",
+  "category": "research",
+  "tagline": "Sweeps papers, code, lectures and forums into one reading stack",
+  "description": "Name a single AI topic and it goes through the papers, GitHub, lectures, courses, forums and the labs' own docs, then hands back a filtered stack rather than a search page.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/ai-resource-sift/",
+  "homepage": "https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL",
+  "license": null,
+  "author": "beamnxw",
+  "tags": [
+    "student",
+    "research",
+    "learning",
+    "knowledge-base"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

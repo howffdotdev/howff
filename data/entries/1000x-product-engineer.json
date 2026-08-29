@@ -1,0 +1,24 @@
+{
+  "slug": "1000x-product-engineer",
+  "name": "1000x Product Engineer",
+  "category": "development",
+  "tagline": "A full-stack product engineer that ships Convex, TanStack and React apps",
+  "description": "Takes a web app from nothing to shipped across the whole stack, with enough interface taste that the result does not look like scaffolding.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/1000x-product-engineer/",
+  "homepage": "https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu",
+  "license": null,
+  "author": "TomZarebczan",
+  "tags": [
+    "design"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

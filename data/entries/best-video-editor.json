@@ -1,0 +1,26 @@
+{
+  "slug": "best-video-editor",
+  "name": "Best Video Editor",
+  "category": "writing",
+  "tagline": "Plans the whole edit from your footage and returns a review-ready cut",
+  "description": "It diagnoses the treatment first and then works the clips, cuts, sound, titles and pacing, so what comes back is a cut you review rather than a pile of trimmed files.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Do4CujP_kqnnc1KYnpOfI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/best-video-editor/",
+  "homepage": "https://x.ai/bot/Do4CujP_kqnnc1KYnpOfI",
+  "license": null,
+  "author": "XFreeze",
+  "tags": [
+    "creator",
+    "video",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}
