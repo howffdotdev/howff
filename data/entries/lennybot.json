@@ -1,0 +1,27 @@
+{
+  "slug": "lennybot",
+  "name": "Lennybot",
+  "category": "research",
+  "tagline": "Answers product and growth questions from Lenny Rachitsky's own archive",
+  "description": "A creator archive rather than a persona: it answers from the essays and interviews Lenny has actually published, so the sourcing is his own work rather than a general impression of him.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VjbtJ_qTdzbhJGmXdvTIc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/lennybot/",
+  "homepage": "https://x.ai/bot/VjbtJ_qTdzbhJGmXdvTIc",
+  "license": null,
+  "author": "Lenny",
+  "tags": [
+    "student",
+    "learning",
+    "research",
+    "knowledge-base"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

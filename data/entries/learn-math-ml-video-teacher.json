@@ -1,0 +1,27 @@
+{
+  "slug": "learn-math-ml-video-teacher",
+  "name": "Learn (Math & ML Video Teacher)",
+  "category": "personal",
+  "tagline": "Builds first-principles lessons and renders them as animated explainers",
+  "description": "Takes a maths or machine-learning topic, constructs the lesson from the ground up, and produces the explainer video. It never publishes or posts anything itself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s5JszATSty0w-uDTw_NzK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/learn-math-ml-video-teacher/",
+  "homepage": "https://x.ai/bot/s5JszATSty0w-uDTw_NzK",
+  "license": null,
+  "author": "JeffreyLind",
+  "tags": [
+    "student",
+    "creator",
+    "learning",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

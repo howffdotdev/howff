@@ -1,0 +1,25 @@
+{
+  "slug": "leader-1-1-bot",
+  "name": "Leader 1:1 Bot",
+  "category": "ops",
+  "tagline": "Walks into your weekly 1:1 with last week's thread and three things worth saying",
+  "description": "Carries the thread forward instead of restarting each week, picks the few topics actually worth the slot, and drafts the feedback you have been putting off.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/eZhKhPkfxxFSml18TS2X8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/leader-1-1-bot/",
+  "homepage": "https://x.ai/bot/eZhKhPkfxxFSml18TS2X8",
+  "license": null,
+  "author": "scottxmetcalf",
+  "tags": [
+    "productivity",
+    "learning"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

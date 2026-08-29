@@ -1,0 +1,24 @@
+{
+  "slug": "linky",
+  "name": "Linky",
+  "category": "productivity",
+  "tagline": "Send it any file, folder or bot output and it hands back a shareable URL",
+  "description": "A small utility bot: whatever another bot produces for you, this one publishes and returns a link you can send to someone else. It needs the here.now plugin connected once.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/linky/",
+  "homepage": "https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk",
+  "license": null,
+  "author": "adamludwin",
+  "tags": [
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

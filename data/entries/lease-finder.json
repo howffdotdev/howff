@@ -1,0 +1,27 @@
+{
+  "slug": "lease-finder",
+  "name": "Lease Finder",
+  "category": "research",
+  "tagline": "Hunts current car lease deals nationwide for the deepest discount to MSRP",
+  "description": "Pulls from Edmunds, KBB, CarGurus and Cars.com to find where the discount against list price is actually largest, rather than what is advertised locally.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_A_AZayMmSNuN_-sdq_M1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/lease-finder/",
+  "homepage": "https://x.ai/bot/_A_AZayMmSNuN_-sdq_M1",
+  "license": null,
+  "author": "dannymacias",
+  "tags": [
+    "shopping",
+    "saving-money",
+    "life-hacks",
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "life-life-door",
+  "name": "Life (Life Door)",
+  "category": "personal",
+  "tagline": "A standing inbox for everything personal that spawns the bots you need",
+  "description": "One door for personal tasks: it opens rooms and creates the specialists each task needs, and it starts completely empty for every new owner rather than inheriting the author's life.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/6I-yjMRU1BmiYNfZgWXBK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/life-life-door/",
+  "homepage": "https://x.ai/bot/6I-yjMRU1BmiYNfZgWXBK",
+  "license": null,
+  "author": "TylerNishida",
+  "tags": [
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

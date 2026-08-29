@@ -1,0 +1,24 @@
+{
+  "slug": "kody",
+  "name": "Kody",
+  "category": "ops",
+  "tagline": "A chief of staff that turns your priorities into coordinated action",
+  "description": "Sits across people, projects and your other assistants, and its job is to make what you said matters actually turn into work that is moving somewhere.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/kody/",
+  "homepage": "https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e",
+  "license": null,
+  "author": "Kent C. Dodds",
+  "tags": [
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

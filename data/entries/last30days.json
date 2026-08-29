@@ -1,0 +1,26 @@
+{
+  "slug": "last30days",
+  "name": "last30days",
+  "category": "research",
+  "tagline": "Surfaces what people have actually said about a topic in the last 30 days",
+  "description": "A social-listening sweep bounded to a month, so the picture is current rather than whatever ranked highest years ago. Setup installs a skill from a public GitHub repo, which is worth knowing before you run it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/last30days/",
+  "homepage": "https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8",
+  "license": null,
+  "author": "mvanhorn",
+  "tags": [
+    "research",
+    "analytics",
+    "social-media"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

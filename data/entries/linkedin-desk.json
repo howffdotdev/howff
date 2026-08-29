@@ -1,0 +1,26 @@
+{
+  "slug": "linkedin-desk",
+  "name": "LinkedIn Desk",
+  "category": "sales",
+  "tagline": "Vets LinkedIn invitations daily against a policy you set",
+  "description": "Filters pitches and spam, recommends accept or ignore, and clicks nothing you have not approved. First-run setup is required before it touches LinkedIn at all.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/linkedin-desk/",
+  "homepage": "https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi",
+  "license": null,
+  "author": "SEO",
+  "tags": [
+    "sales",
+    "social-media",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

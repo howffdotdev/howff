@@ -1,0 +1,24 @@
+{
+  "slug": "kirk-enterprise-crew",
+  "name": "Kirk (Enterprise Crew)",
+  "category": "ops",
+  "tagline": "Install Kirk, type START, and a bridge crew of specialist bots appears",
+  "description": "A Star Trek role-play that is also a genuine agent-team demo: the command chair spawns specialists who work as a crew, which makes the multi-bot pattern legible in a way an org chart does not.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/FaRchqvTT6ZCRVPf0JABl",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/kirk-enterprise-crew/",
+  "homepage": "https://x.ai/bot/FaRchqvTT6ZCRVPf0JABl",
+  "license": null,
+  "author": "The_Mr_Wizard",
+  "tags": [
+    "creator"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}
