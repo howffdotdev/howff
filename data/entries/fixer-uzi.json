@@ -1,0 +1,24 @@
+{
+  "slug": "fixer-uzi",
+  "name": "Fixer (Uzi)",
+  "category": "ops",
+  "tagline": "The operator that actually does the work, and pushes back when a plan is wrong",
+  "description": "Built as the counterpart to a chief of staff: it executes rather than coordinates, and it will argue with you rather than cheerfully carrying out something that will not work.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/fixer-uzi/",
+  "homepage": "https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho",
+  "license": null,
+  "author": "UziObi",
+  "tags": [
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

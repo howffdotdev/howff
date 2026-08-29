@@ -1,0 +1,25 @@
+{
+  "slug": "frontier-model-watch",
+  "name": "Frontier Model Watch",
+  "category": "research",
+  "tagline": "One verified daily digest of releases from ten frontier AI labs",
+  "description": "Watches official channels from xAI, Anthropic, Google, OpenAI, DeepSeek and six more, and sends a single verified digest rather than a running feed of rumour.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YHqn0iTQuvI-8LC01IP6S",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/frontier-model-watch/",
+  "homepage": "https://x.ai/bot/YHqn0iTQuvI-8LC01IP6S",
+  "license": null,
+  "author": "GuleidAmina",
+  "tags": [
+    "research",
+    "learning"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

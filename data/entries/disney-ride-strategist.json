@@ -1,0 +1,26 @@
+{
+  "slug": "disney-ride-strategist",
+  "name": "Disney Ride Strategist",
+  "category": "fun",
+  "tagline": "Builds a day-by-day Walt Disney World plan around the rides you want",
+  "description": "Captures wait times ahead of the trip and plans around your actual park days, whether you have Early Entry, and the rides you refuse to miss.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/izE8-5f78ykATd43I5ROC",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/disney-ride-strategist/",
+  "homepage": "https://x.ai/bot/izE8-5f78ykATd43I5ROC",
+  "license": null,
+  "author": "matthopkins_",
+  "tags": [
+    "travel",
+    "events",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

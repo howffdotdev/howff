@@ -1,0 +1,26 @@
+{
+  "slug": "freelance-prospector",
+  "name": "Freelance Prospector",
+  "category": "sales",
+  "tagline": "Scans freelance marketplaces and books the meetings in your voice",
+  "description": "Finds the high-fit posts, writes first contact the way you would write it, follows up when nobody replies, and books the call. You take it from there.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/UMCdNlqEH7USe3eOznd1U",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/freelance-prospector/",
+  "homepage": "https://x.ai/bot/UMCdNlqEH7USe3eOznd1U",
+  "license": null,
+  "author": "cristianmock",
+  "tags": [
+    "sales",
+    "creator",
+    "growth"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

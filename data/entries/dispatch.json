@@ -1,0 +1,27 @@
+{
+  "slug": "dispatch",
+  "name": "Dispatch",
+  "category": "sales",
+  "tagline": "Nightly scan of email, Slack, LinkedIn and X DMs that books the missing calls",
+  "description": "If someone agreed to a call and no invite exists, it creates the calendar event, which closes the gap where a yes quietly turns into nothing ever being scheduled.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YkmZEZYBk-BqylyQbM3kq",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/dispatch/",
+  "homepage": "https://x.ai/bot/YkmZEZYBk-BqylyQbM3kq",
+  "license": null,
+  "author": "FilippoFonseca",
+  "tags": [
+    "sales",
+    "productivity",
+    "email",
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

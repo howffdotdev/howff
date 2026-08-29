@@ -1,0 +1,27 @@
+{
+  "slug": "fenrir-paper-trading",
+  "name": "Fenrir (Paper Trading)",
+  "category": "finance",
+  "tagline": "Runs a paper-trading tournament on NSE or NASDAQ",
+  "description": "Orchestrates competing strategies against a live market feed as a tournament, retargeting the clock, currency and universe depending on which exchange you point it at.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/FReKiR82_-lF359lhshpR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/fenrir-paper-trading/",
+  "homepage": "https://x.ai/bot/FReKiR82_-lF359lhshpR",
+  "license": null,
+  "author": "shantanugoel",
+  "tags": [
+    "investor",
+    "finance",
+    "research",
+    "data"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

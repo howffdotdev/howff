@@ -1,0 +1,26 @@
+{
+  "slug": "fixer-liam",
+  "name": "Fixer (Liam)",
+  "category": "personal",
+  "tagline": "Hand it the admin thing you keep putting off and it gets it nearly solved",
+  "description": "A refund, a cancellation, a charge you do not recognise: it investigates the whole thing and pushes it as far as it can go before it genuinely needs you to step in.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/CEtFUY1_kkn78AJSNINHI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/fixer-liam/",
+  "homepage": "https://x.ai/bot/CEtFUY1_kkn78AJSNINHI",
+  "license": null,
+  "author": "Liam",
+  "tags": [
+    "saving-money",
+    "life-hacks",
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "forge-template-foundry",
+  "name": "Forge (Template Foundry)",
+  "category": "development",
+  "tagline": "One keyword in, a production-ready Grok Bot recipe out",
+  "description": "Hand it a task or a job description and it returns a complete bot recipe on the first pass, rather than an outline you then have to finish yourself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/uF_uodOFUz9mdv6XDWE70",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/forge-template-foundry/",
+  "homepage": "https://x.ai/bot/uF_uodOFUz9mdv6XDWE70",
+  "license": null,
+  "author": "rryssf",
+  "tags": [
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

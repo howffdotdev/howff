@@ -1,0 +1,28 @@
+{
+  "slug": "echo",
+  "name": "Echo",
+  "category": "productivity",
+  "tagline": "Builds the deck after a customer call, from what was actually said",
+  "description": "After a discovery call or a demo it turns the call's own context into slides - what you heard, the next steps, the initiatives that came up - in Figma or Google Slides. It can fire automatically after every external call, or rewrite the deck live while you are still talking.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ph5mcXqVy2p176Br7BJYi",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/echo/",
+  "homepage": "https://x.ai/bot/ph5mcXqVy2p176Br7BJYi",
+  "license": null,
+  "author": "kristaletz",
+  "tags": [
+    "sales",
+    "meetings",
+    "content",
+    "design",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}
