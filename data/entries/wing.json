@@ -1,0 +1,24 @@
+{
+  "slug": "wing",
+  "name": "wing",
+  "category": "personal",
+  "tagline": "Drafts dating-app openers, bios and replies from a screenshot. Never sends",
+  "description": "You show it the profile or the thread. It writes the opener, the bio, or the reply. It does not log into the apps and it does not send.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7tQzGIL3WcHG8_Nt7CVwv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7tQzGIL3WcHG8_Nt7CVwv",
+  "homepage": "https://x.ai/bot/7tQzGIL3WcHG8_Nt7CVwv",
+  "license": null,
+  "author": "Lauren",
+  "tags": [
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

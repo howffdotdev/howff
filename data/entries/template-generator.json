@@ -1,0 +1,24 @@
+{
+  "slug": "template-generator",
+  "name": "Template Generator",
+  "category": "development",
+  "tagline": "Scans local sessions for setup tasks, then offers Grok Bot templates to share",
+  "description": "Looks at the setup work you have already done on the machine and turns the repeatable bits into templates you can hand to someone else.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9oKJDID_EKLacIXpKfFAq",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9oKJDID_EKLacIXpKfFAq",
+  "homepage": "https://x.ai/bot/9oKJDID_EKLacIXpKfFAq",
+  "license": null,
+  "author": "STACCoverflow",
+  "tags": [
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "sylvia-style",
+  "name": "Sylvia Style",
+  "category": "personal",
+  "tagline": "A stylist from size, taste and Pinterest, shopping live pieces into a lookbook",
+  "description": "Builds outfits from what you actually wear and pin, then shops live pieces rather than inventing a wardrobe you do not own.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/uVBVr5NSR6VirgJrgikIl",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/uVBVr5NSR6VirgJrgikIl",
+  "homepage": "https://x.ai/bot/uVBVr5NSR6VirgJrgikIl",
+  "license": null,
+  "author": "clairevo",
+  "tags": [
+    "shopping",
+    "life-hacks",
+    "design"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

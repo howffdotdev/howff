@@ -1,0 +1,25 @@
+{
+  "slug": "website-agency-lead-scout",
+  "name": "Website Agency Lead Scout",
+  "category": "sales",
+  "tagline": "A weekday board of up to five verified website-need leads, plus outreach drafts",
+  "description": "Finds businesses that actually need a site, caps the board at five, and drafts the outreach. Nothing sends until the owner says yes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/FBSTEPfTxj7ekvSml-nUJ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/FBSTEPfTxj7ekvSml-nUJ",
+  "homepage": "https://x.ai/bot/FBSTEPfTxj7ekvSml-nUJ",
+  "license": null,
+  "author": "joshkim",
+  "tags": [
+    "sales",
+    "growth"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

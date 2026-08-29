@@ -1,0 +1,28 @@
+{
+  "slug": "tteoki",
+  "name": "떡이",
+  "category": "writing",
+  "tagline": "One diagnosis, then the next X post in their voice, plus what not to post",
+  "description": "An X editor that looks at the account, names what is working, drafts the next post in that voice, and flags the posts that would be a mistake. It never publishes.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/WWh_DzFT09A2-d12tUvj1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/WWh_DzFT09A2-d12tUvj1",
+  "homepage": "https://x.ai/bot/WWh_DzFT09A2-d12tUvj1",
+  "license": null,
+  "author": "Lauren",
+  "tags": [
+    "creator",
+    "social-media",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

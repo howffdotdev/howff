@@ -1,0 +1,26 @@
+{
+  "slug": "travel-guru",
+  "name": "Travel Guru",
+  "category": "personal",
+  "tagline": "Award-travel scout from DCA: two to four bookable cash or points options",
+  "description": "Searches from Washington National and comes back with a short list you can actually book. It never pays until the traveller says book.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP",
+  "homepage": "https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP",
+  "license": null,
+  "author": "congressdj",
+  "tags": [
+    "travel",
+    "saving-money",
+    "finance"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "stank",
+  "name": "stank",
+  "category": "personal",
+  "tagline": "A deadpan daily shower reminder. Quiet if they already showered",
+  "description": "No lecture, no wellness, no fitness. It asks once, and it stays quiet if the shower already happened.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/FuUabKAg1U5Hyi39TvpTi",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/FuUabKAg1U5Hyi39TvpTi",
+  "homepage": "https://x.ai/bot/FuUabKAg1U5Hyi39TvpTi",
+  "license": null,
+  "author": "Lauren",
+  "tags": [
+    "life-hacks",
+    "health"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

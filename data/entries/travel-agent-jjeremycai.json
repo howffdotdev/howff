@@ -1,0 +1,26 @@
+{
+  "slug": "travel-agent-jjeremycai",
+  "name": "Travel Agent",
+  "category": "personal",
+  "tagline": "Trip logging, city scoring, and a light itinerary. Notion only after you confirm",
+  "description": "Keeps a travel log and scores cities as you go. It will write to a Notion Travel Log, and only once you have said the entry is right.",
+  "integrations": [
+    "Notion"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_yHS4eeajJMAXY1EHAdoO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_yHS4eeajJMAXY1EHAdoO",
+  "homepage": "https://x.ai/bot/_yHS4eeajJMAXY1EHAdoO",
+  "license": null,
+  "author": "jjeremycai",
+  "tags": [
+    "travel"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
