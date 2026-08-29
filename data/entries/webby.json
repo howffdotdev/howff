@@ -1,0 +1,26 @@
+{
+  "slug": "webby",
+  "name": "Webby",
+  "category": "development",
+  "tagline": "A website admin that rebuilds, dashboards and keeps the newsletter going",
+  "description": "Owns a personal site end to end with a live fallback during rebuilds, runs a weekday public dashboard, and keeps the long-form and newsletter moving.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Q2shbC8RRmoRleIyr5J33",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/webby/",
+  "homepage": "https://x.ai/bot/Q2shbC8RRmoRleIyr5J33",
+  "license": null,
+  "author": "Farzad",
+  "tags": [
+    "engineering",
+    "content",
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

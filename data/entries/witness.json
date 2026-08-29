@@ -1,0 +1,25 @@
+{
+  "slug": "witness",
+  "name": "Witness",
+  "category": "ops",
+  "tagline": "Keeps a record of why you made each important decision",
+  "description": "Six months later you can see not just what you chose but what you believed at the time and what you were trading off, instead of reconstructing the reasoning from memory.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/p_0KTQ41WwupGeD-iShbK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/witness/",
+  "homepage": "https://x.ai/bot/p_0KTQ41WwupGeD-iShbK",
+  "license": null,
+  "author": "Liam",
+  "tags": [
+    "productivity",
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

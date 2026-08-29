@@ -1,0 +1,26 @@
+{
+  "slug": "x-top-500-fans-monthly",
+  "name": "X Top 500 Fans (Monthly)",
+  "category": "marketing",
+  "tagline": "Monthly ranking of your 500 biggest X supporters, saved to a private list",
+  "description": "Ranks five hundred people by how much they engaged that month, flags who is newly in and who dropped off, and files the result as a private X list named for the month.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XzEATGwJNRvgsCLlcD9ox",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/x-top-500-fans-monthly/",
+  "homepage": "https://x.ai/bot/XzEATGwJNRvgsCLlcD9ox",
+  "license": null,
+  "author": "Adam",
+  "tags": [
+    "creator",
+    "social-media",
+    "growth"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

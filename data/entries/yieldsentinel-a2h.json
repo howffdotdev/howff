@@ -1,0 +1,27 @@
+{
+  "slug": "yieldsentinel-a2h",
+  "name": "YieldSentinel A2H",
+  "category": "finance",
+  "tagline": "Checks one DeFi yield position against rules you set before you commit",
+  "description": "Research only, and worth being precise about: it holds no funds and is not a wallet. It reviews a single position against your own policy and tells you whether a high headline yield actually clears it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/RFXogCwTbb2mUODW6rfVe",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/yieldsentinel-a2h/",
+  "homepage": "https://x.ai/bot/RFXogCwTbb2mUODW6rfVe",
+  "license": null,
+  "author": "MyEnsNames",
+  "tags": [
+    "investor",
+    "crypto",
+    "research",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

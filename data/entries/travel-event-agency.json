@@ -1,0 +1,28 @@
+{
+  "slug": "travel-event-agency",
+  "name": "Travel & Event Agency",
+  "category": "research",
+  "tagline": "Finds live flight and event tickets and compares real fares",
+  "description": "Compares what the trip actually costs across options and buys only through official channels, and only when you tell it to.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/m7sSNlYWSxqrsHrMiEnsh",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/travel-event-agency/",
+  "homepage": "https://x.ai/bot/m7sSNlYWSxqrsHrMiEnsh",
+  "license": null,
+  "author": "DogecoinNorway",
+  "tags": [
+    "travel",
+    "shopping",
+    "saving-money",
+    "research",
+    "events"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "yc-podcast-notes",
+  "name": "YC Podcast Notes",
+  "category": "research",
+  "tagline": "Hourly watch on Y Combinator's podcasts with founder-useful notes",
+  "description": "Flags each new episode as it lands and sends short notes written for someone building something, including the startup-idea angles rather than a transcript summary.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0y-dcpVFqFkjibKs2M48D",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/yc-podcast-notes/",
+  "homepage": "https://x.ai/bot/0y-dcpVFqFkjibKs2M48D",
+  "license": null,
+  "author": "buuxbt",
+  "tags": [
+    "research",
+    "news",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

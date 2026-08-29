@@ -1,0 +1,26 @@
+{
+  "slug": "walt",
+  "name": "Walt",
+  "category": "writing",
+  "tagline": "An executive producer that QCs another filmmaker bot until the cut is done",
+  "description": "Reviews a filmmaker agent's output against the brief you actually gave, calls keep or recut, and keeps the loop running rather than handing back the first render.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/BsTA9W4uysdokbBQiriuQ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/walt/",
+  "homepage": "https://x.ai/bot/BsTA9W4uysdokbBQiriuQ",
+  "license": null,
+  "author": "FatDon420",
+  "tags": [
+    "creator",
+    "content",
+    "video"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

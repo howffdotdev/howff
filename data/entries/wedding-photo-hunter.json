@@ -1,0 +1,25 @@
+{
+  "slug": "wedding-photo-hunter",
+  "name": "Wedding Photo Hunter",
+  "category": "personal",
+  "tagline": "Collects every wedding photo and video into one folder",
+  "description": "It walks outward through the Facebook guest graph from people you already know, so be aware it reads other guests' posts to find pictures of your day, and downloads what it finds to your machine.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/qL6Dww98g_OGhwqDmgvJK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/wedding-photo-hunter/",
+  "homepage": "https://x.ai/bot/qL6Dww98g_OGhwqDmgvJK",
+  "license": null,
+  "author": "ajt",
+  "tags": [
+    "life-hacks",
+    "family"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

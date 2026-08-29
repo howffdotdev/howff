@@ -1,0 +1,24 @@
+{
+  "slug": "work-work-door",
+  "name": "Work (Work Door)",
+  "category": "ops",
+  "tagline": "The work-side counterpart to Life, one door for professional tasks",
+  "description": "Spawns its own channels and specialists as the work arrives, and deliberately remembers nothing from the person who built it, so a clone starts clean instead of pre-loaded.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/work-work-door/",
+  "homepage": "https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0",
+  "license": null,
+  "author": "TylerNishida",
+  "tags": [
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}
