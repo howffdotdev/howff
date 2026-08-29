@@ -1,0 +1,26 @@
+{
+  "slug": "google-agent",
+  "name": "Google Agent",
+  "category": "productivity",
+  "tagline": "A read-first operator for Gmail, Drive and Calendar",
+  "description": "It searches and reads your mail, files and events freely, and stops for an explicit yes before it sends, deletes or moves anything. The asymmetry is the whole design.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/tttQVA2UtlNwCzITNCIr0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/google-agent/",
+  "homepage": "https://x.ai/bot/tttQVA2UtlNwCzITNCIr0",
+  "license": null,
+  "author": "ryanthawks",
+  "tags": [
+    "productivity",
+    "email",
+    "calendar"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

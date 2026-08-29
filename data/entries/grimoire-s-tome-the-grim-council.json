@@ -1,0 +1,24 @@
+{
+  "slug": "grimoire-s-tome-the-grim-council",
+  "name": "Grimoire's Tome & The Grim Council",
+  "category": "development",
+  "tagline": "A 50-skill coding wizard with a 20-member advisory council",
+  "description": "Bundles a large skill library for building things with an advisory council of specialist voices covering engineering, business and the general automation of a life.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/luPJeAxuAjhqO97wU3wm0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/grimoire-s-tome-the-grim-council/",
+  "homepage": "https://x.ai/bot/luPJeAxuAjhqO97wU3wm0",
+  "license": null,
+  "author": "NickADobos",
+  "tags": [
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

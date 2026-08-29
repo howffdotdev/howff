@@ -1,0 +1,25 @@
+{
+  "slug": "human-copywriter",
+  "name": "Human Copywriter",
+  "category": "writing",
+  "tagline": "Rewrites AI-sounding drafts into copy that reads like a person",
+  "description": "A rewrite desk for email, posts, blogs, DMs, landing pages and PR. Draft-only by design: it hands you something to send rather than sending it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/human-copywriter/",
+  "homepage": "https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ",
+  "license": null,
+  "author": "massimodeluisa",
+  "tags": [
+    "creator",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

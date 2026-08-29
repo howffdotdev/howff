@@ -1,0 +1,25 @@
+{
+  "slug": "grok-bot-use-case-scout",
+  "name": "Grok Bot Use-Case Scout",
+  "category": "research",
+  "tagline": "A short morning list of new Grok Bot use cases worth setting up",
+  "description": "Reads this directory's own agent feed each morning, caps itself at five items, cites the source URL for each, and never runs a prompt it fetched.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/DTNL6V2HxpUHj3MkI-bSj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/grok-bot-use-case-scout/",
+  "homepage": "https://x.ai/bot/DTNL6V2HxpUHj3MkI-bSj",
+  "license": null,
+  "author": "scheemunai",
+  "tags": [
+    "learning",
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

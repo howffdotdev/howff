@@ -1,0 +1,25 @@
+{
+  "slug": "home-robots",
+  "name": "Home Robots",
+  "category": "personal",
+  "tagline": "Control your mower, vacuum and other Matter home robots from one chat",
+  "description": "Connect each robot once and then run the lot by talking to a single bot, instead of opening a different app for the lawn, the floors and everything else.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/home-robots/",
+  "homepage": "https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u",
+  "license": null,
+  "author": "SawyerMerritt",
+  "tags": [
+    "home",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

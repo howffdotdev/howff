@@ -1,0 +1,25 @@
+{
+  "slug": "grok-bot-coach",
+  "name": "Grok Bot Coach",
+  "category": "ops",
+  "tagline": "Audits and tunes the Grok bots you already have",
+  "description": "Starts from a concrete job rather than a general improvement, then works through whether the connectors and standing instructions actually support it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/BrjELcmSwatjRc8DYjtrT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/grok-bot-coach/",
+  "homepage": "https://x.ai/bot/BrjELcmSwatjRc8DYjtrT",
+  "license": null,
+  "author": "GuleidAmina",
+  "tags": [
+    "learning",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

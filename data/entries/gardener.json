@@ -1,0 +1,25 @@
+{
+  "slug": "gardener",
+  "name": "Gardener",
+  "category": "personal",
+  "tagline": "Pulls provable dead code in tiny behaviour-preserving pull requests",
+  "description": "A weed is something it can prove: no callers, or a duplicate. It never refactors and never changes behaviour, which is what makes the pull requests small enough to actually merge.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/oH3eR4YWtsljcz0W4HUBp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/gardener/",
+  "homepage": "https://x.ai/bot/oH3eR4YWtsljcz0W4HUBp",
+  "license": null,
+  "author": "tylerklose",
+  "tags": [
+    "engineering",
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

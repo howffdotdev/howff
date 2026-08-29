@@ -1,0 +1,26 @@
+{
+  "slug": "homework-checker",
+  "name": "Homework Checker",
+  "category": "personal",
+  "tagline": "Weekday recap of a student's missing assignments and grades",
+  "description": "An after-school summary of what is outstanding, plus a one-off explainer on the topic whenever a Google Classroom score dips, so the follow-up is teaching rather than just a warning.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Mm_WhYXIjZ3xDNf3s3p91",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/homework-checker/",
+  "homepage": "https://x.ai/bot/Mm_WhYXIjZ3xDNf3s3p91",
+  "license": null,
+  "author": "kevinace",
+  "tags": [
+    "student",
+    "learning",
+    "family"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "grant-general-manager",
+  "name": "Grant (General Manager)",
+  "category": "ops",
+  "tagline": "A general manager for a trades company that stands up the back office",
+  "description": "Built for construction and the trades: it spins up dispatch, job booking and scheduling alongside finance and marketing helpers, so the office side of a site business has somewhere to live.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/fkM4b8n4RqZTbrq5fw5L_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/grant-general-manager/",
+  "homepage": "https://x.ai/bot/fkM4b8n4RqZTbrq5fw5L_",
+  "license": null,
+  "author": "HouseHackerJon",
+  "tags": [
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "gatekeeper",
+  "name": "Gatekeeper",
+  "category": "ops",
+  "tagline": "Shows you what you would have to drop before you say yes to something new",
+  "description": "Before a new commitment goes on the pile, it makes the trade explicit: what gets delayed, what gets dropped, and what you are quietly deciding not to do.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/T5FSfM91XA6gMgh2rX56K",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/gatekeeper/",
+  "homepage": "https://x.ai/bot/T5FSfM91XA6gMgh2rX56K",
+  "license": null,
+  "author": "Liam",
+  "tags": [
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}
