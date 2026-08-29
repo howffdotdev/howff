@@ -1,0 +1,26 @@
+{
+  "slug": "jester",
+  "name": "Jester",
+  "category": "fun",
+  "tagline": "Makes image and video memes through the Memelord API",
+  "description": "Give it the joke and it produces the meme, still or moving, using Memelord rather than a generic image model.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9MGTLhR6dzLrr6AWd8U1f",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9MGTLhR6dzLrr6AWd8U1f",
+  "homepage": "https://x.ai/bot/9MGTLhR6dzLrr6AWd8U1f",
+  "license": null,
+  "author": "memelord",
+  "tags": [
+    "creator",
+    "content",
+    "fun"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

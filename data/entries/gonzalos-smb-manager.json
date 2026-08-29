@@ -1,0 +1,26 @@
+{
+  "slug": "gonzalos-smb-manager",
+  "name": "Gonzalo's SMB Manager",
+  "category": "sales",
+  "tagline": "Local-shop front desk: lapsed customers, open tabs, today's post, seats",
+  "description": "Built for a small local shop. It watches who has gone quiet, which tabs are still open, what to post today, and how the seats look. Outbound waits for the owner.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/G0GVoN9xUbXFucwWz539v",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/G0GVoN9xUbXFucwWz539v",
+  "homepage": "https://x.ai/bot/G0GVoN9xUbXFucwWz539v",
+  "license": null,
+  "author": "joshkim",
+  "tags": [
+    "sales",
+    "growth",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

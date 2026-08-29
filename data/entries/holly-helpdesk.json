@@ -1,0 +1,29 @@
+{
+  "slug": "holly-helpdesk",
+  "name": "Holly Helpdesk",
+  "category": "ops",
+  "tagline": "Frontline support across Intercom, email and Slack. Refunds wait for you",
+  "description": "Takes the first pass on support across Intercom, email and Slack. It will draft a refund, and it will not issue one until you approve it.",
+  "integrations": [
+    "Slack",
+    "Gmail"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sIoeE87fILU5CzptPF29K",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sIoeE87fILU5CzptPF29K",
+  "homepage": "https://x.ai/bot/sIoeE87fILU5CzptPF29K",
+  "license": null,
+  "author": "clairevo",
+  "tags": [
+    "support",
+    "email",
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "job-interview-hunter",
+  "name": "Job Interview Hunter",
+  "category": "sales",
+  "tagline": "Drafts applications and LinkedIn referral outreach. Never auto-applies",
+  "description": "Works one job seeker at a time: applications and referral messages, ready to send. It does not apply on your behalf.",
+  "integrations": [
+    "LinkedIn"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/B_8a8ApckqZFiJwWRBf5u",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/B_8a8ApckqZFiJwWRBf5u",
+  "homepage": "https://x.ai/bot/B_8a8ApckqZFiJwWRBf5u",
+  "license": null,
+  "author": "joshkim",
+  "tags": [
+    "sales",
+    "recruiting"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "keywire-would-you-rather-collector",
+  "name": "KeyWire: Would You Rather (Collector)",
+  "category": "fun",
+  "tagline": "Tap-first collector would-you-rather across Pokemon, One Piece, comics and MTG",
+  "description": "A game, not financial advice. You tap, it keeps score, and the prompts stay inside those collector worlds.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_qeZe0Y7621Wr8y6d7KBU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_qeZe0Y7621Wr8y6d7KBU",
+  "homepage": "https://x.ai/bot/_qeZe0Y7621Wr8y6d7KBU",
+  "license": null,
+  "author": "CryptoVonDoom",
+  "tags": [
+    "fun"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

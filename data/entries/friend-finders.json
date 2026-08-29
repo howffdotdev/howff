@@ -1,0 +1,27 @@
+{
+  "slug": "friend-finders",
+  "name": "Friend Finders",
+  "category": "personal",
+  "tagline": "Maps X DMs into Act now, Waiting, Warm, and Revive. Read-only",
+  "description": "A Quick Radar for DMs you already have. It sorts the threads and never sends a message.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA",
+  "homepage": "https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA",
+  "license": null,
+  "author": "pukerrainbrow",
+  "tags": [
+    "social-media",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

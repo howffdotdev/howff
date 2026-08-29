@@ -1,0 +1,25 @@
+{
+  "slug": "koala",
+  "name": "koala",
+  "category": "sales",
+  "tagline": "Launch GTM for kody.codes: who to reach, and which channels to skip",
+  "description": "A go-to-market bot for one specific product. It names the people worth reaching and the channels that would be a waste, and Kent surfaces first.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/55VuCAFXxFDHyaGPU3Bxt",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/55VuCAFXxFDHyaGPU3Bxt",
+  "homepage": "https://x.ai/bot/55VuCAFXxFDHyaGPU3Bxt",
+  "license": null,
+  "author": "Lauren",
+  "tags": [
+    "sales",
+    "growth"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

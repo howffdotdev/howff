@@ -1,0 +1,27 @@
+{
+  "slug": "lgtm-the-pr-closer",
+  "name": "lgtm the pr closer",
+  "category": "development",
+  "tagline": "Morning PR queue: triage the status, then merge, review, or close",
+  "description": "Walks the open pull requests at the start of the day, says which are ready, which need review, and which should be closed, then does the ones you approve.",
+  "integrations": [
+    "GitHub"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vGk7yV-vF92ZegpNF3NPo",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vGk7yV-vF92ZegpNF3NPo",
+  "homepage": "https://x.ai/bot/vGk7yV-vF92ZegpNF3NPo",
+  "license": null,
+  "author": "clairevo",
+  "tags": [
+    "engineering",
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

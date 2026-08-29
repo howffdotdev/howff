@@ -1,0 +1,24 @@
+{
+  "slug": "jobs",
+  "name": "jobs",
+  "category": "development",
+  "tagline": "Suggests one to three named product features, plus what to cut",
+  "description": "A product-cut bot rather than a brainstormer. It names a few features worth shipping and the work to drop, and it does not write code or PRDs.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/LqFDQ8zlNLQqlFP_vvzs_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/LqFDQ8zlNLQqlFP_vvzs_",
+  "homepage": "https://x.ai/bot/LqFDQ8zlNLQqlFP_vvzs_",
+  "license": null,
+  "author": "Lauren",
+  "tags": [
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

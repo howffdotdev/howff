@@ -1,0 +1,28 @@
+{
+  "slug": "growth-desk",
+  "name": "Growth Desk",
+  "category": "marketing",
+  "tagline": "Draft-only X growth desk: weekly scores and drafts, never posts unless named",
+  "description": "Scores one handle each week and writes drafts in that voice. It does not post unless you name the post and say go.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YYCOE-YeGxnGLb4Mbv7dO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/YYCOE-YeGxnGLb4Mbv7dO",
+  "homepage": "https://x.ai/bot/YYCOE-YeGxnGLb4Mbv7dO",
+  "license": null,
+  "author": "Av1dlive",
+  "tags": [
+    "creator",
+    "social-media",
+    "growth"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
