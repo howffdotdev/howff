@@ -1,0 +1,26 @@
+{
+  "slug": "mystery-snack-agent",
+  "name": "Mystery Snack Agent",
+  "category": "fun",
+  "tagline": "A surprise dessert at your door every Friday at seven",
+  "description": "You set taste, allergies, card and delivery app once and it keeps the choice secret until it arrives. Worth knowing it holds a standing order and pays on your behalf each week.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/jEv8xhxlnSNp2KnQ9ciyP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/mystery-snack-agent/",
+  "homepage": "https://x.ai/bot/jEv8xhxlnSNp2KnQ9ciyP",
+  "license": null,
+  "author": "nayli_ai",
+  "tags": [
+    "life-hacks",
+    "shopping",
+    "food"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

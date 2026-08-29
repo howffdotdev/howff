@@ -1,0 +1,24 @@
+{
+  "slug": "loops",
+  "name": "loops",
+  "category": "development",
+  "tagline": "An engineering outer loop that sits above your coding agents",
+  "description": "Turns a rough intent into testable, goal-shaped prompts and then keeps the loop honest, so the coding agents underneath it are working against something specific enough to check.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Ub3T7usX-c6yRQibQq83P",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/loops/",
+  "homepage": "https://x.ai/bot/Ub3T7usX-c6yRQibQq83P",
+  "license": null,
+  "author": "mattyp",
+  "tags": [
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

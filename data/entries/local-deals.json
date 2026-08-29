@@ -1,0 +1,26 @@
+{
+  "slug": "local-deals",
+  "name": "Local Deals",
+  "category": "personal",
+  "tagline": "Daily local marketplace deals that it will negotiate for you",
+  "description": "Scouts Craigslist, Facebook Marketplace and OfferUp near you, reports the day's finds, and will open the negotiation with the seller on your behalf.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/KmR5kmGnalq1b2nhCRXyo",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/local-deals/",
+  "homepage": "https://x.ai/bot/KmR5kmGnalq1b2nhCRXyo",
+  "license": null,
+  "author": "brandon_galang",
+  "tags": [
+    "shopping",
+    "saving-money",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

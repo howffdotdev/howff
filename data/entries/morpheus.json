@@ -1,0 +1,24 @@
+{
+  "slug": "morpheus",
+  "name": "Morpheus",
+  "category": "productivity",
+  "tagline": "Give it options you are stuck between and it picks one and defends the choice",
+  "description": "It makes the call rather than handing you a balanced summary, explains the reasoning, and tells you what would have to be different for it to have chosen the other way.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/uv4r3mNUgymF11q0N3L7F",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/morpheus/",
+  "homepage": "https://x.ai/bot/uv4r3mNUgymF11q0N3L7F",
+  "license": null,
+  "author": "Liam",
+  "tags": [
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

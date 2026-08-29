@@ -1,0 +1,25 @@
+{
+  "slug": "mr-laser",
+  "name": "Mr. Laser",
+  "category": "ops",
+  "tagline": "Project lead for a one-person laser-engraving shop",
+  "description": "Coordinates the artwork, the LightBurn file and the machine setup across specialist bots, and will not fire the laser until you have said go.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/GU4KJSYtPZeiLf8ubPMXY",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/mr-laser/",
+  "homepage": "https://x.ai/bot/GU4KJSYtPZeiLf8ubPMXY",
+  "license": null,
+  "author": "RichSilver",
+  "tags": [
+    "creator",
+    "design"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "mappy-talent-map",
+  "name": "Mappy (Talent Map)",
+  "category": "sales",
+  "tagline": "Maps everyone currently working at a target company",
+  "description": "Org mapping rather than a candidate search: it builds the picture of a company's people, which does mean assembling public professional data about individuals who have not asked to be mapped.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/spIXb6rwPJq_iFlu1L-_l",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/mappy-talent-map/",
+  "homepage": "https://x.ai/bot/spIXb6rwPJq_iFlu1L-_l",
+  "license": null,
+  "author": "NickRoman",
+  "tags": [
+    "recruiting",
+    "sales",
+    "research",
+    "data"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

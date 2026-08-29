@@ -1,0 +1,27 @@
+{
+  "slug": "lurk-reddit-researcher",
+  "name": "Lurk (Reddit Researcher)",
+  "category": "research",
+  "tagline": "Mines Reddit for exact quotes and files a pain-point pack",
+  "description": "Runs a gated pipeline from your seed keywords: pain points first, then an ideas pack built on them. It reads and never posts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/12Gbp1lPVsfTVAHPXKd3B",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/lurk-reddit-researcher/",
+  "homepage": "https://x.ai/bot/12Gbp1lPVsfTVAHPXKd3B",
+  "license": null,
+  "author": "tinkerersanky",
+  "tags": [
+    "creator",
+    "research",
+    "growth",
+    "data"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

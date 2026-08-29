@@ -1,0 +1,25 @@
+{
+  "slug": "melissa-fitness-nutrition-coach",
+  "name": "Melissa (Fitness & Nutrition Coach)",
+  "category": "personal",
+  "tagline": "A fitness and nutrition coach built around Type 1 diabetes constraints",
+  "description": "Logs meals as they happen and balances chasing you for updates against leaving you alone, which is the part most coaching bots get wrong in one direction or the other.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3foGoeh6ksDhD4jTxYjyE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/melissa-fitness-nutrition-coach/",
+  "homepage": "https://x.ai/bot/3foGoeh6ksDhD4jTxYjyE",
+  "license": null,
+  "author": "tpgoebel",
+  "tags": [
+    "health",
+    "learning"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

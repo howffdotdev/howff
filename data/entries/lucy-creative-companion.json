@@ -1,0 +1,26 @@
+{
+  "slug": "lucy-creative-companion",
+  "name": "Lucy (creative companion)",
+  "category": "writing",
+  "tagline": "An open-ended creative companion for art, worlds, poems and films",
+  "description": "Deliberately not a task bot: it is a sandbox for making things, and it opens clean for each new person rather than carrying the author's projects with it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4E6m-7mPfUHzLt_aIJ_5D",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/lucy-creative-companion/",
+  "homepage": "https://x.ai/bot/4E6m-7mPfUHzLt_aIJ_5D",
+  "license": null,
+  "author": "princess414141",
+  "tags": [
+    "creator",
+    "content",
+    "wellbeing"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

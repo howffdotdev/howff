@@ -1,0 +1,26 @@
+{
+  "slug": "marketing-bot-cmo",
+  "name": "Marketing Bot (CMO)",
+  "category": "marketing",
+  "tagline": "A CMO bot that turns your product into the marketing around it",
+  "description": "Give it the product context once and it produces the copy, the emails, the offers and the conversion ideas, rather than answering one marketing question at a time.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/37ZOM10GzlSOQpMjRp7KB",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/marketing-bot-cmo/",
+  "homepage": "https://x.ai/bot/37ZOM10GzlSOQpMjRp7KB",
+  "license": null,
+  "author": "tymarsha",
+  "tags": [
+    "content",
+    "growth",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}
