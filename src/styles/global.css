@@ -946,6 +946,25 @@ button[aria-live] {
   gap: var(--space-4);
 }
 
+/* The wrapper exists only so narrow screens can collapse the facets as one
+   unit. Here it dissolves, leaving the fields as direct flex children. */
+.facet-group {
+  display: contents;
+}
+
+/* Narrow screens only, unhidden by the script once it can drive it. */
+.facets-toggle {
+  display: none;
+}
+
+.facets-toggle .n[hidden] {
+  display: none;
+}
+
+.filters-sentinel {
+  height: 0;
+}
+
 .shelf-meta {
   display: flex;
   flex-wrap: wrap;
@@ -1516,16 +1535,53 @@ dl.facts dd {
   }
 
   /* Grid, not a flex column: four stacked facets eat the screen, and in a
-     column the search field's flex-basis would set its height, not its width. */
+     column the search field's flex-basis would set its height, not its width.
+     Search and the Filters toggle share row one; the facets sit below. */
   .filters-top {
     display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: var(--space-2) var(--space-3);
+    align-items: end;
+  }
+
+  /* With JS the toggle takes the second column; without it, search spans. */
+  .search-field {
+    grid-column: 1 / -1;
+  }
+
+  .filters:has(.facets-toggle:not([hidden])) .search-field {
+    grid-column: 1;
+  }
+
+  .facets-toggle {
+    display: inline-flex;
+    grid-column: 2;
+    min-height: 2.3rem;
+    white-space: nowrap;
+  }
+
+  /* The facets keep the two-up pairing that made the block short. */
+  .facet-group {
+    display: grid;
+    grid-column: 1 / -1;
     grid-template-columns: 1fr 1fr;
     gap: var(--space-2) var(--space-3);
     align-items: end;
   }
 
-  .search-field {
-    grid-column: 1 / -1;
+  .facet-group[hidden] {
+    display: none;
+  }
+
+  /* Collapsed, the placeholder says what the field is, so the label is a wasted
+     row on the one screen with least to spare. */
+  .filters:has(.facet-group[hidden]) .search-field .field-label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
   }
 
   /* Ten wrapped tiles or pills eat the whole first screen, so they scroll. */

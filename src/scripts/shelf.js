@@ -15,6 +15,8 @@ const cards = [...document.querySelectorAll('[data-entry]')];
 
 const state = { q: '', cat: 'all', int: 'all', tag: 'all', sort: 'new' };
 let announce;
+// Set once the collapsing facets wire themselves up; a no-op until then.
+let syncFacetCount = () => {};
 
 function hasOption(select, value) {
   return Boolean(select && [...select.options].some((o) => o.value === value));
@@ -72,6 +74,7 @@ function apply({ quiet = false } = {}) {
 
   empty.hidden = n !== 0;
   clear.hidden = isDefault();
+  syncFacetCount();
   writeUrl();
 }
 
@@ -135,6 +138,94 @@ sort?.addEventListener('change', () => {
 
 clear?.addEventListener('click', reset);
 document.querySelector('[data-clear]')?.addEventListener('click', reset);
+
+// --- Collapsing facets (narrow screens) ---------------------------------
+// The facets fold behind the Filters button once the bar sticks, and unfold
+// when you scroll back to the top. A click is an override: it holds until the
+// bar unsticks, so scrolling never fights a choice you just made.
+const toggle = document.getElementById('facets-toggle');
+const group = document.getElementById('facet-group');
+const facetsN = document.getElementById('facets-n');
+const sentinel = document.querySelector('.filters-sentinel');
+const narrow = window.matchMedia('(max-width: 40rem)');
+
+if (toggle && group && sentinel) {
+  let stuck = false;
+  let override = null;
+
+  function activeFacets() {
+    return [state.cat, state.int, state.tag].filter((v) => v !== 'all').length;
+  }
+
+  // Collapsed by default when stuck, unless a click says otherwise.
+  function sync() {
+    if (!narrow.matches) {
+      toggle.hidden = true;
+      group.hidden = false;
+      toggle.setAttribute('aria-expanded', 'true');
+      return;
+    }
+    toggle.hidden = false;
+    const open = override ?? !stuck;
+    group.hidden = !open;
+    toggle.setAttribute('aria-expanded', String(open));
+
+    // A count on the button is the only cue that a hidden facet is active.
+    const n = activeFacets();
+    facetsN.hidden = n === 0;
+    facetsN.textContent = n === 0 ? '' : String(n);
+  }
+
+  toggle.addEventListener('click', () => {
+    override = group.hidden;
+    sync();
+    // Focus the first facet when opening, so keyboard order follows the eye.
+    if (!group.hidden) group.querySelector('select')?.focus();
+  });
+
+  // The sentinel sits just above the bar, so it is stuck once the sentinel has
+  // passed the sticky offset. Read on scroll rather than with an
+  // IntersectionObserver: the sentinel is zero-height, and a jump scroll (or a
+  // short viewport, where it starts below the fold) never crosses the
+  // threshold, so the observer would sit silent and never collapse.
+  const stickyOffset = () =>
+    (parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--header-h')) || 4) *
+    parseFloat(getComputedStyle(document.documentElement).fontSize);
+
+  function readStuck() {
+    const nowStuck = sentinel.getBoundingClientRect().top <= stickyOffset();
+    if (nowStuck === stuck) return;
+    stuck = nowStuck;
+    // Returning to the top clears the override, so the default resumes.
+    if (!stuck) override = null;
+    sync();
+  }
+
+  let ticking = false;
+  addEventListener(
+    'scroll',
+    () => {
+      if (ticking) return;
+      ticking = true;
+      requestAnimationFrame(() => {
+        ticking = false;
+        readStuck();
+      });
+    },
+    { passive: true },
+  );
+
+  narrow.addEventListener('change', () => {
+    override = null;
+    readStuck();
+    sync();
+  });
+
+  syncFacetCount = sync;
+  // A reload can restore a scroll position mid-page, so read it before drawing.
+  readStuck();
+  sync();
+}
 
 // The form is a real GET form so search still works without JS.
 form?.addEventListener('submit', (event) => {

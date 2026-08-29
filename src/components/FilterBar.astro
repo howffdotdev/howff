@@ -6,10 +6,12 @@ import { CATEGORY_LABEL } from '../lib/entries.js';
 const { entries, categories, integrations, tags, scope = 'all' } = Astro.props;
 const scoped = scope !== 'all';
 ---
+{/* Marks where the sticky bar latches, so the script can tell when it sticks. */}
+<div class="filters-sentinel" aria-hidden="true"></div>
 <form class="filters" id="filters" role="search" aria-label="Search the shelf" action="/" method="get">
   <div class="filters-top">
     <label class="field search-field" for="q">
-      Search
+      <span class="field-label">Search</span>
       <span class="search-wrap">
         <input
           id="q"
@@ -21,44 +23,58 @@ const scoped = scope !== 'all';
         <kbd aria-hidden="true">/</kbd>
       </span>
     </label>
-    {!scoped && (
-      <label class="field facet-field" for="cat">
-        Category
-        <select id="cat" name="cat">
-          <option value="all">All</option>
-          {categories.map(([cat, n]) => (
-            <option value={cat}>{CATEGORY_LABEL[cat]} ({n})</option>
-          ))}
+    {/* Narrow screens only, and only with JS: unhidden by shelf.js. */}
+    <button
+      type="button"
+      class="pill facets-toggle"
+      id="facets-toggle"
+      aria-expanded="true"
+      aria-controls="facet-group"
+      hidden
+    >
+      Filters
+      <span class="n" id="facets-n" hidden></span>
+    </button>
+    <div class="facet-group" id="facet-group">
+      {!scoped && (
+        <label class="field facet-field" for="cat">
+          Category
+          <select id="cat" name="cat">
+            <option value="all">All</option>
+            {categories.map(([cat, n]) => (
+              <option value={cat}>{CATEGORY_LABEL[cat]} ({n})</option>
+            ))}
+          </select>
+        </label>
+      )}
+      {integrations.length > 0 && (
+        <label class="field facet-field" for="int">
+          Connects to
+          <select id="int" name="int">
+            <option value="all">Any</option>
+            {integrations.map(([name, n]) => (
+              <option value={name}>{name} ({n})</option>
+            ))}
+          </select>
+        </label>
+      )}
+      {tags.length > 0 && (
+        <label class="field facet-field" for="tag">
+          Tag
+          <select id="tag" name="tag">
+            <option value="all">Any tag</option>
+            {tags.map(([t, n]) => <option value={t}>{t} ({n})</option>)}
+          </select>
+        </label>
+      )}
+      <label class="field facet-field" for="sort">
+        Sort
+        <select id="sort" name="sort">
+          <option value="new">Newest first</option>
+          <option value="az">A to Z</option>
         </select>
       </label>
-    )}
-    {integrations.length > 0 && (
-      <label class="field facet-field" for="int">
-        Connects to
-        <select id="int" name="int">
-          <option value="all">Any</option>
-          {integrations.map(([name, n]) => (
-            <option value={name}>{name} ({n})</option>
-          ))}
-        </select>
-      </label>
-    )}
-    {tags.length > 0 && (
-      <label class="field facet-field" for="tag">
-        Tag
-        <select id="tag" name="tag">
-          <option value="all">Any tag</option>
-          {tags.map(([t, n]) => <option value={t}>{t} ({n})</option>)}
-        </select>
-      </label>
-    )}
-    <label class="field facet-field" for="sort">
-      Sort
-      <select id="sort" name="sort">
-        <option value="new">Newest first</option>
-        <option value="az">A to Z</option>
-      </select>
-    </label>
+    </div>
     <noscript><button type="submit">Search</button></noscript>
   </div>
 </form>
