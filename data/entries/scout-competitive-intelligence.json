@@ -1,0 +1,26 @@
+{
+  "slug": "scout-competitive-intelligence",
+  "name": "Scout (Competitive Intelligence)",
+  "category": "marketing",
+  "tagline": "Watches rival sites, search rank and AI-answer visibility",
+  "description": "Tracks copy and pricing changes on competitor sites alongside where you rank and whether AI answers mention you, then surfaces only the moves that need a response.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rthl9MdskO2f-JCzmyINP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/scout-competitive-intelligence/",
+  "homepage": "https://x.ai/bot/rthl9MdskO2f-JCzmyINP",
+  "license": null,
+  "author": "adamta",
+  "tags": [
+    "growth",
+    "research",
+    "data"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

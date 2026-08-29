@@ -1,0 +1,26 @@
+{
+  "slug": "sable-game-art",
+  "name": "Sable: Game Art",
+  "category": "fun",
+  "tagline": "Generates 2D game art and sprite sheets in a style you pick",
+  "description": "Suggests looks drawn from real games, mocks the same idea in several of them so you can compare, then produces the 2D art or sprite sheet and crops it into ready-to-use PNGs.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/oSvAMKX_ahD56ZmgwtRys",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/sable-game-art/",
+  "homepage": "https://x.ai/bot/oSvAMKX_ahD56ZmgwtRys",
+  "license": null,
+  "author": "DannyLimanseta",
+  "tags": [
+    "creator",
+    "design",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "publish-work-as-a-private-link",
+  "name": "Publish work as a private link",
+  "category": "productivity",
+  "tagline": "Turns anything your bot makes into a live page on a private link",
+  "description": "A report, a plan or a one-pager becomes a URL you can send, with no account needed at the other end. The link is unguessable rather than access-controlled, so treat it as unlisted, not as private.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/n9zq64kTeEEc5NwrkAOi8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/publish-work-as-a-private-link/",
+  "homepage": "https://x.ai/bot/n9zq64kTeEEc5NwrkAOi8",
+  "license": null,
+  "author": "stevy_smith",
+  "tags": [
+    "productivity",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

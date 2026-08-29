@@ -1,0 +1,26 @@
+{
+  "slug": "sharenow-feed-bot",
+  "name": "Sharenow Feed Bot",
+  "category": "marketing",
+  "tagline": "Watches five social platforms hourly and publishes a live board",
+  "description": "Give it a topic and it tracks Instagram, X, Threads, YouTube and TikTok every hour onto a board that stays current. It needs a third-party ShareNow connection to publish.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/oMU6GmI59Z1jtPUooMLLJ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/sharenow-feed-bot/",
+  "homepage": "https://x.ai/bot/oMU6GmI59Z1jtPUooMLLJ",
+  "license": null,
+  "author": "sharenow_today",
+  "tags": [
+    "creator",
+    "social-media",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

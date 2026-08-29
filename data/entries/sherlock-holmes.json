@@ -1,0 +1,25 @@
+{
+  "slug": "sherlock-holmes",
+  "name": "Sherlock Holmes",
+  "category": "research",
+  "tagline": "Give it a symptom and it works out what actually caused the drop",
+  "description": "Sales down, traffic off, conversion tanked: it builds a suspect list and then works through what would actually prove or eliminate each one, rather than guessing at the first plausible answer.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/fXHgGtuPfTcHBTVKSCZ1d",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/sherlock-holmes/",
+  "homepage": "https://x.ai/bot/fXHgGtuPfTcHBTVKSCZ1d",
+  "license": null,
+  "author": "Liam",
+  "tags": [
+    "research",
+    "data"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

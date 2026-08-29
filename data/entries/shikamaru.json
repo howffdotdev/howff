@@ -1,0 +1,22 @@
+{
+  "slug": "shikamaru",
+  "name": "Shikamaru",
+  "category": "ops",
+  "tagline": "A chief of staff that hires and manages specialists in a named world",
+  "description": "It does not do the specialists' work and does not relay their reports back to you verbatim. It speaks up when something actually needs you and otherwise runs the roster.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rrvGu13S5uYCc09WP7A-9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/shikamaru/",
+  "homepage": "https://x.ai/bot/rrvGu13S5uYCc09WP7A-9",
+  "license": null,
+  "author": "WorldlyReviewer",
+  "tags": [],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

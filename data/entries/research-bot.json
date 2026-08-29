@@ -1,0 +1,26 @@
+{
+  "slug": "research-bot",
+  "name": "Research Bot",
+  "category": "research",
+  "tagline": "Deep research that returns concise answers with verified citations",
+  "description": "Reasons from first principles and refuses to hand back an answer with an unverified source without saying so, which is the difference between research and a confident paragraph.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Nn0ykGa3vJ6YS7ib7F6yH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/research-bot/",
+  "homepage": "https://x.ai/bot/Nn0ykGa3vJ6YS7ib7F6yH",
+  "license": null,
+  "author": "ArthurMacwaters",
+  "tags": [
+    "student",
+    "research",
+    "learning"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}

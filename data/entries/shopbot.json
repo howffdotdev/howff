@@ -1,0 +1,27 @@
+{
+  "slug": "shopbot",
+  "name": "ShopBot",
+  "category": "finance",
+  "tagline": "Searches Shopify catalogs, hunts coupons and picks the best card",
+  "description": "Compares products, finds the discount codes, and checks out through Link or Shop Pay on the card that maximises your perks rather than whichever one is saved by default.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rBXWgythSa09pIp14rnV4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://grokbot.dev/marketplace/shopbot/",
+  "homepage": "https://x.ai/bot/rBXWgythSa09pIp14rnV4",
+  "license": null,
+  "author": "Shub",
+  "tags": [
+    "shopping",
+    "saving-money",
+    "life-hacks",
+    "finance"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Listed on grokbot.dev. Native Grok Bot share. Third-party bot; not from xAI."
+}
