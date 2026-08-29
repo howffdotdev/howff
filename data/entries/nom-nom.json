@@ -1,0 +1,25 @@
+{
+  "slug": "nom-nom",
+  "name": "Nom Nom",
+  "category": "personal",
+  "tagline": "A calorie tracker that logs meals, remembers recipes, and wraps the day at 9pm",
+  "description": "Records meals, remembers named recipes, keeps a running daily total, and sends an end-of-day wrap-up. Quiet at 9pm if nothing was logged.",
+  "integrations": [],
+  "add": {
+    "kind": "profile-url",
+    "url": "https://raw.githubusercontent.com/howffdotdev/howff/main/data/entries/nom-nom.md",
+    "hint": null
+  },
+  "instructions": "nom-nom.md",
+  "source": "https://github.com/howffdotdev/howff/blob/main/data/entries/nom-nom.md",
+  "homepage": "https://howff.dev/nom-nom",
+  "license": "CC0-1.0",
+  "author": "Nikola",
+  "tags": [
+    "health",
+    "food"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": null
+}
