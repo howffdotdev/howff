@@ -1,0 +1,24 @@
+{
+  "slug": "bond",
+  "name": "bond",
+  "category": "ops",
+  "tagline": "One confidential mission, then a short audit and a wipe",
+  "description": "Takes a single sensitive job, does it, writes a short audit of what happened, and then forgets the payload. Nothing is kept for later.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/iZvo8_lHfF0csZ-YmcZpv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/iZvo8_lHfF0csZ-YmcZpv",
+  "homepage": "https://x.ai/bot/iZvo8_lHfF0csZ-YmcZpv",
+  "license": null,
+  "author": "Lauren",
+  "tags": [
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

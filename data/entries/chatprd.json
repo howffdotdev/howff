@@ -1,0 +1,25 @@
+{
+  "slug": "chatprd",
+  "name": "ChatPRD",
+  "category": "productivity",
+  "tagline": "A PM that grounds specs in the docs, the meetings, and what actually shipped",
+  "description": "Writes product specs from the work already in your docs and meeting notes, and checks them against what has actually gone out rather than against a wish list.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/36vKs2HSysdaJDe6OLD4w",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/36vKs2HSysdaJDe6OLD4w",
+  "homepage": "https://x.ai/bot/36vKs2HSysdaJDe6OLD4w",
+  "license": null,
+  "author": "clairevo",
+  "tags": [
+    "productivity",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

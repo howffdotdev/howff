@@ -1,0 +1,26 @@
+{
+  "slug": "facebook-group-scout",
+  "name": "Facebook Group Scout",
+  "category": "research",
+  "tagline": "Watches named Facebook groups and flags posts worth a reply",
+  "description": "Checks the groups you name on a cheap weekday cadence and only surfaces the posts that are actually worth answering, rather than a firehose of the feed.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/C7ZoMLPxEbFmu0-iAieFj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/C7ZoMLPxEbFmu0-iAieFj",
+  "homepage": "https://x.ai/bot/C7ZoMLPxEbFmu0-iAieFj",
+  "license": null,
+  "author": "joshkim",
+  "tags": [
+    "social-media",
+    "growth",
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

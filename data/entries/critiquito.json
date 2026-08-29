@@ -1,0 +1,25 @@
+{
+  "slug": "critiquito",
+  "name": "Critiquito",
+  "category": "writing",
+  "tagline": "Reviews a UI screenshot from the user's side and names one highest-impact fix",
+  "description": "Looks at an interface the way a user would, says what is actually hard, and picks the single change that would help most rather than a list of nits.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rt9m-FTkJoGsZzAjsKLPM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/rt9m-FTkJoGsZzAjsKLPM",
+  "homepage": "https://x.ai/bot/rt9m-FTkJoGsZzAjsKLPM",
+  "license": null,
+  "author": "mamuso",
+  "tags": [
+    "design",
+    "creator"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "chief-of-staff-iamigorekk",
+  "name": "Chief of Staff (iamigorekk)",
+  "category": "ops",
+  "tagline": "Routes trading-floor work to six agents and only wakes you for decisions",
+  "description": "A chief of staff for a trading desk: it hands work to specialist bots and only interrupts you when a decision actually needs a human. It does not trade.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/we_JMJA8IuOvy1eUX6EQz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/we_JMJA8IuOvy1eUX6EQz",
+  "homepage": "https://x.ai/bot/we_JMJA8IuOvy1eUX6EQz",
+  "license": null,
+  "author": "iamigorekk",
+  "tags": [
+    "productivity",
+    "finance"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

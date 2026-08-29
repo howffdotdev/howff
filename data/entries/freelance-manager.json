@@ -1,0 +1,26 @@
+{
+  "slug": "freelance-manager",
+  "name": "Freelance Manager",
+  "category": "sales",
+  "tagline": "Stale proposals, unpaid invoices, stuck milestones, and next week's hours",
+  "description": "A freelance desk rather than a coach: it flags the proposals going cold, the invoices still unpaid, the milestones that have stalled, and the hours you still have next week.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/nVbIdGSLO4i-QU183t7Sg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/nVbIdGSLO4i-QU183t7Sg",
+  "homepage": "https://x.ai/bot/nVbIdGSLO4i-QU183t7Sg",
+  "license": null,
+  "author": "joshkim",
+  "tags": [
+    "sales",
+    "back-office",
+    "finance"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

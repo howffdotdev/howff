@@ -1,0 +1,25 @@
+{
+  "slug": "family-wordpress-helpdesk",
+  "name": "Family WordPress Helpdesk",
+  "category": "development",
+  "tagline": "Click-paths for relatives, and a short diagnosis for the owner, on one family site",
+  "description": "A helpdesk for a single family WordPress site: relatives get the clicks to press, and the owner gets a short diagnosis when something is actually broken.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7ySyCp6OurH0hlcKMAm_b",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7ySyCp6OurH0hlcKMAm_b",
+  "homepage": "https://x.ai/bot/7ySyCp6OurH0hlcKMAm_b",
+  "license": null,
+  "author": "joshkim",
+  "tags": [
+    "family",
+    "support"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

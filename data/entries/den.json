@@ -1,0 +1,24 @@
+{
+  "slug": "den",
+  "name": "den",
+  "category": "personal",
+  "tagline": "Relays a dad's asks to named family bots and briefs back",
+  "description": "A family router: it passes jobs to the bots that already own them and reports back. It does not parent, and it does not invent a schedule.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0aEcF7mtG_zsDWXEUeOGx",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/0aEcF7mtG_zsDWXEUeOGx",
+  "homepage": "https://x.ai/bot/0aEcF7mtG_zsDWXEUeOGx",
+  "license": null,
+  "author": "Lauren",
+  "tags": [
+    "family"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

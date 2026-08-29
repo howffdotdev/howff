@@ -1,0 +1,28 @@
+{
+  "slug": "dadprotech-brand-manager",
+  "name": "dadprotech Brand Manager",
+  "category": "marketing",
+  "tagline": "A weekday social desk: one tweet plus reply ideas in the owner's voice",
+  "description": "Writes the day's post and a few reply angles from how the owner already sounds on X. It is not an ads bot, and it does not publish unless you say so.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/F7rovUv9EumNAoj9vEAWm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/F7rovUv9EumNAoj9vEAWm",
+  "homepage": "https://x.ai/bot/F7rovUv9EumNAoj9vEAWm",
+  "license": null,
+  "author": "joshkim",
+  "tags": [
+    "creator",
+    "social-media",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

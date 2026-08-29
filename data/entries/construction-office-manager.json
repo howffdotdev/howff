@@ -1,0 +1,26 @@
+{
+  "slug": "construction-office-manager",
+  "name": "Construction Office Manager",
+  "category": "ops",
+  "tagline": "Construction back office: books, expenses, estimating and the job schedule",
+  "description": "Keeps the office side of a site business: the books, expenses, estimates, job schedule, and the owner's calendar against what is happening in the field.",
+  "integrations": [
+    "Google Calendar"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Uytjr0oAalw0OuzCLdWPd",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Uytjr0oAalw0OuzCLdWPd",
+  "homepage": "https://x.ai/bot/Uytjr0oAalw0OuzCLdWPd",
+  "license": null,
+  "author": "joshkim",
+  "tags": [
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-08-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
