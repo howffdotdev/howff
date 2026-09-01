@@ -1,0 +1,22 @@
+{
+  "slug": "latch",
+  "name": "Latch",
+  "category": "ops",
+  "tagline": "Walks new users from role and tools to live connectors, then a first real job.",
+  "description": "Walks new users from role and tools to live connectors, then a first real job.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9nbLm_04EvjnolE9oevTT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9nbLm_04EvjnolE9oevTT",
+  "homepage": "https://x.ai/bot/9nbLm_04EvjnolE9oevTT",
+  "license": null,
+  "author": "OliverKorzen",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "linkedin-leads",
+  "name": "Linkedin Leads",
+  "category": "sales",
+  "tagline": "Busca leads en LinkedIn en publicaciones y comentarios a partir de las palabras clave que le des, con filtros de incluir/excluir opcionales.",
+  "description": "Busca leads en LinkedIn en publicaciones y comentarios a partir de las palabras clave que le des, con filtros de incluir/excluir opcionales.",
+  "integrations": [
+    "LinkedIn"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-BdTEtBnZEq9K1ef-bn6W",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-BdTEtBnZEq9K1ef-bn6W",
+  "homepage": "https://x.ai/bot/-BdTEtBnZEq9K1ef-bn6W",
+  "license": null,
+  "author": "angelesp",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

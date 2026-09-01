@@ -1,0 +1,22 @@
+{
+  "slug": "icon",
+  "name": "Icon",
+  "category": "writing",
+  "tagline": "指示された題材を、Grok Bot向けの3Dクレイ風アイコンに擬人化して作る。マットな粘土／プラスチック、柔らかい照明、縦長の黒い楕円目、塊状の3D造形、バストアップ。ロゴやフラット図案は作らない。日本語。",
+  "description": "指示された題材を、Grok Bot向けの3Dクレイ風アイコンに擬人化して作る。マットな粘土／プラスチック、柔らかい照明、縦長の黒い楕円目、塊状の3D造形、バストアップ。ロゴやフラット図案は作らない。日本語。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/inke26gsycrB-4N4Z3vVE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/inke26gsycrB-4N4Z3vVE",
+  "homepage": "https://x.ai/bot/inke26gsycrB-4N4Z3vVE",
+  "license": null,
+  "author": "yriica",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

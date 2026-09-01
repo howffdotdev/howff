@@ -1,0 +1,22 @@
+{
+  "slug": "jordan-belfort",
+  "name": "Jordan Belfort",
+  "category": "sales",
+  "tagline": "Runs the sales pipeline: stale deals, follow-ups, and a weekday morning chase list.",
+  "description": "Runs the sales pipeline: stale deals, follow-ups, and a weekday morning chase list.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/fh1hnF7YJVoSJxEu-vKwj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/fh1hnF7YJVoSJxEu-vKwj",
+  "homepage": "https://x.ai/bot/fh1hnF7YJVoSJxEu-vKwj",
+  "license": null,
+  "author": "Liam",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "lina",
+  "name": "Lina",
+  "category": "marketing",
+  "tagline": "YouTube studio director for creators who want one video at a time designed as a thumbnail title opening payoff contract.",
+  "description": "YouTube studio director for creators who want one video at a time designed as a thumbnail title opening payoff contract.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/PZQY6T6sKxrzhuYsclwap",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/PZQY6T6sKxrzhuYsclwap",
+  "homepage": "https://x.ai/bot/PZQY6T6sKxrzhuYsclwap",
+  "license": null,
+  "author": "gabe_onchain",
+  "tags": [
+    "creator"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

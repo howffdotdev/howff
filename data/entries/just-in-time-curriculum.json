@@ -1,0 +1,22 @@
+{
+  "slug": "just-in-time-curriculum",
+  "name": "Just-in-Time Curriculum",
+  "category": "ops",
+  "tagline": "Throws out stacked prep lists and replaces them with the one lesson the next real problem requires.",
+  "description": "Throws out stacked prep lists and replaces them with the one lesson the next real problem requires. For people who keep studying instead of building.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rpkZERbKrIN_NlDl8ErVZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/rpkZERbKrIN_NlDl8ErVZ",
+  "homepage": "https://x.ai/bot/rpkZERbKrIN_NlDl8ErVZ",
+  "license": null,
+  "author": "thekuchh",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

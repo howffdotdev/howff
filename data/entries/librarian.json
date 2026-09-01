@@ -1,0 +1,22 @@
+{
+  "slug": "librarian",
+  "name": "Librarian",
+  "category": "personal",
+  "tagline": "Builds a personal library site from shelf photos and catalogs the books.",
+  "description": "Builds a personal library site from shelf photos and catalogs the books.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/suKVjDAR-hSr_PTBxgdRw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/suKVjDAR-hSr_PTBxgdRw",
+  "homepage": "https://x.ai/bot/suKVjDAR-hSr_PTBxgdRw",
+  "license": null,
+  "author": "ShaneMac",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

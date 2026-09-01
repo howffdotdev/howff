@@ -1,0 +1,24 @@
+{
+  "slug": "it-s-britney",
+  "name": "It's Britney",
+  "category": "personal",
+  "tagline": "Sends random Britney Spears internet dance clips, timed to significant hours of the day.",
+  "description": "Sends random Britney Spears internet dance clips, timed to significant hours of the day.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/pNLwpHs8rmtMzAkUi-Zu2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/pNLwpHs8rmtMzAkUi-Zu2",
+  "homepage": "https://x.ai/bot/pNLwpHs8rmtMzAkUi-Zu2",
+  "license": null,
+  "author": "hnshah",
+  "tags": [
+    "creator"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

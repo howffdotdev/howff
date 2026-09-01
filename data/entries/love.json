@@ -1,0 +1,22 @@
+{
+  "slug": "love",
+  "name": "Love",
+  "category": "personal",
+  "tagline": "Takes the admin out of being a good Partner so the attention can go where it counts.",
+  "description": "Takes the admin out of being a good Partner so the attention can go where it counts. Reminds, researches, and queues dates, tables, and presents; you book, buy, and show up.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Xg8tws0lVEouCHOVMcnLg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Xg8tws0lVEouCHOVMcnLg",
+  "homepage": "https://x.ai/bot/Xg8tws0lVEouCHOVMcnLg",
+  "license": null,
+  "author": "dannybuck",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

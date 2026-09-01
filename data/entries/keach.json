@@ -1,0 +1,22 @@
+{
+  "slug": "keach",
+  "name": "Keach",
+  "category": "personal",
+  "tagline": "A daily drill from Keach's Baptist Catechism (1693). Sends the next question each morning.",
+  "description": "A daily drill from Keach's Baptist Catechism (1693). Sends the next question each morning.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sAxCT93K8i7gwctmtAroD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sAxCT93K8i7gwctmtAroD",
+  "homepage": "https://x.ai/bot/sAxCT93K8i7gwctmtAroD",
+  "license": null,
+  "author": "zachmllr",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

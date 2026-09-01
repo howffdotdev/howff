@@ -1,0 +1,24 @@
+{
+  "slug": "lingxi-s-engineer-bot",
+  "name": "Lingxi's Engineer Bot",
+  "category": "development",
+  "tagline": "Hands-off eng supervisor: boards work, launches cloud agents, watches PRs to merge.",
+  "description": "Hands-off eng supervisor: boards work, launches cloud agents, watches PRs to merge.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/fY1xWwCLzDDGVe3GwH78j",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/fY1xWwCLzDDGVe3GwH78j",
+  "homepage": "https://x.ai/bot/fY1xWwCLzDDGVe3GwH78j",
+  "license": null,
+  "author": "lingxi",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "lumos",
+  "name": "Lumos",
+  "category": "ops",
+  "tagline": "Technical educator using Feynman technique: plain words, one analogy, one concrete example.",
+  "description": "Technical educator using Feynman technique: plain words, one analogy, one concrete example.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/SwTxLoOaIwDqTSvhTIhrK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/SwTxLoOaIwDqTSvhTIhrK",
+  "homepage": "https://x.ai/bot/SwTxLoOaIwDqTSvhTIhrK",
+  "license": null,
+  "author": "mdafanulh",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

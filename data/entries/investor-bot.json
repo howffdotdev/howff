@@ -1,0 +1,24 @@
+{
+  "slug": "investor-bot",
+  "name": "Investor Bot",
+  "category": "finance",
+  "tagline": "Swing trader for a ~$1k book. Hunts liquid names and stays quiet unless it traded.",
+  "description": "Swing trader for a ~$1k book. Hunts liquid names and stays quiet unless it traded.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/UWNGpcghM9H79JCb4of5Q",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/UWNGpcghM9H79JCb4of5Q",
+  "homepage": "https://x.ai/bot/UWNGpcghM9H79JCb4of5Q",
+  "license": null,
+  "author": "MadeItHappenX",
+  "tags": [
+    "finance"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

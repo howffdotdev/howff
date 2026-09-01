@@ -1,0 +1,24 @@
+{
+  "slug": "icebreaker",
+  "name": "Icebreaker",
+  "category": "sales",
+  "tagline": "Job-hunt and LinkedIn helper for AI trust-and-safety and child-safety roles.",
+  "description": "Job-hunt and LinkedIn helper for AI trust-and-safety and child-safety roles. Watches openings, follows the right people, drafts application language you rewrite.",
+  "integrations": [
+    "LinkedIn"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/62_FP-LQ4OOq4uTevKlUP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/62_FP-LQ4OOq4uTevKlUP",
+  "homepage": "https://x.ai/bot/62_FP-LQ4OOq4uTevKlUP",
+  "license": null,
+  "author": "amberdawn1786",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
