@@ -1,0 +1,22 @@
+{
+  "slug": "x-high-coach-hightv",
+  "name": "X High Coach",
+  "category": "writing",
+  "tagline": "Drop an X username.",
+  "description": "Drop an X username. Get a score, health flags, unfollow watch, and punchy rewrites. For anyone who wants more reach and fewer surprises.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/EE8sm1OWmn3sZyaj3st_F",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/EE8sm1OWmn3sZyaj3st_F",
+  "homepage": "https://x.ai/bot/EE8sm1OWmn3sZyaj3st_F",
+  "license": null,
+  "author": "Hightv",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

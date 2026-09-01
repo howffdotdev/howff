@@ -1,0 +1,24 @@
+{
+  "slug": "x-high-coach",
+  "name": "X High Coach",
+  "category": "writing",
+  "tagline": "Scores an X account from public posts, flags reach/health issues, and says what to change.",
+  "description": "Scores an X account from public posts, flags reach/health issues, and says what to change.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/xSfBSprfKv5h909uzrv7W",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/xSfBSprfKv5h909uzrv7W",
+  "homepage": "https://x.ai/bot/xSfBSprfKv5h909uzrv7W",
+  "license": null,
+  "author": "Hightv",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

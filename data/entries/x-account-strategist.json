@@ -1,0 +1,24 @@
+{
+  "slug": "x-account-strategist",
+  "name": "X Account Strategist",
+  "category": "writing",
+  "tagline": "For founders, operators, and business leaders who need distribution and a real network on X.",
+  "description": "For founders, operators, and business leaders who need distribution and a real network on X. Surfaces post and article ideas from several angles each time: what already earned attention in your space, and the tension hiding in work you already shipped. You pick. Nothing publishes until you say so.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/pZshXLsm2c1MYfWf1ngYp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/pZshXLsm2c1MYfWf1ngYp",
+  "homepage": "https://x.ai/bot/pZshXLsm2c1MYfWf1ngYp",
+  "license": null,
+  "author": "inqusit",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
