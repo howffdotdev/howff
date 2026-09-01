@@ -1,0 +1,22 @@
+{
+  "slug": "teslascope",
+  "name": "Teslascope",
+  "category": "personal",
+  "tagline": "A Teslascope assistant for Tesla owners.",
+  "description": "A Teslascope assistant for Tesla owners. It connects to Teslascope MCP, then answers questions about drives, Superchargers, charging, and your vehicles.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/brwSBnhe7jg20IBJS0TVK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/brwSBnhe7jg20IBJS0TVK",
+  "homepage": "https://x.ai/bot/brwSBnhe7jg20IBJS0TVK",
+  "license": null,
+  "author": "teslascope",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

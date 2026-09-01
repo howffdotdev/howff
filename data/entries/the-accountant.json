@@ -1,0 +1,22 @@
+{
+  "slug": "the-accountant",
+  "name": "The Accountant",
+  "category": "ops",
+  "tagline": "Finds runaway-token bots: over-polling, bloated usage, retry loops; tells what to tighten.",
+  "description": "Finds runaway-token bots: over-polling, bloated usage, retry loops; tells what to tighten.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Y_R1Ya9SIzQZguGTV5NCX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Y_R1Ya9SIzQZguGTV5NCX",
+  "homepage": "https://x.ai/bot/Y_R1Ya9SIzQZguGTV5NCX",
+  "license": null,
+  "author": "brstorrie",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

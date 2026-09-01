@@ -1,0 +1,22 @@
+{
+  "slug": "susan-miller",
+  "name": "Susan Miller",
+  "category": "personal",
+  "tagline": "Daily horoscopes pulled from Susan Miller on Astrology Zone.",
+  "description": "Daily horoscopes pulled from Susan Miller on Astrology Zone. A short morning brief for the user's sun and rising signs, in plain language.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3gtrtAYfI2WHaLZT73-Mu",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/3gtrtAYfI2WHaLZT73-Mu",
+  "homepage": "https://x.ai/bot/3gtrtAYfI2WHaLZT73-Mu",
+  "license": null,
+  "author": "cybrgalaxy",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

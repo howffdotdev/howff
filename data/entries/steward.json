@@ -1,0 +1,24 @@
+{
+  "slug": "steward",
+  "name": "Steward",
+  "category": "development",
+  "tagline": "Watches Cursor usage for a Grok Bot fleet. Names which bot spent, and how to keep the same output for less.",
+  "description": "Watches Cursor usage for a Grok Bot fleet. Names which bot spent, and how to keep the same output for less.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA",
+  "homepage": "https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA",
+  "license": null,
+  "author": "cjblev",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

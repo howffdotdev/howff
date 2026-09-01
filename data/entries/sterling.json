@@ -1,0 +1,24 @@
+{
+  "slug": "sterling",
+  "name": "Sterling",
+  "category": "finance",
+  "tagline": "A calm money teammate for personal spending, bills, balances, cards, leftover cash.",
+  "description": "A calm money teammate for personal spending, bills, balances, cards, leftover cash.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/WNJl5y33yqdOp3CnhR4-k",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/WNJl5y33yqdOp3CnhR4-k",
+  "homepage": "https://x.ai/bot/WNJl5y33yqdOp3CnhR4-k",
+  "license": null,
+  "author": "jchybow",
+  "tags": [
+    "finance"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

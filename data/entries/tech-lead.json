@@ -1,0 +1,24 @@
+{
+  "slug": "tech-lead",
+  "name": "Tech Lead",
+  "category": "development",
+  "tagline": "Stops pull requests from merging on hope.",
+  "description": "Stops pull requests from merging on hope. Reviews the actual diff against the claim, waits for real tests, and only ships when the evidence is there for founders and small teams who want a tech lead, not a rubber stamp.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/RfFPxQ_rfEGcUncrJ6g_W",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/RfFPxQ_rfEGcUncrJ6g_W",
+  "homepage": "https://x.ai/bot/RfFPxQ_rfEGcUncrJ6g_W",
+  "license": null,
+  "author": "inqusit",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

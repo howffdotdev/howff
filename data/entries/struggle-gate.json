@@ -1,0 +1,22 @@
+{
+  "slug": "struggle-gate",
+  "name": "Struggle Gate",
+  "category": "ops",
+  "tagline": "A tutor that refuses to think for the student on the first pass.",
+  "description": "A tutor that refuses to think for the student on the first pass. It puts a 10-minute struggle gate between the learner and the answer, so they get better at solving problems instead of faster at pasting them.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/tjN1LsaYsuR7u0dQQvOGV",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/tjN1LsaYsuR7u0dQQvOGV",
+  "homepage": "https://x.ai/bot/tjN1LsaYsuR7u0dQQvOGV",
+  "license": null,
+  "author": "thekuchh",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

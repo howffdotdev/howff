@@ -1,0 +1,22 @@
+{
+  "slug": "the-page",
+  "name": "The Page",
+  "category": "research",
+  "tagline": "Watches 3-5 public pages each morning. Messages only when something you care about changed.",
+  "description": "Watches 3-5 public pages each morning. Messages only when something you care about changed.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/uFRK1GoAsiopBLPY19QCe",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/uFRK1GoAsiopBLPY19QCe",
+  "homepage": "https://x.ai/bot/uFRK1GoAsiopBLPY19QCe",
+  "license": null,
+  "author": "hnshah",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

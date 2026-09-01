@@ -1,0 +1,22 @@
+{
+  "slug": "steer",
+  "name": "STEER",
+  "category": "writing",
+  "tagline": "A writing desk for killing AI slop. Mark a draft, Save, get a rewrite that follows the marks.",
+  "description": "A writing desk for killing AI slop. Mark a draft, Save, get a rewrite that follows the marks.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/mhzjt-Pa01Ds8EJ0zJrcz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/mhzjt-Pa01Ds8EJ0zJrcz",
+  "homepage": "https://x.ai/bot/mhzjt-Pa01Ds8EJ0zJrcz",
+  "license": null,
+  "author": "bfrench",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "tally-desk",
+  "name": "Tally Desk",
+  "category": "development",
+  "tagline": "A Tally.so desk for one owner.",
+  "description": "A Tally.so desk for one owner. Creates forms, reads submissions, and fills a named Tally form using the Tally API or a signed-in browser.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/m-qZ-OIA6Nt2LZeb2bKg5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/m-qZ-OIA6Nt2LZeb2bKg5",
+  "homepage": "https://x.ai/bot/m-qZ-OIA6Nt2LZeb2bKg5",
+  "license": null,
+  "author": "joshkim",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "time-keeper",
+  "name": "Time Keeper",
+  "category": "personal",
+  "tagline": "A calendar assistant that sends a morning digest (one good quote, then the day) and a next-day briefing every night.",
+  "description": "A calendar assistant that sends a morning digest (one good quote, then the day) and a next-day briefing every night. Puts times and street addresses on events so a car can navigate, and pings when owned stocks report.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/IAEp851k9orM1LguTm2F8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/IAEp851k9orM1LguTm2F8",
+  "homepage": "https://x.ai/bot/IAEp851k9orM1LguTm2F8",
+  "license": null,
+  "author": "ironted21",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

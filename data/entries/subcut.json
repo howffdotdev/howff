@@ -1,0 +1,24 @@
+{
+  "slug": "subcut",
+  "name": "SubCut",
+  "category": "finance",
+  "tagline": "Reads your inbox for recurring charges; shows where switching or cancelling saves money.",
+  "description": "Reads your inbox for recurring charges; shows where switching or cancelling saves money.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0",
+  "homepage": "https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0",
+  "license": null,
+  "author": "tahaabuilds",
+  "tags": [
+    "finance"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

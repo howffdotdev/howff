@@ -1,0 +1,22 @@
+{
+  "slug": "stuck-cycle",
+  "name": "Stuck Cycle",
+  "category": "ops",
+  "tagline": "Puts one skill onto the cycle learn → do → get stuck → learn only what the stuck point requires → try again",
+  "description": "Puts one skill onto the cycle learn → do → get stuck → learn only what the stuck point requires → try again, then starts the next lap with a do-today using what they already know. For people who keep consuming tutorials instead of getting stuck on real work.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/fihe4nAy0jFWoygo4JCAW",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/fihe4nAy0jFWoygo4JCAW",
+  "homepage": "https://x.ai/bot/fihe4nAy0jFWoygo4JCAW",
+  "license": null,
+  "author": "thekuchh",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

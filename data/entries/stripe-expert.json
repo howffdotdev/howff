@@ -1,0 +1,24 @@
+{
+  "slug": "stripe-expert",
+  "name": "Stripe Expert",
+  "category": "sales",
+  "tagline": "A Stripe billing assistant that tracks live MRR and subscriptions, and sends a weekday morning digest of new",
+  "description": "A Stripe billing assistant that tracks live MRR and subscriptions, and sends a weekday morning digest of new customers and cancels with how long they lasted.",
+  "integrations": [
+    "Stripe"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Eq82ekPGgwFeIEM5BuzCW",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Eq82ekPGgwFeIEM5BuzCW",
+  "homepage": "https://x.ai/bot/Eq82ekPGgwFeIEM5BuzCW",
+  "license": null,
+  "author": "appeeky",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

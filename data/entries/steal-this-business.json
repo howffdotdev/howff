@@ -1,0 +1,24 @@
+{
+  "slug": "steal-this-business",
+  "name": "Steal This Business",
+  "category": "finance",
+  "tagline": "Reverse-engineers a successful startup into a concrete independent business to build.",
+  "description": "Reverse-engineers a successful startup into a concrete independent business to build.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Ojrv95GLUG1nO1p1RWzVK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Ojrv95GLUG1nO1p1RWzVK",
+  "homepage": "https://x.ai/bot/Ojrv95GLUG1nO1p1RWzVK",
+  "license": null,
+  "author": "adxtyahq",
+  "tags": [
+    "finance"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
