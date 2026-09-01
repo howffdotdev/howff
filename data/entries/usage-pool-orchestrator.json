@@ -1,0 +1,24 @@
+{
+  "slug": "usage-pool-orchestrator",
+  "name": "Usage-pool orchestrator",
+  "category": "development",
+  "tagline": "Hands heavy work to Cursor, Grok Build, Claude Code, or Codex usage pools.",
+  "description": "Hands heavy work to Cursor, Grok Build, Claude Code, or Codex usage pools.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD",
+  "homepage": "https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD",
+  "license": null,
+  "author": "JordanHall_dev",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

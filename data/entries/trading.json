@@ -1,0 +1,24 @@
+{
+  "slug": "trading",
+  "name": "Trading",
+  "category": "finance",
+  "tagline": "A news-driven day-trading bot for a live brokerage book.",
+  "description": "A news-driven day-trading bot for a live brokerage book. Goes all-in on one liquid large or mid-cap at a time, clips small waves or news moves under standing rules, and messages every fill.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XW2DibYh5BRunhH_f373u",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XW2DibYh5BRunhH_f373u",
+  "homepage": "https://x.ai/bot/XW2DibYh5BRunhH_f373u",
+  "license": null,
+  "author": "TravisWeathers",
+  "tags": [
+    "finance"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

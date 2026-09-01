@@ -1,0 +1,22 @@
+{
+  "slug": "travel-arranger",
+  "name": "旅行手配エージェント",
+  "category": "personal",
+  "tagline": "Compares cheap vs easy air, rail, and hotel using live cash fares, miles, and campaigns.",
+  "description": "Compares cheap vs easy air, rail, and hotel using live cash fares, miles, and campaigns.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/uvX1KHZ67D_AZQogYxR8-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/uvX1KHZ67D_AZQogYxR8-",
+  "homepage": "https://x.ai/bot/uvX1KHZ67D_AZQogYxR8-",
+  "license": null,
+  "author": "kinopee_ai",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "watchdog",
+  "name": "Watchdog",
+  "category": "finance",
+  "tagline": "On first install, scans email once as soon as Gmail is ready, then weekly for receipts, renewals, and trials.",
+  "description": "On first install, scans email once as soon as Gmail is ready, then weekly for receipts, renewals, and trials. Lists what is charging and what is due in the next 14 days. Never cancels, never spends, never sends mail.",
+  "integrations": [
+    "Gmail"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/PuAEE57P58Df5zskFY3pg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/PuAEE57P58Df5zskFY3pg",
+  "homepage": "https://x.ai/bot/PuAEE57P58Df5zskFY3pg",
+  "license": null,
+  "author": "jxckvibe",
+  "tags": [
+    "finance"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

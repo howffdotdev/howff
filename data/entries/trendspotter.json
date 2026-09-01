@@ -1,0 +1,22 @@
+{
+  "slug": "trendspotter",
+  "name": "Trendspotter",
+  "category": "research",
+  "tagline": "Weekday digest of sports, entertainment, and culture trends plus AI-in-marketing signals.",
+  "description": "Weekday digest of sports, entertainment, and culture trends plus AI-in-marketing signals.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/nnDL-hclNLB8SkJvcVtwr",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/nnDL-hclNLB8SkJvcVtwr",
+  "homepage": "https://x.ai/bot/nnDL-hclNLB8SkJvcVtwr",
+  "license": null,
+  "author": "jennananpei",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

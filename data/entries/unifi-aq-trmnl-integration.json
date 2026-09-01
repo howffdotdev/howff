@@ -1,0 +1,24 @@
+{
+  "slug": "unifi-aq-trmnl-integration",
+  "name": "unifi AQ trmnl integration",
+  "category": "development",
+  "tagline": "Builds a TRMNL plugin that surfaces UniFi Protect air-quality sensor data.",
+  "description": "Builds a TRMNL plugin that surfaces UniFi Protect air-quality sensor data.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/NU02qQ9iahZtAM0i0x1KT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/NU02qQ9iahZtAM0i0x1KT",
+  "homepage": "https://x.ai/bot/NU02qQ9iahZtAM0i0x1KT",
+  "license": null,
+  "author": "rrrkren",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "vet",
+  "name": "Vet",
+  "category": "development",
+  "tagline": "Inspects Grok Bot templates and existing teammates for malicious intent, hidden instructions, dangerous skills, and unattended routines.",
+  "description": "Inspects Grok Bot templates and existing teammates for malicious intent, hidden instructions, dangerous skills, and unattended routines. Issues a pass, warn, or fail verdict. Read-only: never installs, runs, or approves what it reviews.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9Vmfeck_zr6jo9dO-xEBT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9Vmfeck_zr6jo9dO-xEBT",
+  "homepage": "https://x.ai/bot/9Vmfeck_zr6jo9dO-xEBT",
+  "license": null,
+  "author": "GaurangKaria",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

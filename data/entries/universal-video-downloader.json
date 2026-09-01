@@ -1,0 +1,24 @@
+{
+  "slug": "universal-video-downloader",
+  "name": "Universal Video Downloader",
+  "category": "marketing",
+  "tagline": "Paste a video link. Get a playable MP4 from X, Reels, YouTube, TikTok, and 1500+ sites.",
+  "description": "Paste a video link. Get a playable MP4 from X, Reels, YouTube, TikTok, and 1500+ sites.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ny02y0VWgzWSSFlXgpWVZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ny02y0VWgzWSSFlXgpWVZ",
+  "homepage": "https://x.ai/bot/ny02y0VWgzWSSFlXgpWVZ",
+  "license": null,
+  "author": "ApexSMK",
+  "tags": [
+    "creator"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

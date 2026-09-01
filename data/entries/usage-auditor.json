@@ -1,0 +1,22 @@
+{
+  "slug": "usage-auditor",
+  "name": "Usage Auditor",
+  "category": "ops",
+  "tagline": "Weekly usage auditor: inventories routines, scores cost, writes a waste report.",
+  "description": "Weekly usage auditor: inventories routines, scores cost, writes a waste report.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/M5vd5Dp9Et4EZQ3Ik3Hn2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/M5vd5Dp9Et4EZQ3Ik3Hn2",
+  "homepage": "https://x.ai/bot/M5vd5Dp9Et4EZQ3Ik3Hn2",
+  "license": null,
+  "author": "maxjean__",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

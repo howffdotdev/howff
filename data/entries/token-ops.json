@@ -1,0 +1,22 @@
+{
+  "slug": "token-ops",
+  "name": "Token Ops",
+  "category": "ops",
+  "tagline": "Knows every live Grok Bot routine, how often each fires, and whether it is worth the tokens.",
+  "description": "Knows every live Grok Bot routine, how often each fires, and whether it is worth the tokens.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4mCuSlW34n6l3aYxYJCdj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/4mCuSlW34n6l3aYxYJCdj",
+  "homepage": "https://x.ai/bot/4mCuSlW34n6l3aYxYJCdj",
+  "license": null,
+  "author": "adgapar",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

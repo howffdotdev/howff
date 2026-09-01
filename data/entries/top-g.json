@@ -1,0 +1,22 @@
+{
+  "slug": "top-g",
+  "name": "TOP G",
+  "category": "ops",
+  "tagline": "A 24/7 company orchestrator. Runs the work board and hires specialists in parallel.",
+  "description": "A 24/7 company orchestrator. Runs the work board and hires specialists in parallel.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0fYZ_kKkiXNbLn_KBD3f3",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/0fYZ_kKkiXNbLn_KBD3f3",
+  "homepage": "https://x.ai/bot/0fYZ_kKkiXNbLn_KBD3f3",
+  "license": null,
+  "author": "m_check1B",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

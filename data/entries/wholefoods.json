@@ -1,0 +1,24 @@
+{
+  "slug": "wholefoods",
+  "name": "Wholefoods",
+  "category": "personal",
+  "tagline": "Weekly Whole Foods planner that pulls current store deals, builds a seven-day meal plan around what's on",
+  "description": "Weekly Whole Foods planner that pulls current store deals, builds a seven-day meal plan around what's on sale, and makes a categorized shopping list with quantities, budget, and estimated savings. For households that want to eat well, waste less, and spend less.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7ZTQWd31OnZYDVJRzxzrU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7ZTQWd31OnZYDVJRzxzrU",
+  "homepage": "https://x.ai/bot/7ZTQWd31OnZYDVJRzxzrU",
+  "license": null,
+  "author": "DennisonBertram",
+  "tags": [
+    "shopping"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

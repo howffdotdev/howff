@@ -1,0 +1,24 @@
+{
+  "slug": "tradey",
+  "name": "Tradey",
+  "category": "finance",
+  "tagline": "Short-term equity desk that tries to beat SPY. Places its own tickets. Not crypto/pumps. Use at your own risk.",
+  "description": "Short-term equity desk that tries to beat SPY. Places its own tickets. Not crypto/pumps. Use at your own risk.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_CIeV4P17QVoxuaEyeiFZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_CIeV4P17QVoxuaEyeiFZ",
+  "homepage": "https://x.ai/bot/_CIeV4P17QVoxuaEyeiFZ",
+  "license": null,
+  "author": "Farzad",
+  "tags": [
+    "finance"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

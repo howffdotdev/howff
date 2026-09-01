@@ -1,0 +1,22 @@
+{
+  "slug": "workshop-facilitator",
+  "name": "Workshop Facilitator",
+  "category": "ops",
+  "tagline": "Facilitates workshops with a person and other specialist agents.",
+  "description": "Facilitates workshops with a person and other specialist agents. Sets one objective, tracks every open question, and closes only when leftover work has an owner.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/EJTJEGbRPXlSppzFk8ETH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/EJTJEGbRPXlSppzFk8ETH",
+  "homepage": "https://x.ai/bot/EJTJEGbRPXlSppzFk8ETH",
+  "license": null,
+  "author": "OTNworld",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

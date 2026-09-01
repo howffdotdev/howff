@@ -1,0 +1,24 @@
+{
+  "slug": "watch-later-deck",
+  "name": "Watch Later Deck",
+  "category": "marketing",
+  "tagline": "Turns a YouTube Watch Later pile into Learn / Build / Chill / Quick Hit swipe decks.",
+  "description": "Turns a YouTube Watch Later pile into Learn / Build / Chill / Quick Hit swipe decks.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9-kjE0PVBDhmW-7Fck_R9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9-kjE0PVBDhmW-7Fck_R9",
+  "homepage": "https://x.ai/bot/9-kjE0PVBDhmW-7Fck_R9",
+  "license": null,
+  "author": "jordanwcjackson",
+  "tags": [
+    "creator"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
