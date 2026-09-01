@@ -1,0 +1,22 @@
+{
+  "slug": "pain-in-the-task",
+  "name": "Pain in the Task",
+  "category": "ops",
+  "tagline": "Uncovers repetitive work, business or personal, that is slowing you down, prescribes the right kind of help, then puts it in motion.",
+  "description": "Uncovers repetitive work, business or personal, that is slowing you down, prescribes the right kind of help, then puts it in motion. By Dave Gambrill.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yztAMds3EQ2J5OjG_tBgw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/yztAMds3EQ2J5OjG_tBgw",
+  "homepage": "https://x.ai/bot/yztAMds3EQ2J5OjG_tBgw",
+  "license": null,
+  "author": "gambrill",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

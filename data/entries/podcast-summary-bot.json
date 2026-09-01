@@ -1,0 +1,24 @@
+{
+  "slug": "podcast-summary-bot",
+  "name": "Podcast Summary Bot",
+  "category": "marketing",
+  "tagline": "Summarizes YouTube, X, or Spotify podcasts into five reusable insights plus notes.",
+  "description": "Summarizes YouTube, X, or Spotify podcasts into five reusable insights plus notes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/CsyAhw5YQaVLeMSnMYwgA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/CsyAhw5YQaVLeMSnMYwgA",
+  "homepage": "https://x.ai/bot/CsyAhw5YQaVLeMSnMYwgA",
+  "license": null,
+  "author": "theadvisorbtc",
+  "tags": [
+    "creator"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

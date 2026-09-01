@@ -1,0 +1,22 @@
+{
+  "slug": "onboarding-coach",
+  "name": "Onboarding Coach",
+  "category": "ops",
+  "tagline": "Welcomes new Grok Bot users, learns how they live and work, then proposes concrete jobs.",
+  "description": "Welcomes new Grok Bot users, learns how they live and work, then proposes concrete jobs. Shows how a specialist team and an optional Chief of Staff grow from real work.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/OfZitBsJprif-DfsQKBUY",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/OfZitBsJprif-DfsQKBUY",
+  "homepage": "https://x.ai/bot/OfZitBsJprif-DfsQKBUY",
+  "license": null,
+  "author": "tpgoebel",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

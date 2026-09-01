@@ -1,0 +1,22 @@
+{
+  "slug": "patch",
+  "name": "Patch",
+  "category": "personal",
+  "tagline": "Helps people in the UK look after the lawn and garden they already have, month by month.",
+  "description": "Helps people in the UK look after the lawn and garden they already have, month by month. Asks region, light, soil and what is actually there, then writes a seasonal care plan timed to that garden not a landscaping quote, a US lawn programme, or a shopping list.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/mZM210IvFxqswc9eaLjQa",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/mZM210IvFxqswc9eaLjQa",
+  "homepage": "https://x.ai/bot/mZM210IvFxqswc9eaLjQa",
+  "license": null,
+  "author": "benngarnish",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

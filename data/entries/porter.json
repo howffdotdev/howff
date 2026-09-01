@@ -1,0 +1,22 @@
+{
+  "slug": "porter",
+  "name": "Porter",
+  "category": "ops",
+  "tagline": "Moves a Grok Bot roster from one app to another.",
+  "description": "Moves a Grok Bot roster from one app to another. Inventories every teammate, packs jobs, memories, and standing routines, then recreates them on the destination.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/cl7kIRbcIuP6jj2Zt8z5K",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/cl7kIRbcIuP6jj2Zt8z5K",
+  "homepage": "https://x.ai/bot/cl7kIRbcIuP6jj2Zt8z5K",
+  "license": null,
+  "author": "darylbleach",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

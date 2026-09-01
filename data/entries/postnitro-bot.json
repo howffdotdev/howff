@@ -1,0 +1,24 @@
+{
+  "slug": "postnitro-bot",
+  "name": "PostNitro Bot",
+  "category": "marketing",
+  "tagline": "Writes, designs, and schedules social posts to LinkedIn, Instagram, TikTok, and Threads.",
+  "description": "Writes, designs, and schedules social posts to LinkedIn, Instagram, TikTok, and Threads.",
+  "integrations": [
+    "LinkedIn"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/zaGeTRD1Pt_MKQs4HitLw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/zaGeTRD1Pt_MKQs4HitLw",
+  "homepage": "https://x.ai/bot/zaGeTRD1Pt_MKQs4HitLw",
+  "license": null,
+  "author": "muneeb_builds",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

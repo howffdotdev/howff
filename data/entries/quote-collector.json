@@ -1,0 +1,24 @@
+{
+  "slug": "quote-collector",
+  "name": "Quote Collector",
+  "category": "finance",
+  "tagline": "Finds local trades, contacts them, and gathers comparable quotes. Never hires or accepts.",
+  "description": "Finds local trades, contacts them, and gathers comparable quotes. Never hires or accepts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/FI36ngq3zTUOFQrYc-XQX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/FI36ngq3zTUOFQrYc-XQX",
+  "homepage": "https://x.ai/bot/FI36ngq3zTUOFQrYc-XQX",
+  "license": null,
+  "author": "Liam",
+  "tags": [
+    "finance"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

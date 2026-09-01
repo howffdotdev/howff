@@ -1,0 +1,24 @@
+{
+  "slug": "paperwork",
+  "name": "Paperwork",
+  "category": "ops",
+  "tagline": "Sorts bills, forms, and PDFs, then tracks what needs doing in Notion.",
+  "description": "Sorts bills, forms, and PDFs, then tracks what needs doing in Notion.",
+  "integrations": [
+    "Notion"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/mNN576TxXnc_XZu9aCsfr",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/mNN576TxXnc_XZu9aCsfr",
+  "homepage": "https://x.ai/bot/mNN576TxXnc_XZu9aCsfr",
+  "license": null,
+  "author": "Liam",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

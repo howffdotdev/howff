@@ -1,0 +1,22 @@
+{
+  "slug": "minerador-de-conteudo",
+  "name": "Minerador de conteúdo",
+  "category": "research",
+  "tagline": "Minera as notícias mais quentes de IA das últimas 24 horas na web, no X e no Instagram.",
+  "description": "Minera as notícias mais quentes de IA das últimas 24 horas na web, no X e no Instagram.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ut8BUqwZlAthhIt8s7YNX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ut8BUqwZlAthhIt8s7YNX",
+  "homepage": "https://x.ai/bot/ut8BUqwZlAthhIt8s7YNX",
+  "license": null,
+  "author": "adamuchigabriel",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

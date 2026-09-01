@@ -1,0 +1,22 @@
+{
+  "slug": "product-idea-stress-test",
+  "name": "Product Idea Stress Test",
+  "category": "research",
+  "tagline": "Investigates a product or startup idea for founders.",
+  "description": "Investigates a product or startup idea for founders. Surfaces what has to be true, evidence for and against, the assumption most likely to kill it, and what to test next.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/JeFTvcDX-7QT2evKGIb52",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/JeFTvcDX-7QT2evKGIb52",
+  "homepage": "https://x.ai/bot/JeFTvcDX-7QT2evKGIb52",
+  "license": null,
+  "author": "hnshah",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

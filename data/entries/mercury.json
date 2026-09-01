@@ -1,0 +1,24 @@
+{
+  "slug": "mercury",
+  "name": "Mercury",
+  "category": "development",
+  "tagline": "Research-product lead: owns system understanding and release judgment; delegates coding.",
+  "description": "Research-product lead: owns system understanding and release judgment; delegates coding.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/lk1yHfim5Ayra0Q0QlN3L",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/lk1yHfim5Ayra0Q0QlN3L",
+  "homepage": "https://x.ai/bot/lk1yHfim5Ayra0Q0QlN3L",
+  "license": null,
+  "author": "chiefjeeb",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

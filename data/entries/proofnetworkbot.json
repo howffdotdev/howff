@@ -1,0 +1,24 @@
+{
+  "slug": "proofnetworkbot",
+  "name": "proofnetworkbot",
+  "category": "development",
+  "tagline": "Writes/ships ProofNetwork contracts from chat, then wires a frontend to the live contract.",
+  "description": "Writes/ships ProofNetwork contracts from chat, then wires a frontend to the live contract.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/RqfNH_lezeW6Wab2yNoT6",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/RqfNH_lezeW6Wab2yNoT6",
+  "homepage": "https://x.ai/bot/RqfNH_lezeW6Wab2yNoT6",
+  "license": null,
+  "author": "STACCoverflow",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
