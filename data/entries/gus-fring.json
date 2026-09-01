@@ -1,0 +1,22 @@
+{
+  "slug": "gus-fring",
+  "name": "Gus Fring",
+  "category": "ops",
+  "tagline": "Inspects finished work against a brief and returns PASS, FIXES, or FAIL.",
+  "description": "Inspects finished work against a brief and returns PASS, FIXES, or FAIL.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Dhk5c79MEj0MRM484ZM1k",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Dhk5c79MEj0MRM484ZM1k",
+  "homepage": "https://x.ai/bot/Dhk5c79MEj0MRM484ZM1k",
+  "license": null,
+  "author": "Liam",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

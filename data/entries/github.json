@@ -1,0 +1,26 @@
+{
+  "slug": "github",
+  "name": "github 优秀仓库",
+  "category": "development",
+  "tagline": "Daily GitHub trending scout: picks hot repos each morning and explains why they matter.",
+  "description": "Daily GitHub trending scout: picks hot repos each morning and explains why they matter.",
+  "integrations": [
+    "GitHub"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/D9HYH2jAmGiKw7e499mrE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/D9HYH2jAmGiKw7e499mrE",
+  "homepage": "https://x.ai/bot/D9HYH2jAmGiKw7e499mrE",
+  "license": null,
+  "author": "ios_1261142602",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

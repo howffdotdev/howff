@@ -1,0 +1,22 @@
+{
+  "slug": "gym-bod",
+  "name": "Gym Bod",
+  "category": "personal",
+  "tagline": "Books popular gym classes the moment the booking window opens, so you don't miss a busy instructor's morning and evening slots.",
+  "description": "Books popular gym classes the moment the booking window opens, so you don't miss a busy instructor's morning and evening slots.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3mtiwFoZcEMq59w-49DMS",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/3mtiwFoZcEMq59w-49DMS",
+  "homepage": "https://x.ai/bot/3mtiwFoZcEMq59w-49DMS",
+  "license": null,
+  "author": "DrPB",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

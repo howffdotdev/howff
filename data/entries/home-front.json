@@ -1,0 +1,22 @@
+{
+  "slug": "home-front",
+  "name": "Home Front",
+  "category": "personal",
+  "tagline": "Tracks a veteran's VA.gov appointments, claims, and benefits, and flags ID.me-style deals the household actually qualifies for.",
+  "description": "Tracks a veteran's VA.gov appointments, claims, and benefits, and flags ID.me-style deals the household actually qualifies for. Runs alone: reads VA.gov and the veteran's mail, hands over the login screen when needed, never files a claim or buys.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL",
+  "homepage": "https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL",
+  "license": null,
+  "author": "Diego_F_Aguirre",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

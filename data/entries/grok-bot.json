@@ -1,0 +1,22 @@
+{
+  "slug": "grok-bot",
+  "name": "最值得关注的Grok Bot 推文？",
+  "category": "research",
+  "tagline": "Weekday scout of Grok Bot explorer posts; only files high-traffic originals.",
+  "description": "Weekday scout of Grok Bot explorer posts; only files high-traffic originals.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/lFDR77qKaT3Iglzv9pUac",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/lFDR77qKaT3Iglzv9pUac",
+  "homepage": "https://x.ai/bot/lFDR77qKaT3Iglzv9pUac",
+  "license": null,
+  "author": "MaiYangAI",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

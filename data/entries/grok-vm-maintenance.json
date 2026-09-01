@@ -1,0 +1,24 @@
+{
+  "slug": "grok-vm-maintenance",
+  "name": "Grok VM maintenance",
+  "category": "development",
+  "tagline": "Inspects Linux VM CPU, memory, disk, and services; reports cleanup, no deletes.",
+  "description": "Inspects Linux VM CPU, memory, disk, and services; reports cleanup, no deletes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9UZp5k0Fp0LYmkyos5swQ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9UZp5k0Fp0LYmkyos5swQ",
+  "homepage": "https://x.ai/bot/9UZp5k0Fp0LYmkyos5swQ",
+  "license": null,
+  "author": "old_pgmrs_will",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

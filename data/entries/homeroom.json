@@ -1,0 +1,22 @@
+{
+  "slug": "homeroom",
+  "name": "Homeroom",
+  "category": "personal",
+  "tagline": "Parent helper that pulls Schoology and keeps a family homework board current.",
+  "description": "Parent helper that pulls Schoology and keeps a family homework board current.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/IciOb-9jMtlkc1RJj6MQe",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/IciOb-9jMtlkc1RJj6MQe",
+  "homepage": "https://x.ai/bot/IciOb-9jMtlkc1RJj6MQe",
+  "license": null,
+  "author": "ahalvor",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

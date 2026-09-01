@@ -1,0 +1,22 @@
+{
+  "slug": "grok-deck",
+  "name": "Grok Deck",
+  "category": "writing",
+  "tagline": "HTML slide decks in the Grok Bot look: paper canvas, blob faces, morphing page turns.",
+  "description": "HTML slide decks in the Grok Bot look: paper canvas, blob faces, morphing page turns.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Ja9NzNTRz2ozzQLNfrJwI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Ja9NzNTRz2ozzQLNfrJwI",
+  "homepage": "https://x.ai/bot/Ja9NzNTRz2ozzQLNfrJwI",
+  "license": null,
+  "author": "MaiYangAI",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
