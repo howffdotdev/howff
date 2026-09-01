@@ -1,0 +1,24 @@
+{
+  "slug": "shane-hunter",
+  "name": "shane hunter",
+  "category": "development",
+  "tagline": "Deletes named Grok Bots from the Grok Bot desktop app after you confirm.",
+  "description": "Deletes named Grok Bots from the Grok Bot desktop app after you confirm. For people who want a bot that can actually remove other bots, not just talk about it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/o0yoY_AhWPpIySJR5TaM-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/o0yoY_AhWPpIySJR5TaM-",
+  "homepage": "https://x.ai/bot/o0yoY_AhWPpIySJR5TaM-",
+  "license": null,
+  "author": "rightish19",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

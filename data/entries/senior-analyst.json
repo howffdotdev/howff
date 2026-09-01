@@ -1,0 +1,24 @@
+{
+  "slug": "senior-analyst",
+  "name": "Senior Analyst",
+  "category": "finance",
+  "tagline": "OCR docs via SecureLend MCP into Excel, then a cited underwriting memo.",
+  "description": "OCR docs via SecureLend MCP into Excel, then a cited underwriting memo.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Q2xW8BIDffTjbDVXZYZhV",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Q2xW8BIDffTjbDVXZYZhV",
+  "homepage": "https://x.ai/bot/Q2xW8BIDffTjbDVXZYZhV",
+  "license": null,
+  "author": "tobias_pfuetze",
+  "tags": [
+    "finance"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

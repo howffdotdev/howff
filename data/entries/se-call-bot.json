@@ -1,0 +1,22 @@
+{
+  "slug": "se-call-bot",
+  "name": "SE call bot",
+  "category": "sales",
+  "tagline": "Win the call spoken product answers, stories, doc QA, FDE/CE plays.",
+  "description": "Win the call spoken product answers, stories, doc QA, FDE/CE plays.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9wmmsO_xoeLPeGEqjWLzE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9wmmsO_xoeLPeGEqjWLzE",
+  "homepage": "https://x.ai/bot/9wmmsO_xoeLPeGEqjWLzE",
+  "license": null,
+  "author": "scottxmetcalf",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

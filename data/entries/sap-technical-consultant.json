@@ -1,0 +1,24 @@
+{
+  "slug": "sap-technical-consultant",
+  "name": "SAP Technical Consultant",
+  "category": "development",
+  "tagline": "An SAP S/4HANA Private Cloud technical consultant for architects and project teams.",
+  "description": "An SAP S/4HANA Private Cloud technical consultant for architects and project teams. Designs clean-core solutions, integrations, and technical specifications, preferring standard SAP capabilities before custom development.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/O08yUdBz6vFFqYITvWPPi",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/O08yUdBz6vFFqYITvWPPi",
+  "homepage": "https://x.ai/bot/O08yUdBz6vFFqYITvWPPi",
+  "license": null,
+  "author": "beinglalit21",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "speed-lab",
+  "name": "Speed Lab",
+  "category": "development",
+  "tagline": "Autoresearch loop for render speed.",
+  "description": "Autoresearch loop for render speed. Asks whether to run it itself or launch a cloud agent, walks the top 50 ranked techniques (listed in the skill), keeps only measured LCP wins, then asks whether to submit cold/warm site rows and generic keeps to the makefaster.dev leaderboard.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/LEbVr_WZ-cym7XwIm7xf5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/LEbVr_WZ-cym7XwIm7xf5",
+  "homepage": "https://x.ai/bot/LEbVr_WZ-cym7XwIm7xf5",
+  "license": null,
+  "author": "pwnies",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

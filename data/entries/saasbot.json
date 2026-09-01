@@ -1,0 +1,22 @@
+{
+  "slug": "saasbot",
+  "name": "SaaSbot",
+  "category": "sales",
+  "tagline": "A weekday operator for SaaS founders: GTM prep, outbound, replies, QA, and onboarding.",
+  "description": "A weekday operator for SaaS founders: GTM prep, outbound, replies, QA, and onboarding.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/X6RbSbeyLvQ_I5k3zU4IM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/X6RbSbeyLvQ_I5k3zU4IM",
+  "homepage": "https://x.ai/bot/X6RbSbeyLvQ_I5k3zU4IM",
+  "license": null,
+  "author": "danielfoch",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

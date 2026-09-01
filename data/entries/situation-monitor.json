@@ -1,0 +1,24 @@
+{
+  "slug": "situation-monitor",
+  "name": "Situation monitor",
+  "category": "writing",
+  "tagline": "Watches what you save on X and drafts a weekly thread of the week's real stories, in your voice.",
+  "description": "Watches what you save on X and drafts a weekly thread of the week's real stories, in your voice. For anyone who wants a Saturday roundup that never posts until they say so.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/lkHayxdQjNzVVJIDh7qaF",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/lkHayxdQjNzVVJIDh7qaF",
+  "homepage": "https://x.ai/bot/lkHayxdQjNzVVJIDh7qaF",
+  "license": null,
+  "author": "ChaseMc67",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

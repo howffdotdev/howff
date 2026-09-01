@@ -1,0 +1,24 @@
+{
+  "slug": "sous-chef",
+  "name": "Sous Chef",
+  "category": "personal",
+  "tagline": "Finds recipes, builds meal plans and grocery lists, and shops when you want.",
+  "description": "Finds recipes, builds meal plans and grocery lists, and shops when you want.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/RuCu3IpKAvrx00H0MDI0t",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/RuCu3IpKAvrx00H0MDI0t",
+  "homepage": "https://x.ai/bot/RuCu3IpKAvrx00H0MDI0t",
+  "license": null,
+  "author": "amberdawn1786",
+  "tags": [
+    "shopping"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

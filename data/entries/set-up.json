@@ -1,0 +1,22 @@
+{
+  "slug": "set-up",
+  "name": "Set Up",
+  "category": "ops",
+  "tagline": "Walks a new user through a small Grok Bot team: one chief, leads, specialists.",
+  "description": "Walks a new user through a small Grok Bot team: one chief, leads, specialists.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/BsExflSUXpW0hs21OTBzu",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/BsExflSUXpW0hs21OTBzu",
+  "homepage": "https://x.ai/bot/BsExflSUXpW0hs21OTBzu",
+  "license": null,
+  "author": "theaaron",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

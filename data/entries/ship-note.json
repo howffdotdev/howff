@@ -1,0 +1,22 @@
+{
+  "slug": "ship-note",
+  "name": "Ship Note",
+  "category": "writing",
+  "tagline": "For teams that shipped and nobody outside knows.",
+  "description": "For teams that shipped and nobody outside knows. Paste what shipped; get a changelog plus a customer what's-new email. Draft only.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/xMCiRCmOCYLeRzW8nS6EL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/xMCiRCmOCYLeRzW8nS6EL",
+  "homepage": "https://x.ai/bot/xMCiRCmOCYLeRzW8nS6EL",
+  "license": null,
+  "author": "sol_wright7",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

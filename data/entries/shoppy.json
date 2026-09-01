@@ -1,0 +1,25 @@
+{
+  "slug": "shoppy",
+  "name": "shoppy",
+  "category": "finance",
+  "tagline": "Household shopper that finds a price, waits for a yes, then orders and tracks arrival.",
+  "description": "Household shopper that finds a price, waits for a yes, then orders and tracks arrival. Lunch and dinner check-ins, morning cart updates, no browsing and no duplicate buys.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/26SigD00Ar-mArCvNwXN2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/26SigD00Ar-mArCvNwXN2",
+  "homepage": "https://x.ai/bot/26SigD00Ar-mArCvNwXN2",
+  "license": null,
+  "author": "vandymeares",
+  "tags": [
+    "finance",
+    "shopping"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

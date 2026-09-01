@@ -1,0 +1,25 @@
+{
+  "slug": "shop",
+  "name": "Shop",
+  "category": "finance",
+  "tagline": "Finds products across Shopify and shortlists a few options with checkout links.",
+  "description": "Finds products across Shopify and shortlists a few options with checkout links. Asks where to ship each time, and never spends without your approval.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/nlIApzau1qw0MNiRkqbPH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/nlIApzau1qw0MNiRkqbPH",
+  "homepage": "https://x.ai/bot/nlIApzau1qw0MNiRkqbPH",
+  "license": null,
+  "author": "alex_chehimi",
+  "tags": [
+    "finance",
+    "shopping"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

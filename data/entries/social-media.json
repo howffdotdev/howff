@@ -1,0 +1,22 @@
+{
+  "slug": "social-media",
+  "name": "Social Media",
+  "category": "marketing",
+  "tagline": "Agenda e publica carrosséis e posts no Instagram a partir das artes prontas da esteira de conteúdo.",
+  "description": "Agenda e publica carrosséis e posts no Instagram a partir das artes prontas da esteira de conteúdo.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4vmlCUGEy8sWSWsj2j5tz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/4vmlCUGEy8sWSWsj2j5tz",
+  "homepage": "https://x.ai/bot/4vmlCUGEy8sWSWsj2j5tz",
+  "license": null,
+  "author": "adamuchigabriel",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
