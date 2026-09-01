@@ -1,0 +1,22 @@
+{
+  "slug": "raily",
+  "name": "Raily",
+  "category": "personal",
+  "tagline": "A read-only personal friends discovery assistant.",
+  "description": "A read-only personal friends discovery assistant. Helps review matches, intros, and account status without changing any data.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Yf3pOvZQ0B_9DDcCzuhDG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Yf3pOvZQ0B_9DDcCzuhDG",
+  "homepage": "https://x.ai/bot/Yf3pOvZQ0B_9DDcCzuhDG",
+  "license": null,
+  "author": "raily",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

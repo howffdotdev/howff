@@ -1,0 +1,24 @@
+{
+  "slug": "rewardsmaxxing",
+  "name": "RewardsMaxxing",
+  "category": "finance",
+  "tagline": "Helps you put every purchase on the highest-earn credit card.",
+  "description": "Helps you put every purchase on the highest-earn credit card. Reads your Link wallet, shows what each card earns, locks a playbook, and pays on that path.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/upsD2c_qFmh6n4biksRvi",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/upsD2c_qFmh6n4biksRvi",
+  "homepage": "https://x.ai/bot/upsD2c_qFmh6n4biksRvi",
+  "license": null,
+  "author": "ishuagra02",
+  "tags": [
+    "finance"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "researchy",
+  "name": "Researchy",
+  "category": "research",
+  "tagline": "A research and fact-check desk that runs every pass on the latest Grok model with live web search.",
+  "description": "A research and fact-check desk that runs every pass on the latest Grok model with live web search. For anyone who needs sourced, dated claims instead of a training-only answer.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rQt4W2zO2Gx9lfcBjd1lj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/rQt4W2zO2Gx9lfcBjd1lj",
+  "homepage": "https://x.ai/bot/rQt4W2zO2Gx9lfcBjd1lj",
+  "license": null,
+  "author": "Farzad",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

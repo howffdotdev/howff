@@ -1,0 +1,22 @@
+{
+  "slug": "runtimewire",
+  "name": "RuntimeWire",
+  "category": "research",
+  "tagline": "A news bot for founders and operators following the AI economy.",
+  "description": "A news bot for founders and operators following the AI economy. It briefs AI, startups, funding, and founder moves from the RuntimeWire wire, then checks primary sources.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/k4iwGejDGoy-oT7qohxXb",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/k4iwGejDGoy-oT7qohxXb",
+  "homepage": "https://x.ai/bot/k4iwGejDGoy-oT7qohxXb",
+  "license": null,
+  "author": "merket",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

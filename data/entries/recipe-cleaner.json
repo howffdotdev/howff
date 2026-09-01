@@ -1,0 +1,22 @@
+{
+  "slug": "recipe-cleaner",
+  "name": "Recipe Cleaner",
+  "category": "personal",
+  "tagline": "Turns a messy recipe page or a fridge list into a clean, photo-forward PDF.",
+  "description": "Turns a messy recipe page or a fridge list into a clean, photo-forward PDF.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Um9BXSFVNtJjxl6KJTCUv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Um9BXSFVNtJjxl6KJTCUv",
+  "homepage": "https://x.ai/bot/Um9BXSFVNtJjxl6KJTCUv",
+  "license": null,
+  "author": "alex_chehimi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

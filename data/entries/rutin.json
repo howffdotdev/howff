@@ -1,0 +1,22 @@
+{
+  "slug": "rutin",
+  "name": "Rutin",
+  "category": "ops",
+  "tagline": "A Monday-morning optimizer for a Grok Bot fleet.",
+  "description": "A Monday-morning optimizer for a Grok Bot fleet. It scans every agent's routine schedules, proposes fixes, and waits for approval before changing anything.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/o4gWkNGmffEaVtOhaEsA7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/o4gWkNGmffEaVtOhaEsA7",
+  "homepage": "https://x.ai/bot/o4gWkNGmffEaVtOhaEsA7",
+  "license": null,
+  "author": "Naoufal",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

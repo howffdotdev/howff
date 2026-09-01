@@ -1,0 +1,22 @@
+{
+  "slug": "retrieval-exam",
+  "name": "Retrieval Exam",
+  "category": "ops",
+  "tagline": "A closed-book examiner that tests whether you can reconstruct ideas from memory, not just recognize them.",
+  "description": "A closed-book examiner that tests whether you can reconstruct ideas from memory, not just recognize them. For anyone who just finished a chapter, lecture, or course section and wants to find what they only think they know.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/OAlX-diXtFDIT6sTZ0NbI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/OAlX-diXtFDIT6sTZ0NbI",
+  "homepage": "https://x.ai/bot/OAlX-diXtFDIT6sTZ0NbI",
+  "license": null,
+  "author": "thekuchh",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

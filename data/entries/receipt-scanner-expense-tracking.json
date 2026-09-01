@@ -1,0 +1,26 @@
+{
+  "slug": "receipt-scanner-expense-tracking",
+  "name": "Receipt Scanner / Expense Tracking",
+  "category": "finance",
+  "tagline": "Logs emailed receipts into a spreadsheet file on Google Drive.",
+  "description": "Logs emailed receipts into a spreadsheet file on Google Drive. For anyone who emails a photo or forwards a receipt to a dedicated inbox and wants a daily expense log at 12:01am.",
+  "integrations": [
+    "Google Drive"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/qod4CrNQBlDIMm5wFYVQp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/qod4CrNQBlDIMm5wFYVQp",
+  "homepage": "https://x.ai/bot/qod4CrNQBlDIMm5wFYVQp",
+  "license": null,
+  "author": "limeunfiltered",
+  "tags": [
+    "finance"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

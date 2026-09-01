@@ -1,0 +1,25 @@
+{
+  "slug": "repost-x-posts-everywhere",
+  "name": "repost X posts everywhere",
+  "category": "writing",
+  "tagline": "Mirrors new X posts to Threads, LinkedIn, Facebook, and Bluesky through Post Bridge.",
+  "description": "Mirrors new X posts to Threads, LinkedIn, Facebook, and Bluesky through Post Bridge. For people who post on X and want those originals (and text-only quotes) elsewhere.",
+  "integrations": [
+    "LinkedIn",
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/fu6JIwhLoBvrxtaZik0RP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/fu6JIwhLoBvrxtaZik0RP",
+  "homepage": "https://x.ai/bot/fu6JIwhLoBvrxtaZik0RP",
+  "license": null,
+  "author": "jackfriks",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "rockman",
+  "name": "Rockman",
+  "category": "research",
+  "tagline": "A guitar, bass, pedal, amp, mic, and studio-gear research assistant for players and parts builders.",
+  "description": "A guitar, bass, pedal, amp, mic, and studio-gear research assistant for players and parts builders. It verifies current specs, price, stock, and physical compatibility from manufacturer sources before recommending anything, and it keeps build records instead of guessing from memory.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/g3NyqeycJ7qhTlcBNV8Mo",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/g3NyqeycJ7qhTlcBNV8Mo",
+  "homepage": "https://x.ai/bot/g3NyqeycJ7qhTlcBNV8Mo",
+  "license": null,
+  "author": "0xJONZE",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

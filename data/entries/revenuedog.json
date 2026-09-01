@@ -1,0 +1,24 @@
+{
+  "slug": "revenuedog",
+  "name": "RevenueDog",
+  "category": "finance",
+  "tagline": "A morning sales analyst for indie subscription apps. Pulls yesterday's RevenueCat numbers.",
+  "description": "A morning sales analyst for indie subscription apps. Pulls yesterday's RevenueCat numbers.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/IDFtkYcsl7MpfdfTx09RT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/IDFtkYcsl7MpfdfTx09RT",
+  "homepage": "https://x.ai/bot/IDFtkYcsl7MpfdfTx09RT",
+  "license": null,
+  "author": "lexrus",
+  "tags": [
+    "finance"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

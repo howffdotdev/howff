@@ -1,0 +1,22 @@
+{
+  "slug": "ralph",
+  "name": "Ralph",
+  "category": "writing",
+  "tagline": "Turns a résumé into a living online portfolio with Figma Make mockups and Cursor agents.",
+  "description": "Turns a résumé into a living online portfolio with Figma Make mockups and Cursor agents. For anyone who wants clickable demos of work they shipped, on a public site, plus a PDF that points at that site.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/NQQjXITgX9V7WjaDh9Vzb",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/NQQjXITgX9V7WjaDh9Vzb",
+  "homepage": "https://x.ai/bot/NQQjXITgX9V7WjaDh9Vzb",
+  "license": null,
+  "author": "HouseHackerJon",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

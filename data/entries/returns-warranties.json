@@ -1,0 +1,22 @@
+{
+  "slug": "returns-warranties",
+  "name": "Returns & Warranties",
+  "category": "personal",
+  "tagline": "Tracks purchases and alerts before return, refund, or warranty windows expire.",
+  "description": "Tracks purchases and alerts before return, refund, or warranty windows expire.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/HmUpwJbVbgLEGisEj0FPt",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/HmUpwJbVbgLEGisEj0FPt",
+  "homepage": "https://x.ai/bot/HmUpwJbVbgLEGisEj0FPt",
+  "license": null,
+  "author": "Liam",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

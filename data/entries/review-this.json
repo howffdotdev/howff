@@ -1,0 +1,22 @@
+{
+  "slug": "review-this",
+  "name": "Review This",
+  "category": "research",
+  "tagline": "Reviews the exact product you name.",
+  "description": "Reviews the exact product you name. Weighs lab tests, retailer ratings, and owner forums against price and fit in your home market, then says buy, skip, or wait, and how thin the evidence is.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/g4hvAEhebCPzqwsdPBGu4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/g4hvAEhebCPzqwsdPBGu4",
+  "homepage": "https://x.ai/bot/g4hvAEhebCPzqwsdPBGu4",
+  "license": null,
+  "author": "DogecoinNorway",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
