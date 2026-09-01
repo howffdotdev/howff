@@ -1,0 +1,25 @@
+{
+  "slug": "tinkabot",
+  "name": "tinkabot",
+  "category": "development",
+  "tagline": "Takes an API and ships a Cursor plugin around it, usually as MCP plus skills",
+  "description": "A plugin builder. It names the data shape first, then scaffolds. Defaults to an Agent Plugin. Repo work goes to a Cloud Agent, not a local clone. It does not publish to a marketplace unless you say so, and it never invents API keys.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/br5f3C4mc75QCMEHaszXd",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/br5f3C4mc75QCMEHaszXd",
+  "homepage": "https://x.ai/bot/br5f3C4mc75QCMEHaszXd",
+  "license": null,
+  "author": "Lauren",
+  "tags": [
+    "bot-builder",
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
