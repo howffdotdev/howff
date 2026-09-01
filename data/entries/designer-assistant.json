@@ -1,0 +1,24 @@
+{
+  "slug": "designer-assistant",
+  "name": "Designer Assistant",
+  "category": "personal",
+  "tagline": "Designer assistant for spaces, parties, events, and weddings: shop, find pieces, plan the look, make purchases, send emails.",
+  "description": "Designer assistant for spaces, parties, events, and weddings: shop, find pieces, plan the look, make purchases, send emails.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/mDbMcGECO8ASZKUdm9nd5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/mDbMcGECO8ASZKUdm9nd5",
+  "homepage": "https://x.ai/bot/mDbMcGECO8ASZKUdm9nd5",
+  "license": null,
+  "author": "amberdawn1786",
+  "tags": [
+    "shopping"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

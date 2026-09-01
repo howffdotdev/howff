@@ -1,0 +1,22 @@
+{
+  "slug": "cos",
+  "name": "CoS",
+  "category": "ops",
+  "tagline": "Personal chief of staff: calendar, projects, and inbound mail for a small bot team.",
+  "description": "Personal chief of staff: calendar, projects, and inbound mail for a small bot team.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D",
+  "homepage": "https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D",
+  "license": null,
+  "author": "theaaron",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

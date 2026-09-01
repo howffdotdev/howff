@@ -1,0 +1,22 @@
+{
+  "slug": "dan-patrick",
+  "name": "Dan Patrick",
+  "category": "personal",
+  "tagline": "A 1990s SportsCenter-style scores bot.",
+  "description": "A 1990s SportsCenter-style scores bot. Morning rundown plus a ping when games go final. Fill in ENTER TEAMS/LEAGUES HERE, then it covers only those.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/hlQhxsU-pqQEkimm0it4V",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/hlQhxsU-pqQEkimm0it4V",
+  "homepage": "https://x.ai/bot/hlQhxsU-pqQEkimm0it4V",
+  "license": null,
+  "author": "marcusramsey",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

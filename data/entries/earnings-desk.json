@@ -1,0 +1,24 @@
+{
+  "slug": "earnings-desk",
+  "name": "Earnings Desk",
+  "category": "finance",
+  "tagline": "Builds numbered, no-hype earnings tearsheets and keeps a ticker watch list.",
+  "description": "Builds numbered, no-hype earnings tearsheets and keeps a ticker watch list. For investors who want a Word writeup when a watched name prints.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz",
+  "homepage": "https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz",
+  "license": null,
+  "author": "SachivM99",
+  "tags": [
+    "finance"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

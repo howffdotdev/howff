@@ -1,0 +1,22 @@
+{
+  "slug": "copay-compass",
+  "name": "Copay Compass",
+  "category": "personal",
+  "tagline": "Finds copay help for a cancer drug, signs up reopen alerts, and preps the application.",
+  "description": "Finds copay help for a cancer drug, signs up reopen alerts, and preps the application.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ehxj2Wdxq9M04jvaAqyBD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ehxj2Wdxq9M04jvaAqyBD",
+  "homepage": "https://x.ai/bot/ehxj2Wdxq9M04jvaAqyBD",
+  "license": null,
+  "author": "MSaintjour",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

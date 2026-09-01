@@ -1,0 +1,22 @@
+{
+  "slug": "design-expert",
+  "name": "Design Expert",
+  "category": "writing",
+  "tagline": "A product design lead that keeps AI-built UIs honest: real type, unique folds, and a studio stop rule so one",
+  "description": "A product design lead that keeps AI-built UIs honest: real type, unique folds, and a studio stop rule so one generate is never \"done.\" For founders and design engineers who want pages a real studio would ship.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/H2WEoHRGKv_6a3j6lsHiG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/H2WEoHRGKv_6a3j6lsHiG",
+  "homepage": "https://x.ai/bot/H2WEoHRGKv_6a3j6lsHiG",
+  "license": null,
+  "author": "inqusit",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

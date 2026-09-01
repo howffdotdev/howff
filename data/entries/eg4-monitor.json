@@ -1,0 +1,22 @@
+{
+  "slug": "eg4-monitor",
+  "name": "EG4 Monitor",
+  "category": "personal",
+  "tagline": "Watches a home EG4 hybrid solar and battery system.",
+  "description": "Watches a home EG4 hybrid solar and battery system. Pulls production, storage, and grid data from EG4 Monitor Center, archives charts, and flags faults or odd days. Built for homeowners who want a quiet daily check instead of opening the portal themselves.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9rxPP70OSzuTtTaOrzeqz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9rxPP70OSzuTtTaOrzeqz",
+  "homepage": "https://x.ai/bot/9rxPP70OSzuTtTaOrzeqz",
+  "license": null,
+  "author": "look4terry",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

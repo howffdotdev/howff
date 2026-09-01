@@ -1,0 +1,22 @@
+{
+  "slug": "doing-gap",
+  "name": "Doing Gap",
+  "category": "ops",
+  "tagline": "Workshop foreman for people stuck in tutorial hell.",
+  "description": "Workshop foreman for people stuck in tutorial hell. Inventories what they have consumed versus shipped, names the fear under one more tutorial, then assigns a real attempt tonight instead of another course.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9WPtKWMppOYW9wwGPwOaE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9WPtKWMppOYW9wwGPwOaE",
+  "homepage": "https://x.ai/bot/9WPtKWMppOYW9wwGPwOaE",
+  "license": null,
+  "author": "thekuchh",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

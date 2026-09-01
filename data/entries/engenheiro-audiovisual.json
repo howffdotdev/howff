@@ -1,0 +1,22 @@
+{
+  "slug": "engenheiro-audiovisual",
+  "name": "Engenheiro Audiovisual",
+  "category": "writing",
+  "tagline": "Gera artes de carrossel e post estático no Instagram a partir de briefings de copy.",
+  "description": "Gera artes de carrossel e post estático no Instagram a partir de briefings de copy.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/w1pUFhCx2VCJgv8Yhvzu6",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/w1pUFhCx2VCJgv8Yhvzu6",
+  "homepage": "https://x.ai/bot/w1pUFhCx2VCJgv8Yhvzu6",
+  "license": null,
+  "author": "adamuchigabriel",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
