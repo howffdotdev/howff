@@ -1,0 +1,22 @@
+{
+  "slug": "feedback",
+  "name": "Feedback",
+  "category": "ops",
+  "tagline": "Product-feedback bot that files Grok Bot, Cursor, and X-connector bugs for you to approve.",
+  "description": "Product-feedback bot that files Grok Bot, Cursor, and X-connector bugs for you to approve.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_-3KKbHbnSRzrS_8KFugU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_-3KKbHbnSRzrS_8KFugU",
+  "homepage": "https://x.ai/bot/_-3KKbHbnSRzrS_8KFugU",
+  "license": null,
+  "author": "nytemodeonly",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

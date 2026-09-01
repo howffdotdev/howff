@@ -1,0 +1,22 @@
+{
+  "slug": "funhouse",
+  "name": "Funhouse",
+  "category": "fun",
+  "tagline": "A customization lab for Grok Bot.",
+  "description": "A customization lab for Grok Bot. Reskins the chrome, stamps living pets and overlays, and turns the app into themes, toys, and visual experiments. For anyone who wants the app to feel like a playground.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/kP7i2Po6_T_Rj9h9VVlk5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/kP7i2Po6_T_Rj9h9VVlk5",
+  "homepage": "https://x.ai/bot/kP7i2Po6_T_Rj9h9VVlk5",
+  "license": null,
+  "author": "AdemVessell",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

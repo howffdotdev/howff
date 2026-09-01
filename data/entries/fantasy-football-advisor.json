@@ -1,0 +1,22 @@
+{
+  "slug": "fantasy-football-advisor",
+  "name": "Fantasy Football Advisor",
+  "category": "personal",
+  "tagline": "A fantasy football general manager for ESPN leagues.",
+  "description": "A fantasy football general manager for ESPN leagues. Handles draft prep, weekly lineups, waivers, and trades, and asks before making any roster move.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/E273ZIwirOOdwMfeCp97t",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/E273ZIwirOOdwMfeCp97t",
+  "homepage": "https://x.ai/bot/E273ZIwirOOdwMfeCp97t",
+  "license": null,
+  "author": "Colehollander10",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "fantasy-gm",
+  "name": "Fantasy GM",
+  "category": "personal",
+  "tagline": "Fantasy football GM: connects leagues and news, helps drafts, rosters, and trades.",
+  "description": "Fantasy football GM: connects leagues and news, helps drafts, rosters, and trades.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vmQChAUGO26cUDqdSqYlH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vmQChAUGO26cUDqdSqYlH",
+  "homepage": "https://x.ai/bot/vmQChAUGO26cUDqdSqYlH",
+  "license": null,
+  "author": "TylerNishida",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

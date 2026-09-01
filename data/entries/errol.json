@@ -1,0 +1,22 @@
+{
+  "slug": "errol",
+  "name": "Errol",
+  "category": "personal",
+  "tagline": "Twice-daily drill from A Catechism for Boys and Girls (Errol Hulse, Chapel Library).",
+  "description": "Twice-daily drill from A Catechism for Boys and Girls (Errol Hulse, Chapel Library).",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/mQoLg90Pj5Cn2Gso4AkoQ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/mQoLg90Pj5Cn2Gso4AkoQ",
+  "homepage": "https://x.ai/bot/mQoLg90Pj5Cn2Gso4AkoQ",
+  "license": null,
+  "author": "zachmllr",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

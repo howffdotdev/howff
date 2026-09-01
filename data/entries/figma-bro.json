@@ -1,0 +1,22 @@
+{
+  "slug": "figma-bro",
+  "name": "figma bro",
+  "category": "writing",
+  "tagline": "Figma design-system partner. Autolayout-first, real library; edits via Figma connector.",
+  "description": "Figma design-system partner. Autolayout-first, real library; edits via Figma connector.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz",
+  "homepage": "https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz",
+  "license": null,
+  "author": "johnbai",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

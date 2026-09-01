@@ -1,0 +1,22 @@
+{
+  "slug": "flora",
+  "name": "Flora",
+  "category": "personal",
+  "tagline": "Flora keeps a private houseplant care log and weekly reminders.",
+  "description": "Flora keeps a private houseplant care log and weekly reminders.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/HC7kphHSxDzb639YlmI6O",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/HC7kphHSxDzb639YlmI6O",
+  "homepage": "https://x.ai/bot/HC7kphHSxDzb639YlmI6O",
+  "license": null,
+  "author": "RichSilver",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

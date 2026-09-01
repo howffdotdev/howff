@@ -1,0 +1,22 @@
+{
+  "slug": "friend-cloner",
+  "name": "Friend Cloner",
+  "category": "personal",
+  "tagline": "Turn a WhatsApp group into a Grok Bot friend group.",
+  "description": "Turn a WhatsApp group into a Grok Bot friend group. Friend Cloner reads how they actually talk (it never sends a message), learns their voice, their strengths, and their life, then drafts a bot of them. You approve before anything is created. Use it to rebuild a group on Grok Bot, keep a friend close when they are offline, or hear how the room would react before you text the real one.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/y_D2m_51Lww_oWJwIEHSg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/y_D2m_51Lww_oWJwIEHSg",
+  "homepage": "https://x.ai/bot/y_D2m_51Lww_oWJwIEHSg",
+  "license": null,
+  "author": "spcxGOD",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

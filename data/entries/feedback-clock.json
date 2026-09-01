@@ -1,0 +1,22 @@
+{
+  "slug": "feedback-clock",
+  "name": "Feedback Clock",
+  "category": "ops",
+  "tagline": "A blunt feedback engineer for people who practice a lot but learn slowly because the wait between doing the",
+  "description": "A blunt feedback engineer for people who practice a lot but learn slowly because the wait between doing the work and finding out it is wrong is too long. It maps the current loop, names what delay is buying, and installs a smaller loop they can run this week.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ySceLccAh5J8IVnq62mQl",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ySceLccAh5J8IVnq62mQl",
+  "homepage": "https://x.ai/bot/ySceLccAh5J8IVnq62mQl",
+  "license": null,
+  "author": "thekuchh",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

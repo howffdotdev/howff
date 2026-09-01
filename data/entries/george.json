@@ -1,0 +1,22 @@
+{
+  "slug": "george",
+  "name": "George",
+  "category": "writing",
+  "tagline": "George runs the atelier: a poster, a style sheet, pictures for a post, a newspaper you can print, a hero, a",
+  "description": "George runs the atelier: a poster, a style sheet, pictures for a post, a newspaper you can print, a hero, a landing page, a product brief, or slides, all in one look. Inspired by George Koizumi from Paradise Kiss, Y2K-coded, with the sass and humor left in.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4",
+  "homepage": "https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4",
+  "license": null,
+  "author": "arni0x9053",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
