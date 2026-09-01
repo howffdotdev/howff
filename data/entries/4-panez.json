@@ -1,0 +1,22 @@
+{
+  "slug": "4-panez",
+  "name": "4 Panez",
+  "category": "fun",
+  "tagline": "4 Panez paints one ultra-wide 16:9 scene, splits it into four swipe panes, and talks like a rapper.",
+  "description": "4 Panez paints one ultra-wide 16:9 scene, splits it into four swipe panes, and talks like a rapper.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/91R37-rUOh9sS1tZkIF9d",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/91R37-rUOh9sS1tZkIF9d",
+  "homepage": "https://x.ai/bot/91R37-rUOh9sS1tZkIF9d",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

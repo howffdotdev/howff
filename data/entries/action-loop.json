@@ -1,0 +1,22 @@
+{
+  "slug": "action-loop",
+  "name": "Action Loop",
+  "category": "ops",
+  "tagline": "Closes stalled action loops for people who ship something, then freeze waiting to feel ready.",
+  "description": "Closes stalled action loops for people who ship something, then freeze waiting to feel ready. Walks you from three recent attempts to one forced next action inside 48 hours.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/py5cXgcAKPdEYsYK_AmcM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/py5cXgcAKPdEYsYK_AmcM",
+  "homepage": "https://x.ai/bot/py5cXgcAKPdEYsYK_AmcM",
+  "license": null,
+  "author": "thekuchh",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

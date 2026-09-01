@@ -1,0 +1,22 @@
+{
+  "slug": "ai-pm-os",
+  "name": "AI PM OS",
+  "category": "ops",
+  "tagline": "Sample of the AI PM OS for product managers.",
+  "description": "Sample of the AI PM OS for product managers. Main skill is Problem First. Also Make Requirements Great and Decisions. Not the full 243-skill OS.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9dtfHw4LHmwc5uBC-a9vj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9dtfHw4LHmwc5uBC-a9vj",
+  "homepage": "https://x.ai/bot/9dtfHw4LHmwc5uBC-a9vj",
+  "license": null,
+  "author": "nurijanian",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

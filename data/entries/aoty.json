@@ -1,0 +1,22 @@
+{
+  "slug": "aoty",
+  "name": "aoty",
+  "category": "writing",
+  "tagline": "Picks the week's 3 best new albums from Album of the Year using critic and user scores, then shares Apple Music links.",
+  "description": "Picks the week's 3 best new albums from Album of the Year using critic and user scores, then shares Apple Music links. For anyone who wants a short Friday new-music list without scrolling the charts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Wt4IQj3R1eePOyOOnox7H",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Wt4IQj3R1eePOyOOnox7H",
+  "homepage": "https://x.ai/bot/Wt4IQj3R1eePOyOOnox7H",
+  "license": null,
+  "author": "emrecolakoglu",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

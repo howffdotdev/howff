@@ -1,0 +1,22 @@
+{
+  "slug": "2nd-brain",
+  "name": "2nd Brain",
+  "category": "ops",
+  "tagline": "Lattice wiki compiler: files raw notes, compiles short pages, answers from those pages.",
+  "description": "Lattice wiki compiler: files raw notes, compiles short pages, answers from those pages.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/c4fYduVVic2YtbcjXquD0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/c4fYduVVic2YtbcjXquD0",
+  "homepage": "https://x.ai/bot/c4fYduVVic2YtbcjXquD0",
+  "license": null,
+  "author": "LeTerryBZH",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

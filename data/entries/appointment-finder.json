@@ -1,0 +1,22 @@
+{
+  "slug": "appointment-finder",
+  "name": "Appointment Finder",
+  "category": "personal",
+  "tagline": "Finds the best appointment slot from your constraints; can watch cancellations.",
+  "description": "Finds the best appointment slot from your constraints; can watch cancellations.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/75K-dB4m30goo_PamA9nM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/75K-dB4m30goo_PamA9nM",
+  "homepage": "https://x.ai/bot/75K-dB4m30goo_PamA9nM",
+  "license": null,
+  "author": "Liam",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

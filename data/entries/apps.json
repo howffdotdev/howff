@@ -1,0 +1,24 @@
+{
+  "slug": "apps",
+  "name": "Apps",
+  "category": "development",
+  "tagline": "One-shot Convex web apps.",
+  "description": "One-shot Convex web apps. Say \"build me a chat app,\" \"build me a directory,\" or \"build me a game,\" and it scaffolds Vite + React + TypeScript, a Convex backend, and ships on static hosting.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/OPLop__-mqSsyQheR5JYv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/OPLop__-mqSsyQheR5JYv",
+  "homepage": "https://x.ai/bot/OPLop__-mqSsyQheR5JYv",
+  "license": null,
+  "author": "waynesutton",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

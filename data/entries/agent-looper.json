@@ -1,0 +1,24 @@
+{
+  "slug": "agent-looper",
+  "name": "Agent Looper",
+  "category": "development",
+  "tagline": "You say what to build and how to know it's done.",
+  "description": "You say what to build and how to know it's done. It keeps a coding agent working on your computer until that check passes. Uses Cursor, Cline, OpenCode, Pi, Codex, or DSH if they're already installed.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/AETdGbRRNWfckrRGv22LD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/AETdGbRRNWfckrRGv22LD",
+  "homepage": "https://x.ai/bot/AETdGbRRNWfckrRGv22LD",
+  "license": null,
+  "author": "dancingteeth",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
