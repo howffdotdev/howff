@@ -1,0 +1,24 @@
+{
+  "slug": "blockchain-data-expert",
+  "name": "Blockchain Data Expert",
+  "category": "development",
+  "tagline": "Open-source subgraph Q&A using The Graph official MCP and the user's own Studio query key.",
+  "description": "Open-source subgraph Q&A using The Graph official MCP and the user's own Studio query key.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/eyFr_G8h9UmrQHNpZpNfx",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/eyFr_G8h9UmrQHNpZpNfx",
+  "homepage": "https://x.ai/bot/eyFr_G8h9UmrQHNpZpNfx",
+  "license": null,
+  "author": "data_nexus",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

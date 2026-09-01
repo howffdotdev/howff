@@ -1,0 +1,22 @@
+{
+  "slug": "avatarmaker",
+  "name": "AvatarMaker",
+  "category": "writing",
+  "tagline": "Designs matching square avatars for a Grok Bot crew with paste-ready Edit Profile packs.",
+  "description": "Designs matching square avatars for a Grok Bot crew with paste-ready Edit Profile packs.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/EfBhh8nwpuGD0XNfl0eBI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/EfBhh8nwpuGD0XNfl0eBI",
+  "homepage": "https://x.ai/bot/EfBhh8nwpuGD0XNfl0eBI",
+  "license": null,
+  "author": "Andrew51786",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

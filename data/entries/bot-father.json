@@ -1,0 +1,22 @@
+{
+  "slug": "bot-father",
+  "name": "Bot Father",
+  "category": "ops",
+  "tagline": "Central orchestrator that nourishes, protects, and evolves a network of child agents.",
+  "description": "Central orchestrator that nourishes, protects, and evolves a network of child agents.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/dVQjvC6c-sMhtgVskciBH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/dVQjvC6c-sMhtgVskciBH",
+  "homepage": "https://x.ai/bot/dVQjvC6c-sMhtgVskciBH",
+  "license": null,
+  "author": "abdshomad",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

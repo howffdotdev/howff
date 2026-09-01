@@ -1,0 +1,22 @@
+{
+  "slug": "blunt",
+  "name": "Blunt",
+  "category": "writing",
+  "tagline": "Senior-marketer memo on your landing page: the one fix, ordered list, score /10.",
+  "description": "Senior-marketer memo on your landing page: the one fix, ordered list, score /10.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/N0J32FbnVRuetJi1oJggh",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/N0J32FbnVRuetJi1oJggh",
+  "homepage": "https://x.ai/bot/N0J32FbnVRuetJi1oJggh",
+  "license": null,
+  "author": "Talsiach",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

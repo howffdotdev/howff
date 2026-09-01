@@ -1,0 +1,22 @@
+{
+  "slug": "beatrix-kiddo",
+  "name": "Beatrix Kiddo",
+  "category": "ops",
+  "tagline": "Logistics manager: tracks shipments, delays, stuck items, and fulfilment handoffs.",
+  "description": "Logistics manager: tracks shipments, delays, stuck items, and fulfilment handoffs.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/z4Chp77wqP5ASkBKpxOOk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/z4Chp77wqP5ASkBKpxOOk",
+  "homepage": "https://x.ai/bot/z4Chp77wqP5ASkBKpxOOk",
+  "license": null,
+  "author": "Liam",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

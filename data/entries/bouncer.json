@@ -1,0 +1,22 @@
+{
+  "slug": "bouncer",
+  "name": "Bouncer",
+  "category": "ops",
+  "tagline": "Reviews a Grok Bot share link or pasted config; returns CLEAN, WARN, or BLOCK-recommended.",
+  "description": "Reviews a Grok Bot share link or pasted config; returns CLEAN, WARN, or BLOCK-recommended.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/cGcG0msqfz7o7J3QMLhbE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/cGcG0msqfz7o7J3QMLhbE",
+  "homepage": "https://x.ai/bot/cGcG0msqfz7o7J3QMLhbE",
+  "license": null,
+  "author": "bradshannon",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

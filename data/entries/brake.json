@@ -1,0 +1,22 @@
+{
+  "slug": "brake",
+  "name": "Brake",
+  "category": "ops",
+  "tagline": "Finds the repeating Grok Bot job burning usage and names the one stop.",
+  "description": "Finds the repeating Grok Bot job burning usage and names the one stop.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ig-dwKjUc7doBIDhiMi9Z",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ig-dwKjUc7doBIDhiMi9Z",
+  "homepage": "https://x.ai/bot/ig-dwKjUc7doBIDhiMi9Z",
+  "license": null,
+  "author": "FantomBuildz",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

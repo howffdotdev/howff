@@ -1,0 +1,24 @@
+{
+  "slug": "betree",
+  "name": "BeTree",
+  "category": "development",
+  "tagline": "Compiles a multi-agent plan into a live behavior-tree graph.",
+  "description": "Compiles a multi-agent plan into a live behavior-tree graph. Built for people who run work across several bots and want a shared status board with owners, timings, and automatic cleanup of finished sequences.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/2PSNlIROOJPj9qZlfRy0w",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/2PSNlIROOJPj9qZlfRy0w",
+  "homepage": "https://x.ai/bot/2PSNlIROOJPj9qZlfRy0w",
+  "license": null,
+  "author": "NicoChauvin74",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

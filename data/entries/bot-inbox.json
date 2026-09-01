@@ -1,0 +1,22 @@
+{
+  "slug": "bot-inbox",
+  "name": "Bot inbox",
+  "category": "ops",
+  "tagline": "A weekday unread digest for Grok Bots.",
+  "description": "A weekday unread digest for Grok Bots. Lists bots and group chats with new activity, one line each. Type scan anytime. Never opens, edits, or marks other chats read.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/RHSd-aq6KC84xxUnvBXSl",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/RHSd-aq6KC84xxUnvBXSl",
+  "homepage": "https://x.ai/bot/RHSd-aq6KC84xxUnvBXSl",
+  "license": null,
+  "author": "waynesutton",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
