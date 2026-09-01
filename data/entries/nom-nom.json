@@ -6,13 +6,13 @@
   "description": "Records meals, remembers named recipes, keeps a running daily total, and sends an end-of-day wrap-up. Quiet at 9pm if nothing was logged.",
   "integrations": [],
   "add": {
-    "kind": "profile-url",
-    "url": "https://raw.githubusercontent.com/howffdotdev/howff/main/data/entries/nom-nom.md",
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bdcSxv_pSQEH0E571N_fC",
     "hint": null
   },
   "instructions": "nom-nom.md",
-  "source": "https://github.com/howffdotdev/howff/blob/main/data/entries/nom-nom.md",
-  "homepage": "https://howff.dev/nom-nom",
+  "source": "https://x.ai/bot/bdcSxv_pSQEH0E571N_fC",
+  "homepage": "https://x.ai/bot/bdcSxv_pSQEH0E571N_fC",
   "license": "CC0-1.0",
   "author": "Nikola",
   "tags": [
