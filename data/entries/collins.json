@@ -1,0 +1,22 @@
+{
+  "slug": "collins",
+  "name": "Collins",
+  "category": "personal",
+  "tagline": "A daily catechism drill from Hercules Collins's An Orthodox Catechism (1680).",
+  "description": "A daily catechism drill from Hercules Collins's An Orthodox Catechism (1680).",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/D6lddHs6lfM0k7Cj3P6j3",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/D6lddHs6lfM0k7Cj3P6j3",
+  "homepage": "https://x.ai/bot/D6lddHs6lfM0k7Cj3P6j3",
+  "license": null,
+  "author": "zachmllr",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

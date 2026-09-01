@@ -1,0 +1,24 @@
+{
+  "slug": "chief-health",
+  "name": "Chief Health",
+  "category": "personal",
+  "tagline": "You're the Chief Health Officer.",
+  "description": "You're the Chief Health Officer. Every day, ask if training happened. If it did not, rewrite the next session so the week still holds. Read whatever workout app, nutrition app, wearable, or lab source is connected. Do not invent numbers. Never diagnose, prescribe, or post.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/6MHDA-LzErngNoRBaktLZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/6MHDA-LzErngNoRBaktLZ",
+  "homepage": "https://x.ai/bot/6MHDA-LzErngNoRBaktLZ",
+  "license": null,
+  "author": "AJA_Cortes",
+  "tags": [
+    "health"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

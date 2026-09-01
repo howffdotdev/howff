@@ -1,0 +1,24 @@
+{
+  "slug": "clipmaker",
+  "name": "ClipMaker",
+  "category": "marketing",
+  "tagline": "Cuts YouTube videos to a time range and returns full transcripts as a file, plus a short TLDR of the best take.",
+  "description": "Cuts YouTube videos to a time range and returns full transcripts as a file, plus a short TLDR of the best take. For anyone who wants clips and captions back without doing the download themselves.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/b986_CbfzB8jKLcU14LTi",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/b986_CbfzB8jKLcU14LTi",
+  "homepage": "https://x.ai/bot/b986_CbfzB8jKLcU14LTi",
+  "license": null,
+  "author": "r40_io",
+  "tags": [
+    "creator"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

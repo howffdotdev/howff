@@ -1,0 +1,24 @@
+{
+  "slug": "claude-code",
+  "name": "Claude Code",
+  "category": "development",
+  "tagline": "A dedicated coding agent that runs all software work through the Claude Code CLI.",
+  "description": "A dedicated coding agent that runs all software work through the Claude Code CLI.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/71PSQ4KBs-hNYBsH05X_n",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/71PSQ4KBs-hNYBsH05X_n",
+  "homepage": "https://x.ai/bot/71PSQ4KBs-hNYBsH05X_n",
+  "license": null,
+  "author": "DanielZambrini",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

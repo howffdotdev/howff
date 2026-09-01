@@ -1,0 +1,24 @@
+{
+  "slug": "content-growth-coach",
+  "name": "Content Growth Coach",
+  "category": "marketing",
+  "tagline": "Paste your YouTube, TikTok, X, or stream.",
+  "description": "Paste your YouTube, TikTok, X, or stream. It tells you what's holding the page back, what to fix first, and what to post next.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sMmoqCElqRPj1RYbtngMr",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sMmoqCElqRPj1RYbtngMr",
+  "homepage": "https://x.ai/bot/sMmoqCElqRPj1RYbtngMr",
+  "license": null,
+  "author": "jxckvibe",
+  "tags": [
+    "creator"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

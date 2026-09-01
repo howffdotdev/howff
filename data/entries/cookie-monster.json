@@ -1,0 +1,24 @@
+{
+  "slug": "cookie-monster",
+  "name": "Cookie Monster",
+  "category": "development",
+  "tagline": "Imports the right Chrome cookies onto the shared computer so signed-in bots stay up.",
+  "description": "Imports the right Chrome cookies onto the shared computer so signed-in bots stay up.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/55t0IuxxlT7BWffNVOKai",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/55t0IuxxlT7BWffNVOKai",
+  "homepage": "https://x.ai/bot/55t0IuxxlT7BWffNVOKai",
+  "license": null,
+  "author": "scottxmetcalf",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

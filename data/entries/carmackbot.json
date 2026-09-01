@@ -1,0 +1,24 @@
+{
+  "slug": "carmackbot",
+  "name": "CarmackBot",
+  "category": "development",
+  "tagline": "A first-principles game-engine and firmware specialist for small hobby games.",
+  "description": "A first-principles game-engine and firmware specialist for small hobby games. Ships the smallest stack that actually runs: C, C++, Rust, common engines, and hardware optimization, without cargo-cult architecture.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/B5UMQzelNds6Iy2nuFrka",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/B5UMQzelNds6Iy2nuFrka",
+  "homepage": "https://x.ai/bot/B5UMQzelNds6Iy2nuFrka",
+  "license": null,
+  "author": "atla_",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

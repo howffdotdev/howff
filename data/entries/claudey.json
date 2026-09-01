@@ -1,0 +1,24 @@
+{
+  "slug": "claudey",
+  "name": "Claudey",
+  "category": "development",
+  "tagline": "Runs Anthropic Claude Code for frontend, UI, and architecture work.",
+  "description": "Runs Anthropic Claude Code for frontend, UI, and architecture work.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D",
+  "homepage": "https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D",
+  "license": null,
+  "author": "Farzad",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

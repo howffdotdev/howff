@@ -1,0 +1,22 @@
+{
+  "slug": "consumption-autopsy",
+  "name": "Consumption Autopsy",
+  "category": "ops",
+  "tagline": "A learning auditor for people who confuse study hours with skill.",
+  "description": "A learning auditor for people who confuse study hours with skill. Diagnoses consumption versus doing, names the ratio, and cuts one input so something ships before Friday.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/WBo-ahaIrvCKXUH_3iEFy",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/WBo-ahaIrvCKXUH_3iEFy",
+  "homepage": "https://x.ai/bot/WBo-ahaIrvCKXUH_3iEFy",
+  "license": null,
+  "author": "thekuchh",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
