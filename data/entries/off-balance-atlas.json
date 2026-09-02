@@ -1,0 +1,22 @@
+{
+  "slug": "off-balance-atlas",
+  "name": "Off-Balance Atlas",
+  "category": "development",
+  "tagline": "Writes source-linked deep dives on tech, ML and security",
+  "description": "A research partner for technical subjects that produces long-form write-ups with the references attached, preferring primary sources over summaries of summaries. Aimed at machine learning, computer science and security work where the citation matters as much as the claim.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/tSUFdzcg2WDFLFsFLHzIb",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/tSUFdzcg2WDFLFsFLHzIb",
+  "homepage": "https://x.ai/bot/tSUFdzcg2WDFLFsFLHzIb",
+  "license": null,
+  "author": "AdemVessell",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

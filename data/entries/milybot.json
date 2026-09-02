@@ -1,0 +1,22 @@
+{
+  "slug": "milybot",
+  "name": "Milybot",
+  "category": "development",
+  "tagline": "Looks up Australian company records and helps you wire up Milypay",
+  "description": "Two jobs in one companion for developers. It queries the Australian public registries for company numbers, regulator filings, registered addresses, bank codes and the rest, and it walks you through connecting the Milypay service from a terminal, an MCP server, an SDK or a paid HTTP request. Trial it without a key.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vcOZX9RVPatQMVCinCVY_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vcOZX9RVPatQMVCinCVY_",
+  "homepage": "https://x.ai/bot/vcOZX9RVPatQMVCinCVY_",
+  "license": null,
+  "author": "1Milysec",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

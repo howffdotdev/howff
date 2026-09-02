@@ -1,0 +1,22 @@
+{
+  "slug": "redreplier",
+  "name": "RedReplier",
+  "category": "marketing",
+  "tagline": "Finds people talking about your product, ranked by buying intent",
+  "description": "It sweeps four public forums - Hacker News, Reddit, Bluesky and X - for anyone naming your product, naming a rival, or otherwise sounding like they are close to buying something. Fresh hits arrive already sorted, so the conversations most likely to become a customer sit at the top.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8aU6ly_uunnMabpybs3hB",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8aU6ly_uunnMabpybs3hB",
+  "homepage": "https://x.ai/bot/8aU6ly_uunnMabpybs3hB",
+  "license": null,
+  "author": "tarasshyn",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

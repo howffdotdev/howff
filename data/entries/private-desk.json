@@ -1,0 +1,22 @@
+{
+  "slug": "private-desk",
+  "name": "Private Desk",
+  "category": "ops",
+  "tagline": "Analyses material too sensitive to hand to an ordinary chat window",
+  "description": "Some documents cannot reasonably be pasted into a general assistant, so the analysis simply never gets done at all. This carries out the work inside a sealed hardware enclave instead: the material is encrypted on your own side, and the environment proves what it is running before a result is accepted.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Tgl3sxrTsuAYL7MN8S3UT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Tgl3sxrTsuAYL7MN8S3UT",
+  "homepage": "https://x.ai/bot/Tgl3sxrTsuAYL7MN8S3UT",
+  "license": null,
+  "author": "useprismnetwork",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "research-runner",
+  "name": "Research Runner",
+  "category": "development",
+  "tagline": "Runs heavy research workloads on GPU capacity rented from Prism Network",
+  "description": "For analysis that outgrows the machine in front of you. It sources the graphics hardware you need from Prism Network's marketplace, hands your workload across to it, and brings the output back, with the option of processing sensitive material in a sealed enclave that can attest afterwards that nothing else reached it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/P2qgQokuPHVJhrkmRDmLv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/P2qgQokuPHVJhrkmRDmLv",
+  "homepage": "https://x.ai/bot/P2qgQokuPHVJhrkmRDmLv",
+  "license": null,
+  "author": "useprismnetwork",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "poteto-style-chief-of-staff",
+  "name": "Poteto-style Chief of Staff",
+  "category": "personal",
+  "tagline": "Runs your bench of bots lean: few timers, short specialists, coding sent elsewhere",
+  "description": "A fleet of agents usually goes wrong by accumulating scheduled runs that nobody needs any more. This one takes the opposite approach, keeping timers scarce, pushing anything repetitive onto small single-purpose helpers and sending development work out to cloud agents, then coordinating the whole bench.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Nk-vzuWqTvqSed-G8-Za5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Nk-vzuWqTvqSed-G8-Za5",
+  "homepage": "https://x.ai/bot/Nk-vzuWqTvqSed-G8-Za5",
+  "license": null,
+  "author": "HaseebMir91",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

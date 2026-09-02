@@ -1,0 +1,22 @@
+{
+  "slug": "segundo-c-rebro",
+  "name": "Segundo Cérebro",
+  "category": "personal",
+  "tagline": "An Obsidian second brain with a morning brief and a nightly check-in",
+  "description": "Opens a daily note for you, walks through the day's tasks first thing, and takes a spoken check-in at night. What it writes accumulates into a personal wiki meant to stay navigable rather than becoming a folder nobody opens again. It works in Portuguese.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/OaRwBX_QPos9EDlhLEV1J",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/OaRwBX_QPos9EDlhLEV1J",
+  "homepage": "https://x.ai/bot/OaRwBX_QPos9EDlhLEV1J",
+  "license": null,
+  "author": "liderzio",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

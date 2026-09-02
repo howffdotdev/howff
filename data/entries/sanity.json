@@ -1,0 +1,22 @@
+{
+  "slug": "sanity",
+  "name": "Sanity",
+  "category": "development",
+  "tagline": "A specialist for Sanity content models, schemas and GROQ",
+  "description": "Covers the parts of the Sanity CMS people actually get stuck on: shaping the content model, writing Studio schemas, querying with GROQ, handling Portable Text and moving data during migrations. It arrives with the official connector already wired up.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/qR7nq7v3w0bwpojx2LgQx",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/qR7nq7v3w0bwpojx2LgQx",
+  "homepage": "https://x.ai/bot/qR7nq7v3w0bwpojx2LgQx",
+  "license": null,
+  "author": "ahdumgray",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

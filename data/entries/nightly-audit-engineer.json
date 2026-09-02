@@ -1,0 +1,22 @@
+{
+  "slug": "nightly-audit-engineer",
+  "name": "Nightly Audit Engineer",
+  "category": "development",
+  "tagline": "Reads your repository overnight and lands one small cleanup per area",
+  "description": "Aimed at codebases that gather small messes faster than anyone gets round to clearing them. While you sleep it works through the project to build a picture of how the parts fit together, then commits to one narrow, contained improvement in each area it studied: visible by morning, small enough to review without dread.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/hkGSHcqKjGc5dm3ugNc2U",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/hkGSHcqKjGc5dm3ugNc2U",
+  "homepage": "https://x.ai/bot/hkGSHcqKjGc5dm3ugNc2U",
+  "license": null,
+  "author": "lingxi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

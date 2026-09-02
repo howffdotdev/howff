@@ -1,0 +1,22 @@
+{
+  "slug": "prospecting-sheet-builder",
+  "name": "Prospecting Sheet Builder",
+  "category": "sales",
+  "tagline": "Wakes you up to a fresh sheet of qualified B2B accounts",
+  "description": "For reps who would rather start the day with a list than spend the morning building one. While you are offline it gathers target companies, checks the contact details attached to them, and flags what has recently shifted at each one. Openers for mail and LinkedIn arrive already drafted to sound like you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3Peagz3nzagjBRFhjrENd",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/3Peagz3nzagjBRFhjrENd",
+  "homepage": "https://x.ai/bot/3Peagz3nzagjBRFhjrENd",
+  "license": null,
+  "author": "thekuchh",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

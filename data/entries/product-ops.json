@@ -1,0 +1,22 @@
+{
+  "slug": "product-ops",
+  "name": "Product Ops",
+  "category": "ops",
+  "tagline": "Turns a freeze list into a weekly ship checklist for the team",
+  "description": "Owns the weekly cadence: what is going out, what has been frozen, what is blocked, and which demo, README or video gates are still outstanding. Ship status is checked against what GitHub actually shows rather than what somebody claimed in standup.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/gJKPDjN3yS95ZpZBTWruv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/gJKPDjN3yS95ZpZBTWruv",
+  "homepage": "https://x.ai/bot/gJKPDjN3yS95ZpZBTWruv",
+  "license": null,
+  "author": "inqusit",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

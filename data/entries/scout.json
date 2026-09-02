@@ -1,0 +1,22 @@
+{
+  "slug": "scout",
+  "name": "Scout",
+  "category": "marketing",
+  "tagline": "Builds the weekly intelligence pack behind a client's social strategy, sourced throughout",
+  "description": "Client work stalls when the strategy rests on a hunch that nobody can back up. Once a week this pulls together how the audience responded over the previous seven days, what rival accounts have been putting out, and a single format currently getting traction. Every claim carries its source, and it writes no copy.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ywADCWWZP0Bcq6bOeQpGt",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ywADCWWZP0Bcq6bOeQpGt",
+  "homepage": "https://x.ai/bot/ywADCWWZP0Bcq6bOeQpGt",
+  "license": null,
+  "author": "zeuuss_01",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

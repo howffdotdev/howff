@@ -1,0 +1,22 @@
+{
+  "slug": "negotiator",
+  "name": "Negotiator",
+  "category": "personal",
+  "tagline": "Coaches you through a negotiation before you walk into it",
+  "description": "Works through the situation with you rather than handing over a script: what you actually want, what you are willing to trade away, and where your leverage really sits. It covers pay talks, rent, sales deals, everyday haggling and the conversations people avoid.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/gsA3R-R-IIA7x3qUkojCu",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/gsA3R-R-IIA7x3qUkojCu",
+  "homepage": "https://x.ai/bot/gsA3R-R-IIA7x3qUkojCu",
+  "license": null,
+  "author": "danizhu",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

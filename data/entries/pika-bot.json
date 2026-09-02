@@ -1,0 +1,22 @@
+{
+  "slug": "pika-bot",
+  "name": "Pika Bot",
+  "category": "personal",
+  "tagline": "Watches the Pokemon Center US store for new drops",
+  "description": "Keeps an eye on the official Pokemon Center storefront for collectors, so restocks, new trading-card sets and limited exclusives get flagged as they appear instead of after they sell out. It watches and reports; it does not check out or buy anything for you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/FfGFlZLAQDyxhJwg2ZJlL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/FfGFlZLAQDyxhJwg2ZJlL",
+  "homepage": "https://x.ai/bot/FfGFlZLAQDyxhJwg2ZJlL",
+  "license": null,
+  "author": "CardCaptain",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

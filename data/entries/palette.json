@@ -1,0 +1,22 @@
+{
+  "slug": "palette",
+  "name": "Palette",
+  "category": "marketing",
+  "tagline": "Pulls a usable four-part colour scheme out of any reference photo",
+  "description": "Feed it a picture and it reads the colours back out as a working scheme, split into four jobs: a dominant shade, two supporting tones and one accent. The split is drawn as a proportion bar at 55/20/20/5, and every band carries the hex value lifted from the shot, ready to paste into a design file.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yfrTgGSwB_DZNUxx0g05V",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/yfrTgGSwB_DZNUxx0g05V",
+  "homepage": "https://x.ai/bot/yfrTgGSwB_DZNUxx0g05V",
+  "license": null,
+  "author": "subforti",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
