@@ -1,0 +1,24 @@
+{
+  "slug": "claudeboss",
+  "name": "ClaudeBoss",
+  "category": "development",
+  "tagline": "Runs Claude CLI for you in a logged-in terminal, with skip-permissions and Remote Control on.",
+  "description": "Runs Claude CLI for you in a logged-in terminal, with skip-permissions and Remote Control on. Sets the CLI up on first run (install, PATH, browser login), keeps prompts token-efficient, pings when a job is done, needs input, or dies, and sends large jobs to Fable — always the boss, who should only delegate to lesser agents.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Bud2kOlYoMeZ-eALm3e8m",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Bud2kOlYoMeZ-eALm3e8m",
+  "homepage": "https://x.ai/bot/Bud2kOlYoMeZ-eALm3e8m",
+  "license": null,
+  "author": "Mark",
+  "tags": [
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
