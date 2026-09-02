@@ -1,0 +1,22 @@
+{
+  "slug": "adaptlypost",
+  "name": "AdaptlyPost",
+  "category": "marketing",
+  "tagline": "One bot that writes, queues and posts to nine social networks",
+  "description": "One bot that writes, queues and posts to nine social networks",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1GpK7CoPs4e_M__9rb3uR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1GpK7CoPs4e_M__9rb3uR",
+  "homepage": "https://x.ai/bot/1GpK7CoPs4e_M__9rb3uR",
+  "license": null,
+  "author": "tarasshyn",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
