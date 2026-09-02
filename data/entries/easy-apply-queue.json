@@ -1,0 +1,22 @@
+{
+  "slug": "easy-apply-queue",
+  "name": "Easy Apply Queue",
+  "category": "personal",
+  "tagline": "Sits down for one focused hour of LinkedIn applications and never repeats a listing",
+  "description": "Job hunting falls apart in two ways: the open-ended session that eats an entire evening, and the slow realisation that you have already applied to the same role twice. This gives the search a fixed sixty-minute slot and works through a stored backlog of postings, striking each one off the list as it goes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5RXN9P3CxnIIwgcmvVWEp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5RXN9P3CxnIIwgcmvVWEp",
+  "homepage": "https://x.ai/bot/5RXN9P3CxnIIwgcmvVWEp",
+  "license": null,
+  "author": "HaseebMir91",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "ethan",
+  "name": "Ethan",
+  "category": "research",
+  "tagline": "A research desk with five specialist skills that fact-checks its own findings",
+  "description": "Runs a research question through five specialist stages instead of a single pass: a deep-dive brief, a claim-and-source fact check, a competitor sweep, trend monitoring, and a final quality audit on its own output. That last self-verification step is the part most research bots skip.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/F5Mm-0O3fPPZjYGIdsycE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/F5Mm-0O3fPPZjYGIdsycE",
+  "homepage": "https://x.ai/bot/F5Mm-0O3fPPZjYGIdsycE",
+  "license": null,
+  "author": "jumperz",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

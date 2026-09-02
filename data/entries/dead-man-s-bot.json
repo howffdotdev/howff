@@ -1,0 +1,22 @@
+{
+  "slug": "dead-man-s-bot",
+  "name": "Dead Man's Bot",
+  "category": "personal",
+  "tagline": "A contingency trigger that fires only when you stop checking in",
+  "description": "You decide how often you have to check in and prepare in advance exactly what should go out if you ever do not. Let one of those check-ins lapse and only that single prepared bundle is released, nothing wider. Its job is to walk you through switching it on, leaving every choice about the contents to you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XCaz2bKzsJ4J1DmkaYyc4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XCaz2bKzsJ4J1DmkaYyc4",
+  "homepage": "https://x.ai/bot/XCaz2bKzsJ4J1DmkaYyc4",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

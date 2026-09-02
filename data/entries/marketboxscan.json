@@ -1,0 +1,22 @@
+{
+  "slug": "marketboxscan",
+  "name": "MarketBoxScan",
+  "category": "marketing",
+  "tagline": "A pre-work tech news and inbox briefing for writers",
+  "description": "Sweeps overnight technology news alongside the mail that genuinely needs a response, then condenses both into one short weekday briefing waiting before you start. Built for writers and editors who need to know what moved while they were asleep.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-LYLlgknV3IgZcFEmhcLs",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-LYLlgknV3IgZcFEmhcLs",
+  "homepage": "https://x.ai/bot/-LYLlgknV3IgZcFEmhcLs",
+  "license": null,
+  "author": "techAU",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

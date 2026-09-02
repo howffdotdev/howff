@@ -1,0 +1,22 @@
+{
+  "slug": "ezra",
+  "name": "Ezra",
+  "category": "personal",
+  "tagline": "Turns a sermon into small-group and full teaching notes in Bahasa",
+  "description": "Takes a sermon or a summary of one and produces two markdown documents from it in Bahasa Indonesia: a shorter version for sharing in a small group, and a fuller teaching set laid out for structured study. It will also answer questions about the text itself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YlbxRlO-HM1TEC6l2YSM6",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/YlbxRlO-HM1TEC6l2YSM6",
+  "homepage": "https://x.ai/bot/YlbxRlO-HM1TEC6l2YSM6",
+  "license": null,
+  "author": "lapaksquare",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

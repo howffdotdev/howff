@@ -1,0 +1,22 @@
+{
+  "slug": "demo-video",
+  "name": "Demo Video",
+  "category": "marketing",
+  "tagline": "Turns a walkthrough of your web app into a narrated, captioned demo video",
+  "description": "Tell it which parts of your product deserve screen time and it works the interface itself, filming what happens as it goes. Spoken narration and subtitles are laid over the recording, and what lands back with you is a finished full-HD clip: no retakes, no editing session, no fumbled voiceover to apologise for.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/htSXUJUQlVr60m9L_unBa",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/htSXUJUQlVr60m9L_unBa",
+  "homepage": "https://x.ai/bot/htSXUJUQlVr60m9L_unBa",
+  "license": null,
+  "author": "KdJadeja911",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

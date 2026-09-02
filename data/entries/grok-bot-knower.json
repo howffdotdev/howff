@@ -1,0 +1,22 @@
+{
+  "slug": "grok-bot-knower",
+  "name": "Grok Bot Knower",
+  "category": "development",
+  "tagline": "Answers what Grok Bot can actually do, checked rather than remembered",
+  "description": "A reference desk for the Grok Bot application itself. Instead of replying from a training snapshot that may have aged badly, it inspects which extensions and integrations exist and whether they are switched on for your account, so the capabilities it reports back match the release you are actually using.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/v13QjVZ83GcaitG_3j4su",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/v13QjVZ83GcaitG_3j4su",
+  "homepage": "https://x.ai/bot/v13QjVZ83GcaitG_3j4su",
+  "license": null,
+  "author": "ngundotra",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

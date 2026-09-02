@@ -1,0 +1,22 @@
+{
+  "slug": "grokart",
+  "name": "Grokart",
+  "category": "personal",
+  "tagline": "Describe a purchase and get a shortlist plus a checkout link",
+  "description": "A conversational storefront sitting on top of Shopify's cross-merchant index. Say what you are after in ordinary language and it queries participating shops, narrows the field to a handful of candidates worth comparing, and returns a payment link from the seller so buying finishes inside the same chat.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/uhGYPStIOzvxNm8oWh3sG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/uhGYPStIOzvxNm8oWh3sG",
+  "homepage": "https://x.ai/bot/uhGYPStIOzvxNm8oWh3sG",
+  "license": null,
+  "author": "lamorim_net",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

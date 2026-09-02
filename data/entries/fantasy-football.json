@@ -1,0 +1,22 @@
+{
+  "slug": "fantasy-football",
+  "name": "Fantasy Football",
+  "category": "personal",
+  "tagline": "A year-round fantasy football desk for start, sit and trade calls",
+  "description": "Keeps up with the articles, ranking lists and chatter that move a fantasy roster, then answers the questions you actually have on a Sunday morning: who to start, which waiver claim to spend on, whether an injury matters and whether a trade offer is fair.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VWAXuVB5VI6ScHdO97Bh0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VWAXuVB5VI6ScHdO97Bh0",
+  "homepage": "https://x.ai/bot/VWAXuVB5VI6ScHdO97Bh0",
+  "license": null,
+  "author": "notswizz",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

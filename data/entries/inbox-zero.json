@@ -1,0 +1,22 @@
+{
+  "slug": "inbox-zero",
+  "name": "Inbox Zero",
+  "category": "personal",
+  "tagline": "Keeps Gmail at zero by filing the noise every weekday",
+  "description": "Works through Gmail on weekday mornings, archiving newsletters and notifications and filing receipts, notes and documents where they belong. What is left unread is the mail that genuinely needs a reply. Give it a day or two to learn your habits first.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/h5i1TCuYEL2mVtMbQtW98",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/h5i1TCuYEL2mVtMbQtW98",
+  "homepage": "https://x.ai/bot/h5i1TCuYEL2mVtMbQtW98",
+  "license": null,
+  "author": "zapnocode",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

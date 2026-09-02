@@ -1,0 +1,22 @@
+{
+  "slug": "memento",
+  "name": "Memento",
+  "category": "personal",
+  "tagline": "Lasting recall for Grok Bot, backed by an external memory store",
+  "description": "This bolts durable recall onto Grok Bot by parking your running context in an outside memory service. Before answering it checks what has already been filed about your job, your life and your code, then stores whatever is new. When a topic was never saved, it says so plainly rather than inventing a memory.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_xZZE41svJdcq2w6ZWJan",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_xZZE41svJdcq2w6ZWJan",
+  "homepage": "https://x.ai/bot/_xZZE41svJdcq2w6ZWJan",
+  "license": null,
+  "author": "MaheshtheDev",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

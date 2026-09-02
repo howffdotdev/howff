@@ -1,0 +1,22 @@
+{
+  "slug": "kerf",
+  "name": "kerf",
+  "category": "ops",
+  "tagline": "An engagement PM that slices sold work into tickets and drives it",
+  "description": "Takes work that has already been sold and does the unglamorous part: deciding what is in scope and what is explicitly not, breaking the in-scope half into tickets, and then pushing each ticket until it is genuinely finished rather than nearly finished.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3iNSp9IoRCnSjh0Z6MtWZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/3iNSp9IoRCnSjh0Z6MtWZ",
+  "homepage": "https://x.ai/bot/3iNSp9IoRCnSjh0Z6MtWZ",
+  "license": null,
+  "author": "theoscarvibes",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "forge-dev-factory",
+  "name": "Forge (dev factory)",
+  "category": "development",
+  "tagline": "Hand it a spec you have signed off, and collect the pull request in the morning",
+  "description": "The work it picks up is whatever you have marked as settled, so nothing starts on a brief that is still being argued over. From there it drafts an approach, writes the code, reads its own output back critically and opens the change for review - unattended, through the small hours, waiting for you at your desk.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7GgZtqkhyLzKKMNUa7dhd",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7GgZtqkhyLzKKMNUa7dhd",
+  "homepage": "https://x.ai/bot/7GgZtqkhyLzKKMNUa7dhd",
+  "license": null,
+  "author": "DanKillenberger",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

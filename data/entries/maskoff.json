@@ -1,0 +1,22 @@
+{
+  "slug": "maskoff",
+  "name": "Maskoff",
+  "category": "personal",
+  "tagline": "Screens the stranger who just slid into your DMs and tells you whether to trust them",
+  "description": "A cold message from an account you have never heard of is either a new contact or the opening move of a con, and the profile alone rarely says which. Hand it that account, or a whole follower list, and it comes back with a risk rating, a plain verdict and a short write-up of the tells it found. It contacts nobody.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/39x_3B9P5HBl-MpK1xGzP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/39x_3B9P5HBl-MpK1xGzP",
+  "homepage": "https://x.ai/bot/39x_3B9P5HBl-MpK1xGzP",
+  "license": null,
+  "author": "RyanGBsystems",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

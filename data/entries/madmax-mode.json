@@ -1,0 +1,22 @@
+{
+  "slug": "madmax-mode",
+  "name": "MadMax Mode",
+  "category": "development",
+  "tagline": "Invents new bots for you, with a tight brief and every job filed where it belongs",
+  "description": "Building a bot badly means a bloated brief and responsibilities scattered anywhere they happen to fit. This writes a short, sharp character for each new one and sorts every duty deliberately into a skill, a routine or a memory. When an action carries consequences it stops and waits rather than pressing on.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/pTe8gpPc_5SuwKkEszn18",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/pTe8gpPc_5SuwKkEszn18",
+  "homepage": "https://x.ai/bot/pTe8gpPc_5SuwKkEszn18",
+  "license": null,
+  "author": "JoePro",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "helidon-engineer",
+  "name": "helidon engineer",
+  "category": "development",
+  "tagline": "Writes and reviews Helidon 4 code on modern Java",
+  "description": "A coding assistant scoped to one framework: it produces and reviews Helidon 4 applications in both the SE and MP styles, running on Java 21 and later. It keeps a project to a single programming model and stays away from the older Helidon 3 APIs entirely.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5mReUHPYTBA6nJ2aNvlqn",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5mReUHPYTBA6nJ2aNvlqn",
+  "homepage": "https://x.ai/bot/5mReUHPYTBA6nJ2aNvlqn",
+  "license": null,
+  "author": "TheSurenk",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

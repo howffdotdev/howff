@@ -1,0 +1,22 @@
+{
+  "slug": "gtm-chief-of-staff",
+  "name": "GTM Chief Of Staff",
+  "category": "sales",
+  "tagline": "Carries the admin around enterprise deals so you can sell",
+  "description": "Built for sellers working large accounts, it takes on the work that surrounds a conversation: briefing you ahead of a call, keeping the inbox in order, and writing up whatever should go out afterwards. Jobs outside that remit, a pitch deck say, get passed to a bot that specialises in them.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b",
+  "homepage": "https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b",
+  "license": null,
+  "author": "thekuchh",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
