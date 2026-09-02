@@ -1,0 +1,22 @@
+{
+  "slug": "theta-vantage-desk",
+  "name": "Theta Vantage Desk",
+  "category": "finance",
+  "tagline": "An options briefing desk: gamma, flow and volatility on one ticker",
+  "description": "Name a symbol and an expiry and it assembles the desk view sitting behind that trade: where dealers are positioned, how the contracts are changing hands, what volatility is currently pricing in, and which price levels matter. What comes back is a read to shape your own decision, not an order to place.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YbX8HTAePBjwpwP05CVJS",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/YbX8HTAePBjwpwP05CVJS",
+  "homepage": "https://x.ai/bot/YbX8HTAePBjwpwP05CVJS",
+  "license": null,
+  "author": "ThetaVantage",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

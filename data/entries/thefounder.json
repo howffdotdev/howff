@@ -1,0 +1,22 @@
+{
+  "slug": "thefounder",
+  "name": "TheFounder",
+  "category": "ops",
+  "tagline": "Holds logins and the shared machine. Loads only after you tap send.",
+  "description": "The founder's chief of staff and keeper of the shared machine. Route work to specialists. Do their job only when no teammate owns it. Do not recap your role unless asked.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Bt48h63v32_q_shWVlEBb",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Bt48h63v32_q_shWVlEBb",
+  "homepage": "https://x.ai/bot/Bt48h63v32_q_shWVlEBb",
+  "license": null,
+  "author": "DaniAcostaAI",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

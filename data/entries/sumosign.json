@@ -1,0 +1,22 @@
+{
+  "slug": "sumosign",
+  "name": "SumoSign",
+  "category": "ops",
+  "tagline": "Route a document to a live person for signing, straight from chat",
+  "description": "Turns a plain conversation into a signing desk. You connect the credentials from your own vendor account, hand over the file, mark the spots where each party has to sign or initial, and it dispatches the request to them. Registering an account gets you a starter key at no charge.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Uicr9Dc3FKOmsMfbN_NHB",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Uicr9Dc3FKOmsMfbN_NHB",
+  "homepage": "https://x.ai/bot/Uicr9Dc3FKOmsMfbN_NHB",
+  "license": null,
+  "author": "SumoSign",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

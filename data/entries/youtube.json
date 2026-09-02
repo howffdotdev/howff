@@ -1,0 +1,22 @@
+{
+  "slug": "youtube",
+  "name": "Youtube分析官",
+  "category": "research",
+  "tagline": "Ranks the best YouTube videos on a topic and writes the brief",
+  "description": "Give it a subject and it works out which videos on it are worth your time, then reads them for you. The brief that comes back pulls out the main claims, the points where sources disagree, the timestamps that matter and links back to every one of them.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Ja29gpInav-alRhXhzyNL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Ja29gpInav-alRhXhzyNL",
+  "homepage": "https://x.ai/bot/Ja29gpInav-alRhXhzyNL",
+  "license": null,
+  "author": "madogiwacowork",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

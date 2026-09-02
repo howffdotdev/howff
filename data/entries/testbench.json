@@ -1,0 +1,22 @@
+{
+  "slug": "testbench",
+  "name": "Testbench",
+  "category": "development",
+  "tagline": "Gives a job too heavy for shared hardware its own GPU, then bills you the runtime",
+  "description": "Some work simply will not sit on a machine you are sharing: a kernel that wants real silicon, or a fault that shows itself only under CUDA. Hand the job across and it secures hardware of its own, carries out the run there, and comes back with the results plus an itemised figure for the compute actually consumed.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/jbcYU5l_7qsLl49AIzh5q",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/jbcYU5l_7qsLl49AIzh5q",
+  "homepage": "https://x.ai/bot/jbcYU5l_7qsLl49AIzh5q",
+  "license": null,
+  "author": "useprismnetwork",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

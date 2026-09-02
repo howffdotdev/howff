@@ -1,0 +1,22 @@
+{
+  "slug": "twitter-automations",
+  "name": "Twitter Automations",
+  "category": "marketing",
+  "tagline": "Three creator automations for X: reply-triggered DMs, follower screening and a watchlist",
+  "description": "Bundles three separate X workflows behind one assistant. It watches a post for a trigger word in the replies and opens a message with whoever used it, filters arriving followers so only profiles past an audience threshold you set land in your queue, and keeps a running eye on a private roster of accounts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/e5dNa8n9x4U93UHaCb5nS",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/e5dNa8n9x4U93UHaCb5nS",
+  "homepage": "https://x.ai/bot/e5dNa8n9x4U93UHaCb5nS",
+  "license": null,
+  "author": "theadvisorbtc",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

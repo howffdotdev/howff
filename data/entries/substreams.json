@@ -1,0 +1,22 @@
+{
+  "slug": "substreams",
+  "name": "substreams",
+  "category": "development",
+  "tagline": "Build and run Substreams blockchain data pipelines from chat",
+  "description": "A build partner for teams working on The Graph's Substreams stack. It searches the public package index for existing modules worth reusing, wires them together for you, then helps you author, test and execute your own streaming handlers against live chain data using your own Graph Market credentials.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv",
+  "homepage": "https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv",
+  "license": null,
+  "author": "graphtronauts_c",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

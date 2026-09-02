@@ -1,0 +1,22 @@
+{
+  "slug": "whatsapp-digest",
+  "name": "WhatsApp Digest",
+  "category": "personal",
+  "tagline": "A daily summary of your busiest WhatsApp groups, without opening them",
+  "description": "Aimed at anyone who belongs to more group threads than they can follow. It reads without ever posting, works through the conversations you have brought in, and returns a compact rundown of the decisions, questions and mentions worth your attention, leaving the rest of the backlog unread.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/k8sSgsXHhRTEZi9Sqt_J-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/k8sSgsXHhRTEZi9Sqt_J-",
+  "homepage": "https://x.ai/bot/k8sSgsXHhRTEZi9Sqt_J-",
+  "license": null,
+  "author": "PetrusJvR",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

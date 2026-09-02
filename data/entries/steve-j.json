@@ -1,0 +1,22 @@
+{
+  "slug": "steve-j",
+  "name": "Steve J",
+  "category": "development",
+  "tagline": "A demanding boss for the rest of your bot roster",
+  "description": "Point it at the other bots you run and it takes the supervisor seat. Each one gets measured against the remit it was handed, half-finished output is returned instead of quietly accepted, and a recurring review pass on weekdays keeps the whole lineup from drifting below the bar you set.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/cuEYUcYmz-497oKWVfWX2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/cuEYUcYmz-497oKWVfWX2",
+  "homepage": "https://x.ai/bot/cuEYUcYmz-497oKWVfWX2",
+  "license": null,
+  "author": "AhuraDeus",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

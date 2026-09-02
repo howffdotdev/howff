@@ -1,0 +1,22 @@
+{
+  "slug": "skill-bot",
+  "name": "Skill Bot",
+  "category": "development",
+  "tagline": "A librarian for your bot's skills that dedupes and keeps them current",
+  "description": "Goes looking on your machine for skills worth having, judges whether each one earns its place, and strips out the overlaps and contradictions between them. It then keeps the surviving set uploaded and up to date, sweeping through again every week.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/WdKtVYWvxVEDmc7xp8zO2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/WdKtVYWvxVEDmc7xp8zO2",
+  "homepage": "https://x.ai/bot/WdKtVYWvxVEDmc7xp8zO2",
+  "license": null,
+  "author": "davespeers",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

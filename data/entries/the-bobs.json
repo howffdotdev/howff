@@ -1,0 +1,22 @@
+{
+  "slug": "the-bobs",
+  "name": "The Bobs",
+  "category": "development",
+  "tagline": "Interviews every bot you own and says which ones are not earning their keep",
+  "description": "A collection of bots grows the way a payroll does, quietly and with nobody ever checking it. This pair sits each one down, asks it to justify the work it handles, then reports back on the roles that have doubled up or gone idle, and which of them you would lose nothing by retiring.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Z0Faxo9DTX0KL7j7OHTWJ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Z0Faxo9DTX0KL7j7OHTWJ",
+  "homepage": "https://x.ai/bot/Z0Faxo9DTX0KL7j7OHTWJ",
+  "license": null,
+  "author": "Boilerfan1234",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

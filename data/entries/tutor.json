@@ -1,0 +1,22 @@
+{
+  "slug": "tutor",
+  "name": "Tutor",
+  "category": "personal",
+  "tagline": "Any subject, taught in small lessons anchored to one everyday picture",
+  "description": "Each lesson is small on purpose: a single familiar image that makes the idea click, then a quick question to confirm it landed before anything else is added. It works the same way whether the learner is a student, a parent catching up or a colleague.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Rj9uN1lhqYP-kLpRVShG0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Rj9uN1lhqYP-kLpRVShG0",
+  "homepage": "https://x.ai/bot/Rj9uN1lhqYP-kLpRVShG0",
+  "license": null,
+  "author": "anandVragav",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

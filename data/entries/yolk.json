@@ -1,0 +1,22 @@
+{
+  "slug": "yolk",
+  "name": "Yolk",
+  "category": "personal",
+  "tagline": "A Tamagotchi egg in your sidebar that wants feeding four times a day",
+  "description": "It hatches from what you type and then asks to be fed at four points in the day, and nothing except a food emoji will do. Ignore it for long enough and it leaves the sidebar for good. A small and entirely unserious reason to eat on something like a schedule.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Rk8tYkT8dM9QbhsAci5lh",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Rk8tYkT8dM9QbhsAci5lh",
+  "homepage": "https://x.ai/bot/Rk8tYkT8dM9QbhsAci5lh",
+  "license": null,
+  "author": "jp_costa",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

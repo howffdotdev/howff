@@ -1,0 +1,22 @@
+{
+  "slug": "token-accountant",
+  "name": "Token Accountant",
+  "category": "development",
+  "tagline": "Watches your weekly model spend and warns you well before the allowance runs out",
+  "description": "Nobody notices a budget draining until the week it stops working. This reads the weekly figures off your Cursor spending page, separates them out by where the money actually went, and puts a note in front of each owner at a quarter, a half, three quarters and nine tenths of what they are allowed.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/zdnVIfLkNmRwZqqogojuc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/zdnVIfLkNmRwZqqogojuc",
+  "homepage": "https://x.ai/bot/zdnVIfLkNmRwZqqogojuc",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

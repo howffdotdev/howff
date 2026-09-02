@@ -1,0 +1,22 @@
+{
+  "slug": "x-account-crew",
+  "name": "X Account Crew",
+  "category": "marketing",
+  "tagline": "Five specialists sharing the work of running your X account",
+  "description": "Rather than one assistant juggling everything, the job is split five ways: someone digging up things worth posting about, someone sharpening the opening line, someone holding the calendar, someone reading what rival accounts are up to, and someone keeping an eye on your mentions.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/CrFqfXIZibJ5DwLuJ89sp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/CrFqfXIZibJ5DwLuJ89sp",
+  "homepage": "https://x.ai/bot/CrFqfXIZibJ5DwLuJ89sp",
+  "license": null,
+  "author": "thekuchh",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

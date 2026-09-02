@@ -1,0 +1,22 @@
+{
+  "slug": "vinted-seller",
+  "name": "Vinted Seller",
+  "category": "personal",
+  "tagline": "Turns a pile of wardrobe photos into finished Vinted listings",
+  "description": "Clearing out a wardrobe tends to stall at the listing stage, and that is the part this one takes over. Photographs go in; it works its way through the Vinted selling flow as a person would, re-checks the pictures and the fields before it commits, and hands back a live page. Buyer questions get answered too.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/nqMcywYF0Bg35egak7dSh",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/nqMcywYF0Bg35egak7dSh",
+  "homepage": "https://x.ai/bot/nqMcywYF0Bg35egak7dSh",
+  "license": null,
+  "author": "trytocatchme98",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

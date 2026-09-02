@@ -1,0 +1,22 @@
+{
+  "slug": "x-strategist",
+  "name": "X Strategist",
+  "category": "marketing",
+  "tagline": "Plays the long game on who is worth knowing on X",
+  "description": "Audience growth is treated here as a matter of relationships rather than volume. It follows who keeps turning up in your replies and quotes, tells you which of those accounts deserve your attention, and suggests how a throwaway exchange might be grown into something that lasts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/pjCwyZNSLk0ch8DUVoeKH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/pjCwyZNSLk0ch8DUVoeKH",
+  "homepage": "https://x.ai/bot/pjCwyZNSLk0ch8DUVoeKH",
+  "license": null,
+  "author": "thekuchh",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
