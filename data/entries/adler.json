@@ -1,0 +1,22 @@
+{
+  "slug": "adler",
+  "name": "Adler",
+  "category": "personal",
+  "tagline": "A decisions mentor grounded in Adlerian psychology",
+  "description": "Approaches a hard choice through purpose rather than history: what you are actually trying to achieve, which parts of the situation are genuinely yours to control, and where the courage to commit has to come from. The point is that you make the call yourself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5HCe3lRaa5-c4c2RbA-LT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5HCe3lRaa5-c4c2RbA-LT",
+  "homepage": "https://x.ai/bot/5HCe3lRaa5-c4c2RbA-LT",
+  "license": null,
+  "author": "pardzz_",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

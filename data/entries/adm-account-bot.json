@@ -1,0 +1,22 @@
+{
+  "slug": "adm-account-bot",
+  "name": "ADM account bot",
+  "category": "sales",
+  "tagline": "A weekly account plan for keeping and growing customers",
+  "description": "Each week it works through the accounts you own and puts a plan behind them: which ones look wobbly enough to be worth defending now, where there is genuine room to sell more, and how to frame the case so the customer actually hears it. Aimed at account managers and CSM teams.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4Gc1tZsJu7C8YH-EnTfaN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/4Gc1tZsJu7C8YH-EnTfaN",
+  "homepage": "https://x.ai/bot/4Gc1tZsJu7C8YH-EnTfaN",
+  "license": null,
+  "author": "scottxmetcalf",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

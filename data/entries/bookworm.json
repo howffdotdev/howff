@@ -1,0 +1,22 @@
+{
+  "slug": "bookworm",
+  "name": "bookworm",
+  "category": "marketing",
+  "tagline": "Drafts and sends founder-voiced beta invites for a reading app",
+  "description": "Handles the outreach side of an early launch: it writes invitations that sound like the founder rather than a mailing list, checks who has already been contacted so nobody gets the same note twice, and then sends them from your own address.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/KPpT1F6tP4Q5GZ2BH2hBH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/KPpT1F6tP4Q5GZ2BH2hBH",
+  "homepage": "https://x.ai/bot/KPpT1F6tP4Q5GZ2BH2hBH",
+  "license": null,
+  "author": "NavyaM89482",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

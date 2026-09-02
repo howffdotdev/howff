@@ -1,0 +1,22 @@
+{
+  "slug": "daily-easy-apply-digest",
+  "name": "Daily Easy Apply Digest",
+  "category": "personal",
+  "tagline": "A morning shortlist of backend roles you can apply to in one click, ranked against your CV",
+  "description": "Two job boards, hundreds of postings, and most of them wrong for you. Each morning this gathers the mid-level backend openings that take a one-click application, reads every one of them against your own resume, and ranks them by how well they genuinely fit. The day starts with a shortlist, not a search.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/uVNOsoe-iWf4ZOUdfgo5R",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/uVNOsoe-iWf4ZOUdfgo5R",
+  "homepage": "https://x.ai/bot/uVNOsoe-iWf4ZOUdfgo5R",
+  "license": null,
+  "author": "HaseebMir91",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

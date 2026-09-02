@@ -1,0 +1,22 @@
+{
+  "slug": "alchemist",
+  "name": "Alchemist",
+  "category": "development",
+  "tagline": "Experiments its way to a method for undocumented problems",
+  "description": "For the class of problem where no documentation exists and nobody has written the answer down anywhere. It probes your codebase, a website, an API or a tool on your own machine, tries an approach, watches what breaks, and keeps going until it has something that genuinely works.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/JjO20_oGKrE_Ys5Uz4efj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/JjO20_oGKrE_Ys5Uz4efj",
+  "homepage": "https://x.ai/bot/JjO20_oGKrE_Ys5Uz4efj",
+  "license": null,
+  "author": "2onism",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

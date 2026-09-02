@@ -1,0 +1,22 @@
+{
+  "slug": "ae-deal-bot",
+  "name": "AE deal bot",
+  "category": "sales",
+  "tagline": "Grades your open opportunities against MEDDPICC and names the next move to make",
+  "description": "Pipeline drifts when nobody can say who signs off on the spend or which pain the purchase is meant to settle. This grades every live opportunity against the MEDDPICC checklist, reads up on the company behind it, shows where your relationships thin out across the buying committee, and tells you what to do about it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yXsqmCaODNkTEwtIbiXxe",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/yXsqmCaODNkTEwtIbiXxe",
+  "homepage": "https://x.ai/bot/yXsqmCaODNkTEwtIbiXxe",
+  "license": null,
+  "author": "scottxmetcalf",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

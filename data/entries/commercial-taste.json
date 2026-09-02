@@ -1,0 +1,22 @@
+{
+  "slug": "commercial-taste",
+  "name": "Commercial Taste",
+  "category": "ops",
+  "tagline": "Commercial judgment for technical founders deciding without complete data",
+  "description": "A business-side counterpart for people whose instincts are engineering-shaped. It takes the positioning and go-to-market questions you are stuck on, reasons through them using the partial evidence actually in front of you, and returns a defensible call rather than a request for more research.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vekulzIMXM8hDjkp-mDkX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vekulzIMXM8hDjkp-mDkX",
+  "homepage": "https://x.ai/bot/vekulzIMXM8hDjkp-mDkX",
+  "license": null,
+  "author": "thesmitpatel",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

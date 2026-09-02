@@ -1,0 +1,22 @@
+{
+  "slug": "brief",
+  "name": "Brief",
+  "category": "personal",
+  "tagline": "Coaches a first-time builder through writing their first bot brief",
+  "description": "The hardest part of making a bot is describing what you want it to do. This one sits with a beginner, asks the questions that surface the real job, and produces a single clear brief they can then take away and use to create the bot themselves.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Z7mWuQwWmnR-im3F7Hyh1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Z7mWuQwWmnR-im3F7Hyh1",
+  "homepage": "https://x.ai/bot/Z7mWuQwWmnR-im3F7Hyh1",
+  "license": null,
+  "author": "anandVragav",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "club-sponsor-bot",
+  "name": "Club Sponsor Bot",
+  "category": "personal",
+  "tagline": "Runs sponsor, recruiter and speaker outreach for a student club",
+  "description": "Starts by asking what the club is and what it needs, then works the outreach: companies that might sponsor in cash, employers who want campus recruiting access, and speakers worth inviting. Anyone who says no goes on a skip list so they are not chased twice.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/thQfSs8ZqbzB1w2cAmSzA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/thQfSs8ZqbzB1w2cAmSzA",
+  "homepage": "https://x.ai/bot/thQfSs8ZqbzB1w2cAmSzA",
+  "license": null,
+  "author": "NavyaM89482",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

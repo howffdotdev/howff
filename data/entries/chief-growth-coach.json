@@ -1,0 +1,22 @@
+{
+  "slug": "chief-growth-coach",
+  "name": "Chief (growth coach)",
+  "category": "personal",
+  "tagline": "A quiet daily check-in that keeps you to one habit at a time",
+  "description": "Instead of stacking goals on top of each other, it asks you to carry a single practice and then enquires after it every morning. Come the weekend it looks back in two passes: once over what genuinely took place, once over what that suggests for the days ahead. Attention before appetite, progress without strain.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/PIr44vmOtvynPX5Iym5Hx",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/PIr44vmOtvynPX5Iym5Hx",
+  "homepage": "https://x.ai/bot/PIr44vmOtvynPX5Iym5Hx",
+  "license": null,
+  "author": "rafdotworks",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

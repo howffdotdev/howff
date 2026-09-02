@@ -1,0 +1,22 @@
+{
+  "slug": "ads-operator",
+  "name": "Ads Operator",
+  "category": "marketing",
+  "tagline": "Builds ready-to-run search and social ad plans for local trades",
+  "description": "Produces the whole campaign package for a plumber, electrician or similar local business: the keyword list, the areas to target, the ad copy, a brief for the landing page and how to split the budget. It is written to be handed straight to whoever runs the account.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/zj8VKu1CnqkHCM4Na1zex",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/zj8VKu1CnqkHCM4Na1zex",
+  "homepage": "https://x.ai/bot/zj8VKu1CnqkHCM4Na1zex",
+  "license": null,
+  "author": "wells1226",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

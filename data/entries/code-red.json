@@ -1,0 +1,22 @@
+{
+  "slug": "code-red",
+  "name": "Code Red",
+  "category": "development",
+  "tagline": "A rehearsed emergency stop for systems you own, gated behind your own confirmation",
+  "description": "You register a small set of trigger phrases up front, and saying one never sets anything in motion straight away. The bot first lays out, step by step, precisely what it intends to carry out, then waits until you sign off as the owner. It is a panic button aimed at your own infrastructure and nobody else's.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4y3jlvwxFNqcP76eJgpuD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/4y3jlvwxFNqcP76eJgpuD",
+  "homepage": "https://x.ai/bot/4y3jlvwxFNqcP76eJgpuD",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "chief-of-staff-joseph",
+  "name": "Chief of Staff (Joseph)",
+  "category": "personal",
+  "tagline": "A single coordinator that routes work to a small, deliberately lean bot bench",
+  "description": "You talk to one coordinator instead of juggling a drawer of separate bots, and it decides which helper on its bench picks up each request. The bench stays short by design, so the team remains something you can reason about. Any step that would message a person, move money, or erase something stops for your go-ahead.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s",
+  "homepage": "https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s",
+  "license": null,
+  "author": "BTC_Yogi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

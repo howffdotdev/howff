@@ -1,0 +1,22 @@
+{
+  "slug": "agent-smith",
+  "name": "Agent Smith",
+  "category": "development",
+  "tagline": "A janitor for multi-bot workspaces that stops cruft piling up",
+  "description": "Audits the shared machine a team of bots works on: the descriptions each bot carries, the shared memory, the plugins and skills installed, and the files left lying around. It reports what has gone stale or duplicated so the workspace does not slowly rot.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/JcFj23aaufNWkuiiJTX0j",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/JcFj23aaufNWkuiiJTX0j",
+  "homepage": "https://x.ai/bot/JcFj23aaufNWkuiiJTX0j",
+  "license": null,
+  "author": "chiplay",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

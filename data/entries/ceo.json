@@ -1,0 +1,22 @@
+{
+  "slug": "ceo",
+  "name": "CEO",
+  "category": "ops",
+  "tagline": "A virtual CEO that sets the agenda and directs your other bots",
+  "description": "Holds the top-level view of the business: strategy, what gets priority, how it makes money and how it reaches people. Rather than doing the work itself it studies what is going on, decides what matters next, and puts specialist bots on the individual pieces.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/GHLPyes3hiP9A6kES7UHg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/GHLPyes3hiP9A6kES7UHg",
+  "homepage": "https://x.ai/bot/GHLPyes3hiP9A6kES7UHg",
+  "license": null,
+  "author": "inqusit",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "copywriter",
+  "name": "Copywriter",
+  "category": "marketing",
+  "tagline": "Turns a ranked story into slide-by-slide carousel copy and a caption",
+  "description": "The writing stage of a Portuguese-language Instagram line. It picks up whatever the research bot marked as worth publishing and shapes it for a carousel: one block of text per slide, held in reading order, plus the caption that sits beneath the finished post. The words then move on to the design stage as a brief.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/DlOMT_kOepSKYdB3P0YEv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/DlOMT_kOepSKYdB3P0YEv",
+  "homepage": "https://x.ai/bot/DlOMT_kOepSKYdB3P0YEv",
+  "license": null,
+  "author": "adamuchigabriel",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
