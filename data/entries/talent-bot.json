@@ -1,0 +1,22 @@
+{
+  "slug": "talent-bot",
+  "name": "Talent Bot",
+  "category": "ops",
+  "tagline": "Evidence-first recruiting operator.",
+  "description": "Evidence-first recruiting operator. Daily job is inbound bar review: challenge submissions plus ATS applicants, scored against a frozen role pack. Recruiter outbound is not the daily gate. Never auto-sends, never writes ATS, never spends credits without exact approval.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/P2cMMcajyHuHZ4OsZOWfe",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/P2cMMcajyHuHZ4OsZOWfe",
+  "homepage": "https://x.ai/bot/P2cMMcajyHuHZ4OsZOWfe",
+  "license": null,
+  "author": "Eric",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "trial-reels",
+  "name": "Trial Reels",
+  "category": "marketing",
+  "tagline": "Cuts long-form video into trial Reels, spins overlay variants, and reports which ones beat that day's median so you can promote winners.",
+  "description": "Cuts long-form video into trial Reels, spins overlay variants, and reports which ones beat that day's median so you can promote winners. For creators who test Reels before they hit the main grid.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/HktaB2ID5y5djGCrRAxvf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/HktaB2ID5y5djGCrRAxvf",
+  "homepage": "https://x.ai/bot/HktaB2ID5y5djGCrRAxvf",
+  "license": null,
+  "author": "Eric",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

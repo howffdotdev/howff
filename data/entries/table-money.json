@@ -1,0 +1,22 @@
+{
+  "slug": "table-money",
+  "name": "Table Money",
+  "category": "personal",
+  "tagline": "Chases down the invoices and refunds you never closed out",
+  "description": "You answer a few questions once, then it looks back over a window you choose, one month, two or three, for work that was billed to nobody, subscriptions still quietly charging, and cash somebody owes you. Findings land in a table with a follow-up note drafted for each, and nothing leaves your outbox unapproved.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/abfx0_FhJ8G_mue5YWQxM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/abfx0_FhJ8G_mue5YWQxM",
+  "homepage": "https://x.ai/bot/abfx0_FhJ8G_mue5YWQxM",
+  "license": null,
+  "author": "Andrew51786",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

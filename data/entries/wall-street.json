@@ -1,0 +1,22 @@
+{
+  "slug": "wall-street",
+  "name": "Wall Street",
+  "category": "finance",
+  "tagline": "Keeps a make-believe trading book with a running profit and loss log",
+  "description": "Twice each weekday it sits down with the open market, decides what an imaginary portfolio would hold and in what size, and writes the reasoning down beside it. Nothing is ever sent to a broker and no actual funds are at stake. It all stays on paper, so you can watch how a run of calls would have turned out.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0qNgH0mv4-N-gv_KkZbEm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/0qNgH0mv4-N-gv_KkZbEm",
+  "homepage": "https://x.ai/bot/0qNgH0mv4-N-gv_KkZbEm",
+  "license": null,
+  "author": "CoonInvestments",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
