@@ -1,0 +1,22 @@
+{
+  "slug": "fondi",
+  "name": "Fondi",
+  "category": "ops",
+  "tagline": "Reads your company's website and staffs you a leadership bench of bots",
+  "description": "Aimed at people building alone. It works through whatever your company already publishes about itself, forms a picture of the business, then creates specialist assistants to match, standing in for the heads of function a one-person outfit cannot afford to hire. The bench is shaped around your company, not generic.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/qL920VjKyua3_u89UYnQL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/qL920VjKyua3_u89UYnQL",
+  "homepage": "https://x.ai/bot/qL920VjKyua3_u89UYnQL",
+  "license": null,
+  "author": "Naoufal",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

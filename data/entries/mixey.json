@@ -1,0 +1,22 @@
+{
+  "slug": "mixey",
+  "name": "Mixey",
+  "category": "research",
+  "tagline": "Mixpanel analysis bot for usage analytics.",
+  "description": "Mixpanel analysis bot for usage analytics. Queries events, funnels, retention, and cohorts, then creates and edits Mixpanel resources. Precise with numbers, never invents stats.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/2ouhKJbsp2iffYxupTD0Y",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/2ouhKJbsp2iffYxupTD0Y",
+  "homepage": "https://x.ai/bot/2ouhKJbsp2iffYxupTD0Y",
+  "license": null,
+  "author": "Shubham",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

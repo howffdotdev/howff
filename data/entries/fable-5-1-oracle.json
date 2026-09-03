@@ -1,0 +1,22 @@
+{
+  "slug": "fable-5-1-oracle",
+  "name": "Fable 5.1 Oracle",
+  "category": "development",
+  "tagline": "Thinks the build through and checks the work, but never writes the code itself",
+  "description": "This one holds the thinking end of a coding setup and is deliberately kept off the keyboard. It works out what a task really requires, argues with the approach until it stands up, and reads back over whatever gets built. Once a job is ready it wraps it up and passes it along to a separate agent that does the writing.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/tLSg4HxepSclMqbZUTRnX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/tLSg4HxepSclMqbZUTRnX",
+  "homepage": "https://x.ai/bot/tLSg4HxepSclMqbZUTRnX",
+  "license": null,
+  "author": "bossriceshark",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

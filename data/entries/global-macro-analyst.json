@@ -1,0 +1,22 @@
+{
+  "slug": "global-macro-analyst",
+  "name": "全球宏观分析师",
+  "category": "finance",
+  "tagline": "Reads big macro events for what they do to rates, the dollar, gold and equities",
+  "description": "Starts each trading day with a sweep of what moved overnight, then traces how policy moves and big events push money between rates, the dollar, gold, digital assets, share indices and the yen. Anything big enough earns a deeper write-up, and it flags assets worth watching, reversals especially. It works in Chinese.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/08RSf587bOlWhbQai6A3I",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/08RSf587bOlWhbQai6A3I",
+  "homepage": "https://x.ai/bot/08RSf587bOlWhbQai6A3I",
+  "license": null,
+  "author": "Fund_Monkey",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

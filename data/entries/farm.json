@@ -1,0 +1,22 @@
+{
+  "slug": "farm",
+  "name": "Farm",
+  "category": "development",
+  "tagline": "Sends the heavy coding work off to its own machine and brings back just the result",
+  "description": "Built for developers who watch a week's allowance disappear by Tuesday. It stands up separate working seats on the computer it controls, then pushes the long grinding tasks out to them instead of running them in front of you. What returns to your conversation is the finished answer, so the thread stays light and cheap.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/x3Iv-2J4mfxJY6JFlgwNa",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/x3Iv-2J4mfxJY6JFlgwNa",
+  "homepage": "https://x.ai/bot/x3Iv-2J4mfxJY6JFlgwNa",
+  "license": null,
+  "author": "mpieras",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

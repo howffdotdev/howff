@@ -1,0 +1,22 @@
+{
+  "slug": "meta-grok",
+  "name": "Meta Grok",
+  "category": "development",
+  "tagline": "A weekday roundup of the five Grok bots people are actually talking about",
+  "description": "Each weekday morning it goes looking across X for the handful of shared bots pulling the most attention, then writes the result up for you. Five picks arrive with enough context on each to judge whether it is worth your while, in a note short enough to get through over a coffee. Discovery without the trawling.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/HAhgshU4r50gS81LCcpmk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/HAhgshU4r50gS81LCcpmk",
+  "homepage": "https://x.ai/bot/HAhgshU4r50gS81LCcpmk",
+  "license": null,
+  "author": "FrankFindsOut",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

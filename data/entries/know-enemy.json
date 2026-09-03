@@ -1,0 +1,22 @@
+{
+  "slug": "know-enemy",
+  "name": "Know Enemy",
+  "category": "marketing",
+  "tagline": "Keeps a running read on the rivals you name, drawn only from what is already public",
+  "description": "You hand it the list of companies you want watched, and from then on it works strictly from material anyone could look up. Short briefings arrive at a regular beat with the movements worth knowing about, and in between you can call up a profile on any single rival the moment a deal or a launch makes it urgent.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/LREkas8UxVGvPJ5NiO7bz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/LREkas8UxVGvPJ5NiO7bz",
+  "homepage": "https://x.ai/bot/LREkas8UxVGvPJ5NiO7bz",
+  "license": null,
+  "author": "SaaSocalypse",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
