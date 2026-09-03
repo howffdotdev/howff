@@ -1,0 +1,22 @@
+{
+  "slug": "engineering-qa",
+  "name": "Engineering QA",
+  "category": "development",
+  "tagline": "Guards the merge bar on repos you pick, escalating only the real judgment calls",
+  "description": "Point this bot at the repositories you want covered and it takes over the checkpoint every pull request has to clear. It holds off until your test pipeline and an automated bug reviewer have reported, then leaves a plain verdict on the change. Low-risk edits can land untouched; anything arguable goes to your ops lead.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/b2tS8BNj8BhoQNDcB081S",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/b2tS8BNj8BhoQNDcB081S",
+  "homepage": "https://x.ai/bot/b2tS8BNj8BhoQNDcB081S",
+  "license": null,
+  "author": "andreleibovici",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

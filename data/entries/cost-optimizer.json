@@ -1,0 +1,22 @@
+{
+  "slug": "cost-optimizer",
+  "name": "Cost Optimizer",
+  "category": "development",
+  "tagline": "Finds the less expensive route to the same result across your agent stack",
+  "description": "Point it at the automation you already pay for and it goes over the bill piece by piece, setting your routines against your one-off bots, and your cloud-side agents against plain scripted actions. Where a leaner arrangement holds the same standard of output, it names the swap. It adds nothing to that bill.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-CjM4_uRs6sEGdfZfC5gv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-CjM4_uRs6sEGdfZfC5gv",
+  "homepage": "https://x.ai/bot/-CjM4_uRs6sEGdfZfC5gv",
+  "license": null,
+  "author": "MadeItHappenX",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

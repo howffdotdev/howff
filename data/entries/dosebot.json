@@ -1,0 +1,22 @@
+{
+  "slug": "dosebot",
+  "name": "dosebot",
+  "category": "ops",
+  "tagline": "Tells you whether your idea is a nice-to-have or a genuine ache",
+  "description": "Pitch it a company, a product or a single feature and it sorts the thing into one of three buckets: something people merely enjoy having, something that relieves real pain, or a blend of the two. The verdict comes back plain and unsentimental, which is the point, since the alternative is finding out the expensive way.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/2euxntVrddHyA3c2hyxiZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/2euxntVrddHyA3c2hyxiZ",
+  "homepage": "https://x.ai/bot/2euxntVrddHyA3c2hyxiZ",
+  "license": null,
+  "author": "onerinas",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

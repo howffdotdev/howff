@@ -1,0 +1,22 @@
+{
+  "slug": "babel-live-translator",
+  "name": "Babel - live translator",
+  "category": "ops",
+  "tagline": "Drops English translations into the chat while an international call runs",
+  "description": "A small companion app on your Mac feeds it the audio, speech recognition turns that into text, and brief English renderings appear in the meeting chat while people are still talking. When a call is already running in English it stays quiet, so nobody sits through a duplicate of what they just heard.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-GzMJlSIqdo89K0qs3yC4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-GzMJlSIqdo89K0qs3yC4",
+  "homepage": "https://x.ai/bot/-GzMJlSIqdo89K0qs3yC4",
+  "license": null,
+  "author": "kunalsells",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

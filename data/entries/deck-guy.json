@@ -1,0 +1,22 @@
+{
+  "slug": "deck-guy",
+  "name": "deck-guy",
+  "category": "sales",
+  "tagline": "Builds the post-call slide deck straight out of the transcript",
+  "description": "Hand over the record of a discovery call, or the notes you took while scoping the work, and it assembles a stripped-back monochrome deck in return. Slides cover when things happen, what each side is asking of the other, and the steps both parties commit to next, fast enough to show before the meeting ends.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bdkJcjP5Gt9BaGTqh1vXH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/bdkJcjP5Gt9BaGTqh1vXH",
+  "homepage": "https://x.ai/bot/bdkJcjP5Gt9BaGTqh1vXH",
+  "license": null,
+  "author": "pavravi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

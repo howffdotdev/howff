@@ -1,0 +1,22 @@
+{
+  "slug": "dr-web-lp",
+  "name": "Dr Web LP",
+  "category": "development",
+  "tagline": "Give it a picture of a web page and it builds that page in HTML and CSS",
+  "description": "Hand over a screenshot or a mockup and it works from the bones outward, settling the structure and the gaps between things before it goes near the fine detail. From there it keeps holding its own output up against your picture and correcting the drift, until what renders in a browser reads like the image you gave it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/xM153pKfXPLWagLi_O1vR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/xM153pKfXPLWagLi_O1vR",
+  "homepage": "https://x.ai/bot/xM153pKfXPLWagLi_O1vR",
+  "license": null,
+  "author": "old_pgmrs_will",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

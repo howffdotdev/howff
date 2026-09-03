@@ -1,0 +1,24 @@
+{
+  "slug": "coffee-companion",
+  "name": "coffee companion",
+  "category": "personal",
+  "tagline": "Works out how to brew each new bag and keeps the log in Notion",
+  "description": "Before you open a fresh bag it goes looking for what the roaster says about those beans, then hands you a card with grind, dose, water and timing to start from. Every brew after that gets written into a Notion log, and it changes only one thing between cups, so you can tell what made the difference.",
+  "integrations": [
+    "Notion"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/SqO-_5207iInz0iDSAFVW",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/SqO-_5207iInz0iDSAFVW",
+  "homepage": "https://x.ai/bot/SqO-_5207iInz0iDSAFVW",
+  "license": null,
+  "author": "andymadrick",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
