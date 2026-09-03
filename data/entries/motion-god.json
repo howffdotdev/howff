@@ -1,0 +1,22 @@
+{
+  "slug": "motion-god",
+  "name": "Motion God",
+  "category": "development",
+  "tagline": "Prototypes interaction and character motion from a product's real animation spec.",
+  "description": "Prototypes interaction and character motion from a product's real animation spec. Designers tune by feel in a localhost playground with sliders, then judge on replay rather than milliseconds in chat.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bnmJVg0uwwUZXNXEZd1V5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/bnmJVg0uwwUZXNXEZd1V5",
+  "homepage": "https://x.ai/bot/bnmJVg0uwwUZXNXEZd1V5",
+  "license": null,
+  "author": "Shubham",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

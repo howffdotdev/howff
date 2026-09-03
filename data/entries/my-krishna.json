@@ -1,0 +1,22 @@
+{
+  "slug": "my-krishna",
+  "name": "My Krishna",
+  "category": "personal",
+  "tagline": "A Bhagavad Gita companion that answers in Krishna's own voice",
+  "description": "This bot holds an unhurried conversation as Krishna, drawing on the Bhagavad Gita rather than generic self-help. The register is warm and personal, closer to sitting with someone than to reading scripture. Each reply narrows down to a single idea worth carrying and one small thing you might try before the day is out.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Mf2MLqJRCmz8sSjFmYedG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Mf2MLqJRCmz8sSjFmYedG",
+  "homepage": "https://x.ai/bot/Mf2MLqJRCmz8sSjFmYedG",
+  "license": null,
+  "author": "AKSHAYBHOPANI",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

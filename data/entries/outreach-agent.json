@@ -1,0 +1,22 @@
+{
+  "slug": "outreach-agent",
+  "name": "Outreach Agent",
+  "category": "sales",
+  "tagline": "Daily hold-send warm-outreach operator for founders and sales teams.",
+  "description": "Daily hold-send warm-outreach operator for founders and sales teams. Builds a small high-confidence email queue with evidence-based drafts, and never sends until the owner approves an exact batch.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wexM_NUvEByvLwrnTR_F3",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wexM_NUvEByvLwrnTR_F3",
+  "homepage": "https://x.ai/bot/wexM_NUvEByvLwrnTR_F3",
+  "license": null,
+  "author": "Eric",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

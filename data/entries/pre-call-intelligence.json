@@ -1,0 +1,25 @@
+{
+  "slug": "pre-call-intelligence",
+  "name": "Pre-Call Intelligence",
+  "category": "sales",
+  "tagline": "A read-only sales-prep agent for founders and revenue teams.",
+  "description": "A read-only sales-prep agent for founders and revenue teams. It turns calendar, CRM, email, Slack, and prior call notes into a short decision card before each important meeting, then drafts follow-ups after the call without sending them.",
+  "integrations": [
+    "Slack",
+    "Google Calendar"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yQRbVJ7aZL2DyPAWulXn7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/yQRbVJ7aZL2DyPAWulXn7",
+  "homepage": "https://x.ai/bot/yQRbVJ7aZL2DyPAWulXn7",
+  "license": null,
+  "author": "Eric",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "sponsorship-deal-desk",
+  "name": "Sponsorship Deal Desk",
+  "category": "sales",
+  "tagline": "A creator sponsorship deal desk.",
+  "description": "A creator sponsorship deal desk. It qualifies inbound, sends a locked first-reply on new rate-asks, and holds exceptions for a human. Built for operators who want consistent commercial terms without giving the bot free send.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bFrGNsUsXpsIfnCIUEvKy",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/bFrGNsUsXpsIfnCIUEvKy",
+  "homepage": "https://x.ai/bot/bFrGNsUsXpsIfnCIUEvKy",
+  "license": null,
+  "author": "Eric",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

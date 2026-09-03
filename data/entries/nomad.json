@@ -1,0 +1,22 @@
+{
+  "slug": "nomad",
+  "name": "Nomad",
+  "category": "development",
+  "tagline": "Keeps a running register of your agents so the stack is never locked in",
+  "description": "This one exists so a collection of assistants never ends up stranded where it was first built. It keeps a current register of every bot you run, the skills each carries, what it plugs into, what it fires on a timer and how it is reached. Nothing secret is stored, and it works in whichever language you prefer.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/mbC-ZTmcOFq3sKUHfxf-3",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/mbC-ZTmcOFq3sKUHfxf-3",
+  "homepage": "https://x.ai/bot/mbC-ZTmcOFq3sKUHfxf-3",
+  "license": null,
+  "author": "PedroAnibarro",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "shortform-scaler",
+  "name": "Shortform Scaler",
+  "category": "marketing",
+  "tagline": "Turns long-form podcast tape into a daily short-form ship packet.",
+  "description": "Turns long-form podcast tape into a daily short-form ship packet. Proposes 4 clips, you pick 2, overlays a 3-second hook on one, then schedules only after you say yes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/NA1zDLMoKJZVcjl3mZ2tT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/NA1zDLMoKJZVcjl3mZ2tT",
+  "homepage": "https://x.ai/bot/NA1zDLMoKJZVcjl3mZ2tT",
+  "license": null,
+  "author": "Eric",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

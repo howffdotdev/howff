@@ -1,0 +1,22 @@
+{
+  "slug": "price-error-agent",
+  "name": "Price Error Agent",
+  "category": "personal",
+  "tagline": "Spots pricing mistakes at Australian retailers and on flights out of Australia",
+  "description": "Some listings go up with a digit missing or the tax left off, and vanish within hours. This one watches bargain boards and cheap-fare feeds, among them Beat That Flight, Secret Flying and OzBargain, for exactly those slips at big Australian shops and on flights out of the country, and pings you when a real one shows.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/cbULQqhzmOeeJ9GT2DX7L",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/cbULQqhzmOeeJ9GT2DX7L",
+  "homepage": "https://x.ai/bot/cbULQqhzmOeeJ9GT2DX7L",
+  "license": null,
+  "author": "yoda_FDE",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
