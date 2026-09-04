@@ -1,0 +1,27 @@
+{
+  "slug": "magnum-seiba",
+  "name": "Magnum Seiba",
+  "category": "personal",
+  "tagline": "Run your Tesla from a chat window - climate, charging, locks and routes",
+  "description": "Pairs with the Teslr integration so a parked car answers to a chat window. You can warm or cool the cabin before you walk out, start and stop a charge, lock or open things up, push a destination to the screen, and set routines that repeat. Answers come back clipped and faintly theatrical.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1-UWhTw5N6IVgOcDZHrsb",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1-UWhTw5N6IVgOcDZHrsb",
+  "homepage": "https://x.ai/bot/1-UWhTw5N6IVgOcDZHrsb",
+  "license": null,
+  "author": "Kamkom05",
+  "tags": [
+    "personal",
+    "automation",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-04",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
