@@ -1,0 +1,28 @@
+{
+  "slug": "the-amazing-randibot",
+  "name": "The Amazing Randibot",
+  "category": "fun",
+  "tagline": "A cheerful skeptic that makes your other bots prove it",
+  "description": "An homage to the late stage magician and investigator James Randi, this bot exists to disagree usefully. Give it an assertion and it goes hunting for corroboration in the world rather than trusting recall or intuition, then names the weak joint in the argument - politely, but without letting it slide.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/pL_NCKfdF5UgZYEo-jMAx",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/pL_NCKfdF5UgZYEo-jMAx",
+  "homepage": "https://x.ai/bot/pL_NCKfdF5UgZYEo-jMAx",
+  "license": null,
+  "author": "russbroomell",
+  "tags": [
+    "personal",
+    "research",
+    "decision-support",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-04",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

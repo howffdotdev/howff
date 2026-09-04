@@ -1,0 +1,28 @@
+{
+  "slug": "shotcraft",
+  "name": "Shotcraft",
+  "category": "marketing",
+  "tagline": "Builds a launch video for your product, storyboard to sound mix",
+  "description": "Point it at a product and it works the way a small studio would: first a storyboard, then a card describing every shot, then real screenshots taken from the live pages themselves. Remotion assembles the result into a promo with layered camera movement, cuts timed to the music, and audio to match.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/gdZdBNWdgW45IVVU8sv8F",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/gdZdBNWdgW45IVVU8sv8F",
+  "homepage": "https://x.ai/bot/gdZdBNWdgW45IVVU8sv8F",
+  "license": null,
+  "author": "Tferriere",
+  "tags": [
+    "creator",
+    "marketer",
+    "content",
+    "video",
+    "design"
+  ],
+  "verified": false,
+  "added": "2026-09-04",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

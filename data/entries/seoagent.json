@@ -1,0 +1,28 @@
+{
+  "slug": "seoagent",
+  "name": "SEOAgent",
+  "category": "marketing",
+  "tagline": "Installs itself into your repo and works on search traffic",
+  "description": "Sets up its own skill and command-line tooling inside the GitHub repository behind your site, then keeps working on search visibility from there. The standing jobs are landing pages, written articles and link building, aimed at traffic that accumulates month over month instead of spiking once.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/scYgD9jdFhooaSHihRzy7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/scYgD9jdFhooaSHihRzy7",
+  "homepage": "https://x.ai/bot/scYgD9jdFhooaSHihRzy7",
+  "license": null,
+  "author": "alindsay77",
+  "tags": [
+    "marketer",
+    "seo",
+    "growth",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-04",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

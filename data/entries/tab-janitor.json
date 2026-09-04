@@ -1,0 +1,28 @@
+{
+  "slug": "tab-janitor",
+  "name": "Tab Janitor",
+  "category": "productivity",
+  "tagline": "Clears the abandoned tabs out of a shared cloud browser",
+  "description": "A shared browser session collects debris fast. This bot takes stock of everything currently open, proposes a cleanup without touching a thing on the first pass, respects a list of tabs the owner has marked untouchable, and shuts only what is plainly finished with. Then it reports what it did.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XOYBYmHQrUT_Ux88SS409",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XOYBYmHQrUT_Ux88SS409",
+  "homepage": "https://x.ai/bot/XOYBYmHQrUT_Ux88SS409",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [
+    "ops",
+    "developer",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-04",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

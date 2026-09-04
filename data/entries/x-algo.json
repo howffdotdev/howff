@@ -1,0 +1,28 @@
+{
+  "slug": "x-algo",
+  "name": "X Algo",
+  "category": "marketing",
+  "tagline": "Tells you whether to post now, quote something, or sit tight",
+  "description": "This one reads two things side by side: the openly published ranking source behind the For You timeline, and how your own recent posts are actually performing at this moment. Out of that it makes a call on the next move - start something fresh, quote another account, or wait for a better window.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/W0LrVwNwsRHhFY4PG7586",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/W0LrVwNwsRHhFY4PG7586",
+  "homepage": "https://x.ai/bot/W0LrVwNwsRHhFY4PG7586",
+  "license": null,
+  "author": "UziObi",
+  "tags": [
+    "creator",
+    "social-media",
+    "analytics",
+    "growth",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-09-04",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
