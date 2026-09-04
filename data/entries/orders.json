@@ -1,0 +1,28 @@
+{
+  "slug": "orders",
+  "name": "orders",
+  "category": "personal",
+  "tagline": "A personal desk for every parcel, receipt and refund you are waiting on",
+  "description": "Link your shopping accounts once through the Orbglide Tracker connection, and this bot keeps a running picture of every purchase still in flight. Ask what is due to land this week, how much you have laid out lately, or which returns are still unresolved, and it answers from live account data.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0taQ6RZdkjsnOfda_A8Ie",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/0taQ6RZdkjsnOfda_A8Ie",
+  "homepage": "https://x.ai/bot/0taQ6RZdkjsnOfda_A8Ie",
+  "license": null,
+  "author": "wafffls",
+  "tags": [
+    "personal",
+    "shopping",
+    "monitoring",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-04",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
