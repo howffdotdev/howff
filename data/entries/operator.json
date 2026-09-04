@@ -1,0 +1,28 @@
+{
+  "slug": "operator",
+  "name": "Operator",
+  "category": "productivity",
+  "tagline": "One daily brief for founders, in place of forty open tabs",
+  "description": "Opens with a handful of quick either-or questions so it learns the way you want it run. From then on it takes whatever loose notes have piled up, works them into a single written brief, and hands back an ordered list of the decisions genuinely waiting on you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YgM8FiKS0WczveQXe6edr",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/YgM8FiKS0WczveQXe6edr",
+  "homepage": "https://x.ai/bot/YgM8FiKS0WczveQXe6edr",
+  "license": null,
+  "author": "mjjefford",
+  "tags": [
+    "business",
+    "productivity",
+    "decision-support",
+    "back-office",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-04",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
