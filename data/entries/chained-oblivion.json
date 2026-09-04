@@ -1,0 +1,28 @@
+{
+  "slug": "chained-oblivion",
+  "name": "Chained Oblivion",
+  "category": "finance",
+  "tagline": "Finds the software you keep paying for and nobody uses",
+  "description": "Goes through subscription spending looking for licences sitting idle, trials that quietly converted, two products doing one job, and charges nobody can account for. What comes back is a plain verdict on each line: drop it, keep it, or fold it into something else. Cancelling remains your call.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Loekv1uecl26wWW0lNyfR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Loekv1uecl26wWW0lNyfR",
+  "homepage": "https://x.ai/bot/Loekv1uecl26wWW0lNyfR",
+  "license": null,
+  "author": "mjjefford",
+  "tags": [
+    "business",
+    "saving-money",
+    "finance",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-04",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "dean-of-students",
+  "name": "Dean of Students",
+  "category": "personal",
+  "tagline": "Pulls one child's school admin into a single prepared queue",
+  "description": "Runs per child and gathers what a school throws at a parent from every direction: notes from teachers, the Canvas gradebook, slips needing a signature, term dates and money owed. It arrives sorted and drafted ahead of you. Signatures, payments and any final yes still go through the parent.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_hsyZUFgPzgxGxW2wIYAj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_hsyZUFgPzgxGxW2wIYAj",
+  "homepage": "https://x.ai/bot/_hsyZUFgPzgxGxW2wIYAj",
+  "license": null,
+  "author": "ErinnFL",
+  "tags": [
+    "personal",
+    "family",
+    "productivity",
+    "email",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-04",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

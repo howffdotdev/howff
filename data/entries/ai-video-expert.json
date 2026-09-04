@@ -1,0 +1,28 @@
+{
+  "slug": "ai-video-expert",
+  "name": "AI 视频专家",
+  "category": "marketing",
+  "tagline": "Turns one photograph into a short, moody film clip",
+  "description": "Hand it a single image and a line of direction, and it writes out how the shot should move and what it should feel like before rendering a frame. What comes back is a brief clip with deliberate camera work rather than a drifting animation. Your approval is required before it goes anywhere public.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ES3LVns98INeXAoYwef_f",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ES3LVns98INeXAoYwef_f",
+  "homepage": "https://x.ai/bot/ES3LVns98INeXAoYwef_f",
+  "license": null,
+  "author": "KinGao476942",
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-04",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
