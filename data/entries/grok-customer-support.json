@@ -1,0 +1,28 @@
+{
+  "slug": "grok-customer-support",
+  "name": "Grok Customer Support",
+  "category": "ops",
+  "tagline": "Sits on hold with customer support so you do not have to",
+  "description": "Places the call by wiring a Twilio line through to Grok Voice, so the talking on your end is handled for you. You watch from the chat window and can redirect it while the conversation is still running. It stays on the line until the problem has genuinely been sorted out.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1PSI6qQln1PowM5reA_8L",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1PSI6qQln1PowM5reA_8L",
+  "homepage": "https://x.ai/bot/1PSI6qQln1PowM5reA_8L",
+  "license": null,
+  "author": "jakewlittle",
+  "tags": [
+    "personal",
+    "support",
+    "automation",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-04",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
