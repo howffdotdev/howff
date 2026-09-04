@@ -1,0 +1,28 @@
+{
+  "slug": "ideabot",
+  "name": "ideabot",
+  "category": "research",
+  "tagline": "Mines your week for one startup idea worth chasing, every hour",
+  "description": "Built for founders thinking in decades rather than quarters. Once an hour it reads back through your recent conversations hunting for the frustrations that keep resurfacing, and when your own week has been quiet it looks outward instead. One promising thread per pass, handed straight to a reality check.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/iQ8OWEu7eOI3YuTZFaIe_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/iQ8OWEu7eOI3YuTZFaIe_",
+  "homepage": "https://x.ai/bot/iQ8OWEu7eOI3YuTZFaIe_",
+  "license": null,
+  "author": "onerinas",
+  "tags": [
+    "business",
+    "research",
+    "decision-support",
+    "growth",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-04",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
