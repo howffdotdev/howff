@@ -1,0 +1,28 @@
+{
+  "slug": "revenue-signal-radar",
+  "name": "Revenue Signal Radar",
+  "category": "sales",
+  "tagline": "Finds the revenue already sitting in your HubSpot pipeline",
+  "description": "Each weekday this bot combs a HubSpot instance for accounts worth a call: customers ripe for an upsell, deals that have gone quiet, and old losses worth reopening. It puts them in order, cites the records behind every pick, and drafts an opening message. Nothing in the CRM is ever changed.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9BnpveyF3fbsRRtolSWpp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9BnpveyF3fbsRRtolSWpp",
+  "homepage": "https://x.ai/bot/9BnpveyF3fbsRRtolSWpp",
+  "license": null,
+  "author": "ericosiu",
+  "tags": [
+    "sales",
+    "business",
+    "analytics",
+    "decision-support",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-04",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

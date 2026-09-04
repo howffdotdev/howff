@@ -1,0 +1,28 @@
+{
+  "slug": "primer",
+  "name": "Primer",
+  "category": "development",
+  "tagline": "Straight answers about how Grok Bot actually behaves",
+  "description": "A reference desk covering Grok Bot itself, plus the wider stack of tooling that surrounds it. Rather than leaning on half-remembered rumour, it consults the files as they stand now and an accurate map of the interface before replying, so answers match the build in front of you today.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/GTStkB5wsoSlGx9jtdaPe",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/GTStkB5wsoSlGx9jtdaPe",
+  "homepage": "https://x.ai/bot/GTStkB5wsoSlGx9jtdaPe",
+  "license": null,
+  "author": "ambientstudio24",
+  "tags": [
+    "developer",
+    "knowledge-base",
+    "learning",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-04",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "pickfu-insights",
+  "name": "PickFu Insights",
+  "category": "research",
+  "tagline": "Test a product idea on real shoppers before you build it",
+  "description": "Describe the choice you are stuck on - a name, a cover image, a price, a feature - and this bot writes a consumer poll around it, puts that in front of a paid PickFu panel, and reads the answers back as a recommendation. The idea is to spend a little on evidence instead of months on a guess.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9EFVmFgQhjYKjMHAhpCWn",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9EFVmFgQhjYKjMHAhpCWn",
+  "homepage": "https://x.ai/bot/9EFVmFgQhjYKjMHAhpCWn",
+  "license": null,
+  "author": "GrokBotMoney",
+  "tags": [
+    "business",
+    "marketer",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-04",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

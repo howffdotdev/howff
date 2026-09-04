@@ -1,0 +1,28 @@
+{
+  "slug": "precog-wars",
+  "name": "Precog wARS",
+  "category": "finance",
+  "tagline": "Reads Precog prediction-market odds in Spanish, and never trades",
+  "description": "A Spanish-language lookup desk for Precog markets denominated in wARS, running across Base and Arbitrum. Ask about a question and it returns the current on-chain probability for each market, one result to a line, with no commentary layered on top. It is built without the ability to take a position.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7M8RpppF2AistbVbeEPyN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7M8RpppF2AistbVbeEPyN",
+  "homepage": "https://x.ai/bot/7M8RpppF2AistbVbeEPyN",
+  "license": null,
+  "author": "ferminrp",
+  "tags": [
+    "investor",
+    "crypto",
+    "finance",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-04",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
