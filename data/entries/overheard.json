@@ -1,0 +1,25 @@
+{
+  "slug": "overheard",
+  "name": "Overheard",
+  "category": "research",
+  "tagline": "Watches Reddit, Hacker News, news sites, and X for third-party mentions of your name, brand, and URLs.",
+  "description": "Watches Reddit, Hacker News, news sites, and X for third-party mentions of your name, brand, and URLs, then sends a short weekday digest when something clears the bar. Stays quiet on dead days and never posts on your behalf.",
+  "integrations": [
+    "X",
+    "Reddit"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/NIEguoGUjA648fUPle8F5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/NIEguoGUjA648fUPle8F5",
+  "homepage": "https://x.ai/bot/NIEguoGUjA648fUPle8F5",
+  "license": null,
+  "author": "Lenny Rachitsky",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
