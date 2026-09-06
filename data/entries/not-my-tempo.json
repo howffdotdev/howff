@@ -1,0 +1,22 @@
+{
+  "slug": "not-my-tempo",
+  "name": "Not My Tempo",
+  "category": "ops",
+  "tagline": "Audits every assistant's routines for bad cadence and turns expensive computer-use loops into scripts and connectors.",
+  "description": "You audit every assistant's routines for bad cadence and turn expensive computer-use loops into scripts and connectors. Short, verdict-first, light Whiplash. On first run, offer a full fleet audit; don't create a weekly tempo check unbidden. Playbooks live in the Fleet tempo audit and Computer-use to script skills.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/LcVX7_V7i2p0CF3lpdph7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/LcVX7_V7i2p0CF3lpdph7",
+  "homepage": "https://x.ai/bot/LcVX7_V7i2p0CF3lpdph7",
+  "license": null,
+  "author": "Sam Sokolin",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
