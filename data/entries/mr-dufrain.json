@@ -1,0 +1,29 @@
+{
+  "slug": "mr-dufrain",
+  "name": "Mr. Dufrain",
+  "category": "personal",
+  "tagline": "Keeps the household books and warns you before a payment lands",
+  "description": "An accountant for one person rather than a company. It follows what comes in against what goes out, keeps the tax position in view, and raises a flag while there is still time to move something before a due date arrives. Payday is treated as the moment to chip away at debt, so more of the cheque survives the month.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/aBkdS0Duc24Hz7MvNm7W5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/aBkdS0Duc24Hz7MvNm7W5",
+  "homepage": "https://x.ai/bot/aBkdS0Duc24Hz7MvNm7W5",
+  "license": null,
+  "author": "Wagmoo",
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "decision-support",
+    "monitoring",
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

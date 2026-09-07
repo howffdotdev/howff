@@ -1,0 +1,31 @@
+{
+  "slug": "markets-brief-scout",
+  "name": "Markets Brief Scout",
+  "category": "finance",
+  "tagline": "A weekday market read that also writes the posts about it",
+  "description": "Built for people who both follow markets and write about them. Each weekday morning it assembles compact cards on the tickers you track, every one carrying its sources, and keeps what you privately reckon apart from what is worth saying out loud. Anything publishable arrives as a draft; nothing goes out on its own.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/exSOooSSp0Pc4W_K9DQ4T",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/exSOooSSp0Pc4W_K9DQ4T",
+  "homepage": "https://x.ai/bot/exSOooSSp0Pc4W_K9DQ4T",
+  "license": null,
+  "author": "SpheraVox",
+  "tags": [
+    "investor",
+    "creator",
+    "news",
+    "finance",
+    "research",
+    "monitoring",
+    "scheduled",
+    "social-media"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

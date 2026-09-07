@@ -1,0 +1,27 @@
+{
+  "slug": "online-identity-bot",
+  "name": "Online Identity Bot",
+  "category": "personal",
+  "tagline": "Checks each day what the search engines are exposing about you",
+  "description": "Once a day it looks for you the way a stranger would, querying the big search engines for your name, phone number, home address and email, then sorts anything newly surfaced into categories and sends back a tally. It only reads and records - it never signs into a removal service or files takedowns itself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_",
+  "homepage": "https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_",
+  "license": null,
+  "author": "Greg",
+  "tags": [
+    "personal",
+    "monitoring",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

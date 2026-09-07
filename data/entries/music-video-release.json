@@ -1,0 +1,28 @@
+{
+  "slug": "music-video-release",
+  "name": "Music Video Release",
+  "category": "marketing",
+  "tagline": "Turns your track and lyrics into a timed shot list and a prompt board",
+  "description": "Give it the MP3, the lyrics and the visual lane you want, and it plans the video: a brief, a structure, a timed shot list, a copy-paste prompt board, a stitch order and a release checklist. It never invents lyrics, does not generate the footage, and uploads nothing - publishing stays yours.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vagsUEIt5s7lexKnSes2H",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vagsUEIt5s7lexKnSes2H",
+  "homepage": "https://x.ai/bot/vagsUEIt5s7lexKnSes2H",
+  "license": null,
+  "author": "Joseph",
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "design",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

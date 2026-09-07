@@ -1,0 +1,22 @@
+{
+  "slug": "office-ops-desk",
+  "name": "Office Ops Desk",
+  "category": "writing",
+  "tagline": "Tracks office shipments, facilities issues, and team birthdays, then writes the digests",
+  "description": "Tracks office shipments, facilities issues, and team birthdays, then writes the digests. Works from a pasted list or a spreadsheet, and never sends...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/afZj-XnYkThA4MB7GfZK6",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/afZj-XnYkThA4MB7GfZK6",
+  "homepage": "https://x.ai/bot/afZj-XnYkThA4MB7GfZK6",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
