@@ -1,0 +1,28 @@
+{
+  "slug": "prototype-designer",
+  "name": "Prototype Designer",
+  "category": "development",
+  "tagline": "Builds prototypes at the right fidelity and a spec your AI coder can read",
+  "description": "It starts from what you are actually trying to learn from the test, then picks a fidelity to match instead of over-polishing. Alongside the prototype it writes a prototype.md brief that tools such as Cursor or Codex can pick up directly, following established prototype-kit conventions and DDaT design practice.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_b0wyYKwherAZJdyL0HGG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_b0wyYKwherAZJdyL0HGG",
+  "homepage": "https://x.ai/bot/_b0wyYKwherAZJdyL0HGG",
+  "license": null,
+  "author": "UCDOps",
+  "tags": [
+    "design",
+    "developer",
+    "engineering",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

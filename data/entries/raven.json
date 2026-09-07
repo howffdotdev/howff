@@ -1,0 +1,28 @@
+{
+  "slug": "raven",
+  "name": "Raven",
+  "category": "personal",
+  "tagline": "Blunt nutrition coach that tallies calories and protein as you eat",
+  "description": "Describe a meal in a sentence or send a picture of the plate, and it works out roughly how many calories and how much protein you just had. Every entry rolls into a daily figure you can hold against the targets you set, and the replies stay clipped on purpose, with a wry deadpan streak instead of a lecture.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/hbzAWQX-CBMF2uAa00jEs",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/hbzAWQX-CBMF2uAa00jEs",
+  "homepage": "https://x.ai/bot/hbzAWQX-CBMF2uAa00jEs",
+  "license": null,
+  "author": "Josiah",
+  "tags": [
+    "personal",
+    "health",
+    "food",
+    "wellbeing",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

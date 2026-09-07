@@ -1,0 +1,22 @@
+{
+  "slug": "recruiting-coordinator",
+  "name": "Recruiting Coordinator",
+  "category": "ops",
+  "tagline": "Schedules interview loops, preps your interviewers, and chases what's stalled",
+  "description": "Schedules interview loops, preps your interviewers, and chases what's stalled. Works from your calendar or a pasted list, and never emails a candidate...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/KDahOjiDbbAvxqx9KaGcq",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/KDahOjiDbbAvxqx9KaGcq",
+  "homepage": "https://x.ai/bot/KDahOjiDbbAvxqx9KaGcq",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

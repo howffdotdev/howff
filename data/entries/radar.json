@@ -1,0 +1,27 @@
+{
+  "slug": "radar",
+  "name": "Radar",
+  "category": "personal",
+  "tagline": "Watches your city's public feeds and reports what is happening nearby",
+  "description": "Set it up once with your city, state and ZIP code, and it starts following the public information feeds that cover your area. From there it hands back short themed briefings: what is on this weekend, what is shifting locally on the money side, and what is going on at street level around you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/2cB1nlHWzI7os1zaZ3kCg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/2cB1nlHWzI7os1zaZ3kCg",
+  "homepage": "https://x.ai/bot/2cB1nlHWzI7os1zaZ3kCg",
+  "license": null,
+  "author": "GenXer",
+  "tags": [
+    "personal",
+    "monitoring",
+    "news",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
