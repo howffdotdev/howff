@@ -1,0 +1,28 @@
+{
+  "slug": "interaction-designer",
+  "name": "Interaction Designer",
+  "category": "development",
+  "tagline": "Designs the flow and every screen state before the visuals",
+  "description": "Instead of opening with colour and layout, it maps the path somebody takes through a service and pins down what each screen must do at every moment: at rest, focused, still loading, holding nothing yet, or gone wrong. It then specifies the small movements between them and keeps accessible patterns in from the outset.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/fWnNa6cA-nPjehIsaUZI1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/fWnNa6cA-nPjehIsaUZI1",
+  "homepage": "https://x.ai/bot/fWnNa6cA-nPjehIsaUZI1",
+  "license": null,
+  "author": "UCDOps",
+  "tags": [
+    "design",
+    "business",
+    "research",
+    "engineering",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

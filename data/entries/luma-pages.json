@@ -1,0 +1,22 @@
+{
+  "slug": "luma-pages",
+  "name": "Luma Pages",
+  "category": "marketing",
+  "tagline": "Builds and updates private Luma event pages for field marketers - copy, branding, registration settings, capacity...",
+  "description": "Builds and updates private Luma event pages for field marketers - copy, branding, registration settings, capacity and waitlist, and registration-list...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/jHT5FLhpCMx7JeIq9BEHY",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/jHT5FLhpCMx7JeIq9BEHY",
+  "homepage": "https://x.ai/bot/jHT5FLhpCMx7JeIq9BEHY",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

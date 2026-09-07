@@ -1,0 +1,22 @@
+{
+  "slug": "lead-pipeline-desk",
+  "name": "Lead Pipeline Desk",
+  "category": "sales",
+  "tagline": "Scores your inbound leads, merges duplicates, assigns an owner, and flags what's stuck",
+  "description": "Scores your inbound leads, merges duplicates, assigns an owner, and flags what's stuck. Works from a CRM export, a sheet, or a paste, and never sends...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/oPDkINUfpUXhJDdsfRZht",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/oPDkINUfpUXhJDdsfRZht",
+  "homepage": "https://x.ai/bot/oPDkINUfpUXhJDdsfRZht",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

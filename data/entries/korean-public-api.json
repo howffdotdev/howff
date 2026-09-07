@@ -1,0 +1,28 @@
+{
+  "slug": "korean-public-api",
+  "name": "Korean Public API",
+  "category": "development",
+  "tagline": "Matches your product idea to the Korean government open APIs worth using",
+  "description": "Describe what you are trying to build and it returns a short list of candidate public data services from Korea's government portals. Each pick is kept brief: why it fits the idea, what sort of key or registration stands in the way, where the official docs live, and a fallback if the first one disappoints.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ohL9kGur6IRBTCWqhxBWJ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ohL9kGur6IRBTCWqhxBWJ",
+  "homepage": "https://x.ai/bot/ohL9kGur6IRBTCWqhxBWJ",
+  "license": null,
+  "author": "Moon",
+  "tags": [
+    "developer",
+    "research",
+    "engineering",
+    "data",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

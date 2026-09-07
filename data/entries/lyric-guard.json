@@ -1,0 +1,28 @@
+{
+  "slug": "lyric-guard",
+  "name": "Lyric Guard",
+  "category": "personal",
+  "tagline": "Scores a song's lyrics against a Christian listening standard, 1 to 10",
+  "description": "Give it a track and it reads the words through a scriptural frame, then returns a number together with the reasoning behind it. Crucially it quotes the lines it is actually judging rather than paraphrasing or inventing them, so you can weigh the verdict yourself instead of taking it on trust.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/NCOULqxHrobWGWgAbQ-Er",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/NCOULqxHrobWGWgAbQ-Er",
+  "homepage": "https://x.ai/bot/NCOULqxHrobWGWgAbQ-Er",
+  "license": null,
+  "author": "Jerrod",
+  "tags": [
+    "personal",
+    "content",
+    "decision-support",
+    "analytics",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

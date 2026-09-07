@@ -1,0 +1,28 @@
+{
+  "slug": "mail-agency-outreach-sniper",
+  "name": "Mail Agency Outreach Sniper",
+  "category": "sales",
+  "tagline": "Turns LinkedIn engagement into verified work emails and individually written intros",
+  "description": "Point it at the people engaging with a post - yours or a competitor's - or at a follower list. It browses LinkedIn as you, finds and verifies their work emails through MailAgency, writes each intro individually rather than blasting one template, and sends from your own connected mailbox.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/QCYjr5VyQAoDTywMogJbU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/QCYjr5VyQAoDTywMogJbU",
+  "homepage": "https://x.ai/bot/QCYjr5VyQAoDTywMogJbU",
+  "license": null,
+  "author": "Philip",
+  "tags": [
+    "sales",
+    "growth",
+    "email",
+    "automation",
+    "social-media"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

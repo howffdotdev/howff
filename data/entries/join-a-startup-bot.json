@@ -1,0 +1,28 @@
+{
+  "slug": "join-a-startup-bot",
+  "name": "Join a Startup Bot",
+  "category": "personal",
+  "tagline": "Brings a handful of startup jobs to your messages every day",
+  "description": "For anyone trying to get into a company early rather than late. Each day it turns up a small set of roles - somewhere between three and ten - drawn from places the big job boards never index, and sends them straight to your messages. Ask, and it will go further and help you approach the people hiring.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7",
+  "homepage": "https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7",
+  "license": null,
+  "author": "Ben",
+  "tags": [
+    "personal",
+    "recruiting",
+    "growth",
+    "research",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

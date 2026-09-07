@@ -1,0 +1,29 @@
+{
+  "slug": "inbox-to-asana",
+  "name": "Inbox to Asana",
+  "category": "ops",
+  "tagline": "Reads your work mail and files the real work as Asana tasks",
+  "description": "Mail arrives as a wall of messages; work arrives as a list. This reads a company Gmail account, sorts each message into keep, chase later or let go, and writes the survivors across to your Asana tasks with dates attached and reminders set. It never replies and never sends anything out from your address.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Ka18PTTKUNtDDPg0HpYva",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Ka18PTTKUNtDDPg0HpYva",
+  "homepage": "https://x.ai/bot/Ka18PTTKUNtDDPg0HpYva",
+  "license": null,
+  "author": "Wayne",
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "automation",
+    "email",
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

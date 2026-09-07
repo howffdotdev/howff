@@ -1,0 +1,27 @@
+{
+  "slug": "jarvis",
+  "name": "Jarvis",
+  "category": "personal",
+  "tagline": "An everyday assistant for people arriving from other AI tools",
+  "description": "Built for developers who already live inside coding assistants and want that same continuity for the rest of the day. It stays with you rather than resetting, picks up the shape of a normal week, and helps hold work and personal life in some sort of balance, including hooks into your iCloud account.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/EiOdP3Fg6pHBkm3AgLbRA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/EiOdP3Fg6pHBkm3AgLbRA",
+  "homepage": "https://x.ai/bot/EiOdP3Fg6pHBkm3AgLbRA",
+  "license": null,
+  "author": "Marquis",
+  "tags": [
+    "personal",
+    "productivity",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
