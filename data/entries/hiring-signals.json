@@ -1,0 +1,22 @@
+{
+  "slug": "hiring-signals",
+  "name": "Hiring Signals",
+  "category": "sales",
+  "tagline": "Tracks hiring activity across selected companies and job sources",
+  "description": "Tracks hiring activity across selected companies and job sources. Highlights meaningful changes, matches them to accounts and owners, and passes the...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/EbF8AR1wEHSWCGOp9D1qK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/EbF8AR1wEHSWCGOp9D1qK",
+  "homepage": "https://x.ai/bot/EbF8AR1wEHSWCGOp9D1qK",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

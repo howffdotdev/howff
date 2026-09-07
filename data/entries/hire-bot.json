@@ -1,0 +1,28 @@
+{
+  "slug": "hire-bot",
+  "name": "hire-bot",
+  "category": "ops",
+  "tagline": "Handles the paperwork half of hiring, from candidate notes to offer letter",
+  "description": "It sits across your applicant tracking system, LinkedIn and your inbox, gathering what has already been said about a candidate in scattered conversations. From that context it will put together a first draft of a contractor agreement or a formal offer, leaving every hiring decision itself to you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Q9Vbc3gbldDnJBmUfcip-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Q9Vbc3gbldDnJBmUfcip-",
+  "homepage": "https://x.ai/bot/Q9Vbc3gbldDnJBmUfcip-",
+  "license": null,
+  "author": "xsubwayratx",
+  "tags": [
+    "recruiting",
+    "business",
+    "automation",
+    "back-office",
+    "email"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

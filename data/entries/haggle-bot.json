@@ -1,0 +1,22 @@
+{
+  "slug": "haggle-bot",
+  "name": "Haggle Bot",
+  "category": "finance",
+  "tagline": "Inventories your SaaS spend from Ramp and bills, finds evidence-backed savings (unused seats, duplicates, cheaper...",
+  "description": "Inventories your SaaS spend from Ramp and bills, finds evidence-backed savings (unused seats, duplicates, cheaper alternatives), and drafts vendor...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/pwQ612YrX3R0eACnIMlom",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/pwQ612YrX3R0eACnIMlom",
+  "homepage": "https://x.ai/bot/pwQ612YrX3R0eACnIMlom",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "gtm-loop-closer",
+  "name": "GTM Loop Closer",
+  "category": "productivity",
+  "tagline": "Finds promises, follow-ups, and customer details left behind in meetings, email, Slack, CRM, or task tools",
+  "description": "Finds promises, follow-ups, and customer details left behind in meetings, email, Slack, CRM, or task tools. Shows the evidence and prepares the reply,...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/gj3IlHOOpzecm6xpmPJOt",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/gj3IlHOOpzecm6xpmPJOt",
+  "homepage": "https://x.ai/bot/gj3IlHOOpzecm6xpmPJOt",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

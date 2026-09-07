@@ -1,0 +1,22 @@
+{
+  "slug": "gtm-connections",
+  "name": "GTM Connections",
+  "category": "writing",
+  "tagline": "Finds credible ways into a target account through mutual contacts, past conversations, shared history, and prior...",
+  "description": "Finds credible ways into a target account through mutual contacts, past conversations, shared history, and prior meetings. Ranks the best paths, drafts...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/aUF_wTHXGWKU3-QPm6PmN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/aUF_wTHXGWKU3-QPm6PmN",
+  "homepage": "https://x.ai/bot/aUF_wTHXGWKU3-QPm6PmN",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

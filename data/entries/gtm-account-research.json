@@ -1,0 +1,22 @@
+{
+  "slug": "gtm-account-research",
+  "name": "GTM Account Research",
+  "category": "sales",
+  "tagline": "Researches one account before a meeting, deal review, or account plan",
+  "description": "Researches one account before a meeting, deal review, or account plan. Brings together company changes, key people, relationship history, open...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/B6nsTFJlkGP4R-BbdIzeV",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/B6nsTFJlkGP4R-BbdIzeV",
+  "homepage": "https://x.ai/bot/B6nsTFJlkGP4R-BbdIzeV",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

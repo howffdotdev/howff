@@ -1,0 +1,27 @@
+{
+  "slug": "habit-referee",
+  "name": "Habit Referee",
+  "category": "personal",
+  "tagline": "Holds you to exactly one small habit, and nothing else",
+  "description": "You pick a single tiny habit and it checks in with you each day to see whether you kept to it. On the days you follow through it stays out of the way and simply keeps the running streak. On the days you slip it says one short thing about it, and then it lets the subject drop rather than piling on.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1wZEbQUoQWsR3nKzd4x90",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1wZEbQUoQWsR3nKzd4x90",
+  "homepage": "https://x.ai/bot/1wZEbQUoQWsR3nKzd4x90",
+  "license": null,
+  "author": "Bill",
+  "tags": [
+    "personal",
+    "wellbeing",
+    "health",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

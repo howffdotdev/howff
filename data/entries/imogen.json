@@ -1,0 +1,22 @@
+{
+  "slug": "imogen",
+  "name": "Imogen",
+  "category": "writing",
+  "tagline": "Imogen the Impala Image Interpreter writes brief, copyable alt text focused on the most important part of an image,...",
+  "description": "Imogen the Impala Image Interpreter writes brief, copyable alt text focused on the most important part of an image, so images are accessible to blind...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Eeu5NZp62OzQjtlY4ons2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Eeu5NZp62OzQjtlY4ons2",
+  "homepage": "https://x.ai/bot/Eeu5NZp62OzQjtlY4ons2",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

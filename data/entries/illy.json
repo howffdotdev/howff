@@ -1,0 +1,27 @@
+{
+  "slug": "illy",
+  "name": "Illy",
+  "category": "marketing",
+  "tagline": "The illustrator half of a children's storybook bot pair",
+  "description": "It picks up page briefs from a writing teammate, covering the scene to draw, the age group being written for and any notes on style, then turns each one into artwork for the book. The emphasis is on holding the look steady from page to page so the finished title reads as one coherent piece.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/umrsMy_xpJxZ8vTN5Qz0o",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/umrsMy_xpJxZ8vTN5Qz0o",
+  "homepage": "https://x.ai/bot/umrsMy_xpJxZ8vTN5Qz0o",
+  "license": null,
+  "author": "GenXer",
+  "tags": [
+    "creator",
+    "design",
+    "agent-team",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

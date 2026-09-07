@@ -1,0 +1,22 @@
+{
+  "slug": "gtm-prospecting",
+  "name": "GTM Prospecting",
+  "category": "sales",
+  "tagline": "Turns an ideal customer profile into a focused prospect list, adds useful context, and checks for existing...",
+  "description": "Turns an ideal customer profile into a focused prospect list, adds useful context, and checks for existing relationships. Drafts first-touch email and...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/RpAQeGjhzaiO6_Rq_4fyC",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/RpAQeGjhzaiO6_Rq_4fyC",
+  "homepage": "https://x.ai/bot/RpAQeGjhzaiO6_Rq_4fyC",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
