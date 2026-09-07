@@ -1,0 +1,28 @@
+{
+  "slug": "video-clip",
+  "name": "Video Clip",
+  "category": "personal",
+  "tagline": "Tracks down the real version of a clip and hands you the file",
+  "description": "Re-uploads are everywhere and most of them are the wrong cut. Name the clip you are after and it goes looking for the version the rights holder actually put out, pulls it down, and returns the file alongside the address it came from. One authoritative copy rather than a pile of mirrors.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/oOFMzoZv7OEKHO-XwXHWX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/oOFMzoZv7OEKHO-XwXHWX",
+  "homepage": "https://x.ai/bot/oOFMzoZv7OEKHO-XwXHWX",
+  "license": null,
+  "author": "dogenorway",
+  "tags": [
+    "personal",
+    "creator",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

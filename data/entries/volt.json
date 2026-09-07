@@ -1,0 +1,31 @@
+{
+  "slug": "volt",
+  "name": "Volt",
+  "category": "personal",
+  "tagline": "Hunts down the cheapest way to lease or buy a Tesla where you live",
+  "description": "Searches out the strongest lease and purchase offers on a Tesla near you, assuming a Model 3 or Model Y unless you say otherwise. It sets manufacturer finance, brokers, salary-sacrifice schemes and used stock side by side on matching terms with a live link behind every quote, and will draft the ask to your employer.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/QZ6VW1zRJTb4ZY5DNk5pm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/QZ6VW1zRJTb4ZY5DNk5pm",
+  "homepage": "https://x.ai/bot/QZ6VW1zRJTb4ZY5DNk5pm",
+  "license": null,
+  "author": "Benn",
+  "tags": [
+    "personal",
+    "business",
+    "shopping",
+    "finance",
+    "saving-money",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

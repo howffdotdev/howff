@@ -1,0 +1,31 @@
+{
+  "slug": "yahoo-pulse",
+  "name": "Yahoo Pulse",
+  "category": "finance",
+  "tagline": "A read-only daily brief on the tickers you follow, with charts and news",
+  "description": "Keeps an eye on a personal list of stock symbols and hands back a plain briefing. It pulls quotes from a free charting endpoint, gathers the headlines tied to each symbol, and renders price-and-volume images you can scan in seconds. It reports only: it places no orders and gives no investment advice.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5nnJJwVjO4EwThIaaaynu",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5nnJJwVjO4EwThIaaaynu",
+  "homepage": "https://x.ai/bot/5nnJJwVjO4EwThIaaaynu",
+  "license": null,
+  "author": "Thomas",
+  "tags": [
+    "investor",
+    "personal",
+    "finance",
+    "monitoring",
+    "research",
+    "analytics",
+    "news",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

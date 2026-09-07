@@ -1,0 +1,22 @@
+{
+  "slug": "wtd",
+  "name": "WTD",
+  "category": "marketing",
+  "tagline": "WTD is a VIP hospitality planning partner for marketing ops - project-plan and status rhythm across tentpoles and...",
+  "description": "WTD is a VIP hospitality planning partner for marketing ops - project-plan and status rhythm across tentpoles and ticket banks, nomination-sheet...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Q3VCc_x0Y8lWd4m-rung2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Q3VCc_x0Y8lWd4m-rung2",
+  "homepage": "https://x.ai/bot/Q3VCc_x0Y8lWd4m-rung2",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

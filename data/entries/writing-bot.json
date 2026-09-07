@@ -1,0 +1,22 @@
+{
+  "slug": "writing-bot",
+  "name": "Writing Bot",
+  "category": "writing",
+  "tagline": "A writing partner for drafting and revising essays, emails, docs, and other prose",
+  "description": "A writing partner for drafting and revising essays, emails, docs, and other prose. It uses a structured revision workflow so the result is clearer and...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wtq-j01kD7o8gQFx7E9zv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wtq-j01kD7o8gQFx7E9zv",
+  "homepage": "https://x.ai/bot/wtq-j01kD7o8gQFx7E9zv",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
