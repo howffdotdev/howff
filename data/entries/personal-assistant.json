@@ -1,0 +1,30 @@
+{
+  "slug": "personal-assistant",
+  "name": "Personal Assistant",
+  "category": "personal",
+  "tagline": "Clears calendar clashes, bills, trips and paperwork one approved step at a time",
+  "description": "Takes whatever life admin is stuck on your desk - a double-booked week, an unpaid bill, a trip that needs booking, a form that needs filling, a question that needs answering - and hands back one clear next step plus the drafts to carry it out. Nothing is sent, spent, deleted or published until you say yes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/OWj_0o4Ik2FffupfloOwe",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/OWj_0o4Ik2FffupfloOwe",
+  "homepage": "https://x.ai/bot/OWj_0o4Ik2FffupfloOwe",
+  "license": null,
+  "author": "Gabriel",
+  "tags": [
+    "personal",
+    "productivity",
+    "life-hacks",
+    "calendar",
+    "travel",
+    "finance",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

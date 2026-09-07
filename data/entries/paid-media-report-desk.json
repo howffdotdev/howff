@@ -1,0 +1,22 @@
+{
+  "slug": "paid-media-report-desk",
+  "name": "Paid Media Report Desk",
+  "category": "marketing",
+  "tagline": "Turns your Google Ads, Meta, and LinkedIn exports into one weekly report with commentary",
+  "description": "Turns your Google Ads, Meta, and LinkedIn exports into one weekly report with commentary. Answers reporting asks in Slack with real numbers, and never...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/qBFjPRQ3IbHG69qIFHblE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/qBFjPRQ3IbHG69qIFHblE",
+  "homepage": "https://x.ai/bot/qBFjPRQ3IbHG69qIFHblE",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

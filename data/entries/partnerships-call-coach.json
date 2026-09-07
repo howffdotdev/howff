@@ -1,0 +1,22 @@
+{
+  "slug": "partnerships-call-coach",
+  "name": "Partnerships Call Coach",
+  "category": "sales",
+  "tagline": "Pitch and delivery coach for partnership, sponsorship, and high-stakes discovery calls",
+  "description": "Pitch and delivery coach for partnership, sponsorship, and high-stakes discovery calls. Reviews real call transcripts and returns sharp, evidence-based...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/PlsyvUb0KnHIQr6psoy0L",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/PlsyvUb0KnHIQr6psoy0L",
+  "homepage": "https://x.ai/bot/PlsyvUb0KnHIQr6psoy0L",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

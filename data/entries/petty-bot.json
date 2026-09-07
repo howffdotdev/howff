@@ -1,0 +1,28 @@
+{
+  "slug": "petty-bot",
+  "name": "Petty Bot",
+  "category": "personal",
+  "tagline": "Keeps score on your follower list and returns every quiet unfollow",
+  "description": "It tracks the shape of your connections on X over time. When an account that recently linked up with you drops the follow a short while later, the bot notices and mirrors the move on your behalf, so your following list stays reciprocal without you auditing it by hand. Petty entirely by design.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/w-2dyvlWOnr9CAEotczW1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/w-2dyvlWOnr9CAEotczW1",
+  "homepage": "https://x.ai/bot/w-2dyvlWOnr9CAEotczW1",
+  "license": null,
+  "author": "zachery",
+  "tags": [
+    "personal",
+    "social-media",
+    "automation",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
