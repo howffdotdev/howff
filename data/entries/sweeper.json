@@ -1,0 +1,29 @@
+{
+  "slug": "sweeper",
+  "name": "Sweeper",
+  "category": "development",
+  "tagline": "Finds the files your deleted bots left behind and clears them on your say-so",
+  "description": "Delete a bot and its working files tend to stay exactly where they were, sitting next to transcripts from workers that finished their job months ago. This one walks the storage attached to your account, lists what looks abandoned and where it came from, then waits for a yes from you before erasing anything.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/e9A5Krbs1RSm7HCv0IwQz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/e9A5Krbs1RSm7HCv0IwQz",
+  "homepage": "https://x.ai/bot/e9A5Krbs1RSm7HCv0IwQz",
+  "license": null,
+  "author": "GenXer",
+  "tags": [
+    "developer",
+    "ops",
+    "meta-bot",
+    "automation",
+    "back-office",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

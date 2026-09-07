@@ -1,0 +1,22 @@
+{
+  "slug": "talent-discovery",
+  "name": "Talent Discovery",
+  "category": "productivity",
+  "tagline": "Finds candidates for open roles that match your criteria and aren't already in your ATS",
+  "description": "Finds candidates for open roles that match your criteria and aren't already in your ATS.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vIX2YW6rr6nQnf8-Rhyzc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vIX2YW6rr6nQnf8-Rhyzc",
+  "homepage": "https://x.ai/bot/vIX2YW6rr6nQnf8-Rhyzc",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

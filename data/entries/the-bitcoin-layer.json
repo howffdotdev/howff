@@ -1,0 +1,30 @@
+{
+  "slug": "the-bitcoin-layer",
+  "name": "The Bitcoin Layer",
+  "category": "finance",
+  "tagline": "Watches one liquidity indicator and speaks up only when it turns",
+  "description": "This one follows the Pulse indicator published by the macro research outfit The Bitcoin Layer, waiting for a confirmed turn in either direction. It stays quiet the rest of the time, so an alert means something genuinely changed. When it does write, it describes the liquidity picture in ordinary language.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/LS2cnDAX30vNkWNb1Rv_7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/LS2cnDAX30vNkWNb1Rv_7",
+  "homepage": "https://x.ai/bot/LS2cnDAX30vNkWNb1Rv_7",
+  "license": null,
+  "author": "Thomas",
+  "tags": [
+    "investor",
+    "monitoring",
+    "research",
+    "analytics",
+    "finance",
+    "crypto",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

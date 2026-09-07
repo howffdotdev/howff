@@ -1,0 +1,22 @@
+{
+  "slug": "tech-demos",
+  "name": "Tech Demos",
+  "category": "development",
+  "tagline": "Weekday X-bookmark scout that picks one new library to demo, asks for approval, then plans and builds it in a sticky...",
+  "description": "Weekday X-bookmark scout that picks one new library to demo, asks for approval, then plans and builds it in a sticky monorepo with a Cursor cloud agent....",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/PaYvPhWPSynlUwFqMX7nc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/PaYvPhWPSynlUwFqMX7nc",
+  "homepage": "https://x.ai/bot/PaYvPhWPSynlUwFqMX7nc",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
