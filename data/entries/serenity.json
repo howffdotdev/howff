@@ -1,0 +1,28 @@
+{
+  "slug": "serenity",
+  "name": "Serenity 티커 알림",
+  "category": "finance",
+  "tagline": "Watches one trader's X feed and pings you privately when a ticker call lands",
+  "description": "Every quarter of an hour it re-reads a nominated X account through a public mirror and pulls out any fresh entry, add-on or long position mentioned against a ticker symbol. Whatever it finds is repeated back inside your own chat and nowhere else, without spending X API quota. It relays, it does not recommend.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ZYVnoJMU4earifCeQzJdQ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ZYVnoJMU4earifCeQzJdQ",
+  "homepage": "https://x.ai/bot/ZYVnoJMU4earifCeQzJdQ",
+  "license": null,
+  "author": "krong",
+  "tags": [
+    "investor",
+    "finance",
+    "monitoring",
+    "scheduled",
+    "social-media"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

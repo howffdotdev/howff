@@ -1,0 +1,22 @@
+{
+  "slug": "stills-clips-desk",
+  "name": "Stills & Clips Desk",
+  "category": "writing",
+  "tagline": "Pulls stills, thumbnails, and short clips out of your footage, sized for where they go",
+  "description": "Pulls stills, thumbnails, and short clips out of your footage, sized for where they go. Cleans up screenshots for docs too, and writes the caption and...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/V8XugyLxzbQXLM9o5b3B-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/V8XugyLxzbQXLM9o5b3B-",
+  "homepage": "https://x.ai/bot/V8XugyLxzbQXLM9o5b3B-",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

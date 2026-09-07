@@ -1,0 +1,28 @@
+{
+  "slug": "slacker",
+  "name": "Slacker",
+  "category": "ops",
+  "tagline": "Cuts Slack down to the handful of messages that actually need you",
+  "description": "Aimed at revenue and enablement leads who live in a loud workspace. Three times a day it sweeps the channels and hands you a short list of only the threads genuinely waiting on your answer, each one already paired with a reply you can send as-is. Silence means nothing needs you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/R-TSImHItwbFHL8vYj9sc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/R-TSImHItwbFHL8vYj9sc",
+  "homepage": "https://x.ai/bot/R-TSImHItwbFHL8vYj9sc",
+  "license": null,
+  "author": "Scott",
+  "tags": [
+    "ops",
+    "business",
+    "productivity",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "skippy",
+  "name": "skippy",
+  "category": "productivity",
+  "tagline": "A San Francisco street-cleaning assistant",
+  "description": "A San Francisco street-cleaning assistant. Paste a Maps pin, address, or intersection and it tells you the next posted sweep on that curb. Uses public...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/X4NHZvN9cvBBS5EgdjsLx",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/X4NHZvN9cvBBS5EgdjsLx",
+  "homepage": "https://x.ai/bot/X4NHZvN9cvBBS5EgdjsLx",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

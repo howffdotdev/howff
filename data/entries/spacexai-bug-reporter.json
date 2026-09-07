@@ -1,0 +1,28 @@
+{
+  "slug": "spacexai-bug-reporter",
+  "name": "spacexai-bug-reporter",
+  "category": "development",
+  "tagline": "Writes the bug report you paste into the right support form",
+  "description": "Half the work of reporting a fault is working out which channel it belongs in and what detail they want. Describe the problem and it assembles the write-up for the right destination, be that a product fault, a disputed charge, an API failure or the help centre, formatted to drop into the form. Sending stays your move.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/g_xmlbEvupO0b1Emk9ohZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/g_xmlbEvupO0b1Emk9ohZ",
+  "homepage": "https://x.ai/bot/g_xmlbEvupO0b1Emk9ohZ",
+  "license": null,
+  "author": "Fine_4451",
+  "tags": [
+    "developer",
+    "support",
+    "productivity",
+    "back-office",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
