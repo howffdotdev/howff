@@ -1,0 +1,28 @@
+{
+  "slug": "printerbot",
+  "name": "printerbot",
+  "category": "marketing",
+  "tagline": "Gives every bot in your fleet a matching 3D character portrait",
+  "description": "Tell it what a bot is called and roughly what that bot does, and it renders a figure in the house style: a smooth pale head, dark capsule eyes, props hinting at the job, and a backdrop themed to the domain. The result is a consistent cast of avatars rather than a pile of mismatched images.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/nPwfPZq-OWf7_HDUH777R",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/nPwfPZq-OWf7_HDUH777R",
+  "homepage": "https://x.ai/bot/nPwfPZq-OWf7_HDUH777R",
+  "license": null,
+  "author": "Federico",
+  "tags": [
+    "creator",
+    "design",
+    "content",
+    "on-demand",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

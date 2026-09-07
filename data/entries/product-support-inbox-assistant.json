@@ -1,0 +1,22 @@
+{
+  "slug": "product-support-inbox-assistant",
+  "name": "Product Support Inbox Assistant",
+  "category": "writing",
+  "tagline": "Helps you find and draft answers to product questions",
+  "description": "Helps you find and draft answers to product questions. Never sends emails without you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Rw8d83KAzTYQWBAtAscin",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Rw8d83KAzTYQWBAtAscin",
+  "homepage": "https://x.ai/bot/Rw8d83KAzTYQWBAtAscin",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

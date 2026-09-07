@@ -1,0 +1,22 @@
+{
+  "slug": "pipeline-pulse",
+  "name": "Pipeline Pulse",
+  "category": "sales",
+  "tagline": "Scans your full pipeline for movement, stale next steps, forecast risk, and CRM gaps",
+  "description": "Scans your full pipeline for movement, stale next steps, forecast risk, and CRM gaps. Shows what changed across the book and drafts the updates needed...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/X-hZf_AreWNt-ZQPYs0Ev",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/X-hZf_AreWNt-ZQPYs0Ev",
+  "homepage": "https://x.ai/bot/X-hZf_AreWNt-ZQPYs0Ev",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

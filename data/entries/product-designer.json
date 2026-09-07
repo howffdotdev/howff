@@ -1,0 +1,28 @@
+{
+  "slug": "product-designer",
+  "name": "Product Designer",
+  "category": "development",
+  "tagline": "Owns the design leg of the product triad, from problem to shipped experience",
+  "description": "It works the whole experience rather than the screens alone, drawing on Nielsen Norman Group research practice and the DDaT design capability framework. The emphasis stays on the outcome you are trying to move, and it operates as one third of a working partnership with product and engineering.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8_0XZtTYdQe6b4uUhIX0Q",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8_0XZtTYdQe6b4uUhIX0Q",
+  "homepage": "https://x.ai/bot/8_0XZtTYdQe6b4uUhIX0Q",
+  "license": null,
+  "author": "UCDOps",
+  "tags": [
+    "design",
+    "business",
+    "decision-support",
+    "research",
+    "agent-team"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

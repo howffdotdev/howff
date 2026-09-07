@@ -1,0 +1,29 @@
+{
+  "slug": "preach",
+  "name": "Preach",
+  "category": "personal",
+  "tagline": "One passage of scripture and a short encouragement, daily",
+  "description": "A quiet daily habit rather than a study course. Each day it sends a single passage of scripture, quoted as it stands, with a few lines of encouragement written around it. The tone stays steady and undramatic, meant for someone leaning on it for perspective and a bit of strength rather than for counsel or crisis help.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ZFj_cKTrMTytrCKM9DFHk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ZFj_cKTrMTytrCKM9DFHk",
+  "homepage": "https://x.ai/bot/ZFj_cKTrMTytrCKM9DFHk",
+  "license": null,
+  "author": "XO",
+  "tags": [
+    "personal",
+    "wellbeing",
+    "health",
+    "scheduled",
+    "learning",
+    "growth"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
