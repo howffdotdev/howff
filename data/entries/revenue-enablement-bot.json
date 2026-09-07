@@ -1,0 +1,30 @@
+{
+  "slug": "revenue-enablement-bot",
+  "name": "Revenue Enablement Bot",
+  "category": "sales",
+  "tagline": "One front door for enablement asks, routed to the right specialist skill",
+  "description": "A single point of contact for enablement leads, revenue-operations teams and the sales managers they support. You describe what you need, whether that is onboarding material, a playbook, a coaching plan or a process fix, and it works out which specialist skill from its openly licensed library should take the job.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/LlldYnfUbSX5Z5ogLkHik",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/LlldYnfUbSX5Z5ogLkHik",
+  "homepage": "https://x.ai/bot/LlldYnfUbSX5Z5ogLkHik",
+  "license": null,
+  "author": "Nathan",
+  "tags": [
+    "sales",
+    "business",
+    "growth",
+    "back-office",
+    "knowledge-base",
+    "agent-team",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "rosettabot",
+  "name": "Rosettabot",
+  "category": "personal",
+  "tagline": "Explains a foreign-language bot card before you install it",
+  "description": "Plenty of good templates are shared in languages you do not read, which makes installing one an act of faith. Hand this bot the link instead and it opens the card for you, then lays out in your own language what the thing is for and how it behaves, so that adding it becomes an informed decision.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/eegdusTdLPabH7xTLQfgG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/eegdusTdLPabH7xTLQfgG",
+  "homepage": "https://x.ai/bot/eegdusTdLPabH7xTLQfgG",
+  "license": null,
+  "author": "suddenlyjon",
+  "tags": [
+    "personal",
+    "research",
+    "content",
+    "on-demand",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

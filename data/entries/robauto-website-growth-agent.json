@@ -1,0 +1,31 @@
+{
+  "slug": "robauto-website-growth-agent",
+  "name": "Robauto Website Growth Agent",
+  "category": "ops",
+  "tagline": "Gets a brand site ready for the machines that will shop on it",
+  "description": "Traffic is starting to arrive as software rather than as people, and most sites were never built for that. This grades yours on how well a machine can read it, follow it and settle up with it, then hands over one fix a day that you can drop straight in, re-checking after each change until the score tops out.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7k0TLQBu4hPI5oE3ywRHU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7k0TLQBu4hPI5oE3ywRHU",
+  "homepage": "https://x.ai/bot/7k0TLQBu4hPI5oE3ywRHU",
+  "license": null,
+  "author": "Robauto",
+  "tags": [
+    "business",
+    "marketer",
+    "developer",
+    "growth",
+    "automation",
+    "seo",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

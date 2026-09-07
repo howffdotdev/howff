@@ -1,0 +1,22 @@
+{
+  "slug": "sales-call-coach",
+  "name": "Sales Call Coach",
+  "category": "sales",
+  "tagline": "Scores your sales calls and tells you what to fix before the next one",
+  "description": "Scores your sales calls and tells you what to fix before the next one. Works from a pasted transcript or an uploaded recording.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yZ5MFQFdl32vHt6fcIJAc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/yZ5MFQFdl32vHt6fcIJAc",
+  "homepage": "https://x.ai/bot/yZ5MFQFdl32vHt6fcIJAc",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

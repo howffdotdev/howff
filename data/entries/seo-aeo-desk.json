@@ -1,0 +1,22 @@
+{
+  "slug": "seo-aeo-desk",
+  "name": "SEO & AEO Desk",
+  "category": "marketing",
+  "tagline": "Turns your keywords into content ideas and writer-ready briefs for search and AI answers",
+  "description": "Turns your keywords into content ideas and writer-ready briefs for search and AI answers. Works from a pasted keyword list or your Search Console.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0IhyZWxwbf2cFmsmroZQL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/0IhyZWxwbf2cFmsmroZQL",
+  "homepage": "https://x.ai/bot/0IhyZWxwbf2cFmsmroZQL",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
