@@ -1,0 +1,28 @@
+{
+  "slug": "campusops",
+  "name": "CampusOps",
+  "category": "personal",
+  "tagline": "Turns your syllabi into a week-by-week study plan you can actually follow",
+  "description": "Drop in the course outlines at the start of term and it works out what is due when. From there it lays out each week of reading and revision, drills you with recall questions ahead of tests, and keeps every deadline and submission in one place instead of five separate portals.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vluD5Z1bUux-onnEk1Alg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vluD5Z1bUux-onnEk1Alg",
+  "homepage": "https://x.ai/bot/vluD5Z1bUux-onnEk1Alg",
+  "license": null,
+  "author": "Michael",
+  "tags": [
+    "student",
+    "learning",
+    "productivity",
+    "scheduled",
+    "calendar"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

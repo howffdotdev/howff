@@ -1,0 +1,22 @@
+{
+  "slug": "call-follow",
+  "name": "Call Follow",
+  "category": "productivity",
+  "tagline": "Turns a call transcript into a recap, every promise made, and a dated follow-up list",
+  "description": "Turns a call transcript into a recap, every promise made, and a dated follow-up list. Works from a paste or an upload, and never sends a follow-up...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/estQ8HWdKqhheDNmOGjcy",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/estQ8HWdKqhheDNmOGjcy",
+  "homepage": "https://x.ai/bot/estQ8HWdKqhheDNmOGjcy",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

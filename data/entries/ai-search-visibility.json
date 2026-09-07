@@ -1,0 +1,22 @@
+{
+  "slug": "ai-search-visibility",
+  "name": "AI Search Visibility",
+  "category": "productivity",
+  "tagline": "Checks whether AI assistants and Google recommend you, and who they name instead",
+  "description": "Checks whether AI assistants and Google recommend you, and who they name instead. Starts from a handful of questions your buyers actually ask.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/BFiw9Y7BzTQ-3jFBAro1X",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/BFiw9Y7BzTQ-3jFBAro1X",
+  "homepage": "https://x.ai/bot/BFiw9Y7BzTQ-3jFBAro1X",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

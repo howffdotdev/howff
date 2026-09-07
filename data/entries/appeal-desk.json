@@ -1,0 +1,28 @@
+{
+  "slug": "appeal-desk",
+  "name": "Appeal Desk",
+  "category": "personal",
+  "tagline": "Turns an insurance denial letter into a drafted appeal",
+  "description": "A refusal letter is written to be hard to act on. Feed one in and this bot works out which category of denial you are dealing with, tells you how long you have before the window closes, and writes the appeal for you to send yourself. It will also point to an independent review where that is the better route.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yOiPm69HN5FujdkvvysF9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/yOiPm69HN5FujdkvvysF9",
+  "homepage": "https://x.ai/bot/yOiPm69HN5FujdkvvysF9",
+  "license": null,
+  "author": "Marc",
+  "tags": [
+    "personal",
+    "back-office",
+    "decision-support",
+    "health",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

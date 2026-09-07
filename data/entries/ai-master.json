@@ -1,0 +1,28 @@
+{
+  "slug": "ai-master",
+  "name": "AI Master",
+  "category": "personal",
+  "tagline": "Asks four rival AI models at once and merges what comes back",
+  "description": "Ask once and the same question is put in parallel to Grok, Gemini, Claude and ChatGPT, driven through browser tabs you are already signed into. What returns is one consolidated answer rather than four separate ones, which makes it quick to spot where the models agree and where a single one is out on a limb.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/L6q8qCzomu2lTs9mu_r1X",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/L6q8qCzomu2lTs9mu_r1X",
+  "homepage": "https://x.ai/bot/L6q8qCzomu2lTs9mu_r1X",
+  "license": null,
+  "author": "Leonardo",
+  "tags": [
+    "personal",
+    "research",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "apple-search-ads-review",
+  "name": "Apple Search Ads Review",
+  "category": "finance",
+  "tagline": "Reviews your Apple Search Ads spend against your cost per install target",
+  "description": "Reviews your Apple Search Ads spend against your cost per install target. Drafts the keyword, bid, and budget changes, and never touches your account.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/gadc3bVOsg9iIwmzAGRve",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/gadc3bVOsg9iIwmzAGRve",
+  "homepage": "https://x.ai/bot/gadc3bVOsg9iIwmzAGRve",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

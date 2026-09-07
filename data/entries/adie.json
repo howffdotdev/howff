@@ -1,0 +1,28 @@
+{
+  "slug": "adie",
+  "name": "Adie",
+  "category": "personal",
+  "tagline": "A warm daily companion for brains that struggle with the small stuff",
+  "description": "Made for people whose ADHD, anxiety or low mood turns ordinary upkeep into a wall. It checks in kindly rather than nagging, rolls up its sleeves on the tasks you are stuck on, and carries light recurring reminders such as meals, prescriptions and a friend's birthday. Support, not diagnosis.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-eXRDBTLTfHxNle9joQRN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-eXRDBTLTfHxNle9joQRN",
+  "homepage": "https://x.ai/bot/-eXRDBTLTfHxNle9joQRN",
+  "license": null,
+  "author": "Devil",
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "productivity",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

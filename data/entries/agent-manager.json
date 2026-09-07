@@ -1,0 +1,28 @@
+{
+  "slug": "agent-manager",
+  "name": "Agent Manager",
+  "category": "development",
+  "tagline": "Audits your fleet of bots and tells you which ones are dead weight",
+  "description": "Once you are running more than a handful of agents, some duplicate each other and some quietly stop earning their place. This one reads across the whole roster, flags the overlaps and the idle ones, and hands back a reasoned verdict on each: keep, sharpen or retire. It only recommends, and removal stays yours.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/smAuLZmXktpC5rPOLmq4W",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/smAuLZmXktpC5rPOLmq4W",
+  "homepage": "https://x.ai/bot/smAuLZmXktpC5rPOLmq4W",
+  "license": null,
+  "author": "Siddharth",
+  "tags": [
+    "developer",
+    "ops",
+    "meta-bot",
+    "decision-support",
+    "analytics"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

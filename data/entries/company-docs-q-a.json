@@ -1,0 +1,22 @@
+{
+  "slug": "company-docs-q-a",
+  "name": "Company Docs Q&A",
+  "category": "writing",
+  "tagline": "Answers product and how-to questions from live docs first, then connected knowledge sources, and always cites sources",
+  "description": "Answers product and how-to questions from live docs first, then connected knowledge sources, and always cites sources. Built for anyone who wants a...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/GVAnpUah1K6PzJtG9EuG9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/GVAnpUah1K6PzJtG9EuG9",
+  "homepage": "https://x.ai/bot/GVAnpUah1K6PzJtG9EuG9",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

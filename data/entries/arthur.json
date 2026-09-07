@@ -1,0 +1,27 @@
+{
+  "slug": "arthur",
+  "name": "Arthur",
+  "category": "marketing",
+  "tagline": "Writes a full children's picture book from a topic and an age range",
+  "description": "Give it a subject and the age group you are writing for, and it drafts a complete picture book from beginning to end. It then assembles a brief for a partner illustrator bot setting out what each page should show, and keeps the working draft saved so you can come back later and revise it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/fWJdoxdd8YsM1NNFP2b_W",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/fWJdoxdd8YsM1NNFP2b_W",
+  "homepage": "https://x.ai/bot/fWJdoxdd8YsM1NNFP2b_W",
+  "license": null,
+  "author": "GenXer",
+  "tags": [
+    "creator",
+    "content",
+    "agent-team",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

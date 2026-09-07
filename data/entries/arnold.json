@@ -1,0 +1,29 @@
+{
+  "slug": "arnold",
+  "name": "Arnold",
+  "category": "development",
+  "tagline": "Keeps an eye on what your Cursor usage is actually costing",
+  "description": "Agentic coding burns credits in ways that are hard to notice until the bill lands. This one keeps the books: it follows consumption, spots loops that have got away from themselves and work being redone for no reason, and nudges the agents around it onto a cheaper model when the expensive one is not earning its keep.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ymoMdfvzdErOrclxCOaC_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ymoMdfvzdErOrclxCOaC_",
+  "homepage": "https://x.ai/bot/ymoMdfvzdErOrclxCOaC_",
+  "license": null,
+  "author": "Kelsey",
+  "tags": [
+    "developer",
+    "saving-money",
+    "monitoring",
+    "analytics",
+    "engineering",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "better-call-claude",
+  "name": "Better Call Claude",
+  "category": "personal",
+  "tagline": "Free help working out what a legal problem actually is",
+  "description": "Most people meeting a legal problem for the first time do not know what kind of problem it is or who deals with it. This is an open, no-cost place to start: it lays out the terrain in plain language, points you at the material on bettercallclaude.org, and keeps its reading current. It orients you; it is not a lawyer.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/f7I5mP0uJf9brGIuK0ETo",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/f7I5mP0uJf9brGIuK0ETo",
+  "homepage": "https://x.ai/bot/f7I5mP0uJf9brGIuK0ETo",
+  "license": null,
+  "author": "Robauto",
+  "tags": [
+    "personal",
+    "support",
+    "research",
+    "decision-support",
+    "knowledge-base",
+    "learning",
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "call-desk",
+  "name": "Call Desk",
+  "category": "personal",
+  "tagline": "Makes the phone calls you keep putting off",
+  "description": "Hand it an errand and it dials out on your behalf: ringing a shop to check stock, booking a table or an appointment, querying a line on a utility bill, or chasing a parcel that never turned up. Speech and telephony are wired together behind the scenes, so a real call is placed and you are told what was said.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/zqWxv4Mn6DqmMZkD16_zl",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/zqWxv4Mn6DqmMZkD16_zl",
+  "homepage": "https://x.ai/bot/zqWxv4Mn6DqmMZkD16_zl",
+  "license": null,
+  "author": "Dr",
+  "tags": [
+    "personal",
+    "automation",
+    "productivity",
+    "support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

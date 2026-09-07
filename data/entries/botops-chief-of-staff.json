@@ -1,0 +1,28 @@
+{
+  "slug": "botops-chief-of-staff",
+  "name": "BotOps · Chief of Staff",
+  "category": "development",
+  "tagline": "One front door for a whole fleet of working bots",
+  "description": "Rather than juggling a dozen assistants yourself, you brief this one and it decides who takes the job, handing work down to specialist deputies which in turn spin up short-lived bots for individual tasks. Notion keeps the running record, so it stays obvious what is finished and what is still waiting on you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/aNNg3UZFH19vK0KPuyoUW",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/aNNg3UZFH19vK0KPuyoUW",
+  "homepage": "https://x.ai/bot/aNNg3UZFH19vK0KPuyoUW",
+  "license": null,
+  "author": "Matthew",
+  "tags": [
+    "developer",
+    "ops",
+    "meta-bot",
+    "agent-team",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

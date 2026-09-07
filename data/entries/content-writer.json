@@ -1,0 +1,28 @@
+{
+  "slug": "content-writer",
+  "name": "Content Writer",
+  "category": "development",
+  "tagline": "Writes the interface words that get a task finished",
+  "description": "Button labels, empty states, failure messages, hint text and the small print that decides whether somebody completes a task or abandons it. It writes in plain, unfussy English, holds one consistent voice from screen to screen, and can lay out a content model so a single idea is not given three different names.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/oAJ5mSjoFixBxMFbv9Olr",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/oAJ5mSjoFixBxMFbv9Olr",
+  "homepage": "https://x.ai/bot/oAJ5mSjoFixBxMFbv9Olr",
+  "license": null,
+  "author": "UCDOps",
+  "tags": [
+    "design",
+    "content",
+    "business",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

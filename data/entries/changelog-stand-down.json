@@ -1,0 +1,29 @@
+{
+  "slug": "changelog-stand-down",
+  "name": "Changelog Stand-down",
+  "category": "development",
+  "tagline": "Every Monday, a plain summary of what the team shipped",
+  "description": "Release notes rot because nobody owns the writing. Give this a repository and somewhere to send the result, and at the start of each week it goes through what actually landed and reports it back in readable form. The nagging is rather the point: it turns up whether or not you got around to the changelog yourself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/T27nv3vIy89yKldqELWbn",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/T27nv3vIy89yKldqELWbn",
+  "homepage": "https://x.ai/bot/T27nv3vIy89yKldqELWbn",
+  "license": null,
+  "author": "acolombiadev",
+  "tags": [
+    "developer",
+    "engineering",
+    "ops",
+    "monitoring",
+    "scheduled",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

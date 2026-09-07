@@ -1,0 +1,29 @@
+{
+  "slug": "coach-g",
+  "name": "Coach G",
+  "category": "personal",
+  "tagline": "Connects your wearable first, then coaches your sport with a plan that keeps adjusting",
+  "description": "The opening conversation is about plumbing: getting readings off your watch or ring and into the bot so it has something real to reason about. From then on you get a short morning read-out aimed at whatever you actually train for, and a programme that rewrites itself as your load and recovery numbers move.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0VoMKg4bZbmfq3eUPchsS",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/0VoMKg4bZbmfq3eUPchsS",
+  "homepage": "https://x.ai/bot/0VoMKg4bZbmfq3eUPchsS",
+  "license": null,
+  "author": "Mike",
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "monitoring",
+    "scheduled",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

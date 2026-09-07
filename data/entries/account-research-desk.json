@@ -1,0 +1,22 @@
+{
+  "slug": "account-research-desk",
+  "name": "Account Research Desk",
+  "category": "writing",
+  "tagline": "Researches the companies you sell to and writes your pre-call brief and account plan",
+  "description": "Researches the companies you sell to and writes your pre-call brief and account plan. Works from the public web and the notes you paste, and never sends...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/O3iqVd_ZrdRtrDJpxcKss",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/O3iqVd_ZrdRtrDJpxcKss",
+  "homepage": "https://x.ai/bot/O3iqVd_ZrdRtrDJpxcKss",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

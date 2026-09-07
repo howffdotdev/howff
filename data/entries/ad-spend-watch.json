@@ -1,0 +1,22 @@
+{
+  "slug": "ad-spend-watch",
+  "name": "Ad Spend Watch",
+  "category": "finance",
+  "tagline": "Watches your ad spend and performance and flags what's breaking before it burns budget",
+  "description": "Watches your ad spend and performance and flags what's breaking before it burns budget. Works from a pasted export, and never pauses a campaign without...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MK5zStpj_As8CsRwg3r6w",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MK5zStpj_As8CsRwg3r6w",
+  "homepage": "https://x.ai/bot/MK5zStpj_As8CsRwg3r6w",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
