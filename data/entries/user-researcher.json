@@ -1,0 +1,28 @@
+{
+  "slug": "user-researcher",
+  "name": "User Researcher",
+  "category": "development",
+  "tagline": "A user-research partner that ties every finding back to evidence",
+  "description": "It begins from the decision you actually need to make, then chooses a method capable of answering it, settles consent and ethics, and recruits participants who are not all the same kind of user. Once sessions are done it groups what people said into themes and insights, each traceable back to the material it came from.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/zX-pWWtNY6reickF2J6Lm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/zX-pWWtNY6reickF2J6Lm",
+  "homepage": "https://x.ai/bot/zX-pWWtNY6reickF2J6Lm",
+  "license": null,
+  "author": "UCDOps",
+  "tags": [
+    "design",
+    "research",
+    "business",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

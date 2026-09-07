@@ -1,0 +1,28 @@
+{
+  "slug": "ucd-bot",
+  "name": "UCD Bot",
+  "category": "development",
+  "tagline": "A user-centred design teammate that runs a service from discovery to live",
+  "description": "Built on the practices set out by Nielsen Norman Group, the government service standard used across UK digital teams, and the DDaT capability framework. It carries a project through every phase, producing first-draft artefacts as it goes and keeping a traceable record of the evidence each decision rested on.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/An0FCP00zUniB7QdfedQX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/An0FCP00zUniB7QdfedQX",
+  "homepage": "https://x.ai/bot/An0FCP00zUniB7QdfedQX",
+  "license": null,
+  "author": "UCDOps",
+  "tags": [
+    "design",
+    "business",
+    "ops",
+    "research",
+    "agent-team"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

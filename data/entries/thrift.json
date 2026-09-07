@@ -1,0 +1,29 @@
+{
+  "slug": "thrift",
+  "name": "thrift",
+  "category": "development",
+  "tagline": "Trims a sprawling bot fleet's token bill without changing what any bot is meant to do",
+  "description": "Run enough bots and the running cost stops being trivial. This one audits the collection you have accumulated, cuts over-long instruction profiles back to the parts actually doing work, and points out the half-built ones sitting idle. Anything on a live timer is left untouched until you approve the change.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3hFbbjddl7VpY2oRACKBB",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/3hFbbjddl7VpY2oRACKBB",
+  "homepage": "https://x.ai/bot/3hFbbjddl7VpY2oRACKBB",
+  "license": null,
+  "author": "Mario",
+  "tags": [
+    "developer",
+    "ops",
+    "meta-bot",
+    "saving-money",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

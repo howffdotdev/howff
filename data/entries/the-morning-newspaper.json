@@ -1,0 +1,22 @@
+{
+  "slug": "the-morning-newspaper",
+  "name": "The Morning Newspaper",
+  "category": "research",
+  "tagline": "A newspaper customized to you",
+  "description": "A newspaper customized to you. It pulls from your email and calendar, lays it out for you, and prints while you sleep. Created by @karenxcheng",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1xAJYJPes3X7dUM2mk9Di",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1xAJYJPes3X7dUM2mk9Di",
+  "homepage": "https://x.ai/bot/1xAJYJPes3X7dUM2mk9Di",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
