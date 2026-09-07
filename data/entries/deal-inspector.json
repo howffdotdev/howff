@@ -1,0 +1,22 @@
+{
+  "slug": "deal-inspector",
+  "name": "Deal Inspector",
+  "category": "sales",
+  "tagline": "Checks each deal against MEDDIC, MEDDPICC, BANT, SPICED, or your own process",
+  "description": "Checks each deal against MEDDIC, MEDDPICC, BANT, SPICED, or your own process. Shows what is supported, what is missing, and the questions or CRM changes...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vZfC76-4UC1XU7qC4m726",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vZfC76-4UC1XU7qC4m726",
+  "homepage": "https://x.ai/bot/vZfC76-4UC1XU7qC4m726",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

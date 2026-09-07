@@ -1,0 +1,22 @@
+{
+  "slug": "cooper",
+  "name": "Cooper",
+  "category": "development",
+  "tagline": "News agent for AI, tech, venture capital, and business",
+  "description": "News agent for AI, tech, venture capital, and business. Delivers a tight daily Slack briefing of top stories at 8am, plus weekday mid-day competitor...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8hhdYqfvRzigWstUtcmBZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8hhdYqfvRzigWstUtcmBZ",
+  "homepage": "https://x.ai/bot/8hhdYqfvRzigWstUtcmBZ",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

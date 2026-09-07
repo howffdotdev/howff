@@ -1,0 +1,27 @@
+{
+  "slug": "firewatch",
+  "name": "FireWatch",
+  "category": "personal",
+  "tagline": "Watches for wildfires near your home and only speaks up when something changes",
+  "description": "Point it at the area you live in and it keeps an eye on live wildfire reporting for that patch of map. It checks in several times a day rather than sitting idle, and stays quiet unless something has actually started or shifted close enough to matter, so the alert you get is worth reading.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/oWw62I6pd414i8xIO3azs",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/oWw62I6pd414i8xIO3azs",
+  "homepage": "https://x.ai/bot/oWw62I6pd414i8xIO3azs",
+  "license": null,
+  "author": "Robauto",
+  "tags": [
+    "personal",
+    "monitoring",
+    "home",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

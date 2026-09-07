@@ -1,0 +1,22 @@
+{
+  "slug": "executive-assistant",
+  "name": "Executive Assistant",
+  "category": "sales",
+  "tagline": "EA chief-of-staff bot for exec support: conference rooms, interview prep, leadership outreach, Slack channel...",
+  "description": "EA chief-of-staff bot for exec support: conference rooms, interview prep, leadership outreach, Slack channel inventories, sheet↔calendar checks, and...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_DnP777DCicZpaTtm9_h5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_DnP777DCicZpaTtm9_h5",
+  "homepage": "https://x.ai/bot/_DnP777DCicZpaTtm9_h5",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

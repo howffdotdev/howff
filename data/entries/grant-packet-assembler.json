@@ -1,0 +1,28 @@
+{
+  "slug": "grant-packet-assembler",
+  "name": "Grant Packet Assembler",
+  "category": "ops",
+  "tagline": "Builds Georgia grant packets that survive a compliance read. Drafts only; you submit.",
+  "description": "Turns the facts you paste into a Georgia grant packet for programs like OneGeorgia, GVRA, SBDC and PASS: eligibility, narrative, budget, an attachment checklist and a benefits-risk memo, each citing the official page. It drafts only - it never submits, emails or pays, and it keeps SSN and bank details out of memory.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/kbP2DWs6cKSWqeRtQhIef",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/kbP2DWs6cKSWqeRtQhIef",
+  "homepage": "https://x.ai/bot/kbP2DWs6cKSWqeRtQhIef",
+  "license": null,
+  "author": "Joseph",
+  "tags": [
+    "business",
+    "back-office",
+    "research",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

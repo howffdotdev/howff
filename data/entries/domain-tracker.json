@@ -1,0 +1,28 @@
+{
+  "slug": "domain-tracker",
+  "name": "Domain Tracker",
+  "category": "development",
+  "tagline": "Watches the domains you hold and the ones you are still hoping to get",
+  "description": "Two separate lists run side by side. Across the portfolio you already own it keeps tabs on renewal dates and whether mail and nameserver records still resolve correctly; on the wishlist it waits for a name to come free. Checks lean on public registry and lookup data unless you widen the remit.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/SwaSdg0XhIa_IliAWggYE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/SwaSdg0XhIa_IliAWggYE",
+  "homepage": "https://x.ai/bot/SwaSdg0XhIa_IliAWggYE",
+  "license": null,
+  "author": "Siddharth",
+  "tags": [
+    "developer",
+    "business",
+    "monitoring",
+    "scheduled",
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "dr-buzz",
+  "name": "dr buzz",
+  "category": "development",
+  "tagline": "A bot that builds other bots, each scoped to one job and one voice",
+  "description": "A builder for small, disciplined agents that run on Grok Bot as well as on a Buzz harness. It opens with a short set of questions about how you want the agent to behave, then produces one with a narrow remit, a consistent voice, and any credentials held behind a human approval step rather than used freely.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VyvwcgM7BAqHWkdMoEajp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VyvwcgM7BAqHWkdMoEajp",
+  "homepage": "https://x.ai/bot/VyvwcgM7BAqHWkdMoEajp",
+  "license": null,
+  "author": "Talal",
+  "tags": [
+    "developer",
+    "creator",
+    "automation",
+    "engineering",
+    "meta-bot",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

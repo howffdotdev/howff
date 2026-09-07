@@ -1,0 +1,27 @@
+{
+  "slug": "crew",
+  "name": "Crew",
+  "category": "ops",
+  "tagline": "Coaching for managers on how to actually run their team",
+  "description": "On setup it asks what your role is, how your team is arranged, and where things are currently stuck. From there it acts as a standing mentor, suggesting operating practices to try: how work gets handed between people, how you run your regular check-ins, and how to unblock the parts of the team that have stalled.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/RU2Y_7E3646T5IelLhnOq",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/RU2Y_7E3646T5IelLhnOq",
+  "homepage": "https://x.ai/bot/RU2Y_7E3646T5IelLhnOq",
+  "license": null,
+  "author": "GenXer",
+  "tags": [
+    "business",
+    "learning",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "grokbot-optimizer",
+  "name": "GrokBot Optimizer",
+  "category": "ops",
+  "tagline": "Audits a whole fleet of bots against the rules you set for them",
+  "description": "Aimed at anyone running more than a handful of bots at once. It takes stock of who is on the roster, what each one is meant to be doing and what runs on a timer, weighs all of that against the operating principles you have written down, and points out overlap or drift. Every change arrives as a proposal you approve.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/b7m5siCKd6baaWkPihOGa",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/b7m5siCKd6baaWkPihOGa",
+  "homepage": "https://x.ai/bot/b7m5siCKd6baaWkPihOGa",
+  "license": null,
+  "author": "Robert",
+  "tags": [
+    "ops",
+    "developer",
+    "monitoring",
+    "decision-support",
+    "engineering",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

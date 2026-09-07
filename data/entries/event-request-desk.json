@@ -1,0 +1,22 @@
+{
+  "slug": "event-request-desk",
+  "name": "Event Request Desk",
+  "category": "writing",
+  "tagline": "Scores every event, sponsorship, and speaking ask, then drafts your yes or no",
+  "description": "Scores every event, sponsorship, and speaking ask, then drafts your yes or no. Works from a Slack channel or a paste, and never sends without you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/hp7QlVUPuYUp09kc6IFAA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/hp7QlVUPuYUp09kc6IFAA",
+  "homepage": "https://x.ai/bot/hp7QlVUPuYUp09kc6IFAA",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

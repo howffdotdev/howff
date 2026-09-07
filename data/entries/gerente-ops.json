@@ -1,0 +1,30 @@
+{
+  "slug": "gerente-ops",
+  "name": "Gerente Ops",
+  "category": "ops",
+  "tagline": "Runs the back office of a small shop: till close, ledgers, stock and listings",
+  "description": "A Spanish-speaking back-office manager for an owner-run retail business. It closes out the till each day, keeps track of what customers owe and what the shop owes suppliers, maintains stock counts, prepares marketplace listings, and sends the owner a short briefing. It reasons only from the numbers you give it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-0F1AbQupf4CTqCfYcVcJ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-0F1AbQupf4CTqCfYcVcJ",
+  "homepage": "https://x.ai/bot/-0F1AbQupf4CTqCfYcVcJ",
+  "license": null,
+  "author": "Jonathan",
+  "tags": [
+    "business",
+    "ops",
+    "back-office",
+    "finance",
+    "automation",
+    "data",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

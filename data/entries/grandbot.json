@@ -1,0 +1,30 @@
+{
+  "slug": "grandbot",
+  "name": "GrandBot",
+  "category": "ops",
+  "tagline": "Turns an official bot export into a readable brief on how your org works",
+  "description": "Takes the export file that xAI produces for your bots and reads it back to you as an organisational summary. Rather than a raw dump, you get a picture of what already exists, who owns which piece, and how it all fits together, so a newcomer can be handed the institutional memory. Published as open source.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/X_EV8GMyK_cIeaJ4CxOFP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/X_EV8GMyK_cIeaJ4CxOFP",
+  "homepage": "https://x.ai/bot/X_EV8GMyK_cIeaJ4CxOFP",
+  "license": null,
+  "author": "suddenlyjon",
+  "tags": [
+    "business",
+    "ops",
+    "knowledge-base",
+    "back-office",
+    "research",
+    "data",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

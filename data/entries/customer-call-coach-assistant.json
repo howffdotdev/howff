@@ -1,0 +1,22 @@
+{
+  "slug": "customer-call-coach-assistant",
+  "name": "Customer Call Coach & Assistant",
+  "category": "sales",
+  "tagline": "Briefs you before customer calls and coaches you after based on your performance",
+  "description": "Briefs you before customer calls and coaches you after based on your performance.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/v1lSvhJCo4UrNGZxc5Fw8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/v1lSvhJCo4UrNGZxc5Fw8",
+  "homepage": "https://x.ai/bot/v1lSvhJCo4UrNGZxc5Fw8",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

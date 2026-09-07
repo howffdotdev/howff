@@ -1,0 +1,28 @@
+{
+  "slug": "court",
+  "name": "Court",
+  "category": "personal",
+  "tagline": "Reads a stuck group chat and says what it actually decided",
+  "description": "Long threads bury their own conclusions. Paste one in and this reads it back to you: what got settled even though nobody announced it, who was talked over, and the single reply that would end the argument. It will also say when the wiser move is to stay quiet. Everything comes back as text for you to send yourself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/mA4Ik2mIduPANDqFVmVMX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/mA4Ik2mIduPANDqFVmVMX",
+  "homepage": "https://x.ai/bot/mA4Ik2mIduPANDqFVmVMX",
+  "license": null,
+  "author": "Don",
+  "tags": [
+    "personal",
+    "decision-support",
+    "productivity",
+    "social-media",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

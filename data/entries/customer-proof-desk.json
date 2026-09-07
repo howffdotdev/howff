@@ -1,0 +1,22 @@
+{
+  "slug": "customer-proof-desk",
+  "name": "Customer Proof Desk",
+  "category": "ops",
+  "tagline": "Turns call notes and transcripts into case studies, testimonials, and proof points",
+  "description": "Turns call notes and transcripts into case studies, testimonials, and proof points. Quotes stay word for word from what you paste, and nothing publishes...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/AamPlGjd2lIdDv6seEMXR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/AamPlGjd2lIdDv6seEMXR",
+  "homepage": "https://x.ai/bot/AamPlGjd2lIdDv6seEMXR",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

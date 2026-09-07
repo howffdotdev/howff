@@ -1,0 +1,30 @@
+{
+  "slug": "desk-producer",
+  "name": "Desk Producer",
+  "category": "marketing",
+  "tagline": "Runs the production desk on a film so the paperwork keeps up",
+  "description": "A coordinator for creative production rather than a creative one. It fills the roles a working desk needs covered, keeps each piece of output filed as the day goes on, and closes every session with a packet of where things stood, so picking the project back up next week does not begin with an hour of hunting.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/RBjaMq7S6scnB-ECoCVVs",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/RBjaMq7S6scnB-ECoCVVs",
+  "homepage": "https://x.ai/bot/RBjaMq7S6scnB-ECoCVVs",
+  "license": null,
+  "author": "Alex",
+  "tags": [
+    "creator",
+    "ops",
+    "business",
+    "agent-team",
+    "back-office",
+    "automation",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

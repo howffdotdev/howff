@@ -1,0 +1,22 @@
+{
+  "slug": "event-producer",
+  "name": "Event Producer",
+  "category": "ops",
+  "tagline": "Turns your event details into a run of show, guest list, and day-of checklist",
+  "description": "Turns your event details into a run of show, guest list, and day-of checklist. Tracks vendors, guests, dietary needs, and travel, and never sends a...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wtEIGNZ8oipDDVQTDHMPB",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wtEIGNZ8oipDDVQTDHMPB",
+  "homepage": "https://x.ai/bot/wtEIGNZ8oipDDVQTDHMPB",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

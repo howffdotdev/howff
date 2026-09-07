@@ -1,0 +1,28 @@
+{
+  "slug": "cue",
+  "name": "Cue",
+  "category": "development",
+  "tagline": "A morning call sheet for every scheduled bot you have running",
+  "description": "Think of it as the stage manager for your automations. Each morning it posts a plain-language rundown of what is due to fire and when, points out where two jobs are about to trip over each other, and speaks up the moment a routine errors out or simply never runs at all.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/WRGIjapC1i3Hvi2jfv66m",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/WRGIjapC1i3Hvi2jfv66m",
+  "homepage": "https://x.ai/bot/WRGIjapC1i3Hvi2jfv66m",
+  "license": null,
+  "author": "DBCrypto",
+  "tags": [
+    "developer",
+    "ops",
+    "monitoring",
+    "meta-bot",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "dial-bot",
+  "name": "dial bot",
+  "category": "sales",
+  "tagline": "Places outbound Bland AI phone calls when you ask, then reports what happened",
+  "description": "Places outbound Bland AI phone calls when you ask, then reports what happened. On first use it asks for a Bland API key and voice.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/tIas6udS9kSXpcAz6LFd1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/tIas6udS9kSXpcAz6LFd1",
+  "homepage": "https://x.ai/bot/tIas6udS9kSXpcAz6LFd1",
+  "license": null,
+  "author": "Unknown",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
