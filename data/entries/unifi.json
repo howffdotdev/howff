@@ -1,0 +1,22 @@
+{
+  "slug": "unifi",
+  "name": "UniFi",
+  "category": "personal",
+  "tagline": "Reports on your Ubiquiti network and cameras each morning",
+  "description": "For a house wired with Ubiquiti kit and an owner who prefers a summary to opening the console. Point it at your own UniFi connection and Notion workspace and it files a short account of how the network held up overnight, plus whatever the cameras picked up. It only reads state  -  settings stay as you left them.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Vf87y6yydZBhgHJYWBsLX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Vf87y6yydZBhgHJYWBsLX",
+  "homepage": "https://x.ai/bot/Vf87y6yydZBhgHJYWBsLX",
+  "license": null,
+  "author": "Joe",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

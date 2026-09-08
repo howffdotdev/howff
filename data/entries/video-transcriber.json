@@ -1,0 +1,22 @@
+{
+  "slug": "video-transcriber",
+  "name": "Video Transcriber",
+  "category": "marketing",
+  "tagline": "Turns a video link into a clean transcript or subtitle file",
+  "description": "Paste in a TikTok, YouTube, X or Instagram address and it hands back the words. Take them as plain prose, as a subtitle file ready to drop onto a timeline, or broken up by who is talking. Where the platform already carries captions it works from those, falling back on machine listening only when there are none.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wC622hEnAgGY5AHK9z205",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wC622hEnAgGY5AHK9z205",
+  "homepage": "https://x.ai/bot/wC622hEnAgGY5AHK9z205",
+  "license": null,
+  "author": "habib",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

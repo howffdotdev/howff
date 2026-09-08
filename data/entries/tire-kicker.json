@@ -1,0 +1,22 @@
+{
+  "slug": "tire-kicker",
+  "name": "Tire Kicker",
+  "category": "personal",
+  "tagline": "Hunts your wish list across Marketplace, Craigslist and eBay",
+  "description": "For the kind of buyer who would rather hold out for the right secondhand listing than overpay today. Tell it what you are after and it sweeps the big resale sites several times a day, works out what a fair figure looks like from comparable sales, and leaves an opening note to the seller ready for you to send.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/z-_zncW1_15qwOxc98b09",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/z-_zncW1_15qwOxc98b09",
+  "homepage": "https://x.ai/bot/z-_zncW1_15qwOxc98b09",
+  "license": null,
+  "author": "Basho",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

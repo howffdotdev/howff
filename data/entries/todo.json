@@ -1,0 +1,22 @@
+{
+  "slug": "todo",
+  "name": "Todo",
+  "category": "personal",
+  "tagline": "Catches a task the moment you say it and files it where you actually work",
+  "description": "Made for people who lose things between the thought and the app. Say what needs doing and it lands in the task manager you already keep, checked against what sits there so the same item does not appear twice. It will not mark anything finished on your behalf, and each weekday morning it reads you what is coming due.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wQHNsqt2KhOszyxMZ1xQ1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wQHNsqt2KhOszyxMZ1xQ1",
+  "homepage": "https://x.ai/bot/wQHNsqt2KhOszyxMZ1xQ1",
+  "license": null,
+  "author": "Scott",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

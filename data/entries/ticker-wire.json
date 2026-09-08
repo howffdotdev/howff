@@ -1,0 +1,22 @@
+{
+  "slug": "ticker-wire",
+  "name": "Ticker Wire",
+  "category": "finance",
+  "tagline": "Tells you when your holdings file paperwork or make news, and otherwise stays quiet",
+  "description": "Give it the tickers you genuinely care about and it keeps track of the public regulatory record and the announcements coming out of those companies. Something reaches you only when a new document or story lands, so silence means nothing moved. It reports events and holds no view on what you should do.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/OA53XZkeW0g0HZEOim6iV",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/OA53XZkeW0g0HZEOim6iV",
+  "homepage": "https://x.ai/bot/OA53XZkeW0g0HZEOim6iV",
+  "license": null,
+  "author": "CitiZenSleuthX",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

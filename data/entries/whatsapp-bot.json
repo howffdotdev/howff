@@ -1,0 +1,22 @@
+{
+  "slug": "whatsapp-bot",
+  "name": "WhatsApp-Bot",
+  "category": "productivity",
+  "tagline": "Turns repeat WhatsApp Web chores into scripts you can replay",
+  "description": "For anyone at home in a terminal who keeps working through the same handful of WhatsApp errands by hand. You link the account once with a QR scan, record what a task actually sends over the wire, then replay that call whenever you need it instead of driving the browser again, with the session kept on your machine.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/t-Axu4DmT9x2DEPa1eNW1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/t-Axu4DmT9x2DEPa1eNW1",
+  "homepage": "https://x.ai/bot/t-Axu4DmT9x2DEPa1eNW1",
+  "license": null,
+  "author": "Alexandre",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
