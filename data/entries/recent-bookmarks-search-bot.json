@@ -1,0 +1,22 @@
+{
+  "slug": "recent-bookmarks-search-bot",
+  "name": "Recent Bookmarks Search Bot",
+  "category": "personal",
+  "tagline": "Makes the posts you saved on X searchable in a plain sortable table",
+  "description": "Saving something on X takes a second and finding it again weeks later does not. Connect your account and it pulls your hundred most recent saves into a grid you can order by author, by date or by how the post performed, open any row for the full thing, and extend further down when your quota permits.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wUWBNyr-Y0BJwAKAT-I_J",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wUWBNyr-Y0BJwAKAT-I_J",
+  "homepage": "https://x.ai/bot/wUWBNyr-Y0BJwAKAT-I_J",
+  "license": null,
+  "author": "Sriram",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

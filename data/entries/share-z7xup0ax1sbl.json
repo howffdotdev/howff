@@ -1,0 +1,22 @@
+{
+  "slug": "share-z7xup0ax1sbl",
+  "name": "下载专家",
+  "category": "research",
+  "tagline": "Turns long video and audio into readable Chinese transcripts",
+  "description": "A Chinese-language study aid for people who learn from long recordings. Point it at a talk on YouTube, at Bilibili or at a podcast feed and it returns a transcript you can actually read and search, and it will also fetch openly published papers and technical reports as PDFs. Transcription uses your own cloud key.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/z7xup0Ax1SBl2K84PELqF",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/z7xup0Ax1SBl2K84PELqF",
+  "homepage": "https://x.ai/bot/z7xup0Ax1SBl2K84PELqF",
+  "license": null,
+  "author": "kin",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

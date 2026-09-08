@@ -1,0 +1,22 @@
+{
+  "slug": "stack-sentinel",
+  "name": "Stack Sentinel",
+  "category": "ops",
+  "tagline": "Pings you the moment a provider your build depends on admits a problem",
+  "description": "Keeps a tab on the vendor-run health dashboards behind the pieces of a modern stack: model APIs, code hosting, edge and deploy platforms. Each check is compared against the previous one by a small local script, so a calm day costs almost nothing to watch, and you hear from it only when a state genuinely flips.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/osZS1pAzdIESMk33WNir0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/osZS1pAzdIESMk33WNir0",
+  "homepage": "https://x.ai/bot/osZS1pAzdIESMk33WNir0",
+  "license": null,
+  "author": "sat0xshi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

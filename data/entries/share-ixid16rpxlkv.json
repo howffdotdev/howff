@@ -1,0 +1,22 @@
+{
+  "slug": "share-ixid16rpxlkv",
+  "name": "톨삼국지",
+  "category": "marketing",
+  "tagline": "Draws a Three Kingdoms scene each day, rotating through three painting styles",
+  "description": "Each day it produces a fresh illustration drawn from the Three Kingdoms saga, either a figure out of the story or a moment on the battlefield. The rendering rotates between ink wash, Western oil realism and anime, and every picture ships with its own Korean caption and a single line sized for posting.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/IXID16RPXlKV6KHQCdmr7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/IXID16RPXlKV6KHQCdmr7",
+  "homepage": "https://x.ai/bot/IXID16RPXlKV6KHQCdmr7",
+  "license": null,
+  "author": "재미없니?",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

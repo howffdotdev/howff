@@ -1,0 +1,22 @@
+{
+  "slug": "share-mo3ndum0ujtj",
+  "name": "しおり",
+  "category": "personal",
+  "tagline": "Turns yesterday's X bookmarks into a short morning briefing",
+  "description": "Bookmarks pile up far faster than anyone reads them. Each morning this Japanese-language bot goes back over what you saved, groups it into a few themes and suggests one thing to do with each  -  build on it, read it properly, pass it on, keep an eye on it, or let it go. It never posts or likes from your account.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Mo3ndUm0UJTjTvFbqLFDt",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Mo3ndUm0UJTjTvFbqLFDt",
+  "homepage": "https://x.ai/bot/Mo3ndUm0UJTjTvFbqLFDt",
+  "license": null,
+  "author": "まるいも",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

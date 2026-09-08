@@ -1,0 +1,22 @@
+{
+  "slug": "share-waqaf0bsqtrr",
+  "name": "登記とりよせ",
+  "category": "personal",
+  "tagline": "Walks you through ordering a Japanese company registry certificate",
+  "description": "A Japanese-language walkthrough for requesting a company's full historical registration record through the Kantan Touki online service. It guides you from filling in the application to settling the fee by Pay-easy and then waiting on delivery by post. You keep control of your own login and banking throughout.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/WAQAF0bSQTRrrTb1q-J9Y",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/WAQAF0bSQTRrrTb1q-J9Y",
+  "homepage": "https://x.ai/bot/WAQAF0bSQTRrrTb1q-J9Y",
+  "license": null,
+  "author": "sat0xshi",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

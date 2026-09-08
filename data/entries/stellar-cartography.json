@@ -1,0 +1,22 @@
+{
+  "slug": "stellar-cartography",
+  "name": "Stellar Cartography",
+  "category": "personal",
+  "tagline": "Draws spacecraft and ships, then forces a second pair of eyes before release",
+  "description": "Built for people who publish technical illustrations of hardware, whether that is a rocket, a satellite or a hull, where a wrong line in the drawing is the entire problem. Every image is held at a checking step and inspected again before it can go out, and jobs can be passed sideways to another bot on your roster.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9Vr7JFrTz5PeW4bmFco2i",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9Vr7JFrTz5PeW4bmFco2i",
+  "homepage": "https://x.ai/bot/9Vr7JFrTz5PeW4bmFco2i",
+  "license": null,
+  "author": "Wil",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

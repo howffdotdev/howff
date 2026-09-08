@@ -1,0 +1,22 @@
+{
+  "slug": "share-u3jg9ibwlhl5",
+  "name": "건축 숏폼 마스터",
+  "category": "personal",
+  "tagline": "Turns a building or bridge idea into a finished vertical explainer video",
+  "description": "Made for faceless channels that explain how structures and infrastructure hold themselves up. Starting from a topic it drafts the narration, produces the picture cuts that sit under it, records the spoken track and lays the captions across the result. What you receive is the exported clip, not a folder of loose parts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/u3Jg9IbWLHl5m9NdHWOIR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/u3Jg9IbWLHl5m9NdHWOIR",
+  "homepage": "https://x.ai/bot/u3Jg9IbWLHl5m9NdHWOIR",
+  "license": null,
+  "author": "꼬마",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

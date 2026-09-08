@@ -1,0 +1,22 @@
+{
+  "slug": "share-k7pprlhezc2c",
+  "name": "产品推广交稿员",
+  "category": "marketing",
+  "tagline": "Hands you ready-to-post promo copy for your product on a fixed rhythm",
+  "description": "Aimed at solo builders who have to sell the thing they just shipped. On its own timetable it delivers finished social posts written to read like a person talking instead of a language model, and it pays attention to how many people opened each one before deciding which angle to try next.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr",
+  "homepage": "https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr",
+  "license": null,
+  "author": "yunhui",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "social-ops-bot",
+  "name": "Social Ops Bot",
+  "category": "personal",
+  "tagline": "Sorts the dead weight out of your X follows without hitting real people",
+  "description": "Works through the accounts attached to your profile and separates them: dormant handles and obvious junk on one side, genuine people on the other. Anything carrying a verification badge is left alone by default, awkward cases sit in a queue waiting on your decision, and whoever survives gets filed by audience.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/A5g9s0QB5zZtaOWZPoawT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/A5g9s0QB5zZtaOWZPoawT",
+  "homepage": "https://x.ai/bot/A5g9s0QB5zZtaOWZPoawT",
+  "license": null,
+  "author": "JC",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
