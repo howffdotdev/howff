@@ -1,0 +1,22 @@
+{
+  "slug": "dr-disk-clean",
+  "name": "Dr Disk Clean",
+  "category": "ops",
+  "tagline": "Surveys a crowded Linux box and never deletes until you name the path",
+  "description": "A machine running a fleet of agents fills up quietly, and the danger in clearing space is throwing away something another agent still depends on. This one walks the filesystem and reports what is eating the disk as a short lettered menu of choices, then waits. Nothing goes until you have said which paths may go.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9nAjTcDLxhYNz4jOtEzDO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9nAjTcDLxhYNz4jOtEzDO",
+  "homepage": "https://x.ai/bot/9nAjTcDLxhYNz4jOtEzDO",
+  "license": null,
+  "author": "Will",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

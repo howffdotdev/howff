@@ -1,0 +1,22 @@
+{
+  "slug": "liveavatar-launchpad",
+  "name": "LiveAvatar Launchpad",
+  "category": "personal",
+  "tagline": "Opens ready-made avatar demos so you can try the product in one tap",
+  "description": "A front door for people who have heard about LiveAvatar but never watched one work. Choose a ready scenario  -  a hostile investor tearing into your pitch, an interview rehearsal, a language tutor  -  and the session spins up at once. Newcomers land on a showcase; anyone returning can bend a demo toward their own case.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Kcjp2nuqqmLLo3SvDWKfk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Kcjp2nuqqmLLo3SvDWKfk",
+  "homepage": "https://x.ai/bot/Kcjp2nuqqmLLo3SvDWKfk",
+  "license": null,
+  "author": "Wayne",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

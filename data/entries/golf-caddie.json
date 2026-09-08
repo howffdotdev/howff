@@ -1,0 +1,22 @@
+{
+  "slug": "golf-caddie",
+  "name": "Golf Caddie",
+  "category": "personal",
+  "tagline": "A caddie for weekend rounds, from packing the bag to the club call",
+  "description": "Built for players who get out on a Saturday rather than every day of the week. Before you leave it checks conditions at the course and helps you settle what goes in the bag; standing over an awkward lie you can send a photo and get a club back; afterwards it keeps your notes beside the card. Short, plain advice.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/HAJavif4ssNOQku9JQsp-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/HAJavif4ssNOQku9JQsp-",
+  "homepage": "https://x.ai/bot/HAJavif4ssNOQku9JQsp-",
+  "license": null,
+  "author": "Brantley",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

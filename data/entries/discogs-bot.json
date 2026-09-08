@@ -1,0 +1,22 @@
+{
+  "slug": "discogs-bot",
+  "name": "Discogs-Bot",
+  "category": "personal",
+  "tagline": "Works your Discogs collection, wantlist and marketplace from a signed-in session",
+  "description": "Built for record collectors who spend longer in Discogs tabs than at the turntable. From your own logged-in session it searches releases, keeps the collection and wantlist tidy, reads current listings and asking prices, and can drop a record in the cart, replaying the site's own calls rather than clicking pages.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/m5Xjk7EhNokKF49YF9XuW",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/m5Xjk7EhNokKF49YF9XuW",
+  "homepage": "https://x.ai/bot/m5Xjk7EhNokKF49YF9XuW",
+  "license": null,
+  "author": "Alexandre",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

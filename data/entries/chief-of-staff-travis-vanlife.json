@@ -1,0 +1,22 @@
+{
+  "slug": "chief-of-staff-travis-vanlife",
+  "name": "Chief of Staff (Travis / vanlife)",
+  "category": "personal",
+  "tagline": "Directs your other bots, and briefs you on any town you plan to sleep in",
+  "description": "This one holds two jobs. It sits above the rest of your bots and routes work to whichever of them belongs on a task, and separately, name a town and it returns what somebody living out of a vehicle needs there: where sleeping in a van is tolerated, who turns up if it is not, what is on that week and the local mood.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/TPVT39k9ILCz7QYzRja2B",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/TPVT39k9ILCz7QYzRja2B",
+  "homepage": "https://x.ai/bot/TPVT39k9ILCz7QYzRja2B",
+  "license": null,
+  "author": "Daily",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

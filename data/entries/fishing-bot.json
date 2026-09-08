@@ -1,0 +1,22 @@
+{
+  "slug": "fishing-bot",
+  "name": "Fishing Bot",
+  "category": "personal",
+  "tagline": "Tells you what swims in a given lake and what to tie on",
+  "description": "Name a body of water and it comes back with the fish you can expect to find there, whether that water gets stocked, and which bait, lures or flies are worth carrying at this point in the year. The advice shifts with the season instead of staying generic, and it points you at the state wildlife pages it drew on.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/EaX1UmhwVQWHQZ7beB8pI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/EaX1UmhwVQWHQZ7beB8pI",
+  "homepage": "https://x.ai/bot/EaX1UmhwVQWHQZ7beB8pI",
+  "license": null,
+  "author": "Brantley",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

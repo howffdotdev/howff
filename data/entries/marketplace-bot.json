@@ -1,0 +1,22 @@
+{
+  "slug": "marketplace-bot",
+  "name": "Marketplace Bot",
+  "category": "personal",
+  "tagline": "Prices, writes and posts your second-hand listings across three selling apps",
+  "description": "Photograph whatever you are trying to move and it works out a believable asking price from what comparable items actually sold for, then writes the few lines that sit beside the photos. Nothing appears publicly until you approve it, and after that it keeps watching each one for you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9ptyasfHm8ehbIDsLizs-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9ptyasfHm8ehbIDsLizs-",
+  "homepage": "https://x.ai/bot/9ptyasfHm8ehbIDsLizs-",
+  "license": null,
+  "author": "Strategic",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "career-scout",
+  "name": "Career Scout",
+  "category": "personal",
+  "tagline": "Reads your CV, then ranks openings by how closely they really fit",
+  "description": "You begin by handing over your resume, which it turns into a picture of what you can do and what you are looking for. Every vacancy it examines is then graded against that picture, and what comes back is a short ordered list worth your time rather than forty open tabs. Nothing about it assumes a particular industry.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/P_0bcl1HrKuL8E1bfmJjz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/P_0bcl1HrKuL8E1bfmJjz",
+  "homepage": "https://x.ai/bot/P_0bcl1HrKuL8E1bfmJjz",
+  "license": null,
+  "author": "Hojjat",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

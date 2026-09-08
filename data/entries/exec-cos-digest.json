@@ -1,0 +1,22 @@
+{
+  "slug": "exec-cos-digest",
+  "name": "Exec CoS Digest",
+  "category": "personal",
+  "tagline": "Opens your weekday with a calendar rundown and preps tomorrow's outside meetings",
+  "description": "Aimed at anyone whose Monday-to-Friday is really a queue of appointments. Early each morning it lays the day's schedule out in a single read, and the evening before it gathers background on whoever you are meeting from outside the company. Everything lands as a draft; nothing irreversible happens without your say-so.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/gEujmYQAd4BD19eRxMvnC",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/gEujmYQAd4BD19eRxMvnC",
+  "homepage": "https://x.ai/bot/gEujmYQAd4BD19eRxMvnC",
+  "license": null,
+  "author": "Monty",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

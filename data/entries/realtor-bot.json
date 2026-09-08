@@ -1,0 +1,22 @@
+{
+  "slug": "realtor-bot",
+  "name": "Realtor Bot",
+  "category": "personal",
+  "tagline": "Runs the property search for buyers and renters, minus the agent",
+  "description": "A research partner for anyone trawling property sites, upfront that it holds no licence and gives no professional advice. It combs the open listing portals against what you are looking for, narrows results to a shortlist worth your time, and keeps checking so a fresh place or a cut asking price does not slip past.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4wovVk-3n65GZSQnG_srx",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/4wovVk-3n65GZSQnG_srx",
+  "homepage": "https://x.ai/bot/4wovVk-3n65GZSQnG_srx",
+  "license": null,
+  "author": "Brantley",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
