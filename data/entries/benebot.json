@@ -1,0 +1,22 @@
+{
+  "slug": "benebot",
+  "name": "BeneBot",
+  "category": "personal",
+  "tagline": "Explains the benefits you are entitled to, in plain language",
+  "description": "Benefits schemes are written in a register designed to be skimmed past. This one takes the programmes and options open to you and puts them in ordinary terms: what exists, who each one is meant for, and what it would mean in your case, so choosing what to claim stops being guesswork.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yu_bkwUfpHdqhF2Q1VhWn",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/yu_bkwUfpHdqhF2Q1VhWn",
+  "homepage": "https://x.ai/bot/yu_bkwUfpHdqhF2Q1VhWn",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

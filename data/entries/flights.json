@@ -1,0 +1,22 @@
+{
+  "slug": "flights",
+  "name": "Flights",
+  "category": "personal",
+  "tagline": "Compares return fares and watches your routes for a price drop",
+  "description": "Give it a route and it comes back with return fares set against one another, plus links that open straight into Skyscanner. From there it keeps an eye on the routes you care about and speaks up when a fare with checked baggage already included falls. Departures from Bangkok are what it is tuned around.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/xqinGTgeghdOyeYmzqO2m",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/xqinGTgeghdOyeYmzqO2m",
+  "homepage": "https://x.ai/bot/xqinGTgeghdOyeYmzqO2m",
+  "license": null,
+  "author": "truevis",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

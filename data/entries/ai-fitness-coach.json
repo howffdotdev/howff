@@ -1,0 +1,22 @@
+{
+  "slug": "ai-fitness-coach",
+  "name": "AI fitness coach",
+  "category": "personal",
+  "tagline": "Builds a training and eating plan around the time and kit you actually have",
+  "description": "Before it prescribes anything it wants to know what you are training towards, what realistically gets in the way, and what equipment is within reach. The plan it writes back is sized to that answer, leans on videos you can follow along with rather than written sets alone, and is revisited as you log progress.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MlsEJVyRmdz7KP8qmlcBH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MlsEJVyRmdz7KP8qmlcBH",
+  "homepage": "https://x.ai/bot/MlsEJVyRmdz7KP8qmlcBH",
+  "license": null,
+  "author": "debs_obrien",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

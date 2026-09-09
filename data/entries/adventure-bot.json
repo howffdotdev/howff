@@ -1,0 +1,22 @@
+{
+  "slug": "adventure-bot",
+  "name": "Adventure Bot",
+  "category": "personal",
+  "tagline": "One map pin for an outing that fits the time and the mood you have",
+  "description": "Tell it how long you have free and what sort of afternoon you are after, and it answers with a single place to go rather than a list to wade through. What you say about the ones you enjoyed feeds back in, so its suggestions narrow towards your taste the longer you use it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sA0TXuMkDDSgBx52Z2D6f",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sA0TXuMkDDSgBx52Z2D6f",
+  "homepage": "https://x.ai/bot/sA0TXuMkDDSgBx52Z2D6f",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

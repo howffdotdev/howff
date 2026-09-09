@@ -1,0 +1,22 @@
+{
+  "slug": "gamer-bro",
+  "name": "Gamer Bro",
+  "category": "fun",
+  "tagline": "Follows gaming news and deals, and says the moment stock lands",
+  "description": "It keeps up with releases, price cuts, hardware questions and how to get better at whatever you are playing. Alongside that it makes a regular sweep of retailers, checking whether the things on your list have come back into stock or opened for pre-order, and tells you as soon as one can be bought.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YLpOBU1PEiDh2mwFMQeLk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/YLpOBU1PEiDh2mwFMQeLk",
+  "homepage": "https://x.ai/bot/YLpOBU1PEiDh2mwFMQeLk",
+  "license": null,
+  "author": "egcbatt",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

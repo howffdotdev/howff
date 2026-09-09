@@ -1,0 +1,22 @@
+{
+  "slug": "lg-laundry-specialist",
+  "name": "LG Laundry Specialist",
+  "category": "personal",
+  "tagline": "Tell it what needs washing and it starts the right cycle on your LG machine",
+  "description": "Say what is going in the drum in ordinary language: muddy sports kit, a delicate jumper, towels that need a hot wash. It works out which cycle on your LG ThinQ washer or dryer matches, then starts it. Enable Remote Start once at the appliance; after that, turning requests into settings is its job, not yours.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/TNPSVnX4Dm-adBvHJbng7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/TNPSVnX4Dm-adBvHJbng7",
+  "homepage": "https://x.ai/bot/TNPSVnX4Dm-adBvHJbng7",
+  "license": null,
+  "author": "Bwilson",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

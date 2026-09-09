@@ -1,0 +1,22 @@
+{
+  "slug": "influencer-marketing-deal-desk",
+  "name": "Influencer Marketing Deal Desk",
+  "category": "marketing",
+  "tagline": "Prices and structures creator deals before you reply to the brand",
+  "description": "Bring it an inbound rate card, a campaign brief, a draft agreement or a budget, and it returns a recommendation, a fair price range, a deal shape that fits and the move to make next. It covers sponsorship work on YouTube, TikTok, Instagram, X and LinkedIn, and only ever drafts: nothing sends until you approve it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/j4jkqrRiTmFz64aiAWFgx",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/j4jkqrRiTmFz64aiAWFgx",
+  "homepage": "https://x.ai/bot/j4jkqrRiTmFz64aiAWFgx",
+  "license": null,
+  "author": "itsmattreichard",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

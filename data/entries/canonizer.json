@@ -1,0 +1,22 @@
+{
+  "slug": "canonizer",
+  "name": "Canonizer",
+  "category": "productivity",
+  "tagline": "Keeps one running status file that carries work between sessions",
+  "description": "Work spread across chat threads, a local agent and a file store loses its thread the moment you stop. This pulls together where each piece was left and what came out of it into a single running document, consulted at the top of a session and written back to whenever you set something down.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/pOcrH-Rc7SdPWiHsX9vHg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/pOcrH-Rc7SdPWiHsX9vHg",
+  "homepage": "https://x.ai/bot/pOcrH-Rc7SdPWiHsX9vHg",
+  "license": null,
+  "author": "hudcos",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

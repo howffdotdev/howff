@@ -1,0 +1,22 @@
+{
+  "slug": "blueberry-research-monitor",
+  "name": "藍苺守 織",
+  "category": "research",
+  "tagline": "A morning blueberry-research briefing that stays quiet on empty days",
+  "description": "Each morning it works through newly published academic work and trade coverage on one narrow subject, blueberries, and passes on only the handful of items that genuinely tell you something. Mornings when the reading turns up nothing of substance end in silence rather than a padded digest.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/OQlGXzAbIq-IAsj9rSu-K",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/OQlGXzAbIq-IAsj9rSu-K",
+  "homepage": "https://x.ai/bot/OQlGXzAbIq-IAsj9rSu-K",
+  "license": null,
+  "author": "Bizuayeu",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
