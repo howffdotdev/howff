@@ -1,0 +1,22 @@
+{
+  "slug": "wool-radar",
+  "name": "薅羊毛 (Wool Radar)",
+  "category": "personal",
+  "tagline": "Watches for deals on the things you actually buy, and stays quiet otherwise",
+  "description": "It learns the shopping you genuinely do and the AI tools you actually pay for, then watches for supermarket specials at Coles, Woolworths, Aldi and Costco, for quota resets, and for checkout codes that match. Anything off your list is filtered out, so you hear from it only when there is something to act on.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/WFW6_5N596TQpWCRjRZ5w",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/WFW6_5N596TQpWCRjRZ5w",
+  "homepage": "https://x.ai/bot/WFW6_5N596TQpWCRjRZ5w",
+  "license": null,
+  "author": "BenXlab",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

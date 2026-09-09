@@ -1,0 +1,22 @@
+{
+  "slug": "proto",
+  "name": "Proto",
+  "category": "development",
+  "tagline": "Answers one product problem with three distinct, working prototypes",
+  "description": "Hand it a single design problem and it comes back with three separate takes on it, each built out as a polished working prototype rather than a sketch or a mood board. With every one it writes the requirements it assumed and a hypothesis you can test, so choosing between them is evidence-led, not a matter of taste.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-SSy9LBtTNY17MXMXQbYq",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-SSy9LBtTNY17MXMXQbYq",
+  "homepage": "https://x.ai/bot/-SSy9LBtTNY17MXMXQbYq",
+  "license": null,
+  "author": "5antoshernandez",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "sean",
+  "name": "Sean",
+  "category": "ops",
+  "tagline": "Files your Dice and career-portal job applications, screenshotting each one",
+  "description": "Point it at a Dice Easy Apply listing, or paste the link to a company's own careers portal, and it handles the application for you. It gathers your background and work history up front, so it has whatever a form asks for, then fills each one in, submits it, and hands back a screenshot as proof.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8o5g-70IT7LWNt1JQT0DY",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8o5g-70IT7LWNt1JQT0DY",
+  "homepage": "https://x.ai/bot/8o5g-70IT7LWNt1JQT0DY",
+  "license": null,
+  "author": "0xsuhas1",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

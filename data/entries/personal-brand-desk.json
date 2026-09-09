@@ -1,0 +1,22 @@
+{
+  "slug": "personal-brand-desk",
+  "name": "Personal Brand Desk",
+  "category": "marketing",
+  "tagline": "Turns your posts that landed into five vetted personal-brand drafts",
+  "description": "It starts by looking back over your own posting history to see what actually earned attention, then puts forward five ideas with sources attached. Each one is written, picked apart and rewritten before it reaches you, and anything bound for LinkedIn sits on hold until you say the word.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/DOBxYb_XLVEAlO6A1eZgU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/DOBxYb_XLVEAlO6A1eZgU",
+  "homepage": "https://x.ai/bot/DOBxYb_XLVEAlO6A1eZgU",
+  "license": null,
+  "author": "rlagos24",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

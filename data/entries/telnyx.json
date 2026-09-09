@@ -1,0 +1,22 @@
+{
+  "slug": "telnyx",
+  "name": "Telnyx",
+  "category": "ops",
+  "tagline": "Walks you through a Telnyx setup, from empty account to first live test",
+  "description": "It takes someone who has never touched the platform and gets them to a working integration: opening the account, generating credentials, taking on a number, wiring up messaging or calls, pointing webhooks somewhere real, and proving the whole chain end to end before you build on it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/l2RX-35tKxZXxgJldSBf0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/l2RX-35tKxZXxgJldSBf0",
+  "homepage": "https://x.ai/bot/l2RX-35tKxZXxgJldSBf0",
+  "license": null,
+  "author": "traviscurnutte",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

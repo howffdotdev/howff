@@ -1,0 +1,22 @@
+{
+  "slug": "social-media-by-eclincher",
+  "name": "Social Media by Eclincher",
+  "category": "marketing",
+  "tagline": "Schedules posts and answers every comment, message and review in one place",
+  "description": "It covers the working day of a social team end to end: queueing and sending posts out across more than a dozen networks, then gathering everything that comes back, from private messages to public reviews, into one place to be answered from. Live performance figures sit alongside the replies.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Xp5k82r21UvTani1ndv-b",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Xp5k82r21UvTani1ndv-b",
+  "homepage": "https://x.ai/bot/Xp5k82r21UvTani1ndv-b",
+  "license": null,
+  "author": "eclincher",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

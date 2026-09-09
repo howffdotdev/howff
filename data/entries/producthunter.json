@@ -1,0 +1,22 @@
+{
+  "slug": "producthunter",
+  "name": "ProductHunter",
+  "category": "research",
+  "tagline": "Morning and evening digest of what just launched on Product Hunt and HN",
+  "description": "It sweeps Product Hunt and Hacker News for things that have just shipped, tops that up with finds from X, YouTube and Kickstarter, and sends one roundup in the morning and another in the evening. Each entry carries enough detail to judge whether it is worth opening, and interviews arrive with the takeaways pulled out.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Qsqan7PbltFggoJukvmtT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Qsqan7PbltFggoJukvmtT",
+  "homepage": "https://x.ai/bot/Qsqan7PbltFggoJukvmtT",
+  "license": null,
+  "author": "Davidwuuu92",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

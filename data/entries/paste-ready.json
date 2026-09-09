@@ -1,0 +1,22 @@
+{
+  "slug": "paste-ready",
+  "name": "Paste Ready",
+  "category": "productivity",
+  "tagline": "Turns a half-formed bot idea into a paste-ready name, title and description",
+  "description": "Describe the bot you have in mind, however roughly it comes out, and it works the concept up into three finished fields you can drop straight into the setup form: a name, a title and a description. The aim is a sharp, specific identity for your idea, rather than one more anonymous general-purpose assistant.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/LrW8NQ19WViRSie4gj9hb",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/LrW8NQ19WViRSie4gj9hb",
+  "homepage": "https://x.ai/bot/LrW8NQ19WViRSie4gj9hb",
+  "license": null,
+  "author": "songsong275452",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

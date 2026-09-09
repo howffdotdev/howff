@@ -1,0 +1,22 @@
+{
+  "slug": "staypick",
+  "name": "Staypick",
+  "category": "personal",
+  "tagline": "Works out which neighbourhood to sleep in before you book anything",
+  "description": "It belongs to the stage before a booking exists: weighing up districts and the sort of place to stay in each, and saying plainly which one suits the trip you are describing. Nothing is reserved on your behalf. What comes back is a proposal, with food landmarks and local pointers attached.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/xhYtadt6BRbZh3MMEppLa",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/xhYtadt6BRbZh3MMEppLa",
+  "homepage": "https://x.ai/bot/xhYtadt6BRbZh3MMEppLa",
+  "license": null,
+  "author": "TuracTheThinker",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

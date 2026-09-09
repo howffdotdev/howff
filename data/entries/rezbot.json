@@ -1,0 +1,22 @@
+{
+  "slug": "rezbot",
+  "name": "RezBot",
+  "category": "personal",
+  "tagline": "Finds an open table and makes the restaurant booking for you",
+  "description": "Say where you want to eat, or just roughly what you are in the mood for, and it goes looking for a table that fits. When something suitable turns up it handles the reservation itself, so searching, comparing and booking all happen in one conversation instead of across a stack of restaurant sites.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/JnDyu7X7D2qZDR1R3IcPU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/JnDyu7X7D2qZDR1R3IcPU",
+  "homepage": "https://x.ai/bot/JnDyu7X7D2qZDR1R3IcPU",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

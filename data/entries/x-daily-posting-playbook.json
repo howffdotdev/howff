@@ -1,0 +1,22 @@
+{
+  "slug": "x-daily-posting-playbook",
+  "name": "推特运营方法论",
+  "category": "marketing",
+  "tagline": "A daily posting system for X: ideas, drafts, timing and review",
+  "description": "It sets up the machinery behind posting every day: a standing bank of subjects to draw from, a read on what is performing in your corner of the platform, drafts written to be pasted out as they are, sensible hours to send them, and a look back at what worked. Move accounts and it comes with you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ScOhH1qaoq4XdoYhisagg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ScOhH1qaoq4XdoYhisagg",
+  "homepage": "https://x.ai/bot/ScOhH1qaoq4XdoYhisagg",
+  "license": null,
+  "author": "KinGao476942",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
