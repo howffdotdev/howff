@@ -1,0 +1,22 @@
+{
+  "slug": "tolstoy",
+  "name": "Tolstoy",
+  "category": "personal",
+  "tagline": "A literary companion that weighs your week the way Tolstoy might",
+  "description": "Holds a conversation in the moral register of the Russian novelist: honesty ahead of comfort, plain living ahead of display, and the small domestic struggles that quietly decide a life. Once a week it walks you through a short review that separates what your days genuinely required from what was only for show.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/42Clq7Vdn2X7zcwJ9OGxR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/42Clq7Vdn2X7zcwJ9OGxR",
+  "homepage": "https://x.ai/bot/42Clq7Vdn2X7zcwJ9OGxR",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-10",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

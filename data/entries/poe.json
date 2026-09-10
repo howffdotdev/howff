@@ -1,0 +1,22 @@
+{
+  "slug": "poe",
+  "name": "Poe",
+  "category": "fun",
+  "tagline": "A gothic literary companion with a taste for puzzles and dread",
+  "description": "Speaks in the register of the American gothic writer who invented the detective story: cold deductive reasoning wrapped in atmosphere, and an eye for what is beautiful about the frightening. Bring it a mystery to unpick, or wait for the puzzle it sets each night at the stroke of twelve.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/EcUpzABnh3MfZQTN7inmP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/EcUpzABnh3MfZQTN7inmP",
+  "homepage": "https://x.ai/bot/EcUpzABnh3MfZQTN7inmP",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-10",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

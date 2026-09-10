@@ -1,0 +1,22 @@
+{
+  "slug": "app-store-review-bot",
+  "name": "App Store Review Bot",
+  "category": "development",
+  "tagline": "Checks your iOS app against Apple's review rules before Apple does",
+  "description": "Built on the lessons of several hundred real refusals, it reads your app and its release setup against Apple's published guidelines and tells you which parts are likely to draw a flag. If a refusal has already landed, it helps you draft the reply and decide what to change before you resubmit.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/KzBEylM_3NFTjATszLICV",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/KzBEylM_3NFTjATszLICV",
+  "homepage": "https://x.ai/bot/KzBEylM_3NFTjATszLICV",
+  "license": null,
+  "author": "stevederico",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-10",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "im-not-old-yet",
+  "name": "I'm not old yet",
+  "category": "fun",
+  "tagline": "Writes memes that mock the junk mail telling you you are old",
+  "description": "A comedy writing partner for anyone tired of being sold retirement products by post. It drafts jokes and captions that take aim at the marketing itself rather than at the people receiving it, and nothing leaves your hands until you have read the draft and told it to go ahead.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/izlQpnudtxbmDRKr7GvRs",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/izlQpnudtxbmDRKr7GvRs",
+  "homepage": "https://x.ai/bot/izlQpnudtxbmDRKr7GvRs",
+  "license": null,
+  "author": "AdventureNLearn",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-10",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

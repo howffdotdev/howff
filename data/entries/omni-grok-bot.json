@@ -1,0 +1,22 @@
+{
+  "slug": "omni-grok-bot",
+  "name": "OMNI Grok-Bot",
+  "category": "personal",
+  "tagline": "An ethics-first companion that answers your question and never sees your files",
+  "description": "A single entry point for questions you would rather have handled with judgement than with speed. It leans toward taking complications away instead of piling extras on, keeps each answer tied to one guiding purpose, and is walled off from your stored material so the only thing it ever reads is what you type.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/HAIGA0nUYgv85CtV5SMWa",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/HAIGA0nUYgv85CtV5SMWa",
+  "homepage": "https://x.ai/bot/HAIGA0nUYgv85CtV5SMWa",
+  "license": null,
+  "author": "omni_puzzler",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-10",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

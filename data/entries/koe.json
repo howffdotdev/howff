@@ -1,0 +1,22 @@
+{
+  "slug": "koe",
+  "name": "Koe",
+  "category": "personal",
+  "tagline": "A twelve-month thinking coach that makes you fill in the plan yourself",
+  "description": "Lays out a full year of strategic thinking as a daily habit, drawn from the Art of Strategic Thinking framework by writer Dan Koe. Every day it opens a dashboard of blank prompts and structured steps, then holds the line: you supply the answers, and it will not write them for you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/2cfzlwUnOQtohmHiguKuc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/2cfzlwUnOQtohmHiguKuc",
+  "homepage": "https://x.ai/bot/2cfzlwUnOQtohmHiguKuc",
+  "license": null,
+  "author": "dannybuck",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-10",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "renewals-invoice-bot",
+  "name": "Renewals Invoice Bot",
+  "category": "finance",
+  "tagline": "Settles your recurring bills up to a fixed weekly limit, and asks before anything new",
+  "description": "Takes the routine end of accounts payable off your desk: subscription renewals and the payment reminders that pile up each week are handled from its own machine, drawing on a budget you cap in advance. Anything outside the list you pre-approved stops and comes back to you for a decision.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-9hlUkQbsgE7oUyQvUPum",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-9hlUkQbsgE7oUyQvUPum",
+  "homepage": "https://x.ai/bot/-9hlUkQbsgE7oUyQvUPum",
+  "license": null,
+  "author": "compileinstyle",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-10",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

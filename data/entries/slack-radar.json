@@ -1,0 +1,24 @@
+{
+  "slug": "slack-radar",
+  "name": "Slack Radar",
+  "category": "ops",
+  "tagline": "Reads your Slack so you do not have to, and speaks only when it matters",
+  "description": "Sits quietly across the workspace and never posts anything: its only output is a nudge to you. It follows the threads where you were tagged plus any subjects you tell it to care about, throws away nearly everything else, and surfaces the few messages that genuinely need an answer from you.",
+  "integrations": [
+    "Slack"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/m4WfJ0ODD0O1runkfq0Ak",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/m4WfJ0ODD0O1runkfq0Ak",
+  "homepage": "https://x.ai/bot/m4WfJ0ODD0O1runkfq0Ak",
+  "license": null,
+  "author": "parkersmith",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-10",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

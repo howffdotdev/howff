@@ -1,0 +1,22 @@
+{
+  "slug": "personal-trainer",
+  "name": "Personal Trainer",
+  "category": "personal",
+  "tagline": "Keeps one client logging meals and sessions between coaching check-ins",
+  "description": "Built for a coach to hand to a single client. Between sessions it asks briefly and kindly about what was eaten and what was trained, keeps the record tidy, and at the close of each week hands the coach a summary of how the seven days actually went. The coaching itself stays with the human.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/t9TIKE_igItEQd6tOyyRd",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/t9TIKE_igItEQd6tOyyRd",
+  "homepage": "https://x.ai/bot/t9TIKE_igItEQd6tOyyRd",
+  "license": null,
+  "author": "Nathan",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-10",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

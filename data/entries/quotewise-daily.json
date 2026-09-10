@@ -1,0 +1,22 @@
+{
+  "slug": "quotewise-daily",
+  "name": "Quotewise Daily",
+  "category": "research",
+  "tagline": "A quotation desk that can prove who actually said it",
+  "description": "Serves one chosen quotation a day that stays put until tomorrow, and searches the rest by idea rather than exact wording, so you can find a line you only half remember. Every result carries a link back to where it came from, and it will test a shaky attribution before you repeat it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/kmmBn74qwBr9lgedW4naf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/kmmBn74qwBr9lgedW4naf",
+  "homepage": "https://x.ai/bot/kmmBn74qwBr9lgedW4naf",
+  "license": null,
+  "author": "quotewiser",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-10",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
