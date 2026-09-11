@@ -574,6 +574,11 @@ nav.nav a.btn[aria-current="page"]::before {
   color: var(--accent-text);
 }
 
+.footer-heart {
+  color: var(--accent-text);
+  padding: 0 0.05em;
+}
+
 .page {
   padding: var(--space-10) 0 var(--space-12);
 }
