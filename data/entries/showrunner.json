@@ -1,0 +1,28 @@
+{
+  "slug": "showrunner",
+  "name": "Showrunner",
+  "category": "writing",
+  "tagline": "Directs a music video across a small crew of specialist bots",
+  "description": "The lead role in a five-part setup for making music videos. It settles the look, produces the reference frames, and spells out what every shot needs from Grok Imagine, feed those in yourself or let it render them, after which the finished clips are cut together against the track.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/dLxcnhWxf9JyHIo_l8wJk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/dLxcnhWxf9JyHIo_l8wJk",
+  "homepage": "https://x.ai/bot/dLxcnhWxf9JyHIo_l8wJk",
+  "license": null,
+  "author": "RedSpiceX",
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "automation",
+    "agent-team"
+  ],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

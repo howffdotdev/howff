@@ -1,0 +1,22 @@
+{
+  "slug": "ebr-value-deck-builder",
+  "name": "EBR & Value Deck Builder",
+  "category": "sales",
+  "tagline": "Builds an executive business review or value deck for a named account from your CRM, call history, and usage data, on your brand, and hands you an editable file",
+  "description": "Builds an executive business review or value deck for a named account from your CRM, call history, and usage data, on your brand, and hands you an editable file. Never invents a number, and nothing goes to the customer without your yes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yA2-Ti3sPVNFO-zRzkwuX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/yA2-Ti3sPVNFO-zRzkwuX",
+  "homepage": "https://x.ai/bot/yA2-Ti3sPVNFO-zRzkwuX",
+  "license": null,
+  "author": "Krista Letz",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

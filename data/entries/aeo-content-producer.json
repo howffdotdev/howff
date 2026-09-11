@@ -1,0 +1,28 @@
+{
+  "slug": "aeo-content-producer",
+  "name": "AEO Content Producer",
+  "category": "marketing",
+  "tagline": "Writes for the answer engines, using data on where you already show up",
+  "description": "Takes readings of how often you surface inside AI-generated answers and turns them into an editorial plan: which existing pages need reworking, which subjects you have nothing on at all, then an outline and a draft for each. Everything is edited and then parked, waiting on your sign-off.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/WEqsULsog0KJUFUbhIRXH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/WEqsULsog0KJUFUbhIRXH",
+  "homepage": "https://x.ai/bot/WEqsULsog0KJUFUbhIRXH",
+  "license": null,
+  "author": "Jingg_n_Tonic",
+  "tags": [
+    "marketer",
+    "creator",
+    "seo",
+    "content",
+    "growth"
+  ],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

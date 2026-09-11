@@ -1,0 +1,27 @@
+{
+  "slug": "bot-maintenance-auditor",
+  "name": "ボット整備",
+  "category": "development",
+  "tagline": "Keeps the labels on your other bots honest about what they now do",
+  "description": "Bots drift: the name and the blurb describe the job they had on day one, not the one they have grown into. This one re-reads how each bot has actually been used, points out where its description no longer matches, and proposes wording that does. Nothing changes until you say yes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/BlTqnV5o9E35Dwo2sodyD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/BlTqnV5o9E35Dwo2sodyD",
+  "homepage": "https://x.ai/bot/BlTqnV5o9E35Dwo2sodyD",
+  "license": null,
+  "author": "x_stone_island",
+  "tags": [
+    "developer",
+    "ops",
+    "productivity",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

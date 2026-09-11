@@ -1,0 +1,26 @@
+{
+  "slug": "apple-dev",
+  "name": "Apple Dev",
+  "category": "development",
+  "tagline": "Runs Xcode, simulators and Swift builds on a Mac you have connected",
+  "description": "Aimed at people whose work has to compile on Apple hardware. Point it at a machine you have already paired, by its identifier, and it drives the local toolchain sitting there, editor, build, simulator, so the iOS or macOS side of a project is handled from chat rather than by hand.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VPM4_E2eqx9AJFpTF-_EA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VPM4_E2eqx9AJFpTF-_EA",
+  "homepage": "https://x.ai/bot/VPM4_E2eqx9AJFpTF-_EA",
+  "license": null,
+  "author": "Baconbrix",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "product-builder-cos",
+  "name": "Product Builder CoS",
+  "category": "productivity",
+  "tagline": "Turns a signed-off product plan into a checklist someone actually tracks",
+  "description": "Aimed at product managers who have no shortage of ideas and nobody to chase the follow-through. Once a plan is agreed it breaks the work into tracked items, keeps an owner and a date attached to each one, and flags the pieces that have quietly stopped moving.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/6tbtv4Tln4MvKc5duOkle",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/6tbtv4Tln4MvKc5duOkle",
+  "homepage": "https://x.ai/bot/6tbtv4Tln4MvKc5duOkle",
+  "license": null,
+  "author": "sneharavindra",
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "decision-support",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

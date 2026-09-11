@@ -1,0 +1,28 @@
+{
+  "slug": "firstmate",
+  "name": "Firstmate",
+  "category": "development",
+  "tagline": "One chat window that quietly drives your whole fleet of bots",
+  "description": "Sits in front of everything else you have built, so a request goes to one place instead of to six different assistants. It works out which specialist should handle each piece, passes the work along, and brings the result back to the same thread you started in.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r",
+  "homepage": "https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r",
+  "license": null,
+  "author": "compileinstyle",
+  "tags": [
+    "developer",
+    "business",
+    "productivity",
+    "automation",
+    "agent-team"
+  ],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

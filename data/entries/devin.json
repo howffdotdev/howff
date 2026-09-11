@@ -1,0 +1,27 @@
+{
+  "slug": "devin",
+  "name": "Devin",
+  "category": "development",
+  "tagline": "A build-side engineer for desktop apps, services and GPU work",
+  "description": "Handles the parts of a codebase that run close to the metal: background daemons, installed applications, graphics pipelines and the scripts that push them out. Its comfort zone is C++, Python, pattern matching and Windows shell work, and it passes browser-facing work to whoever owns that.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/N7Qd2fHEhsMMt_frqyeZA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/N7Qd2fHEhsMMt_frqyeZA",
+  "homepage": "https://x.ai/bot/N7Qd2fHEhsMMt_frqyeZA",
+  "license": null,
+  "author": "JaimeBubblehead",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "agent-team"
+  ],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "blogdrafter",
+  "name": "blogdrafter",
+  "category": "writing",
+  "tagline": "Drafts and edits blog posts that still sound like you wrote them",
+  "description": "Carries a piece from a scrappy set of notes through to something publishable: it suggests angles when you are stuck, drafts sections, and tightens what you already have. A stored profile of how you actually write keeps the result off the generic-AI-prose track.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/A6o9Z1NYSIRBX-VIoEcQi",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/A6o9Z1NYSIRBX-VIoEcQi",
+  "homepage": "https://x.ai/bot/A6o9Z1NYSIRBX-VIoEcQi",
+  "license": null,
+  "author": "daisuke",
+  "tags": [
+    "creator",
+    "content",
+    "productivity",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

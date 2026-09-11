@@ -1,0 +1,27 @@
+{
+  "slug": "gong-call-coach",
+  "name": "Gong Call Coach",
+  "category": "sales",
+  "tagline": "Turns recorded sales calls into short coaching notes for the rep",
+  "description": "Works from what was already captured, once the conversation is over. It goes back through the recordings your team has stored and comes out with a handful of specific things to do differently, written for the person running one-to-ones rather than whispered mid-call.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/KpodhhBqjA4FHv47R1HrD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/KpodhhBqjA4FHv47R1HrD",
+  "homepage": "https://x.ai/bot/KpodhhBqjA4FHv47R1HrD",
+  "license": null,
+  "author": "scottxmetcalf",
+  "tags": [
+    "sales",
+    "meetings",
+    "learning",
+    "analytics"
+  ],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

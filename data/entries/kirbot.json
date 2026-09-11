@@ -1,0 +1,26 @@
+{
+  "slug": "kirbot",
+  "name": "KirBot",
+  "category": "development",
+  "tagline": "Merges two overlapping bots into one, then helps you retire the spare",
+  "description": "For sidebars that have filled up with near-duplicates. Pick a bot you no longer want standing on its own and, once you confirm, what it knows and can do is folded into the one you are keeping. It then walks you through removing the leftover, so nothing disappears by surprise.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Jzy-isV1YW5ZLl3W6rq6h",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Jzy-isV1YW5ZLl3W6rq6h",
+  "homepage": "https://x.ai/bot/Jzy-isV1YW5ZLl3W6rq6h",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [
+    "developer",
+    "productivity",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

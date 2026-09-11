@@ -1,0 +1,22 @@
+{
+  "slug": "signal-prospector",
+  "name": "Signal Prospector",
+  "category": "sales",
+  "tagline": "Finds the accounts and people in your CRM and product data that just showed intent, ranks them, and drafts the first touch",
+  "description": "Finds the accounts and people in your CRM and product data that just showed intent, ranks them, and drafts the first touch. Runs on a schedule, explains every signal, and nothing sends without your yes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wsbOPOkHApmIYLrErnC4e",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wsbOPOkHApmIYLrErnC4e",
+  "homepage": "https://x.ai/bot/wsbOPOkHApmIYLrErnC4e",
+  "license": null,
+  "author": "Krista Letz",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

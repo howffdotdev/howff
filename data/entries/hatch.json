@@ -1,0 +1,27 @@
+{
+  "slug": "hatch",
+  "name": "Hatch",
+  "category": "development",
+  "tagline": "A bot that interviews you briefly, then builds the bot you described",
+  "description": "Instead of starting from a blank prompt, you answer a short round of questions about what the new assistant should cover and how it ought to behave, and it assembles the thing for you. Anything aimed at writing code is held to a deliberately narrow remit: one job, done properly.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/o8hID4-jKPlA8QQQH5K69",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/o8hID4-jKPlA8QQQH5K69",
+  "homepage": "https://x.ai/bot/o8hID4-jKPlA8QQQH5K69",
+  "license": null,
+  "author": "littletechbird",
+  "tags": [
+    "developer",
+    "creator",
+    "productivity",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

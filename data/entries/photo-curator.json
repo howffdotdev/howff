@@ -1,0 +1,28 @@
+{
+  "slug": "photo-curator",
+  "name": "Photo Curator",
+  "category": "personal",
+  "tagline": "Sorts a holiday or family photo dump down to the keepers, then tidies them",
+  "description": "Hand it a folder of raw shots and it picks out the ones worth keeping, applies the same restrained set of adjustments to each, and files the results separately. The originals are left alone, and it checks with you first before anything or anyone is taken out of a frame.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/hig9j1KnpZyH6QQN-Af0Z",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/hig9j1KnpZyH6QQN-Af0Z",
+  "homepage": "https://x.ai/bot/hig9j1KnpZyH6QQN-Af0Z",
+  "license": null,
+  "author": "jaharris13",
+  "tags": [
+    "personal",
+    "creator",
+    "design",
+    "productivity",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

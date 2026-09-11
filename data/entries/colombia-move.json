@@ -1,0 +1,27 @@
+{
+  "slug": "colombia-move",
+  "name": "Colombia Move",
+  "category": "ops",
+  "tagline": "A bilingual help desk for the Colombia Move marketplace",
+  "description": "Answers in Spanish or English, whichever you happen to write in. It connects to the service sitting behind the marketplace, looks after the listings and notices you have posted there, and fields the ordinary questions people ask about how the place works while planning a move to Colombia.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/mWxeafjXItbC0_VcpSwqm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/mWxeafjXItbC0_VcpSwqm",
+  "homepage": "https://x.ai/bot/mWxeafjXItbC0_VcpSwqm",
+  "license": null,
+  "author": "michaelheredia",
+  "tags": [
+    "business",
+    "travel",
+    "support",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

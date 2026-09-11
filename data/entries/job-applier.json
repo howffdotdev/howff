@@ -1,0 +1,27 @@
+{
+  "slug": "job-applier",
+  "name": "Job applier",
+  "category": "personal",
+  "tagline": "Applies to a lot of roles without making each one sound generic",
+  "description": "Built for a search where volume matters. It starts by reading your CV and asking enough about you to work with, goes looking for openings that suit, and rewrites what you send so it speaks to that particular posting. What it will not do is invent experience you do not have.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/gfxH6sM_0QlxeDNFrRmep",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/gfxH6sM_0QlxeDNFrRmep",
+  "homepage": "https://x.ai/bot/gfxH6sM_0QlxeDNFrRmep",
+  "license": null,
+  "author": "aroogle",
+  "tags": [
+    "personal",
+    "recruiting",
+    "automation",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

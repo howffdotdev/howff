@@ -1,0 +1,28 @@
+{
+  "slug": "facta",
+  "name": "Facta",
+  "category": "research",
+  "tagline": "Grades every claim your other bots make before it goes out",
+  "description": "Sits downstream of the rest of the crew as a check on what they assert. Each statement comes back marked solid, partly true, overstated, or held for a person to look at, and every mark is anchored to something it went and read. Where it cannot confirm a thing, it says so rather than filling the gap.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ayQ3WlQQ2Z7LQhILzbZIR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ayQ3WlQQ2Z7LQhILzbZIR",
+  "homepage": "https://x.ai/bot/ayQ3WlQQ2Z7LQhILzbZIR",
+  "license": null,
+  "author": "JaimeBubblehead",
+  "tags": [
+    "business",
+    "research",
+    "decision-support",
+    "knowledge-base",
+    "agent-team"
+  ],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

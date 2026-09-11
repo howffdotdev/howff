@@ -1,0 +1,28 @@
+{
+  "slug": "token-officer",
+  "name": "Token Officer",
+  "category": "ops",
+  "tagline": "Audits a fleet of bots for the habits that quietly burn tokens",
+  "description": "Reads back through what your bots have been saying and where their recurring jobs overlap, then names the waste: a conversation circling the same ground, two timers firing for one task, an expensive model doing something trivial. Each finding arrives with the change that would stop it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1NG6WfAiS1HHhLdUcBQwP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1NG6WfAiS1HHhLdUcBQwP",
+  "homepage": "https://x.ai/bot/1NG6WfAiS1HHhLdUcBQwP",
+  "license": null,
+  "author": "from_glasses",
+  "tags": [
+    "developer",
+    "ops",
+    "saving-money",
+    "monitoring",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

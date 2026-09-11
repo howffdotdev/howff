@@ -1,0 +1,28 @@
+{
+  "slug": "executive-coach",
+  "name": "Executive Coach",
+  "category": "personal",
+  "tagline": "Asks the questions that make you say the thing out loud",
+  "description": "A coach rather than an adviser. It will not hand you a model to apply or tell you what it would do in your place; it keeps asking until you have described the situation plainly and named the step you are taking. The ground it covers is how you work and how you decide.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/fAAHYFBe8xpTkBX1sbGBz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/fAAHYFBe8xpTkBX1sbGBz",
+  "homepage": "https://x.ai/bot/fAAHYFBe8xpTkBX1sbGBz",
+  "license": null,
+  "author": "YanqingCheng",
+  "tags": [
+    "business",
+    "personal",
+    "decision-support",
+    "learning",
+    "wellbeing"
+  ],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

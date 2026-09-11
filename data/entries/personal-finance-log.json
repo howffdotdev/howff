@@ -1,0 +1,28 @@
+{
+  "slug": "personal-finance-log",
+  "name": "人生·财务",
+  "category": "finance",
+  "tagline": "Log spending by speaking, get a nightly summary and a monthly look back",
+  "description": "Records what you spend as you say it out loud, so the habit survives contact with a busy day. Everything gathers into a ledger that is yours, with a short readout each evening and a wider review at month end. Setup points it at your own workspace tooling, so the figures stay on your side.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/haSA0Ru28CYKDm2V5tPRB",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/haSA0Ru28CYKDm2V5tPRB",
+  "homepage": "https://x.ai/bot/haSA0Ru28CYKDm2V5tPRB",
+  "license": null,
+  "author": "KinGao476942",
+  "tags": [
+    "personal",
+    "finance",
+    "productivity",
+    "monitoring",
+    "analytics"
+  ],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "bot-portal",
+  "name": "Bot Portal",
+  "category": "development",
+  "tagline": "Keeps a running map of the AI tools and bots worth knowing about",
+  "description": "Somewhere between a directory and a graph. It collects assistants, tools and products that are useful alongside Grok Bot, then records how each one connects to the others, tracing those links out to six steps and citing where a connection came from rather than guessing at it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5R5NbvHIoJOSd3l3qto3o",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5R5NbvHIoJOSd3l3qto3o",
+  "homepage": "https://x.ai/bot/5R5NbvHIoJOSd3l3qto3o",
+  "license": null,
+  "author": "JaimeBubblehead",
+  "tags": [
+    "developer",
+    "research",
+    "knowledge-base"
+  ],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

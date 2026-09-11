@@ -1,0 +1,29 @@
+{
+  "slug": "affiliate-recruiter",
+  "name": "Affiliate Recruiter",
+  "category": "sales",
+  "tagline": "Finds and ranks the people who could actually sell your product for you",
+  "description": "Works the recruiting end of an affiliate programme: it hunts by subject and by who is already promoting your rivals, rates what comes back, and narrows it to a shortlist worth your time. Each name arrives with a way to reach them and a first draft of the approach for you to edit.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/TaCAhCtPGCvObAaK7ZDQQ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/TaCAhCtPGCvObAaK7ZDQQ",
+  "homepage": "https://x.ai/bot/TaCAhCtPGCvObAaK7ZDQQ",
+  "license": null,
+  "author": "zilvestro",
+  "tags": [
+    "business",
+    "marketer",
+    "sales",
+    "growth",
+    "research",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-11",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
