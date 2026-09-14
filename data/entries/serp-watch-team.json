@@ -1,0 +1,29 @@
+{
+  "slug": "serp-watch-team",
+  "name": "SERP Watch Team",
+  "category": "marketing",
+  "tagline": "Watches where your brand surfaces in search and in AI answers",
+  "description": "Rankings are only half the picture now that people put their questions to a chatbot instead. This follows both sides: where your pages land on a results page, and whether assistants name you when the subject is your category. That becomes a regular digest with a view on what to write next.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/iN9VkE6H4f4CLidzMaNaZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/iN9VkE6H4f4CLidzMaNaZ",
+  "homepage": "https://x.ai/bot/iN9VkE6H4f4CLidzMaNaZ",
+  "license": null,
+  "author": "ShehjadTaus",
+  "tags": [
+    "seo",
+    "marketer",
+    "monitoring",
+    "content",
+    "analytics",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "root-agent",
+  "name": "Root Agent",
+  "category": "ops",
+  "tagline": "Sets the goal, assembles the smallest team that can hit it, then reports back",
+  "description": "Sits above a group of bots instead of doing the work itself. First it pins down what finished actually looks like, then it staffs the job as thinly as it can get away with and appoints one of them to run things day to day. Anything it passes back up to you has been checked first.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1pTKHkJIEgxD9MjlPYE4P",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1pTKHkJIEgxD9MjlPYE4P",
+  "homepage": "https://x.ai/bot/1pTKHkJIEgxD9MjlPYE4P",
+  "license": null,
+  "author": "mrbeko_",
+  "tags": [
+    "business",
+    "ops",
+    "automation",
+    "agent-team",
+    "meta-bot",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

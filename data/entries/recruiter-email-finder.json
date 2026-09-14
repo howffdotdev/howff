@@ -1,0 +1,29 @@
+{
+  "slug": "recruiter-email-finder",
+  "name": "Recruiter Email Finder",
+  "category": "sales",
+  "tagline": "Works out who does the hiring at your target employers and how to email them",
+  "description": "You name the companies; it goes after the people who handle campus hiring, graduate intake and engineering roles at each one, and digs out their addresses. Everything arrives as a spreadsheet sorted by employer, so an outreach round becomes a matter of working down a list rather than hunting one contact at a time.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/lbf-biMZO02RdXeOBks_-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/lbf-biMZO02RdXeOBks_-",
+  "homepage": "https://x.ai/bot/lbf-biMZO02RdXeOBks_-",
+  "license": null,
+  "author": "fwhittington_24",
+  "tags": [
+    "personal",
+    "student",
+    "recruiting",
+    "research",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

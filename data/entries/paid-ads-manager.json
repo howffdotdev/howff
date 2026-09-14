@@ -1,0 +1,29 @@
+{
+  "slug": "paid-ads-manager",
+  "name": "Paid ads manager",
+  "category": "marketing",
+  "tagline": "Takes a paid-acquisition budget from creative through launch to daily triage",
+  "description": "Covers the whole advertising cycle instead of one slice of it: producing the creative, getting campaigns live, and checking on them every single day. Each morning it hands back a short summary of what happened overnight. Thresholds for killing a loser or putting more behind a winner are yours to set up front.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/SAfsqPLP0rCuQOywOguxX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/SAfsqPLP0rCuQOywOguxX",
+  "homepage": "https://x.ai/bot/SAfsqPLP0rCuQOywOguxX",
+  "license": null,
+  "author": "ColinMcDermott",
+  "tags": [
+    "business",
+    "marketer",
+    "growth",
+    "automation",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "paige-turner",
+  "name": "Paige Turner",
+  "category": "writing",
+  "tagline": "The librarian for a bot team, so the rest answer from sources instead of memory",
+  "description": "Takes charge of the documents a group of agents has to share. It runs the extraction step with Docling, turns the text into mxbai embeddings and keeps the pgvector index current, so when a specialist needs background it gets a real passage with a citation attached rather than a plausible guess.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/2lbNqne5ku5VQird_s8AW",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/2lbNqne5ku5VQird_s8AW",
+  "homepage": "https://x.ai/bot/2lbNqne5ku5VQird_s8AW",
+  "license": null,
+  "author": "omnithnkr",
+  "tags": [
+    "developer",
+    "knowledge-base",
+    "data",
+    "engineering",
+    "research",
+    "agent-team",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

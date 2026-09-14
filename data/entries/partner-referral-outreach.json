@@ -1,0 +1,29 @@
+{
+  "slug": "partner-referral-outreach",
+  "name": "Partner referral outreach",
+  "category": "sales",
+  "tagline": "Builds a referral network by finding matching businesses and chasing them up",
+  "description": "Works through the whole cycle of adding new partners to your book. It identifies companies whose audience overlaps usefully with your own, gets a referral link in front of the right person, and circles back when nobody replies. Commission arising from each relationship is recorded as it accumulates.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/GG7hDpauDjTRhB6VgLFAF",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/GG7hDpauDjTRhB6VgLFAF",
+  "homepage": "https://x.ai/bot/GG7hDpauDjTRhB6VgLFAF",
+  "license": null,
+  "author": "ColinMcDermott",
+  "tags": [
+    "business",
+    "sales",
+    "marketer",
+    "growth",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

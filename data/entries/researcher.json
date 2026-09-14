@@ -1,0 +1,29 @@
+{
+  "slug": "researcher",
+  "name": "Researcher",
+  "category": "research",
+  "tagline": "The research seat on your bot team, and the one that trains the others",
+  "description": "Give it a half-formed question and what comes back is a tight brief that has already been checked, not a pile of links to work through yourself. It hunts across the open web, the files on your machine and your own documentation, and it coaches the rest of your bots on how to search properly.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/cMNbUq3j5RsHg9mcPxtjM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/cMNbUq3j5RsHg9mcPxtjM",
+  "homepage": "https://x.ai/bot/cMNbUq3j5RsHg9mcPxtjM",
+  "license": null,
+  "author": "occupymars___",
+  "tags": [
+    "research",
+    "developer",
+    "knowledge-base",
+    "productivity",
+    "agent-team",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

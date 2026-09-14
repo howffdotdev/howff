@@ -1,0 +1,29 @@
+{
+  "slug": "rival-watch-desk",
+  "name": "Rival Watch Desk",
+  "category": "marketing",
+  "tagline": "A standing watch on the competitors you actually care about",
+  "description": "Pick the businesses you compete with and it keeps a permanent eye on them: money raised, roles being advertised, press coverage and the campaigns they are paying to run. Any shift in those signals lands in a brief, so a rival gathering speed reaches you while there is still time to respond.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/WKRY_T1y-KOmOn2q5vpRW",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/WKRY_T1y-KOmOn2q5vpRW",
+  "homepage": "https://x.ai/bot/WKRY_T1y-KOmOn2q5vpRW",
+  "license": null,
+  "author": "ShehjadTaus",
+  "tags": [
+    "marketer",
+    "monitoring",
+    "research",
+    "sales",
+    "news",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
