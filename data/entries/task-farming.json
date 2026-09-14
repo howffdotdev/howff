@@ -1,0 +1,29 @@
+{
+  "slug": "task-farming",
+  "name": "Task Farming",
+  "category": "productivity",
+  "tagline": "Turns what got agreed in meetings and chat into real tickets",
+  "description": "Reads back over your notes from calls and the threads where decisions actually landed, and pulls out the things somebody committed to. The same job raised in three places collapses into one. What reaches your tracker is ordered by urgency, written plainly, and carries a link back to wherever it came from.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MmcPTdwYwr6ebmmZzswYe",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MmcPTdwYwr6ebmmZzswYe",
+  "homepage": "https://x.ai/bot/MmcPTdwYwr6ebmmZzswYe",
+  "license": null,
+  "author": "scottxmetcalf",
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "meetings",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

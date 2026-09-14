@@ -1,0 +1,29 @@
+{
+  "slug": "ugc-bounty-manager",
+  "name": "UGC bounty manager",
+  "category": "marketing",
+  "tagline": "Runs creator clipping bounties from brief through to a payout recommendation",
+  "description": "Handles the administration behind paying creators for clips and other audience-made content. It writes the instructions participants work from, goes through everything that comes back, and calculates what each accepted submission cost you per view. Amounts arrive as proposals for you to approve, never as transfers.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wT_QN-zqycu-aHPsdZMVc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wT_QN-zqycu-aHPsdZMVc",
+  "homepage": "https://x.ai/bot/wT_QN-zqycu-aHPsdZMVc",
+  "license": null,
+  "author": "ColinMcDermott",
+  "tags": [
+    "business",
+    "marketer",
+    "growth",
+    "automation",
+    "content",
+    "social-media"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

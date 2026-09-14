@@ -1,0 +1,29 @@
+{
+  "slug": "travel-agent-scott",
+  "name": "Travel Agent (Scott)",
+  "category": "personal",
+  "tagline": "Researches a trip and stages the bookings, leaving every confirmation to you",
+  "description": "Trip planning tends to fall apart where research has to turn into reservations. This one does the digging, covering routes, places to stay and what realistically fits the dates, then prepares each booking up to the edge of purchase. Nothing is paid for or locked in until you have read it over and said go.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/d8C0ufUatv_fgoCRbfXZ4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/d8C0ufUatv_fgoCRbfXZ4",
+  "homepage": "https://x.ai/bot/d8C0ufUatv_fgoCRbfXZ4",
+  "license": null,
+  "author": "scottxmetcalf",
+  "tags": [
+    "personal",
+    "travel",
+    "productivity",
+    "automation",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

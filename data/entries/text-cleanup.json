@@ -1,0 +1,27 @@
+{
+  "slug": "text-cleanup",
+  "name": "Text-cleanup",
+  "category": "writing",
+  "tagline": "Cleans up writing you already have into one send-ready version",
+  "description": "Hand it a rough paragraph - a reply typed too fast, notes pasted out of a document, wording that came through a translator badly - and a single edited version comes back. It works on text that already exists instead of inventing new copy, so what returns is still yours, only clearer.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4",
+  "homepage": "https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4",
+  "license": null,
+  "author": "Bill",
+  "tags": [
+    "personal",
+    "productivity",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
