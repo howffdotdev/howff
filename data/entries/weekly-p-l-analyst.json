@@ -1,0 +1,29 @@
+{
+  "slug": "weekly-p-l-analyst",
+  "name": "Weekly P&L analyst",
+  "category": "finance",
+  "tagline": "Every week, a financial readout that hunts down whatever slipped backwards",
+  "description": "Once a week it assembles the financial picture: what came in, how many customers stayed, where money quietly drained away, and how hard the advertising budget worked. Anything heading in the wrong direction is called out and traced back to a cause. It only ever reads your data; nothing is changed.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/M_4xLTMY06z1Zv1gvX_Nc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/M_4xLTMY06z1Zv1gvX_Nc",
+  "homepage": "https://x.ai/bot/M_4xLTMY06z1Zv1gvX_Nc",
+  "license": null,
+  "author": "ColinMcDermott",
+  "tags": [
+    "business",
+    "finance",
+    "analytics",
+    "monitoring",
+    "decision-support",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

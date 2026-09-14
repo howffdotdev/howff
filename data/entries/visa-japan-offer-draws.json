@@ -1,0 +1,28 @@
+{
+  "slug": "visa-japan-offer-draws",
+  "name": "Visa割bot",
+  "category": "personal",
+  "tagline": "Plays every unused Visa Japan offer draw so no free entry expires",
+  "description": "Visa's Japanese offers programme includes lottery and roulette entries that go unclaimed because nobody remembers them before they lapse. Inside your own signed-in offers account, it steps through whichever draws are still open, enters each one, and reports what it played. No card details move and nothing is bought.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/e9p9lk8EcUrrGXPI_cf4c",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/e9p9lk8EcUrrGXPI_cf4c",
+  "homepage": "https://x.ai/bot/e9p9lk8EcUrrGXPI_cf4c",
+  "license": null,
+  "author": "countertek",
+  "tags": [
+    "personal",
+    "automation",
+    "life-hacks",
+    "saving-money",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "yc-startup-job-applier",
+  "name": "YC Startup Job Applier",
+  "category": "sales",
+  "tagline": "Fills in your Work at a Startup profile and messages founders, within your limits",
+  "description": "Built around Y Combinator's jobs board. It completes your profile first, then reads what is open and puts the roles in order of how well they suit you. For the ones near the top it writes a brief note to the founder and sends it, staying inside whatever daily cap you set so nothing goes out at spam volume.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/COQAlYvqDNehPSHDBt-6z",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/COQAlYvqDNehPSHDBt-6z",
+  "homepage": "https://x.ai/bot/COQAlYvqDNehPSHDBt-6z",
+  "license": null,
+  "author": "fwhittington_24",
+  "tags": [
+    "personal",
+    "student",
+    "recruiting",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

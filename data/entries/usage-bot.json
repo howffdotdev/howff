@@ -1,0 +1,28 @@
+{
+  "slug": "usage-bot",
+  "name": "Usage Bot",
+  "category": "ops",
+  "tagline": "Keeps an eye on how much Grok Bot quota is left and tells the other bots",
+  "description": "Meant for accounts where several bots share one allowance. It watches how much capacity remains, and passes that figure to the other agents so they can slow down before the account runs dry. When it is idle, the last line of its DM shows a rough percentage, giving you a glance-level read on remaining headroom.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ywZrH-Tqld2V87AJJrTNb",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ywZrH-Tqld2V87AJJrTNb",
+  "homepage": "https://x.ai/bot/ywZrH-Tqld2V87AJJrTNb",
+  "license": null,
+  "author": "realMattAbrams",
+  "tags": [
+    "developer",
+    "ops",
+    "monitoring",
+    "automation",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "unstick-me",
+  "name": "Unstick me",
+  "category": "personal",
+  "tagline": "Asks one small question at a time until a stalled task is actually started",
+  "description": "Knowing what needs doing and being unable to begin are two different problems, and advice for the first rarely helps the second. This one works through a single brief prompt at a time, narrowing the job until the first move feels small enough to make. If it is still too big, it helps you pick a smaller one.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/EahHaI-kwO0hgWj6I45jC",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/EahHaI-kwO0hgWj6I45jC",
+  "homepage": "https://x.ai/bot/EahHaI-kwO0hgWj6I45jC",
+  "license": null,
+  "author": "YanqingCheng",
+  "tags": [
+    "personal",
+    "wellbeing",
+    "productivity",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

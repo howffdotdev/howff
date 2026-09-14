@@ -1,0 +1,29 @@
+{
+  "slug": "x-task-dispatcher",
+  "name": "X调度员",
+  "category": "productivity",
+  "tagline": "Sends X tasks down the cheaper route so your developer credits last longer",
+  "description": "A cost-control layer for anyone running a lot of automated work on X. Jobs that would otherwise burn through metered quota get pushed onto a local execution path instead, with lookups carried out on the machine and browser session the bot itself controls, so signing in happens there rather than via the API.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/isfPwoTeQTBqA-gk9CZN5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/isfPwoTeQTBqA-gk9CZN5",
+  "homepage": "https://x.ai/bot/isfPwoTeQTBqA-gk9CZN5",
+  "license": null,
+  "author": "cgnot996",
+  "tags": [
+    "developer",
+    "saving-money",
+    "automation",
+    "productivity",
+    "social-media",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

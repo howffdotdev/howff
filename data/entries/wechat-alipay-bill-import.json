@@ -1,0 +1,30 @@
+{
+  "slug": "wechat-alipay-bill-import",
+  "name": "账单进口",
+  "category": "finance",
+  "tagline": "Files WeChat and Alipay statements into a personal ledger, with a preview first",
+  "description": "Chinese payment apps export a month of activity as a spreadsheet, and plenty of people only have a screenshot. This one reads either, sorts each line into a category, drops the duplicates that come from overlapping exports, and shows you the result before a single row is saved. It never asks for a password.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/A3pcjyO0dAkvRGxD4VGeH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/A3pcjyO0dAkvRGxD4VGeH",
+  "homepage": "https://x.ai/bot/A3pcjyO0dAkvRGxD4VGeH",
+  "license": null,
+  "author": "coolbat1999",
+  "tags": [
+    "personal",
+    "finance",
+    "back-office",
+    "productivity",
+    "analytics",
+    "data",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

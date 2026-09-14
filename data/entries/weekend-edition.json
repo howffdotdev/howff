@@ -1,0 +1,28 @@
+{
+  "slug": "weekend-edition",
+  "name": "Weekend Edition",
+  "category": "personal",
+  "tagline": "Collects a week of saved reading into a paper you can actually print",
+  "description": "Everything you bookmarked on X and every link you stashed during the week gets pulled together once it ends. The result is laid out like a small paper, with the pieces grouped into sections rather than left as a flat run of URLs, and it is formatted to come out cleanly on an A4 sheet.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1-S1yhsX6eEcPs9yik3oh",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1-S1yhsX6eEcPs9yik3oh",
+  "homepage": "https://x.ai/bot/1-S1yhsX6eEcPs9yik3oh",
+  "license": null,
+  "author": "Nathan",
+  "tags": [
+    "personal",
+    "content",
+    "news",
+    "learning",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
