@@ -1,0 +1,29 @@
+{
+  "slug": "alibaba-buyer-ops",
+  "name": "Alibaba Buyer Ops",
+  "category": "ops",
+  "tagline": "Runs the day-to-day of buying from factories on Alibaba",
+  "description": "For a company that sources from manufacturers rather than a one-off shopper. It sets up how you buy and the sheet you track it on, then handles the clicking through the site by following written procedures step by step. The one thing it will not do alone is release money: every payment waits on a human.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ZTFwMWXlScRvLrkHuR3gs",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ZTFwMWXlScRvLrkHuR3gs",
+  "homepage": "https://x.ai/bot/ZTFwMWXlScRvLrkHuR3gs",
+  "license": null,
+  "author": "DomenicFotino",
+  "tags": [
+    "business",
+    "ops",
+    "shopping",
+    "back-office",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

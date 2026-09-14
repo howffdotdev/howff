@@ -1,0 +1,30 @@
+{
+  "slug": "billionairebot",
+  "name": "Billionairebot",
+  "category": "fun",
+  "tagline": "Finds someone you can pay to make an annoying errand go away",
+  "description": "Describe a chore you dread, whether paperwork that needs notarising, a return that has to be shipped, or a queue you would rather not stand in, and it works out how a person with money would offload it. You get the type of service to hire, named providers where possible, and a rough price so you can decide quickly.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/jq-BFHkNoiJEtieswOYTc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/jq-BFHkNoiJEtieswOYTc",
+  "homepage": "https://x.ai/bot/jq-BFHkNoiJEtieswOYTc",
+  "license": null,
+  "author": "JeffreyLind",
+  "tags": [
+    "personal",
+    "life-hacks",
+    "productivity",
+    "decision-support",
+    "home",
+    "shopping",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "berliner",
+  "name": "Berliner",
+  "category": "personal",
+  "tagline": "A weekly Berlin techno playlist with notes on what you are hearing",
+  "description": "For anyone who has drifted away from the city's club sound and wants a way back in. Once a week a new Spotify selection appears, with a few lines on each track so the artists and the labels start to mean something again. Between one drop and the next it leaves you alone unless you start the conversation.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YhRPa_eYk4yramoMJOo6F",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/YhRPa_eYk4yramoMJOo6F",
+  "homepage": "https://x.ai/bot/YhRPa_eYk4yramoMJOo6F",
+  "license": null,
+  "author": "mattvagni",
+  "tags": [
+    "personal",
+    "creator",
+    "content",
+    "life-hacks",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

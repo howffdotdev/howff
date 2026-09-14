@@ -1,0 +1,28 @@
+{
+  "slug": "chief-of-staff-cursor-relay",
+  "name": "参谋长",
+  "category": "productivity",
+  "tagline": "Delegates a task to a Cursor cloud agent and relays the result back to you",
+  "description": "A Chinese-language relay for people who want planning and research done by a stronger model without switching models by hand inside the chat. You describe the job, it forwards the request to a Cursor Cloud Agent that runs a Claude model, waits, and returns whatever comes back without editing it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/nSzhldgXfVuC93CjjQptM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/nSzhldgXfVuC93CjjQptM",
+  "homepage": "https://x.ai/bot/nSzhldgXfVuC93CjjQptM",
+  "license": null,
+  "author": "0xlangeai",
+  "tags": [
+    "developer",
+    "automation",
+    "research",
+    "meta-bot",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

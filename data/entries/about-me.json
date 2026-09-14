@@ -1,0 +1,29 @@
+{
+  "slug": "about-me",
+  "name": "About Me",
+  "category": "personal",
+  "tagline": "Keeps a running read on your own state and briefs the rest of your bots on it",
+  "description": "An assistant that knows your calendar but nothing about how you are doing will give generic answers. This one holds the softer context, such as energy levels, what is going on at home, what you recently decided and what you care about, and revises it as things move. Short updates go to the bot coordinating the others.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7dfQ6zC2X2hmnIlnF4rSN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7dfQ6zC2X2hmnIlnF4rSN",
+  "homepage": "https://x.ai/bot/7dfQ6zC2X2hmnIlnF4rSN",
+  "license": null,
+  "author": "TAftermath2020",
+  "tags": [
+    "personal",
+    "wellbeing",
+    "decision-support",
+    "analytics",
+    "agent-team",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

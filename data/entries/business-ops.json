@@ -1,0 +1,29 @@
+{
+  "slug": "business-ops",
+  "name": "Business ops",
+  "category": "ops",
+  "tagline": "One entry point for every part of running the shop, delegating where it helps",
+  "description": "Instead of remembering which assistant handles which job, you ask this one. Its reach covers the storefront, advertising, web pages, affiliate and partner arrangements, keeping customers, paying out bounties and the books. Simple requests it answers itself; bigger ones go to whichever specialist was built for them.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/nFEJD59IJA5604hO9vqym",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/nFEJD59IJA5604hO9vqym",
+  "homepage": "https://x.ai/bot/nFEJD59IJA5604hO9vqym",
+  "license": null,
+  "author": "ColinMcDermott",
+  "tags": [
+    "business",
+    "ops",
+    "automation",
+    "productivity",
+    "meta-bot",
+    "agent-team"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

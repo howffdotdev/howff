@@ -1,0 +1,29 @@
+{
+  "slug": "affiliate-program-operator",
+  "name": "Affiliate program manager",
+  "category": "sales",
+  "tagline": "Keeps a creator affiliate programme honest, ranked and well supplied",
+  "description": "Looks after the people selling on your behalf. It decides the commission structure, sorts affiliates by what each one genuinely brings in, and removes anybody breaking the rules. Those producing results get a regular drop of fresh material and guidance so they always have something new to promote with.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-x19CFkvT5U866BNA7q_J",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-x19CFkvT5U866BNA7q_J",
+  "homepage": "https://x.ai/bot/-x19CFkvT5U866BNA7q_J",
+  "license": null,
+  "author": "ColinMcDermott",
+  "tags": [
+    "business",
+    "marketer",
+    "growth",
+    "automation",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

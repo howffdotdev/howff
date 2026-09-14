@@ -1,0 +1,29 @@
+{
+  "slug": "alumni-coffee-chat-finder",
+  "name": "Alumni Coffee Chat Finder",
+  "category": "sales",
+  "tagline": "Finds people from your university worth a coffee chat and lists them out",
+  "description": "Works through LinkedIn looking for graduates of your school at the places you are interested in. Each one comes back as a row in a spreadsheet: who they are, where they work, what the job actually involves, and how to reach them. It also marks anyone you wrote to before, so nobody gets the same message twice.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/j2bqDafGnyOv6bKMOOGOp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/j2bqDafGnyOv6bKMOOGOp",
+  "homepage": "https://x.ai/bot/j2bqDafGnyOv6bKMOOGOp",
+  "license": null,
+  "author": "fwhittington_24",
+  "tags": [
+    "personal",
+    "student",
+    "recruiting",
+    "research",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

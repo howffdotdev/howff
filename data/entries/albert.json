@@ -1,0 +1,29 @@
+{
+  "slug": "albert",
+  "name": "Albert",
+  "category": "productivity",
+  "tagline": "Turns police union contracts into side-by-side spreadsheets",
+  "description": "Feed it the labour agreement a city has with its police force and it pulls out the pay scales, benefits, overtime provisions and similar terms. Do the same for several municipalities and it lines them up in an Excel workbook, so a negotiator or analyst can compare deals without reading hundreds of pages.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/jtFHKaEKzEZ0zSDVCl6BP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/jtFHKaEKzEZ0zSDVCl6BP",
+  "homepage": "https://x.ai/bot/jtFHKaEKzEZ0zSDVCl6BP",
+  "license": null,
+  "author": "Skyler_Miller56",
+  "tags": [
+    "business",
+    "ops",
+    "research",
+    "analytics",
+    "data",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
