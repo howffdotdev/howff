@@ -1,0 +1,29 @@
+{
+  "slug": "grok-bot-directory",
+  "name": "Grok Bot Directory",
+  "category": "productivity",
+  "tagline": "Describe the job you need done and it points you at the shared bot that does it",
+  "description": "Browsing a directory by keyword only helps once you already know what the thing is called. Here you describe the task in ordinary language instead, and it comes back with the shared templates that fit. Point it at one you have already spotted and it will tell you what people tend to do with it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8wjQbE24sX8qBVHXSmjc8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8wjQbE24sX8qBVHXSmjc8",
+  "homepage": "https://x.ai/bot/8wjQbE24sX8qBVHXSmjc8",
+  "license": null,
+  "author": "Leechael",
+  "tags": [
+    "developer",
+    "personal",
+    "research",
+    "knowledge-base",
+    "on-demand",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

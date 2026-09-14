@@ -1,0 +1,29 @@
+{
+  "slug": "creador-de-facturas-arca",
+  "name": "Creador de facturas ARCA",
+  "category": "finance",
+  "tagline": "Sets up ARCA e-invoicing once, then mails your Factura C PDFs every month",
+  "description": "Built for independent sellers in Argentina. It walks you through the one-time plumbing, linking a Gmail account, installing the tax certificate and registering a point of sale, and after that it raises each Factura C and sends the PDF out by mail without anyone opening the tax portal again.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/gcOAZlqYmTRNgGT_2I9oo",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/gcOAZlqYmTRNgGT_2I9oo",
+  "homepage": "https://x.ai/bot/gcOAZlqYmTRNgGT_2I9oo",
+  "license": null,
+  "author": "tomidelu_",
+  "tags": [
+    "business",
+    "back-office",
+    "finance",
+    "automation",
+    "email",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "handshake-job-applier",
+  "name": "Handshake Job Applier",
+  "category": "sales",
+  "tagline": "Works the Handshake board for you, from account setup to submitted applications",
+  "description": "Starts by getting your Handshake account in order, then keeps watching the board against the criteria you gave it. When a posting fits, it puts the application through, attaching the CV you already wrote or producing a letter aimed at that particular role. Built for a student working through a lot of listings.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4AcLHtvlWUWclgU5jFy2r",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/4AcLHtvlWUWclgU5jFy2r",
+  "homepage": "https://x.ai/bot/4AcLHtvlWUWclgU5jFy2r",
+  "license": null,
+  "author": "fwhittington_24",
+  "tags": [
+    "personal",
+    "student",
+    "recruiting",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

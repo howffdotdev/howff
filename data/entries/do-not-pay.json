@@ -1,0 +1,29 @@
+{
+  "slug": "do-not-pay",
+  "name": "Do Not Pay",
+  "category": "finance",
+  "tagline": "Pushes back on charges you should not be paying, and writes the letter",
+  "description": "A bill you believe is wrong goes in: an overdraft charge, a card fee, a ticket, a deposit that never came back, a refund refused after a cancelled trip, a penalty from the tax office. What comes out is the argument against it, an honest read on where you stand, and a draft in the form the other side expects.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/oxhf-Gm6EEs9SVHYFYbT4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/oxhf-Gm6EEs9SVHYFYbT4",
+  "homepage": "https://x.ai/bot/oxhf-Gm6EEs9SVHYFYbT4",
+  "license": null,
+  "author": "Dennison",
+  "tags": [
+    "personal",
+    "saving-money",
+    "finance",
+    "support",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

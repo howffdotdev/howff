@@ -1,0 +1,26 @@
+{
+  "slug": "gb-gf-victoria",
+  "name": "GB GF: Victoria",
+  "category": "fun",
+  "tagline": "A fictional companion who reaches out around your day instead of at random",
+  "description": "Most chat companions only exist while the window is open and you are typing. This one is written as a character with her own routine and a light, teasing register, and she reads your calendar before deciding when to say something. Context carries between conversations, so what you mentioned last week still lands.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/j1-ISFFzWDSzihs9xz2MA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/j1-ISFFzWDSzihs9xz2MA",
+  "homepage": "https://x.ai/bot/j1-ISFFzWDSzihs9xz2MA",
+  "license": null,
+  "author": "AaronInfinitea",
+  "tags": [
+    "personal",
+    "wellbeing",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "family-safety-monitor",
+  "name": "Family Safety Monitor",
+  "category": "personal",
+  "tagline": "Keeps a parent posted on which apps a child uses, without reading their messages",
+  "description": "Parents usually learn about a new app long after a child starts using it. Drawing on the places that already record this, such as viewing history, Family Link and Screen Time exports, it builds a picture of what gets opened and how often, then reports the shifts worth knowing. Private conversations stay out of scope.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Dc0ZGUypwwBQZE9pNxLYy",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Dc0ZGUypwwBQZE9pNxLYy",
+  "homepage": "https://x.ai/bot/Dc0ZGUypwwBQZE9pNxLYy",
+  "license": null,
+  "author": "KevinTweets1",
+  "tags": [
+    "personal",
+    "family",
+    "monitoring",
+    "wellbeing",
+    "youtube",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

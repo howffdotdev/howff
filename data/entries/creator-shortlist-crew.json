@@ -1,0 +1,29 @@
+{
+  "slug": "creator-shortlist-crew",
+  "name": "Creator Shortlist Crew",
+  "category": "marketing",
+  "tagline": "Builds and keeps topping up a shortlist of creators worth partnering with",
+  "description": "Tell it the subject matter and the platform you care about and it goes hunting for the people posting there, then fills in how each of them can be reached. Fresh names keep arriving over time instead of all at once, so a partnerships team always has somebody new to approach this week.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/6IU2bm7uuSPk6ETC-gC4D",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/6IU2bm7uuSPk6ETC-gC4D",
+  "homepage": "https://x.ai/bot/6IU2bm7uuSPk6ETC-gC4D",
+  "license": null,
+  "author": "ShehjadTaus",
+  "tags": [
+    "marketer",
+    "creator",
+    "research",
+    "data",
+    "growth",
+    "agent-team"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

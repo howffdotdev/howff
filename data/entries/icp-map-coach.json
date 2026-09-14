@@ -1,0 +1,29 @@
+{
+  "slug": "icp-map-coach",
+  "name": "ICP Map Coach",
+  "category": "sales",
+  "tagline": "Draws the map of who could buy from you, and who inside each one decides",
+  "description": "It sizes up how big your addressable market really is, narrows that to the accounts which look most like your best customers, and then populates each of them with the people who would sit around the table on a purchase. The picture moves as the market does, so outbound aims at something current.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yrm2MJ2nInUhoneTBSwJF",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/yrm2MJ2nInUhoneTBSwJF",
+  "homepage": "https://x.ai/bot/yrm2MJ2nInUhoneTBSwJF",
+  "license": null,
+  "author": "ShehjadTaus",
+  "tags": [
+    "sales",
+    "marketer",
+    "data",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

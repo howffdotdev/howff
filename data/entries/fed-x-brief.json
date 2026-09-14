@@ -1,0 +1,31 @@
+{
+  "slug": "fed-x-brief",
+  "name": "Fed + X Brief",
+  "category": "research",
+  "tagline": "Weekday morning Fed brief plus a call on whether to post, quote or wait",
+  "description": "Every weekday morning it assembles a short macro read-out: what the Fed and markets are doing according to X news, with prediction-market FOMC odds folded in as a sentiment gauge. Then it turns to your own timeline and advises whether to quote something, write a fresh post, or sit this one out.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ojDgaVLzjbxpPV74VzQrM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ojDgaVLzjbxpPV74VzQrM",
+  "homepage": "https://x.ai/bot/ojDgaVLzjbxpPV74VzQrM",
+  "license": null,
+  "author": "0xashrk",
+  "tags": [
+    "creator",
+    "investor",
+    "decision-support",
+    "research",
+    "finance",
+    "news",
+    "social-media",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "churn-retention-manager",
+  "name": "Churn retention manager",
+  "category": "sales",
+  "tagline": "Steps in on cancellations and failed payments before you lose the customer",
+  "description": "Watches for the two moments a subscriber is about to disappear, someone clicking cancel and a card that did not go through, and intervenes while there is still something to be done. It puts a meaningful alternative in front of them rather than a token discount, then logs the reason behind each departure.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/p0OIZUJK5sRFImh_DMujf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/p0OIZUJK5sRFImh_DMujf",
+  "homepage": "https://x.ai/bot/p0OIZUJK5sRFImh_DMujf",
+  "license": null,
+  "author": "ColinMcDermott",
+  "tags": [
+    "business",
+    "ops",
+    "growth",
+    "monitoring",
+    "support",
+    "analytics"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "cto-bot",
+  "name": "CTO Bot",
+  "category": "development",
+  "tagline": "Audits how your engineering org is actually running, without touching anything",
+  "description": "How a software team is really doing usually gets answered by whoever happens to be in the room. This one sends narrow helpers out to the places the evidence lives - tickets, repositories, design files, docs, build pipelines, release records, team channels - and reports back. It only reads; nothing gets changed.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/cWnyo7aDLIy0qMRC6-CF5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/cWnyo7aDLIy0qMRC6-CF5",
+  "homepage": "https://x.ai/bot/cWnyo7aDLIy0qMRC6-CF5",
+  "license": null,
+  "author": "asmDevsit",
+  "tags": [
+    "developer",
+    "business",
+    "ops",
+    "decision-support",
+    "monitoring",
+    "engineering",
+    "agent-team",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

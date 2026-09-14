@@ -1,0 +1,29 @@
+{
+  "slug": "grocery-bot",
+  "name": "Grocery Bot",
+  "category": "personal",
+  "tagline": "Turns grocery receipts into a spending record and flags what will spoil first",
+  "description": "Most grocery spending is only visible weeks later on a bank statement. Hand this one a photo, a PDF or pasted text of the till slip and it records what you paid and notes which items will not keep. Give it the meals you intend to cook and it works backwards into a list. It never assumes a purchase you did not make.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/K-bz2_bFptZdWAAW7Phxp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/K-bz2_bFptZdWAAW7Phxp",
+  "homepage": "https://x.ai/bot/K-bz2_bFptZdWAAW7Phxp",
+  "license": null,
+  "author": "ZestStream",
+  "tags": [
+    "personal",
+    "shopping",
+    "food",
+    "saving-money",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
