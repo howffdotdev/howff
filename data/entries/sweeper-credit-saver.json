@@ -1,0 +1,30 @@
+{
+  "slug": "sweeper-credit-saver",
+  "name": "Sweeper / 清道夫",
+  "category": "ops",
+  "tagline": "Shows where your bot credits are going and cuts the wake-ups that waste them",
+  "description": "Credit burn stays invisible until the balance is gone, and a good share of it comes from bots waking up to find nothing waiting for them. This one breaks the spend down so you can see which bots account for it, singles out the runs that returned nothing useful, and pares them back so the budget lasts longer.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/SD6hgpiXqbV_LkMetf2fC",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/SD6hgpiXqbV_LkMetf2fC",
+  "homepage": "https://x.ai/bot/SD6hgpiXqbV_LkMetf2fC",
+  "license": null,
+  "author": "MaiYangAI",
+  "tags": [
+    "developer",
+    "ops",
+    "saving-money",
+    "monitoring",
+    "automation",
+    "back-office",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

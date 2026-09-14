@@ -1,0 +1,28 @@
+{
+  "slug": "store-from-template",
+  "name": "Store from template",
+  "category": "ops",
+  "tagline": "Copies a storefront that already works, then retunes it for your niche",
+  "description": "Rather than designing from an empty page, it begins with a shop that is already trading well and duplicates the structure. From there the product on sale, the wording throughout and the price points all get reworked to suit your own market, and the finished version is put live.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3jmbbUj4_UDgbjo-Q3oEr",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/3jmbbUj4_UDgbjo-Q3oEr",
+  "homepage": "https://x.ai/bot/3jmbbUj4_UDgbjo-Q3oEr",
+  "license": null,
+  "author": "ColinMcDermott",
+  "tags": [
+    "business",
+    "automation",
+    "productivity",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

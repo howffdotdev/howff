@@ -1,0 +1,29 @@
+{
+  "slug": "swe-job-applier",
+  "name": "SWE Job Applier",
+  "category": "sales",
+  "tagline": "Chases engineering internships using Simplify and your own letter template",
+  "description": "Aimed squarely at software internships. It asks what you are after first, stack and location and timing, then works through the postings that match, leaning on Simplify to get past the repetitive form filling. Letters are built from the structure you already use, so what goes out still reads like you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ZNfBRZeVANNSVza6Xyywf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ZNfBRZeVANNSVza6Xyywf",
+  "homepage": "https://x.ai/bot/ZNfBRZeVANNSVza6Xyywf",
+  "license": null,
+  "author": "fwhittington_24",
+  "tags": [
+    "personal",
+    "student",
+    "recruiting",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

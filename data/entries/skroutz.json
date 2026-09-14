@@ -1,0 +1,27 @@
+{
+  "slug": "skroutz",
+  "name": "Skroutz",
+  "category": "personal",
+  "tagline": "Price-hunts on Greece's Skroutz.gr and fills your basket before you pay",
+  "description": "Built specifically around Skroutz.gr, the Greek comparison-shopping site. Tell it what you want to buy and it works through the listings looking for the lowest total, then assembles the basket ready for you. It sticks to fast-delivery options, and the final purchase step stays in your hands.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yQH3AFCs-90xjVmW9LICV",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/yQH3AFCs-90xjVmW9LICV",
+  "homepage": "https://x.ai/bot/yQH3AFCs-90xjVmW9LICV",
+  "license": null,
+  "author": "voidvexa",
+  "tags": [
+    "personal",
+    "saving-money",
+    "shopping",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

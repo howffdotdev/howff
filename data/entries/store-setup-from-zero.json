@@ -1,0 +1,28 @@
+{
+  "slug": "store-setup-from-zero",
+  "name": "Store setup from zero",
+  "category": "ops",
+  "tagline": "Turns a bare idea for a product into a shop page people can buy from",
+  "description": "Meant for a very first launch, when nothing exists yet at all. Describe what you intend to sell and it produces the entire page in a single pass: the pitch, the pricing tiers a customer chooses between, and the links that carry a buyer through to payment. What lands at the end is open for business.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/F5jwhbmO2AgA8EgyHIDLp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/F5jwhbmO2AgA8EgyHIDLp",
+  "homepage": "https://x.ai/bot/F5jwhbmO2AgA8EgyHIDLp",
+  "license": null,
+  "author": "ColinMcDermott",
+  "tags": [
+    "business",
+    "automation",
+    "productivity",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
