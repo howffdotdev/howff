@@ -1,0 +1,29 @@
+{
+  "slug": "linkedin-watch",
+  "name": "LinkedIn Watch",
+  "category": "research",
+  "tagline": "A scheduled LinkedIn digest covering feed, messages, invites, views and jobs",
+  "description": "Checks LinkedIn for you at set times rather than waiting for you to open the app. Each run gathers new activity across your feed, direct messages, connection requests, profile views and job matches, then posts a digest into chat with links to each item. If you prefer listening, it can read the cards aloud too.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/qbBlMjsKq-1coFvbmnEaR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/qbBlMjsKq-1coFvbmnEaR",
+  "homepage": "https://x.ai/bot/qbBlMjsKq-1coFvbmnEaR",
+  "license": null,
+  "author": "AnnouncrFM",
+  "tags": [
+    "personal",
+    "marketer",
+    "monitoring",
+    "social-media",
+    "recruiting",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

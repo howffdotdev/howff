@@ -1,0 +1,30 @@
+{
+  "slug": "nuggetbot",
+  "name": "NuggetBot",
+  "category": "fun",
+  "tagline": "Pulls the best lines out of a podcast and renders them as post-ready graphics",
+  "description": "An hour of audio holds maybe a dozen lines worth repeating, and turning those into something publishable is normally a manual design job. Give it the episode, mark the moments you want kept, and name a saved layout in ContentDrips. Back come finished quote cards and multi-slide sets, sized for posting.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ia1zuEzDtPNyzFQ6o6F9x",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ia1zuEzDtPNyzFQ6o6F9x",
+  "homepage": "https://x.ai/bot/ia1zuEzDtPNyzFQ6o6F9x",
+  "license": null,
+  "author": "im_usamakhalid",
+  "tags": [
+    "creator",
+    "marketer",
+    "content",
+    "social-media",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

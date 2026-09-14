@@ -1,0 +1,28 @@
+{
+  "slug": "maples-stylist",
+  "name": "Maples造型师",
+  "category": "fun",
+  "tagline": "Builds MapleStory outfits you can actually reproduce in game",
+  "description": "Describe the look you are after, or hand it a picture, and three complete builds come back for maples.im. Each is written out as a recipe, the exact items involved, so it can be assembled piece by piece; each is shown moving in an official preview clip, and the whole walking sprite set arrives as a zip.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/zP5W1Sdwjo361traGRTM5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/zP5W1Sdwjo361traGRTM5",
+  "homepage": "https://x.ai/bot/zP5W1Sdwjo361traGRTM5",
+  "license": null,
+  "author": "cgnot996",
+  "tags": [
+    "personal",
+    "creator",
+    "design",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

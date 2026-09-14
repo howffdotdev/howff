@@ -1,0 +1,28 @@
+{
+  "slug": "judd-the-bug",
+  "name": "Judd the Bug",
+  "category": "development",
+  "tagline": "Digs through your Sentry setup and comes back with a sourced answer",
+  "description": "Point it at a question about your error tracking and it actually goes looking, through the Sentry MCP connection, the command-line tool and the web dashboard, rather than guessing from memory. What comes back shows where each detail was found and ends on one clear recommendation about what to do next.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/JQWyaF4Io7cfOF-4FvMZL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/JQWyaF4Io7cfOF-4FvMZL",
+  "homepage": "https://x.ai/bot/JQWyaF4Io7cfOF-4FvMZL",
+  "license": null,
+  "author": "sergical",
+  "tags": [
+    "developer",
+    "engineering",
+    "research",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

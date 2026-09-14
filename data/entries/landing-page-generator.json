@@ -1,0 +1,29 @@
+{
+  "slug": "landing-page-generator",
+  "name": "Landing page generator",
+  "category": "marketing",
+  "tagline": "Writes a sales page for your product and puts it online with checkout wired up",
+  "description": "Aimed at one specific business rather than being a generic page builder. You hand over the product and what you charge for it; it drafts the persuasive copy, assembles the page and pushes it to a real URL. The prices shown are your actual prices, and the buy button is connected rather than decorative.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/D0UvxRvNzDTR_xOJ6Iq08",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/D0UvxRvNzDTR_xOJ6Iq08",
+  "homepage": "https://x.ai/bot/D0UvxRvNzDTR_xOJ6Iq08",
+  "license": null,
+  "author": "ColinMcDermott",
+  "tags": [
+    "business",
+    "marketer",
+    "growth",
+    "automation",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

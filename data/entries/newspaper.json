@@ -1,0 +1,29 @@
+{
+  "slug": "newspaper",
+  "name": "Newspaper",
+  "category": "personal",
+  "tagline": "A one-page morning broadsheet that explains how one thing works",
+  "description": "Each morning it picks some corner of the world, reads up on it, and sets the result out as a single printable sheet under the masthead Understand the World. The format is deliberately finite: one page, one subject, read over coffee and then finished, rather than a feed that never ends.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/FbHjOvOfZSxht0JmBYIlj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/FbHjOvOfZSxht0JmBYIlj",
+  "homepage": "https://x.ai/bot/FbHjOvOfZSxht0JmBYIlj",
+  "license": null,
+  "author": "Carbonthecoder",
+  "tags": [
+    "personal",
+    "news",
+    "learning",
+    "content",
+    "research",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

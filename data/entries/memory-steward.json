@@ -1,0 +1,31 @@
+{
+  "slug": "memory-steward",
+  "name": "记忆管家",
+  "category": "personal",
+  "tagline": "Mirrors each bot's setup and memory into a private Git repo you control",
+  "description": "A bot's configuration and everything it has learned sit inside the account, with no obvious way to get them back once something breaks. This one copies both out to a private repository on a fixed folder layout, keeps a register of what it holds, and revisits the set to catch gaps. A whole fleet can be rebuilt from it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9Tq1f0aSurCP7UJHm98zy",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9Tq1f0aSurCP7UJHm98zy",
+  "homepage": "https://x.ai/bot/9Tq1f0aSurCP7UJHm98zy",
+  "license": null,
+  "author": "AYi_AInotes",
+  "tags": [
+    "developer",
+    "ops",
+    "back-office",
+    "automation",
+    "data",
+    "engineering",
+    "knowledge-base",
+    "agent-team"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "optima",
+  "name": "Optima",
+  "category": "productivity",
+  "tagline": "Clears out the dead rules your other bots are still obeying",
+  "description": "Over time a bot's notes and memory fill with instructions for jobs that no longer exist, and it keeps honouring them. Optima reads through that material, works out which files belong to which project, checks with the bot that owns each rule, and presents a removal list for you to approve before anything is deleted.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-E8sQr0Yrd_oSQlTaAzWy",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-E8sQr0Yrd_oSQlTaAzWy",
+  "homepage": "https://x.ai/bot/-E8sQr0Yrd_oSQlTaAzWy",
+  "license": null,
+  "author": "TOATspace",
+  "tags": [
+    "developer",
+    "ops",
+    "automation",
+    "productivity",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

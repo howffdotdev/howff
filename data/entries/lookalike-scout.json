@@ -1,0 +1,29 @@
+{
+  "slug": "lookalike-scout",
+  "name": "Lookalike Scout",
+  "category": "sales",
+  "tagline": "Name one company you want more of, get a list of the ones like it",
+  "description": "Start from a single account that fits your market and it fans out to businesses of the same shape, then works out who inside each one would actually sign off on a purchase and confirms those contacts. The roster keeps refreshing rather than sitting there as an export that goes stale in a week.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/mfaurGq6eY9rIvIpMfUFI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/mfaurGq6eY9rIvIpMfUFI",
+  "homepage": "https://x.ai/bot/mfaurGq6eY9rIvIpMfUFI",
+  "license": null,
+  "author": "ShehjadTaus",
+  "tags": [
+    "sales",
+    "marketer",
+    "data",
+    "research",
+    "growth",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
