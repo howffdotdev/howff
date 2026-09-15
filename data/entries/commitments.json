@@ -1,0 +1,32 @@
+{
+  "slug": "commitments",
+  "name": "Commitments",
+  "category": "productivity",
+  "tagline": "Logs the promises you make at work and holds them open till done",
+  "description": "Agreeing to something in passing is the easiest work to lose track of. Promises this spots in Slack, Notion or email are each written to a Notion database row, and the row stays open until the thing is finished. A short daily check keeps the open ones in view so they do not quietly expire.",
+  "integrations": [
+    "Slack",
+    "Notion"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rFShmowW_3x_qeXQQB-sn",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/rFShmowW_3x_qeXQQB-sn",
+  "homepage": "https://x.ai/bot/rFShmowW_3x_qeXQQB-sn",
+  "license": null,
+  "author": "samlambert",
+  "tags": [
+    "personal",
+    "business",
+    "productivity",
+    "monitoring",
+    "back-office",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

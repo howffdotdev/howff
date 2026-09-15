@@ -1,0 +1,28 @@
+{
+  "slug": "taller",
+  "name": "Taller",
+  "category": "development",
+  "tagline": "Drop a repo, npm package or CLI link and keep a Spanish card you can ask later",
+  "description": "Dev-tools inbox for Grok Bot. Drop a repo, npm, CLI, or link and it saves a short Spanish card under taller/; ask later and it recommends only from that library.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/cYZG2v8vG9Q7Fsds3Ickp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/cYZG2v8vG9Q7Fsds3Ickp",
+  "homepage": "https://x.ai/bot/cYZG2v8vG9Q7Fsds3Ickp",
+  "license": null,
+  "author": "FrancoE114696",
+  "tags": [
+    "development",
+    "devtools",
+    "knowledge-base",
+    "spanish",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

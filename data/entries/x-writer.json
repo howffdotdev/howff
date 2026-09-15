@@ -1,0 +1,30 @@
+{
+  "slug": "x-writer",
+  "name": "X Writer",
+  "category": "writing",
+  "tagline": "Learns how an account writes, then drafts new posts that sound like it",
+  "description": "Most drafts read wrong because of rhythm rather than ideas. Point this at whichever account you want to sound like, your own or one you admire, and it works out the habits underneath the posting: how sentences land, what gets repeated, where humour sits. New drafts then follow that shape instead of a generic template.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/UUsZRoInD7OHp4sjrZ-we",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/UUsZRoInD7OHp4sjrZ-we",
+  "homepage": "https://x.ai/bot/UUsZRoInD7OHp4sjrZ-we",
+  "license": null,
+  "author": "starzq",
+  "tags": [
+    "creator",
+    "content",
+    "social-media",
+    "growth",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

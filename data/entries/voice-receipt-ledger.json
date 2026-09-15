@@ -1,0 +1,29 @@
+{
+  "slug": "voice-receipt-ledger",
+  "name": "记账管家",
+  "category": "finance",
+  "tagline": "A private ledger fed by typing, receipt photos or voice notes",
+  "description": "Record spending however it arrives: a typed line, a photo of the receipt or bill, or a spoken note. Entries land in a CSV kept on your own device, with a Feishu or Lark bitable offered as an optional sync if you want the ledger elsewhere too.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/WW-UbmTKXn79q0yXapvJE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/WW-UbmTKXn79q0yXapvJE",
+  "homepage": "https://x.ai/bot/WW-UbmTKXn79q0yXapvJE",
+  "license": null,
+  "author": "cgnot996",
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "automation",
+    "data",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

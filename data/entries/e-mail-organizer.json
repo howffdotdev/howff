@@ -1,0 +1,31 @@
+{
+  "slug": "e-mail-organizer",
+  "name": "E-mail Organizer",
+  "category": "ops",
+  "tagline": "Files one Gmail account by vendor and keeps invoices separate",
+  "description": "A Dutch-language housekeeper for one Gmail account. Mail is labelled by the vendor that sent it, the noise is swept out of sight, and the /Payments label is kept for genuine PDF invoices. A daily pass keeps the inbox from filling back up with clutter.",
+  "integrations": [
+    "Gmail"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/PUn74RYv_r3pcSvNkeQbd",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/PUn74RYv_r3pcSvNkeQbd",
+  "homepage": "https://x.ai/bot/PUn74RYv_r3pcSvNkeQbd",
+  "license": null,
+  "author": "leingoedbloed",
+  "tags": [
+    "business",
+    "email",
+    "back-office",
+    "automation",
+    "productivity",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

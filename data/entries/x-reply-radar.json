@@ -1,0 +1,31 @@
+{
+  "slug": "x-reply-radar",
+  "name": "X Reply Radar",
+  "category": "marketing",
+  "tagline": "Catches conversations while they are still climbing and drafts your reply",
+  "description": "A response lands differently ten minutes into a thread than two hours into it, which is why so much advice about growing here degenerates into blanket commenting. Watching only the subjects you nominate, it flags posts that are still gathering pace and drafts a short reply you can send or rewrite.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/lJYaUExPBMZfLWfZEFVGc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/lJYaUExPBMZfLWfZEFVGc",
+  "homepage": "https://x.ai/bot/lJYaUExPBMZfLWfZEFVGc",
+  "license": null,
+  "author": "sam_builds_ai",
+  "tags": [
+    "creator",
+    "social-media",
+    "growth",
+    "monitoring",
+    "content",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

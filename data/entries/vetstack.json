@@ -1,0 +1,26 @@
+{
+  "slug": "vetstack",
+  "name": "VetStack",
+  "category": "finance",
+  "tagline": "A savings desk for military life, from purchases to benefits",
+  "description": "Built by a veteran for the whole military household, it takes money one decision at a time: purchase search, project spending plans, subscription reviews, receipt audits, and pointers to benefits already earned. The aim is fewer impulse buys and fewer benefits left unclaimed.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/z1zYI6LHiFh0UXYf7YjNL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/z1zYI6LHiFh0UXYf7YjNL",
+  "homepage": "https://x.ai/bot/z1zYI6LHiFh0UXYf7YjNL",
+  "license": null,
+  "author": "kenashe",
+  "tags": [
+    "personal",
+    "saving-money",
+    "finance"
+  ],
+  "verified": false,
+  "added": "2026-09-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

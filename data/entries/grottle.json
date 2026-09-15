@@ -1,0 +1,29 @@
+{
+  "slug": "grottle",
+  "name": "Grottle",
+  "category": "productivity",
+  "tagline": "A clearer fuel gauge for your weekly Grok Bot usage",
+  "description": "Tell it your usage percentage and where the weekly window resets, and it hands back a read-out that is easier to judge at a glance than the raw number. Where the reset moment can be pinned down, the estimate of what is left becomes more useful for planning the rest of the week.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YvFrCr_VlFW_8PxaoFv_L",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/YvFrCr_VlFW_8PxaoFv_L",
+  "homepage": "https://x.ai/bot/YvFrCr_VlFW_8PxaoFv_L",
+  "license": null,
+  "author": "BCornTexas",
+  "tags": [
+    "personal",
+    "developer",
+    "productivity",
+    "monitoring",
+    "analytics",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-09-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

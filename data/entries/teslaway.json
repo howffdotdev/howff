@@ -1,0 +1,29 @@
+{
+  "slug": "teslaway",
+  "name": "teslaway",
+  "category": "personal",
+  "tagline": "Finds used Teslas near a ZIP code and emails you the shortlist",
+  "description": "Point it at a ZIP code and say whether you want a Model 3, Model Y, Model X or Model S, and it searches US used listings for cars that fit. What it finds lands in your inbox as a plain list, with the details you need to decide which ones are worth a closer look.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/HoG3J3B0g4fjKr54aA5tP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/HoG3J3B0g4fjKr54aA5tP",
+  "homepage": "https://x.ai/bot/HoG3J3B0g4fjKr54aA5tP",
+  "license": null,
+  "author": "cicerougc",
+  "tags": [
+    "personal",
+    "shopping",
+    "research",
+    "monitoring",
+    "email",
+    "saving-money"
+  ],
+  "verified": false,
+  "added": "2026-09-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

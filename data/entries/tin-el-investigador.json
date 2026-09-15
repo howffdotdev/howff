@@ -1,0 +1,32 @@
+{
+  "slug": "tin-el-investigador",
+  "name": "Tin El Investigador",
+  "category": "marketing",
+  "tagline": "Turns a question into a ready-to-post Spanish update every day",
+  "description": "Works a subject across the web and the tools you have connected, then returns each day with a draft in Spanish, ready for X. Every draft braids three strands: a short reflection, one entertainment story and one useful fact, so the post has a shape rather than a dump of links.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/L3Lx6Y8t_ebL8qQhutoCd",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/L3Lx6Y8t_ebL8qQhutoCd",
+  "homepage": "https://x.ai/bot/L3Lx6Y8t_ebL8qQhutoCd",
+  "license": null,
+  "author": "valengiulimor",
+  "tags": [
+    "personal",
+    "creator",
+    "content",
+    "research",
+    "social-media",
+    "scheduled",
+    "learning"
+  ],
+  "verified": false,
+  "added": "2026-09-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

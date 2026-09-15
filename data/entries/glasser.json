@@ -1,0 +1,27 @@
+{
+  "slug": "glasser",
+  "name": "Glasser",
+  "category": "research",
+  "tagline": "Reaches paid business-data sources without a drawer full of API keys",
+  "description": "Company and contact enrichment, search rankings, ad activity, traffic estimates and funding history normally mean several separate paid subscriptions. This routes those lookups through one metered account so an agent can ask for the figure without holding a key for every vendor.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/pYFETnU1TFsADlz0hJD1y",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/pYFETnU1TFsADlz0hJD1y",
+  "homepage": "https://x.ai/bot/pYFETnU1TFsADlz0hJD1y",
+  "license": null,
+  "author": "Glasserai",
+  "tags": [
+    "research",
+    "business",
+    "data",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

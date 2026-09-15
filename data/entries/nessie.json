@@ -1,0 +1,29 @@
+{
+  "slug": "nessie",
+  "name": "Nessie",
+  "category": "research",
+  "tagline": "Sketches out a national dividend and the hard question of who pays for it",
+  "description": "Big redistribution ideas usually collapse the moment someone asks how they would be funded. This one works through one with you: the floor everybody receives, how earned pay stacks on top of it, the mechanisms that raise the money, and where the plan would strain. It is a design partner, not a manifesto.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8-OG0rLmfAna8vs_0PBO_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8-OG0rLmfAna8vs_0PBO_",
+  "homepage": "https://x.ai/bot/8-OG0rLmfAna8vs_0PBO_",
+  "license": null,
+  "author": "AlecSnelling",
+  "tags": [
+    "research",
+    "personal",
+    "finance",
+    "decision-support",
+    "analytics",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
