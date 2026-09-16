@@ -1,0 +1,22 @@
+{
+  "slug": "dero",
+  "name": "Dero",
+  "category": "ops",
+  "tagline": "Runs the pipeline on Chilean municipal tender documents",
+  "description": "A Spanish-language orchestrator for teams answering Chilean municipal procurement notices. It ranks which files matter, hands work between the specialists that each own a stage, and walks every document along a fixed route from specification to the final quality check. Built for shops that bid often.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/OMpdsLwId7Du5PrjbX8L8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/OMpdsLwId7Du5PrjbX8L8",
+  "homepage": "https://x.ai/bot/OMpdsLwId7Du5PrjbX8L8",
+  "license": null,
+  "author": "jorgesoffia",
+  "tags": ["business", "ops", "data", "back-office", "agent-team", "on-demand"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

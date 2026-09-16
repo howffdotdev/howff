@@ -1,0 +1,22 @@
+{
+  "slug": "founder-mode",
+  "name": "Founder Mode",
+  "category": "ops",
+  "tagline": "Stress-tests a startup idea and assembles the setup paperwork",
+  "description": "Takes a raw idea through assumption-testing and trimming, checks whether the company name you want is actually free, and assembles a formation pack covering the LLC filing, EIN and business bank account. An evidence log keeps verified facts apart from the parts still resting on guesswork.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/BpLQHWMypQAV3e61cyFb2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/BpLQHWMypQAV3e61cyFb2",
+  "homepage": "https://x.ai/bot/BpLQHWMypQAV3e61cyFb2",
+  "license": null,
+  "author": "shiftynick",
+  "tags": ["business", "research", "decision-support", "on-demand"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

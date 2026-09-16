@@ -1,0 +1,22 @@
+{
+  "slug": "devils-advocate",
+  "name": "Devils Advocate",
+  "category": "personal",
+  "tagline": "Scores your options, names a winner and defends it later",
+  "description": "The argument you want before money or time goes out the door. Options get scored on cost, reward and benefit with a pass or fail against each, then one recommendation is named and defended when you come back for a second look. The pushback is meant to survive a night's sleep.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/qKkQiRV-Erg5noHC9F05p",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/qKkQiRV-Erg5noHC9F05p",
+  "homepage": "https://x.ai/bot/qKkQiRV-Erg5noHC9F05p",
+  "license": null,
+  "author": "YehudaZahler",
+  "tags": ["personal", "business", "decision-support", "on-demand"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

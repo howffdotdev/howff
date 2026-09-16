@@ -1,0 +1,22 @@
+{
+  "slug": "archer",
+  "name": "Archer",
+  "category": "ops",
+  "tagline": "Manages a bot crew that keeps an online product catalogue current",
+  "description": "Runs a crew of specialists keeping an online product directory current, and spends its time managing rather than making. The day is shaped into five fixed briefs, each specialist is held to its own rules, and imagery is limited to pictures the operation actually has the licence to use.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vOriVfOZkvpZF9yGhfV5w",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vOriVfOZkvpZF9yGhfV5w",
+  "homepage": "https://x.ai/bot/vOriVfOZkvpZF9yGhfV5w",
+  "license": null,
+  "author": "dukezone",
+  "tags": ["business", "ops", "marketer", "content", "agent-team", "scheduled", "automation"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

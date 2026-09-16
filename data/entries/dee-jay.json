@@ -1,0 +1,22 @@
+{
+  "slug": "dee-jay",
+  "name": "Dee Jay!",
+  "category": "marketing",
+  "tagline": "Digs out overlooked UK dance records and tidies the library behind them",
+  "description": "Two jobs in one. It hunts out lesser-known techno, hardcore and jungle releases from the British scene and queues them on YouTube, and it cleans up whatever library it touches: filenames normalised, tags filled in, artwork attached. Built for collectors and uploaders whose rip folder has drifted.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/SlaKFOWu18n_PRAmeLkT_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/SlaKFOWu18n_PRAmeLkT_",
+  "homepage": "https://x.ai/bot/SlaKFOWu18n_PRAmeLkT_",
+  "license": null,
+  "author": "CarlosSalas",
+  "tags": ["creator", "content", "youtube", "personal", "on-demand"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

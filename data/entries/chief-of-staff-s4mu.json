@@ -1,0 +1,22 @@
+{
+  "slug": "chief-of-staff-s4mu",
+  "name": "Chief of Staff (S4MU)",
+  "category": "marketing",
+  "tagline": "A creator's coordinator: comment research packs plus a daily junk sweep",
+  "description": "Built around the reality of running a channel. It bundles YouTube-comment reports summarised in Italian and English and read through research, advisory and resolution angles, with a daily pass over an Outlook inbox for junk. Nothing is removed without asking, so the sweep stays reviewable.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VsZ0QiNcoVNer6PFdyKzI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VsZ0QiNcoVNer6PFdyKzI",
+  "homepage": "https://x.ai/bot/VsZ0QiNcoVNer6PFdyKzI",
+  "license": null,
+  "author": "Spiderjin",
+  "tags": ["creator", "personal", "youtube", "email", "monitoring", "agent-team", "scheduled"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

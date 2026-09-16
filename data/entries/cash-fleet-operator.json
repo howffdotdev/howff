@@ -1,0 +1,22 @@
+{
+  "slug": "cash-fleet-operator",
+  "name": "Cash Fleet Operator",
+  "category": "ops",
+  "tagline": "Coordinates a bot crew across storefront SKUs, merch and promos",
+  "description": "Directs a small crew of specialists working an online catalogue: marketplace listings, printed merch and digital offers, plus the promotional posts pointing at them across platforms. The framing is ordinary e-commerce execution, each specialist kept in its own lane, every channel aimed at a real product page.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Mz3Q4s3wGqOQd4dhGeG_F",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Mz3Q4s3wGqOQd4dhGeG_F",
+  "homepage": "https://x.ai/bot/Mz3Q4s3wGqOQd4dhGeG_F",
+  "license": null,
+  "author": "Joseph",
+  "tags": ["business", "growth", "marketer", "ops", "automation", "agent-team", "social-media"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

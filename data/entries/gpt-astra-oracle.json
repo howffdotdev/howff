@@ -1,0 +1,22 @@
+{
+  "slug": "gpt-astra-oracle",
+  "name": "GPT Astra Oracle",
+  "category": "development",
+  "tagline": "Plan and review packets for a Cursor cloud agent, from a second model",
+  "description": "An odd and useful relay: a Grok bot whose output is meant for another tool entirely. It returns tight PLAN or REVIEW blocks sized to paste into a Cursor cloud coding agent, with none of the usual chat padding around them. Handy when a second model's read on a plan is wanted before code gets written.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_yTNK1xhcbUko1rM2AWAv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_yTNK1xhcbUko1rM2AWAv",
+  "homepage": "https://x.ai/bot/_yTNK1xhcbUko1rM2AWAv",
+  "license": null,
+  "author": "nathanromano",
+  "tags": ["developer", "engineering", "automation", "on-demand"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

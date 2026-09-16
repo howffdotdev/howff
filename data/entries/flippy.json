@@ -1,0 +1,22 @@
+{
+  "slug": "flippy",
+  "name": "Flippy",
+  "category": "personal",
+  "tagline": "A daily heads-up on the mint phases your wallets are actually allowed into.",
+  "description": "For anyone following several OpenSea drops and losing track of who qualifies for what. Once a day it lists the phases currently open, lines them up against the wallets you name, and adds a quick sense of how loud the drop is on X. It only reads and reports: no signing, no minting, no trading on your behalf.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/OfHECnXmPPavf-l_rZufo",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/OfHECnXmPPavf-l_rZufo",
+  "homepage": "https://x.ai/bot/OfHECnXmPPavf-l_rZufo",
+  "license": null,
+  "author": "diegoarmandoAD",
+  "tags": ["personal", "monitoring", "crypto", "scheduled"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

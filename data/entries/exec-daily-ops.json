@@ -1,0 +1,22 @@
+{
+  "slug": "exec-daily-ops",
+  "name": "Exec Daily Ops",
+  "category": "ops",
+  "tagline": "An engineering-morning brief, with draft replies left for you to send",
+  "description": "Condenses the overnight mail and ticket queue into a three-line summary and a capped list for today, then tracks sprint health and AI spending against the budget you set. Draft replies come back in your voice and stay unsent until you send them, and the writeups are tidy enough for a Monday meeting.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vIIc2EV8FFZ3g6W8JUgoZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vIIc2EV8FFZ3g6W8JUgoZ",
+  "homepage": "https://x.ai/bot/vIIc2EV8FFZ3g6W8JUgoZ",
+  "license": null,
+  "author": "kumarkandgule",
+  "tags": ["business", "ops", "developer", "analytics", "monitoring", "back-office", "scheduled"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

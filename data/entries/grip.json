@@ -1,0 +1,22 @@
+{
+  "slug": "grip",
+  "name": "Grip",
+  "category": "development",
+  "tagline": "Coaches a hobby robot arm through teach, replay and fine-tuning",
+  "description": "Made for small bench-mounted robot arms of the kind hobbyists buy. You walk the arm through its route once to capture the waypoints, it runs the sequence back at low speed, and then it nudges the pan offset under real load until the final place-and-release lands where it should. No camera rig required.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/GyfhMCn4kdJUmS8gm2BMA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/GyfhMCn4kdJUmS8gm2BMA",
+  "homepage": "https://x.ai/bot/GyfhMCn4kdJUmS8gm2BMA",
+  "license": null,
+  "author": "MooneyMillions",
+  "tags": ["developer", "engineering", "automation", "on-demand"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

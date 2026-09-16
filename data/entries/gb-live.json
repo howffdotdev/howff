@@ -1,0 +1,22 @@
+{
+  "slug": "gb-live",
+  "name": "gb-live",
+  "category": "personal",
+  "tagline": "Watches an X live stream and digests whatever actually changed",
+  "description": "Watches a live broadcast on X and captures a screenshot whenever the picture changes, with a short Japanese note on what just happened. The notes build into an hourly digest that only arrives if something moved, so a quiet stream stays quiet. Nothing is posted publicly; the owner sees it first.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/AUfHSwBuDsxZlTZRC2Olf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/AUfHSwBuDsxZlTZRC2Olf",
+  "homepage": "https://x.ai/bot/AUfHSwBuDsxZlTZRC2Olf",
+  "license": null,
+  "author": "asura25ai",
+  "tags": ["personal", "monitoring", "social-media", "scheduled", "news"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

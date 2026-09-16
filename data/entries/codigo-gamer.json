@@ -1,0 +1,22 @@
+{
+  "slug": "codigo-gamer",
+  "name": "Código.Gamer",
+  "category": "marketing",
+  "tagline": "Keeps your game builds and meta current, then drafts the Instagram posts",
+  "description": "A Spanish-language gaming companion that keeps builds, guides and the current meta fresh for the titles you actually play, so notes stop going stale between patches. Instagram posts about that material are prepared too, and nothing publishes until you approve it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/w0wamvGSIRi9if0ggIhJd",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/w0wamvGSIRi9if0ggIhJd",
+  "homepage": "https://x.ai/bot/w0wamvGSIRi9if0ggIhJd",
+  "license": null,
+  "author": "merliac84",
+  "tags": ["creator", "content", "social-media", "personal", "on-demand"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

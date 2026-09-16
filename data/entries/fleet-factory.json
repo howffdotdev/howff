@@ -1,0 +1,22 @@
+{
+  "slug": "fleet-factory",
+  "name": "Fleet Factory",
+  "category": "ops",
+  "tagline": "A weekday close-out over inbox, calendar and whatever is in flight",
+  "description": "Written as the closing routine for a desk operated by several bots. Late in the day it sweeps the calendar, the inbox and whatever is mid-flight, then reports only what shifted rather than dumping a full status. Outbound items wait for your sign-off, and credentials stay off the shared board.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/BAYUUoTHAtiILmNu1jM3y",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/BAYUUoTHAtiILmNu1jM3y",
+  "homepage": "https://x.ai/bot/BAYUUoTHAtiILmNu1jM3y",
+  "license": null,
+  "author": "SacredFolio",
+  "tags": ["business", "ops", "productivity", "automation", "monitoring", "agent-team", "scheduled"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "chief-of-staff-andrew",
+  "name": "Chief of Staff (Andrew)",
+  "category": "ops",
+  "tagline": "Keeps a roster of helper bots pointed at a speaking business",
+  "description": "Sits above a set of helpers and keeps the week moving for someone whose income comes from speaking gigs and the products sold around them. Calendar space gets guarded, revenue threads are kept moving, and the owner hears about it only when a call cannot be made without them.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5hJ_io8a7Y0IImGtFbvJL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5hJ_io8a7Y0IImGtFbvJL",
+  "homepage": "https://x.ai/bot/5hJ_io8a7Y0IImGtFbvJL",
+  "license": null,
+  "author": "DrewLee06",
+  "tags": ["business", "ops", "productivity", "automation", "agent-team", "on-demand"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
