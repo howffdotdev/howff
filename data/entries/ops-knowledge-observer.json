@@ -1,0 +1,22 @@
+{
+  "slug": "ops-knowledge-observer",
+  "name": "Ops Knowledge Observer",
+  "category": "ops",
+  "tagline": "One read-only company brain that a whole bot fleet can draw on",
+  "description": "Shared memory for several operations bots rather than a worker in its own right. A setup interview records who owns which area and where the EDI and TMS data lives, and from then on the team draws context from one place instead of every bot hoarding private notes. It reads and answers; it changes nothing.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/CIgxhKdiPj7KflehWkaEr",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/CIgxhKdiPj7KflehWkaEr",
+  "homepage": "https://x.ai/bot/CIgxhKdiPj7KflehWkaEr",
+  "license": null,
+  "author": "StephenRuhe",
+  "tags": ["business", "ops", "developer", "knowledge-base", "automation", "agent-team"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
