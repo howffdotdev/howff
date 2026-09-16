@@ -1,0 +1,22 @@
+{
+  "slug": "listing-desk",
+  "name": "Listing Desk",
+  "category": "ops",
+  "tagline": "Builds an owner's listing pack from records before any marketing copy",
+  "description": "For somebody selling their own property without an agent. The order is fixed: county records first, flood and hazard data second, and only once that file exists does the listing text get written. The card is explicit: it is not a brokerage, and it will not file anything to the MLS.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/FSSDbB1Bv0msoI5mfjR3u",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/FSSDbB1Bv0msoI5mfjR3u",
+  "homepage": "https://x.ai/bot/FSSDbB1Bv0msoI5mfjR3u",
+  "license": null,
+  "author": "SacredFolio",
+  "tags": ["business", "real-estate", "research", "data", "on-demand"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
