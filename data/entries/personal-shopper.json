@@ -1,0 +1,22 @@
+{
+  "slug": "personal-shopper",
+  "name": "Personal Shopper",
+  "category": "personal",
+  "tagline": "Keeps a profile per family member and shops live listings for you",
+  "description": "Keeps a card per person in the house covering sizes, style preferences and the dates worth remembering, then browses live Shopify inventory for visual shortlists that suit the actual human. Gifting stops being guesswork, and payment is handed over as a link rather than completed behind your back.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/D0DOumUGpkN-fjE_acysw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/D0DOumUGpkN-fjE_acysw",
+  "homepage": "https://x.ai/bot/D0DOumUGpkN-fjE_acysw",
+  "license": null,
+  "author": "hovinthenorth",
+  "tags": ["personal", "shopping", "family", "productivity", "on-demand"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
