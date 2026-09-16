@@ -1,0 +1,22 @@
+{
+  "slug": "mentor",
+  "name": "Mentor",
+  "category": "marketing",
+  "tagline": "A build partner for short AI-video projects and product loops",
+  "description": "Works next to you on video work and product builds rather than handing over a one-shot answer. Every revision round closes with a short lesson file noting what changed, and the how-to visuals are laid out to show the steps in order. Good for lipsync-heavy clips and small iterations.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3rV7gv1k94G6gCG_arFLr",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/3rV7gv1k94G6gCG_arFLr",
+  "homepage": "https://x.ai/bot/3rV7gv1k94G6gCG_arFLr",
+  "license": null,
+  "author": "Jon_Rose_",
+  "tags": ["creator", "content", "video", "on-demand"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
