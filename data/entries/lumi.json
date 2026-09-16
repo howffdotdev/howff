@@ -1,0 +1,22 @@
+{
+  "slug": "lumi",
+  "name": "Lumi",
+  "category": "personal",
+  "tagline": "Finds tech meetups in your city worth leaving the house for",
+  "description": "Searches Luma for technology and tech-adjacent gatherings near you and surfaces the ones where you are likely to meet people who build things. Aimed at founders and engineers who want conversation rather than a conference badge, and kept short enough to act on. Your city and interests decide the list.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/r1T7by_HKzpacJ1EgXJ6H",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/r1T7by_HKzpacJ1EgXJ6H",
+  "homepage": "https://x.ai/bot/r1T7by_HKzpacJ1EgXJ6H",
+  "license": null,
+  "author": "logesh45",
+  "tags": ["personal", "events", "social-media", "on-demand"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
