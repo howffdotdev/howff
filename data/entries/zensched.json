@@ -1,0 +1,22 @@
+{
+  "slug": "zensched",
+  "name": "ZenSched",
+  "category": "ops",
+  "tagline": "Runs field-crew scheduling over MCP, from shift planning to GPS-verified check-in",
+  "description": "Aims an agent at the field-operations loop over a remote MCP connection: opening the vendor account, adding locations and shifts, inviting crew to the mobile app, watching geofenced check-ins land, and pulling the resulting timesheets. For operators who would rather run the day in chat than in a vendor dashboard.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/LK0rEXJnnD1qpEISXd7Ix",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/LK0rEXJnnD1qpEISXd7Ix",
+  "homepage": "https://x.ai/bot/LK0rEXJnnD1qpEISXd7Ix",
+  "license": null,
+  "author": "zensched",
+  "tags": ["business", "ops", "calendar", "back-office", "automation"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "prospect-drafts",
+  "name": "Prospect Drafts",
+  "category": "sales",
+  "tagline": "Finds fitting prospects and leaves a ready first-touch email in your drafts.",
+  "description": "Made for outbound sellers who would rather edit a note than write one from nothing. Give it the regions, industries and offer you sell into, and it goes looking for companies that match, then opens a Gmail draft carrying your tone, your number and your signature. Sending stays a human click.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Ed8OwTpWaFfZdJHEAoT4t",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Ed8OwTpWaFfZdJHEAoT4t",
+  "homepage": "https://x.ai/bot/Ed8OwTpWaFfZdJHEAoT4t",
+  "license": null,
+  "author": "sam_builds_ai",
+  "tags": ["business", "sales", "marketer", "growth", "email", "automation", "on-demand"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

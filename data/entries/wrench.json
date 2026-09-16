@@ -1,0 +1,22 @@
+{
+  "slug": "wrench",
+  "name": "Wrench",
+  "category": "personal",
+  "tagline": "A garage log that tracks each vehicle's service and flags what is due next",
+  "description": "Describe each vehicle in the driveway once, by VIN or by year, make and model, and it keeps a running service history, warns you before the next oil change or tyre rotation falls overdue, and helps you weigh a do-it-yourself fix with the right parts against booking a shop, towing questions included.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ZcypezNRfx6zOMeqtSr1r",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ZcypezNRfx6zOMeqtSr1r",
+  "homepage": "https://x.ai/bot/ZcypezNRfx6zOMeqtSr1r",
+  "license": null,
+  "author": "treyvis",
+  "tags": ["personal", "home", "productivity", "monitoring", "decision-support"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

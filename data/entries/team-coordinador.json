@@ -1,0 +1,22 @@
+{
+  "slug": "team-coordinador",
+  "name": "Team Coordinador",
+  "category": "ops",
+  "tagline": "Keeps specialist bots in their lanes with a shared vault and a digest",
+  "description": "A Spanish-language coordinator for a Grok team of specialists. Work is assigned so nobody strays into a teammate's area, one vault is kept for the whole team to read from, and the week closes with a Sunday digest. No personal data is stored, and the vault plus webhook inbox are set at import.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rWI7zYaHEPW3Ek6ODy8sk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/rWI7zYaHEPW3Ek6ODy8sk",
+  "homepage": "https://x.ai/bot/rWI7zYaHEPW3Ek6ODy8sk",
+  "license": null,
+  "author": "LordCocoro",
+  "tags": ["business", "ops", "developer", "automation", "agent-team", "scheduled"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

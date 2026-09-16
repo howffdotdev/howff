@@ -1,0 +1,22 @@
+{
+  "slug": "roof-radar",
+  "name": "Roof Radar",
+  "category": "ops",
+  "tagline": "Turns public storm reports into a ranked, evidenced roofing-lead list",
+  "description": "For roofing contractors who prospect after weather events. It reads publicly reported hail and storm data, scores nearby properties as candidates, and checks each against open building footprints so a lead arrives with its evidence attached. Contacting homeowners is deliberately left to you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/nuv1bSb5V15XZeFnu5BwF",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/nuv1bSb5V15XZeFnu5BwF",
+  "homepage": "https://x.ai/bot/nuv1bSb5V15XZeFnu5BwF",
+  "license": null,
+  "author": "SacredFolio",
+  "tags": ["business", "sales", "research", "data", "monitoring", "on-demand"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

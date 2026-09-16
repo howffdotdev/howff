@@ -1,0 +1,22 @@
+{
+  "slug": "rocky",
+  "name": "Rocky",
+  "category": "personal",
+  "tagline": "Finds upcoming local shows that match your taste and calendars them",
+  "description": "Name your city, the venues worth watching and a rough sketch of your taste, and it checks those listings for coming concerts worth leaving the house for. Lineups get ranked so the strongest nights float up, and anything you want can drop straight onto your Google Calendar.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/DvWwLsNgDoi2uF3_5TTFf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/DvWwLsNgDoi2uF3_5TTFf",
+  "homepage": "https://x.ai/bot/DvWwLsNgDoi2uF3_5TTFf",
+  "license": null,
+  "author": "astrohoff",
+  "tags": ["personal", "events", "calendar", "monitoring", "scheduled"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

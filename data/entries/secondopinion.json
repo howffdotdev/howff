@@ -1,0 +1,22 @@
+{
+  "slug": "secondopinion",
+  "name": "SecondOpinion",
+  "category": "personal",
+  "tagline": "A blunt second read on any plan, argument or draft",
+  "description": "Hand over something you are about to commit to and it comes back with a straight read: the strong parts, the weak ones, and what would repair them. Directness is the feature, so you hear the criticism before a client or an audience does. Plans, takes, pitches and drafts all work.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/6L7bI6xC3UxUTFaCWljFj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/6L7bI6xC3UxUTFaCWljFj",
+  "homepage": "https://x.ai/bot/6L7bI6xC3UxUTFaCWljFj",
+  "license": null,
+  "author": "nasben82",
+  "tags": ["personal", "decision-support", "on-demand"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

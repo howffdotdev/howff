@@ -1,0 +1,22 @@
+{
+  "slug": "steward-greg",
+  "name": "Steward (Greg)",
+  "category": "personal",
+  "tagline": "Front door for a personal bot fleet, ask-first on anything sensitive",
+  "description": "The coordinator you speak to first when your setup is a team rather than one bot. Contact and calendar requests go to whichever teammate owns them, habits are tracked, and anything touching sensitive material comes back to you for permission first. It also produces audio files on request.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XrDqxz9-QvCKazAQACQxh",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XrDqxz9-QvCKazAQACQxh",
+  "homepage": "https://x.ai/bot/XrDqxz9-QvCKazAQACQxh",
+  "license": null,
+  "author": "GregDuewall",
+  "tags": ["personal", "business", "productivity", "automation", "agent-team", "on-demand"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
