@@ -1,0 +1,22 @@
+{
+  "slug": "homestead-advisor",
+  "name": "Homestead Advisor",
+  "category": "personal",
+  "tagline": "Walks first-time rural buyers through land, kit and utilities",
+  "description": "Written for a first-time rural buyer who does not yet know what they do not know. It helps you judge land, separate essential gear from tempting extras, plan water and power, and raises the questions buyers usually forget until they turn expensive. Slow, high-stakes purchases need this kind of company.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/6z-iBRlRz1MSCtyneeHpN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/6z-iBRlRz1MSCtyneeHpN",
+  "homepage": "https://x.ai/bot/6z-iBRlRz1MSCtyneeHpN",
+  "license": null,
+  "author": "AlanOrlikoski",
+  "tags": ["personal", "home", "research", "decision-support", "on-demand"],
+  "verified": false,
+  "added": "2026-09-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
