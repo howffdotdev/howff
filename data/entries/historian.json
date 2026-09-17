@@ -1,0 +1,28 @@
+{
+  "slug": "historian",
+  "name": "Historian",
+  "category": "personal",
+  "tagline": "Rebuilds your day from an evening voice note and files how you decide",
+  "description": "Turns keeping a journal inside out: rather than waiting for you to type, it takes minutes of recorded thoughts at the end of the day and reconstructs what happened from them. Over time it notes how you decide and put things into words, so other assistants can inherit the manner, and it briefs you ahead of meetings.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/hHiqd6PMMJ3whDUBCQkDG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/hHiqd6PMMJ3whDUBCQkDG",
+  "homepage": "https://x.ai/bot/hHiqd6PMMJ3whDUBCQkDG",
+  "license": null,
+  "author": "maxfaubert",
+  "tags": [
+    "personal",
+    "productivity",
+    "knowledge-base",
+    "learning",
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

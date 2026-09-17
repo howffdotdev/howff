@@ -1,0 +1,28 @@
+{
+  "slug": "ops",
+  "name": "Ops",
+  "category": "ops",
+  "tagline": "A front door that triages your work and routes it to named specialists",
+  "description": "The single place where work enters a bench of assistants. It weighs what deserves your attention, absorbs the routine admin that would otherwise eat the morning, and hands each remaining item to the teammate set up for it, deliberately staying out of the expert work: deciding and dispatching is the job, not doing.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4sUQZA1UAXXDRf5bhYwPY",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/4sUQZA1UAXXDRf5bhYwPY",
+  "homepage": "https://x.ai/bot/4sUQZA1UAXXDRf5bhYwPY",
+  "license": null,
+  "author": "Rimusz",
+  "tags": [
+    "business",
+    "ops",
+    "agent-team",
+    "automation",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

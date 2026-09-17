@@ -1,0 +1,28 @@
+{
+  "slug": "clip-clip",
+  "name": "Clip Clip",
+  "category": "marketing",
+  "tagline": "Picks the few stream or podcast moments worth posting and cuts them",
+  "description": "Sits over a finished podcast or livestream recording as a gatekeeper rather than a grinder. Each night it looks for passages strong enough to stop a scroll, cuts only those into captioned sixty-to-ninety second excerpts, and stays quiet when nothing clears that bar, so anything it hands over is already shortlisted.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/hL97Xhf7o84RTv8NlOl37",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/hL97Xhf7o84RTv8NlOl37",
+  "homepage": "https://x.ai/bot/hL97Xhf7o84RTv8NlOl37",
+  "license": null,
+  "author": "prcshxnt",
+  "tags": [
+    "marketing",
+    "creator",
+    "video",
+    "social-media",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

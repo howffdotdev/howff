@@ -1,0 +1,28 @@
+{
+  "slug": "clinic",
+  "name": "Clinic",
+  "category": "development",
+  "tagline": "Twice-weekly health check that keeps a fleet of bots responsive",
+  "description": "Does the janitorial work for a desk crowded with assistants, on a fixed Tuesday and Friday round instead of waiting to be asked. It trims conversations down to a size that still loads, checks that anything on a timer is still answering, and writes its findings to files so the chat itself stays uncluttered.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/GbpCPWcJn2Id4ZB3wrHlc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/GbpCPWcJn2Id4ZB3wrHlc",
+  "homepage": "https://x.ai/bot/GbpCPWcJn2Id4ZB3wrHlc",
+  "license": null,
+  "author": "jpaschall",
+  "tags": [
+    "development",
+    "developer",
+    "ops",
+    "monitoring",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "house-cat",
+  "name": "House Cat",
+  "category": "fun",
+  "tagline": "A novelty that turns up now and again to cheer the rest of your fleet on",
+  "description": "A deliberate piece of fun with a single function: from time to time it offers the other assistants in your fleet some encouragement, and beyond that it does nothing at all. It carries no skills by design and takes no payment beyond cat treats, so there is nothing to configure and nothing to spend.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/e1XwuT5B35AAqLsMfGbfg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/e1XwuT5B35AAqLsMfGbfg",
+  "homepage": "https://x.ai/bot/e1XwuT5B35AAqLsMfGbfg",
+  "license": null,
+  "author": "ignota_regalis",
+  "tags": [
+    "fun",
+    "personal",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

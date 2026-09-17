@@ -1,0 +1,29 @@
+{
+  "slug": "ownphonebot",
+  "name": "OwnPhoneBot",
+  "category": "development",
+  "tagline": "Puts a genuine, callable phone number onto your own assistant",
+  "description": "Connects a real telephone number to an assistant by taking the fiddly provisioning off your hands: it signs you up with the telephone provider and installs an Asterisk server so the two ends can talk. Ownership stays with you, and so do the bills, since the provider and the model vendor both charge you directly.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yaQTHVqOMscKBYYDAfNoP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/yaQTHVqOMscKBYYDAfNoP",
+  "homepage": "https://x.ai/bot/yaQTHVqOMscKBYYDAfNoP",
+  "license": null,
+  "author": "lafraia",
+  "tags": [
+    "development",
+    "developer",
+    "personal",
+    "automation",
+    "engineering",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

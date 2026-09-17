@@ -1,0 +1,28 @@
+{
+  "slug": "podcast-pipeline",
+  "name": "Podcast Pipeline",
+  "category": "marketing",
+  "tagline": "Takes an episode from topic research through to a published show",
+  "description": "Covers the whole production line for an audio programme: it researches the topic, writes a script with a distinct voice for each host, stitches the speech with your branding and an outro, checks the result, then cuts captions and publishes. Built around a beginner-level Spanish show, it handles two-host formats.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5wqj5ihszSFeGjNBjK8Mn",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5wqj5ihszSFeGjNBjK8Mn",
+  "homepage": "https://x.ai/bot/5wqj5ihszSFeGjNBjK8Mn",
+  "license": null,
+  "author": "TheNextGreatEra",
+  "tags": [
+    "marketing",
+    "creator",
+    "content",
+    "automation",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "moonshot",
+  "name": "Moonshot",
+  "category": "finance",
+  "tagline": "Digests two tech podcasts into briefs that sort the real from the loud",
+  "description": "Watches for new episodes of a pair of technology shows and compresses each into a short briefing that separates what has substance from what is merely noisy. It puts the point in terms of your own situation and closes with a few moves worth making, so what lands is a decision aid rather than programme notes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/fSBU34VR0gqteP3IOAnr8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/fSBU34VR0gqteP3IOAnr8",
+  "homepage": "https://x.ai/bot/fSBU34VR0gqteP3IOAnr8",
+  "license": null,
+  "author": "Luca280",
+  "tags": [
+    "finance",
+    "investor",
+    "research",
+    "decision-support",
+    "news",
+    "youtube"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

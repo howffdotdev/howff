@@ -1,0 +1,27 @@
+{
+  "slug": "icebreaker-apache1999",
+  "name": "Icebreaker (Apache1999)",
+  "category": "sales",
+  "tagline": "Weekday watch on commercial-property owners showing signs of selling",
+  "description": "A lead radar for commercial brokers. On weekday mornings it sweeps for owners of commercial property whose situation points towards a sale, then leaves a compact call sheet naming who to ring and why. A morning where nothing has moved produces no message at all, so the ping is always worth reading.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/c2y0GRnjxC7scs76bzxGw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/c2y0GRnjxC7scs76bzxGw",
+  "homepage": "https://x.ai/bot/c2y0GRnjxC7scs76bzxGw",
+  "license": null,
+  "author": "Apache1999",
+  "tags": [
+    "sales",
+    "business",
+    "real-estate",
+    "monitoring"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

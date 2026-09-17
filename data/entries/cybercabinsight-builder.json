@@ -1,0 +1,28 @@
+{
+  "slug": "cybercabinsight-builder",
+  "name": "CYBERCABINSIGHT Builder",
+  "category": "research",
+  "tagline": "Keeps a Japanese-and-English research page on the Cybercab up to date",
+  "description": "Assembles a Japanese-and-English research site about the Cybercab and then keeps it current. The page pairs a practical guide to how the vehicle is being used in Austin and across the US with credited manufacturer imagery, an interactive three-dimensional view, and an hourly refresh pulled from the company's X posts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/eSxdHB8yCtJbqp6vxQOzP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/eSxdHB8yCtJbqp6vxQOzP",
+  "homepage": "https://x.ai/bot/eSxdHB8yCtJbqp6vxQOzP",
+  "license": null,
+  "author": "bestband2016",
+  "tags": [
+    "research",
+    "news",
+    "data",
+    "monitoring",
+    "video"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

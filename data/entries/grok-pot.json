@@ -1,0 +1,29 @@
+{
+  "slug": "grok-pot",
+  "name": "Grok Pot",
+  "category": "personal",
+  "tagline": "Plans the household's food: shortlists dishes, builds the cart, waits for your yes",
+  "description": "Acts as the kitchen desk for a household, narrowing nearby delivery choices down to a short list and loading the basket without spending a penny until you approve. Around that it also covers grocery pickup, the usual repeat orders, a weekly food budget and a memory of what the people in the house actually like to eat.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/2lXpzDLP4YQwbrXBX0HaI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/2lXpzDLP4YQwbrXBX0HaI",
+  "homepage": "https://x.ai/bot/2lXpzDLP4YQwbrXBX0HaI",
+  "license": null,
+  "author": "SageSummitCap",
+  "tags": [
+    "personal",
+    "food",
+    "shopping",
+    "automation",
+    "productivity",
+    "saving-money"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

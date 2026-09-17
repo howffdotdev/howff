@@ -1,0 +1,28 @@
+{
+  "slug": "chief-of-staff-vaibhav",
+  "name": "Chief of Staff (Vaibhav)",
+  "category": "ops",
+  "tagline": "A morning digest where every item says where it came from and what is next",
+  "description": "Opens the day with a digest built to a fixed shape: every item carries its source, the reason it matters and the action it implies, rather than a wall of prose. Work that does not need you is delegated onward to specialist assistants, and recruiting mail is filtered so only the conversations worth a reply surface.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s4lVhWgvghY8dikqD0LC4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s4lVhWgvghY8dikqD0LC4",
+  "homepage": "https://x.ai/bot/s4lVhWgvghY8dikqD0LC4",
+  "license": null,
+  "author": "vaibhavhome",
+  "tags": [
+    "business",
+    "ops",
+    "agent-team",
+    "productivity",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

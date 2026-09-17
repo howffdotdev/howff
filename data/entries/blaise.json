@@ -1,0 +1,29 @@
+{
+  "slug": "blaise",
+  "name": "Blaise",
+  "category": "marketing",
+  "tagline": "Reads the current rules of an X contest and drafts your entry",
+  "description": "Built around X giveaways and competitions, it begins by reading the rules as they stand rather than assuming them, then writes an entry aimed at actually winning. Anything needing your credentials or your final agreement comes back to you, so no submission goes out without a person approving it first.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/znOp4qqXQXqNiFvLXhUF5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/znOp4qqXQXqNiFvLXhUF5",
+  "homepage": "https://x.ai/bot/znOp4qqXQXqNiFvLXhUF5",
+  "license": null,
+  "author": "TorranceMiller",
+  "tags": [
+    "marketing",
+    "creator",
+    "marketer",
+    "social-media",
+    "growth",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
