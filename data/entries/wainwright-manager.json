@@ -1,0 +1,28 @@
+{
+  "slug": "wainwright-manager",
+  "name": "Wainwright Manager",
+  "category": "development",
+  "tagline": "Hires and onboards a new bot role for your fleet from one menu",
+  "description": "Works as the hiring desk for a fleet of assistants: you pick the role you need from a single list, and it reads the specification over for problems before anything is created. It then stands the agent up, checks the profile is correct, and passes across the wake routine, so the new hire arrives ready to take work.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/TqyhVfSrAYZ-xQSrD_x1A",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/TqyhVfSrAYZ-xQSrD_x1A",
+  "homepage": "https://x.ai/bot/TqyhVfSrAYZ-xQSrD_x1A",
+  "license": null,
+  "author": "itsryanlenk",
+  "tags": [
+    "development",
+    "developer",
+    "ops",
+    "agent-team",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

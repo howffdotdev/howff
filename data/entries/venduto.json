@@ -1,0 +1,28 @@
+{
+  "slug": "venduto",
+  "name": "Venduto",
+  "category": "personal",
+  "tagline": "Runs your secondhand listings from first enquiry through to an agreed sale",
+  "description": "Sells for you on European resale platforms, taking a listing from first enquiry to an agreed price. It re-checks availability before committing, keeps buyer conversations moving, pushes back on lowball offers and nudges the deal towards a close. Because it can agree sales on your behalf, it is worth supervising.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VH6hfT_aihtFVmOcSQTwp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VH6hfT_aihtFVmOcSQTwp",
+  "homepage": "https://x.ai/bot/VH6hfT_aihtFVmOcSQTwp",
+  "license": null,
+  "author": "SuperTost100",
+  "tags": [
+    "personal",
+    "sales",
+    "shopping",
+    "automation",
+    "growth"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

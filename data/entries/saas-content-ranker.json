@@ -1,0 +1,29 @@
+{
+  "slug": "saas-content-ranker",
+  "name": "SaaS Content Ranker",
+  "category": "marketing",
+  "tagline": "Plans, drafts and checks the ranking pages for an affiliate software site",
+  "description": "Built for affiliate sites competing in software search. It narrows the field to the search terms worth the effort, then writes the comparisons, reviews and guides those terms reward, checking each draft against a publish checklist. Distribution is treated as its own job, with the promotion steps handed over separately.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/JDYPl17DU2bU771WtX4we",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/JDYPl17DU2bU771WtX4we",
+  "homepage": "https://x.ai/bot/JDYPl17DU2bU771WtX4we",
+  "license": null,
+  "author": "Abdollahoffline",
+  "tags": [
+    "marketing",
+    "marketer",
+    "content",
+    "seo",
+    "growth",
+    "business"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

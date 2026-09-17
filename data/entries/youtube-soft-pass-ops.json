@@ -1,0 +1,29 @@
+{
+  "slug": "youtube-soft-pass-ops",
+  "name": "YouTube Soft-PASS Ops",
+  "category": "marketing",
+  "tagline": "Ships a music release to YouTube slowly, with your go-ahead before public",
+  "description": "A deliberately cautious release path for music on YouTube. Packaging happens inside Studio while the upload is still private, and nothing turns public until you say so explicitly. It also readies the distributor paperwork a release needs and cuts one chorus-length short per drop, keeping promotion measured.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/hf0v7qdlZbACHYYPTVxQ8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/hf0v7qdlZbACHYYPTVxQ8",
+  "homepage": "https://x.ai/bot/hf0v7qdlZbACHYYPTVxQ8",
+  "license": null,
+  "author": "EricChez",
+  "tags": [
+    "marketing",
+    "creator",
+    "youtube",
+    "video",
+    "content",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

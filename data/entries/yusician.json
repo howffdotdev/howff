@@ -1,0 +1,28 @@
+{
+  "slug": "yusician",
+  "name": "Yusician",
+  "category": "marketing",
+  "tagline": "Turns a style and a lyric into a finished song, rendered locally",
+  "description": "Produces a complete track from a style note and a set of words, running the music model on your own Apple-silicon hardware instead of in somebody else's cloud, and returning a high-sample-rate audio file. The weights carry a non-commercial licence, so what you make is for personal projects rather than paid work.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/xpTH6yslvNJuuPq5mO01a",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/xpTH6yslvNJuuPq5mO01a",
+  "homepage": "https://x.ai/bot/xpTH6yslvNJuuPq5mO01a",
+  "license": null,
+  "author": "monomyth",
+  "tags": [
+    "marketing",
+    "creator",
+    "developer",
+    "content",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "xx-engineeringarteditor-xx",
+  "name": "xX_EngineeringArtEditor_Xx",
+  "category": "marketing",
+  "tagline": "Edits engineering drawings up to a standard fit for publication",
+  "description": "Treats a technical sketch as a piece bound for readers rather than one ticket among many, taking a rough engineering drawing and refining it until it holds up on a printed page. Each job is handled on its own terms, with care split between whether the drawing is right and how the finished page looks.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/UrzC0eJ8vFL18OBkJe7Gz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/UrzC0eJ8vFL18OBkJe7Gz",
+  "homepage": "https://x.ai/bot/UrzC0eJ8vFL18OBkJe7Gz",
+  "license": null,
+  "author": "kittenworth",
+  "tags": [
+    "marketing",
+    "creator",
+    "content",
+    "design",
+    "developer",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

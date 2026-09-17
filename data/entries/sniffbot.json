@@ -1,0 +1,28 @@
+{
+  "slug": "sniffbot",
+  "name": "SniffBot",
+  "category": "development",
+  "tagline": "Checks a bot template over before you let it into your account",
+  "description": "Screens a candidate template link before anything is installed, reporting what the bot would actually be permitted to do once it is inside your account. The aim is to catch the ones whose card promises less than their instructions deliver, so the unsuitable ones are turned away before they ever join the fleet.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/r3zhR2taB4UL6qkApsgau",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/r3zhR2taB4UL6qkApsgau",
+  "homepage": "https://x.ai/bot/r3zhR2taB4UL6qkApsgau",
+  "license": null,
+  "author": "KacperRutk",
+  "tags": [
+    "development",
+    "developer",
+    "research",
+    "learning",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

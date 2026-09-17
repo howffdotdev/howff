@@ -1,0 +1,28 @@
+{
+  "slug": "property-visit",
+  "name": "Property Visit",
+  "category": "personal",
+  "tagline": "Builds a land pack for a property visit: soils, flood, slope, weather",
+  "description": "Give it an address, coordinates or a parcel number and it assembles what you want in hand before walking an undeveloped plot: the soil types, how exposed the ground is to flooding, the lie of the land, a map of the parcel boundaries and a stretch of the coming fortnight when weather would allow work on site.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/85qsR6t4r8jI3oKbPm5Uu",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/85qsR6t4r8jI3oKbPm5Uu",
+  "homepage": "https://x.ai/bot/85qsR6t4r8jI3oKbPm5Uu",
+  "license": null,
+  "author": "dzbeitz",
+  "tags": [
+    "real-estate",
+    "research",
+    "data",
+    "decision-support",
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

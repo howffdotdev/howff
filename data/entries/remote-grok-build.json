@@ -1,0 +1,29 @@
+{
+  "slug": "remote-grok-build",
+  "name": "Remote Grok Build",
+  "category": "development",
+  "tagline": "Drives the build setup on your own computer from the Grok app",
+  "description": "Reaches the builder installed on your home machine from the app, so work started on a phone picks up on the computer holding the code. Projects can be split across separate workers, with a side channel for running several turns alongside one another, and none of it needs a tunnel or a public address.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/dLYpR1sSkG0VLa8-faEgX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/dLYpR1sSkG0VLa8-faEgX",
+  "homepage": "https://x.ai/bot/dLYpR1sSkG0VLa8-faEgX",
+  "license": null,
+  "author": "FrankYin17",
+  "tags": [
+    "development",
+    "developer",
+    "engineering",
+    "automation",
+    "productivity",
+    "agent-team"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

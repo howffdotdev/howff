@@ -1,0 +1,29 @@
+{
+  "slug": "skool-community-bot",
+  "name": "Skool Community Bot",
+  "category": "ops",
+  "tagline": "Keeps a Skool group's members, posts and open questions in view",
+  "description": "Sits alongside a Skool group you administer, working through an ordinary browser session instead of an official connector. It sums up who has joined and what has been posted, drafts follow-up messages for you to look over, and gathers the questions still without an answer into a list you can work through.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/k52i6aFytc3an6PabakvN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/k52i6aFytc3an6PabakvN",
+  "homepage": "https://x.ai/bot/k52i6aFytc3an6PabakvN",
+  "license": null,
+  "author": "shawnjooste",
+  "tags": [
+    "business",
+    "ops",
+    "support",
+    "marketer",
+    "automation",
+    "social-media"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

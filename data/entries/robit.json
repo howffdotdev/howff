@@ -1,0 +1,29 @@
+{
+  "slug": "robit",
+  "name": "RobIT",
+  "category": "development",
+  "tagline": "Chases down what is crashing your Windows PC and cleans up the mess",
+  "description": "Treats a sluggish Windows machine as a job to fix, not a chat about fixing. It hunts down what sits behind freezes and crashes, strips out the half-removed antivirus or browser add-ons ordinary uninstalls leave behind, and works through why a shop or government portal refuses to load, driving its own Chrome profile.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0BbPklegaSLcUqp0CVXda",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/0BbPklegaSLcUqp0CVXda",
+  "homepage": "https://x.ai/bot/0BbPklegaSLcUqp0CVXda",
+  "license": null,
+  "author": "CrystalJ613",
+  "tags": [
+    "development",
+    "developer",
+    "personal",
+    "productivity",
+    "automation",
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-17",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
