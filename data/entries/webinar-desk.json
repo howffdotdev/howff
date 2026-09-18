@@ -1,0 +1,29 @@
+{
+  "slug": "webinar-desk",
+  "name": "Webinar Desk",
+  "category": "ops",
+  "tagline": "It finds webinars in your lanes, attends, and sends back a brief",
+  "description": "You pick the subject areas worth following and it takes over from there: it finds upcoming sessions, asks before signing you up, then sits in and takes notes so you never watch live. Afterwards a structured five-part summary lands in your inbox, sent from its own mailbox.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/n0v3TatpnoYff_4ybSWmK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/n0v3TatpnoYff_4ybSWmK",
+  "homepage": "https://x.ai/bot/n0v3TatpnoYff_4ybSWmK",
+  "license": null,
+  "author": "Ispider",
+  "tags": [
+    "ops",
+    "productivity",
+    "research",
+    "learning",
+    "monitoring",
+    "email"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "unicron",
+  "name": "Unicron",
+  "category": "ops",
+  "tagline": "Compiles your overlapping bots and routines into one fleet document",
+  "description": "Reads the bots, instruction sets and routines you have built up and turns the overlap into one document covering your profile, your fleet and your routines. It finishes with a diff of what it found, then stops and waits. Nothing changes until you approve the proposal, and it does not carry changes out itself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/LIoSGK9L2p0pCeApCmS1g",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/LIoSGK9L2p0pCeApCmS1g",
+  "homepage": "https://x.ai/bot/LIoSGK9L2p0pCeApCmS1g",
+  "license": null,
+  "author": "the_Arow_H",
+  "tags": [
+    "ops",
+    "meta-bot",
+    "agent-team",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

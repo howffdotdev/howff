@@ -1,0 +1,28 @@
+{
+  "slug": "steve",
+  "name": "Steve",
+  "category": "development",
+  "tagline": "A Scrum-master voice for engineering spend across a bakery group",
+  "description": "Runs the engineering cadence for a multi-brand bakery operation in the Scrum master seat. Part of the work is reviewing which connectors people genuinely use, and part is making the build-versus-buy call on new tooling. It pushes back on anything that looks entertaining but returns nothing measurable to the operation.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/tVFpcwYEBXW4ReAFni6Cn",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/tVFpcwYEBXW4ReAFni6Cn",
+  "homepage": "https://x.ai/bot/tVFpcwYEBXW4ReAFni6Cn",
+  "license": null,
+  "author": "IAmMichaelSweet",
+  "tags": [
+    "development",
+    "developer",
+    "ops",
+    "engineering",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

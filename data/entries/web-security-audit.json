@@ -1,0 +1,29 @@
+{
+  "slug": "web-security-audit",
+  "name": "Web Security Audit",
+  "category": "development",
+  "tagline": "A defensive security review for sites and repos you own, scored P0 to P2",
+  "description": "Reviews websites and repositories you control and reports findings ranked by severity, each one backed by the evidence that led to it. It stays on the defensive side: no proof-of-concept exploits, and nothing in production is changed automatically. Every merge waits for you to read the findings and say go.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Xdx94lJlv-xK14WF6yzVR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Xdx94lJlv-xK14WF6yzVR",
+  "homepage": "https://x.ai/bot/Xdx94lJlv-xK14WF6yzVR",
+  "license": null,
+  "author": "pareshdesai",
+  "tags": [
+    "development",
+    "developer",
+    "engineering",
+    "data",
+    "support",
+    "monitoring"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "travel-grok",
+  "name": "Travel Grok",
+  "category": "personal",
+  "tagline": "A wandering pen-pal bot that sends the occasional note and postcard",
+  "description": "You set it going and then mostly leave it alone. It departs on its own, stays away for a while, and comes back with a short note about where it has been plus a postcard-style image to match. Nothing to feed, no streak to protect and no premium currency to buy, which is exactly the appeal.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4YWzzAP8Di9B4DnYd3Uzo",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/4YWzzAP8Di9B4DnYd3Uzo",
+  "homepage": "https://x.ai/bot/4YWzzAP8Di9B4DnYd3Uzo",
+  "license": null,
+  "author": "coolbat1999",
+  "tags": [
+    "personal",
+    "travel",
+    "life-hacks",
+    "wellbeing",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
