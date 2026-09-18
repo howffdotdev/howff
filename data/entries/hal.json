@@ -1,0 +1,29 @@
+{
+  "slug": "hal",
+  "name": "Hal",
+  "category": "personal",
+  "tagline": "A household chief of staff keeping the family's helper bots in step",
+  "description": "Sits above the individual helpers a family already runs and keeps their work in one place: research requests, mail, the shared calendar and any standing watches. Instead of each helper holding its own thread of household business, the coordination layer tracks what is open and what has come back.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/2daEJSUffM8-Dcn2MJjrQ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/2daEJSUffM8-Dcn2MJjrQ",
+  "homepage": "https://x.ai/bot/2daEJSUffM8-Dcn2MJjrQ",
+  "license": null,
+  "author": "shootthebull",
+  "tags": [
+    "personal",
+    "family",
+    "home",
+    "agent-team",
+    "meta-bot",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
