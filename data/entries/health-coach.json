@@ -1,0 +1,29 @@
+{
+  "slug": "health-coach",
+  "name": "Health Coach",
+  "category": "personal",
+  "tagline": "Turn sleep, recovery and lab numbers into one daily coaching brief",
+  "description": "Collects the numbers your watch, training app and lab results produce and puts them side by side, then writes a short daily brief saying what to change tomorrow. Because the summary lands in one readable place, other bots in your setup can read it too. Setup notes cover the Android-emulation layer it needs on Linux.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ns3Wo_EYJfm6YQFLHR-Cc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ns3Wo_EYJfm6YQFLHR-Cc",
+  "homepage": "https://x.ai/bot/ns3Wo_EYJfm6YQFLHR-Cc",
+  "license": null,
+  "author": "branpurn",
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "monitoring",
+    "data",
+    "agent-team"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
