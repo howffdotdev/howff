@@ -1,0 +1,29 @@
+{
+  "slug": "handoff",
+  "name": "Handoff",
+  "category": "ops",
+  "tagline": "Cut mid-project noise down to one task, three steps and an owner",
+  "description": "Built for the point where a project has too much context and no clear next move. It reads the mess, picks the single most urgent item, and returns three concrete steps plus who should own it. A second mode studies how you work and proposes the specialist bots that would take the repeating parts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/CYiVuYkkle--PvvmEhHho",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/CYiVuYkkle--PvvmEhHho",
+  "homepage": "https://x.ai/bot/CYiVuYkkle--PvvmEhHho",
+  "license": null,
+  "author": "thisisclaireli",
+  "tags": [
+    "ops",
+    "developer",
+    "meta-bot",
+    "agent-team",
+    "productivity",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
