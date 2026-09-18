@@ -1,0 +1,28 @@
+{
+  "slug": "nourishment",
+  "name": "Nourishment",
+  "category": "personal",
+  "tagline": "Photograph your fridge and get recipes from what you already own",
+  "description": "Start with a photo of your fridge or pantry and it works out meals from the ingredients actually sitting there. It remembers which foods you enjoy and which you avoid, then plans around whatever goal you have set. Finish with a grocery list sized to the budget you name, so the shopping trip matches the plan.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/E_j1gMmT7KLW4HWbMV2nK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/E_j1gMmT7KLW4HWbMV2nK",
+  "homepage": "https://x.ai/bot/E_j1gMmT7KLW4HWbMV2nK",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [
+    "personal",
+    "health",
+    "food",
+    "saving-money",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

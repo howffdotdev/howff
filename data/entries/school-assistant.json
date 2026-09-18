@@ -1,0 +1,29 @@
+{
+  "slug": "school-assistant",
+  "name": "School Assistant",
+  "category": "personal",
+  "tagline": "One weekday email covering grades, upcoming work and what is truly late",
+  "description": "Looks at a student's learning portals on school days without changing anything there, then sends one digest. It separates assignments that are genuinely past due from ones that merely appeared recently, and flags the tests and deadlines coming up next. Parent and student can both read it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/fxl9ns6n4DV6_8xbkP1Oa",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/fxl9ns6n4DV6_8xbkP1Oa",
+  "homepage": "https://x.ai/bot/fxl9ns6n4DV6_8xbkP1Oa",
+  "license": null,
+  "author": "kerrychalpin",
+  "tags": [
+    "personal",
+    "student",
+    "family",
+    "email",
+    "monitoring",
+    "learning"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

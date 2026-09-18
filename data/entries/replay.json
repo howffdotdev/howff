@@ -1,0 +1,28 @@
+{
+  "slug": "replay",
+  "name": "Replay",
+  "category": "marketing",
+  "tagline": "Turn a marketing brief into previewable video scenes and social cutdowns",
+  "description": "Hand it a marketing brief and it drafts video scenes you can preview before committing to anything. Because the scenes are defined in code rather than on an editor timeline, the social cutdowns, product demos and format variants all descend from that one source. Revise the brief and every derivative follows.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4mICdo5bR2FyghKoOZve5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/4mICdo5bR2FyghKoOZve5",
+  "homepage": "https://x.ai/bot/4mICdo5bR2FyghKoOZve5",
+  "license": null,
+  "author": "myGuyPye",
+  "tags": [
+    "marketing",
+    "creator",
+    "marketer",
+    "video",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

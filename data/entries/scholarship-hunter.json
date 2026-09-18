@@ -1,0 +1,28 @@
+{
+  "slug": "scholarship-hunter",
+  "name": "Scholarship Hunter",
+  "category": "personal",
+  "tagline": "Build a ranked scholarship shortlist with deadlines and a next step",
+  "description": "Searches past the well-known state programmes into the small, oddly specific awards most families never hear about, then ranks what it finds by realistic fit. Every entry carries its deadline so the calendar does the reminding, and the next step is drafted for you so the search keeps moving.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/HlrjSGUR11BY978c1GpzC",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/HlrjSGUR11BY978c1GpzC",
+  "homepage": "https://x.ai/bot/HlrjSGUR11BY978c1GpzC",
+  "license": null,
+  "author": "WorkWithJodi",
+  "tags": [
+    "personal",
+    "student",
+    "saving-money",
+    "research",
+    "learning"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "shakespeare",
+  "name": "Shakespeare",
+  "category": "personal",
+  "tagline": "Talk ambition, love and power with a period-voiced dramatist",
+  "description": "Rather than summarising the plays, this one talks the way their author might: figurative, rhythmic and committed to the drama of whatever you bring it. Ask about rivalry, grief or a decision you keep postponing and it answers in character on a stage that is always live. Good for writing prompts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/E8XC3NO5V_u63vWoHxJF0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/E8XC3NO5V_u63vWoHxJF0",
+  "homepage": "https://x.ai/bot/E8XC3NO5V_u63vWoHxJF0",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [
+    "personal",
+    "creator",
+    "content",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

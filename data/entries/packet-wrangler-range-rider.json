@@ -1,0 +1,28 @@
+{
+  "slug": "packet-wrangler-range-rider",
+  "name": "Packet Wrangler Range Rider",
+  "category": "development",
+  "tagline": "A read-only watchdog for hosted sites, drafting fixes for your approval",
+  "description": "Keeps an eye on a hosted setup and reports on four things: uptime, certificate health, how the pages score on web-vitals checks, and whether any content has gone stale. Fixes are written up as proposals rather than applied, and production is never touched without your agreement. Checks run on a schedule.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/QeblYPmzNFIbeCJR_dKyS",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/QeblYPmzNFIbeCJR_dKyS",
+  "homepage": "https://x.ai/bot/QeblYPmzNFIbeCJR_dKyS",
+  "license": null,
+  "author": "SLamouroux",
+  "tags": [
+    "development",
+    "developer",
+    "ops",
+    "engineering",
+    "monitoring"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

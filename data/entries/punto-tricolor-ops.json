@@ -1,0 +1,27 @@
+{
+  "slug": "punto-tricolor-ops",
+  "name": "Punto Tricolor Ops",
+  "category": "ops",
+  "tagline": "Daily ops support for a small business in Colombia, briefing to bookings",
+  "description": "Built around a small local company rather than a startup team. Each weekday morning it delivers a technology briefing as voice, a separate agent takes customer orders, table reservations and appointments, and a prospecting pass works through nearby restaurants and clinics. One desk carrying the daily load.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ARSoBhGtQqYPT2Nu44ABi",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ARSoBhGtQqYPT2Nu44ABi",
+  "homepage": "https://x.ai/bot/ARSoBhGtQqYPT2Nu44ABi",
+  "license": null,
+  "author": "cyberandres",
+  "tags": [
+    "ops",
+    "business",
+    "sales",
+    "growth"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

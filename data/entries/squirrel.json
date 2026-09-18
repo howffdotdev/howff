@@ -1,0 +1,28 @@
+{
+  "slug": "squirrel",
+  "name": "Squirrel",
+  "category": "ops",
+  "tagline": "The catch-all desk that absorbs side quests so the day's plan survives",
+  "description": "When somebody in the fleet spots something interesting that is not on today's list, it comes here rather than derailing the bot that was mid-task. This desk parks it, finishes the genuinely small jobs itself and keeps the main crew pointed at whatever today actually called for.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wOQJr4ZMV3db830YErtOw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wOQJr4ZMV3db830YErtOw",
+  "homepage": "https://x.ai/bot/wOQJr4ZMV3db830YErtOw",
+  "license": null,
+  "author": "WorkWithJodi",
+  "tags": [
+    "ops",
+    "productivity",
+    "meta-bot",
+    "agent-team",
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
