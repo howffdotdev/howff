@@ -1,0 +1,27 @@
+{
+  "slug": "homebase",
+  "name": "Homebase",
+  "category": "personal",
+  "tagline": "Family mission control for homework, sign-up forms and the shared calendar",
+  "description": "Surfaces homework and permission forms as they come home from school, ahead of the deadline. Before anyone puts their hand up, it looks at who has already taken that slot, so two people never sign up for the same job. The family calendar stays accurate, and it nudges whenever an entry is missing.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/WZ7amxhH9gXXBEaGmg0un",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/WZ7amxhH9gXXBEaGmg0un",
+  "homepage": "https://x.ai/bot/WZ7amxhH9gXXBEaGmg0un",
+  "license": null,
+  "author": "raitec",
+  "tags": [
+    "personal",
+    "family",
+    "calendar",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

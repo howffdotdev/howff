@@ -1,0 +1,28 @@
+{
+  "slug": "little-x",
+  "name": "Little x",
+  "category": "ops",
+  "tagline": "Drive X and document tasks by email while you are away",
+  "description": "Functions as an ops desk for the stretch of the day when you are nowhere near the app. Send a command by email and it drafts X replies, holds them for your approval before anything is posted, retrieves the files you request and pushes alerts to your phone. The market alerts are read-only, with no trading involved.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/KTMYJjzan8cuclz2lv1Rz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/KTMYJjzan8cuclz2lv1Rz",
+  "homepage": "https://x.ai/bot/KTMYJjzan8cuclz2lv1Rz",
+  "license": null,
+  "author": "DonaldMoor91672",
+  "tags": [
+    "ops",
+    "developer",
+    "email",
+    "monitoring",
+    "crypto"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "levelupworld-zero-company",
+  "name": "LevelUpWorld Zero to Company",
+  "category": "development",
+  "tagline": "Add a talk-and-listen layer across a whole fleet of bots",
+  "description": "Gives an existing set of bots a shared voice channel: speak to them in chat and hear replies instead of typing everything. Text stays the default, spoken replies arrive on request, and each bot can be assigned its own speech behaviour. This is the chat interface, not telephone calls.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Amk304VOCMu6c5ZlaXy0L",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Amk304VOCMu6c5ZlaXy0L",
+  "homepage": "https://x.ai/bot/Amk304VOCMu6c5ZlaXy0L",
+  "license": null,
+  "author": "LevelUpAIDIS",
+  "tags": [
+    "development",
+    "developer",
+    "ops",
+    "agent-team",
+    "meta-bot",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "linkedin-deck-desk",
+  "name": "LinkedIn Deck Desk",
+  "category": "marketing",
+  "tagline": "Turn a newsletter into a checked LinkedIn carousel and queue it in Buffer",
+  "description": "Takes a newsletter issue or a news story and rebuilds it as a slide carousel sized for LinkedIn. Before anything is published it reviews the images and charts it produced, and only a pass clears the deck for the queue. A recurring series can then sit ready to post on its own.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/zE2ZdbZSQc7tHfE7wa4kR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/zE2ZdbZSQc7tHfE7wa4kR",
+  "homepage": "https://x.ai/bot/zE2ZdbZSQc7tHfE7wa4kR",
+  "license": null,
+  "author": "pareshdesai",
+  "tags": [
+    "marketing",
+    "marketer",
+    "creator",
+    "social-media",
+    "content",
+    "growth",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "learning-dna",
+  "name": "Learning DNA",
+  "category": "personal",
+  "tagline": "A short assessment first, then every subject taught the way you prefer",
+  "description": "Opens with a short interactive assessment about how you like new material to arrive, and keeps the result as your learning profile. Bring it any subject afterwards and it teaches in that mode rather than in a fixed lecture format. Useful as one consistent tutor across a range of unrelated topics.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/xm3G76TSxi1dcG4qwebvm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/xm3G76TSxi1dcG4qwebvm",
+  "homepage": "https://x.ai/bot/xm3G76TSxi1dcG4qwebvm",
+  "license": null,
+  "author": "KareenMallet",
+  "tags": [
+    "personal",
+    "student",
+    "learning",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "marketing-bot",
+  "name": "Marketing Bot",
+  "category": "marketing",
+  "tagline": "Turn a project description into X launch copy worth tapping",
+  "description": "Answer a short set of questions about your project and it returns launch copy shaped for X. You get one standalone post, a short thread covering the same announcement, and replies written to earn a tap instead of filling space. Adjust the answers and regenerate until the framing sounds like something you would post.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/FaMbaDOO2WceFyiKDu6_6",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/FaMbaDOO2WceFyiKDu6_6",
+  "homepage": "https://x.ai/bot/FaMbaDOO2WceFyiKDu6_6",
+  "license": null,
+  "author": "BragiHelvig",
+  "tags": [
+    "marketing",
+    "marketer",
+    "creator",
+    "social-media",
+    "content",
+    "growth"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

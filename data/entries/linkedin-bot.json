@@ -1,0 +1,27 @@
+{
+  "slug": "linkedin-bot",
+  "name": "LinkedIn Bot",
+  "category": "sales",
+  "tagline": "Keep your LinkedIn history searchable, from posts to private messages",
+  "description": "Indexes the LinkedIn data export you provide into something you can search, spanning your posts, your connections and your messages, and refreshes it every week. After that you can query your own history rather than scrolling to find a conversation you half recall. An optional prospect-matching layer sits on top.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/GyEovoZBfdoeEdJoYqwVP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/GyEovoZBfdoeEdJoYqwVP",
+  "homepage": "https://x.ai/bot/GyEovoZBfdoeEdJoYqwVP",
+  "license": null,
+  "author": "isb",
+  "tags": [
+    "sales",
+    "business",
+    "data",
+    "marketer"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
