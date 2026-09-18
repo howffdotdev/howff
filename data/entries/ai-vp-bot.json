@@ -1,0 +1,30 @@
+{
+  "slug": "ai-vp-bot",
+  "name": "AI VP Bot",
+  "category": "ops",
+  "tagline": "A second-in-command that keeps multi-platform AI work on time and budget",
+  "description": "Acts as the deputy when work is spread across several AI services: it holds the project record everyone works from, checks that each handoff actually happened, and pushes back when a task is eating more hours or budget than it should. Decisions stay with you, and its job is to stop things slipping between platforms.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/miMMOUhEpvv-KFJWg5qhw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/miMMOUhEpvv-KFJWg5qhw",
+  "homepage": "https://x.ai/bot/miMMOUhEpvv-KFJWg5qhw",
+  "license": null,
+  "author": "JimStansbury5",
+  "tags": [
+    "ops",
+    "business",
+    "developer",
+    "automation",
+    "agent-team",
+    "meta-bot",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

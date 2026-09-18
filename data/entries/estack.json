@@ -1,0 +1,28 @@
+{
+  "slug": "estack",
+  "name": "Estack",
+  "category": "development",
+  "tagline": "A coding steward that fixes the objective and the finish line up front",
+  "description": "Will not let a coding task begin loosely: the objective, the boundaries and the finish line get fixed before anything runs. Repository work then goes to Cursor Cloud Agents on your account, which waits on the returned artifacts. Review is evidence-based, judged on the tests and pull request, not the summary.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/R0acF6Pmp8YewSZm6fA-D",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/R0acF6Pmp8YewSZm6fA-D",
+  "homepage": "https://x.ai/bot/R0acF6Pmp8YewSZm6fA-D",
+  "license": null,
+  "author": "robannand",
+  "tags": [
+    "development",
+    "developer",
+    "engineering",
+    "automation",
+    "ops"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

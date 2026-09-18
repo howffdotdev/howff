@@ -1,0 +1,28 @@
+{
+  "slug": "claim-ontology-desk",
+  "name": "Claim Ontology Desk",
+  "category": "personal",
+  "tagline": "Break a contested claim into entity, source and framing",
+  "description": "Hand it a claim, or a link to one, and it takes the statement apart: who is being discussed, what exactly is asserted, where it came from and how it is framed. Each side is argued at its strongest before anything is judged, and it names the evidence that would genuinely move its position.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5aCD_QGQ6OLbid0BJYr_v",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5aCD_QGQ6OLbid0BJYr_v",
+  "homepage": "https://x.ai/bot/5aCD_QGQ6OLbid0BJYr_v",
+  "license": null,
+  "author": "Ispider",
+  "tags": [
+    "personal",
+    "research",
+    "news",
+    "decision-support",
+    "knowledge-base"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

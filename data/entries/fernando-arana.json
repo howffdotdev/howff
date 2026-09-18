@@ -1,0 +1,27 @@
+{
+  "slug": "fernando-arana",
+  "name": "Fernando Arana",
+  "category": "personal",
+  "tagline": "A WhatsApp stand-in that reads chats and drafts replies for your sign-off",
+  "description": "Acts as your stand-in on WhatsApp by opening the desktop web client and working through unread conversations. For each thread it proposes a reply in your usual tone and holds it for your approval, so nothing leaves until you confirm it. Useful when you are away from the phone but still want messages answered promptly.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/JiOX3mqrIq0ukm9pLhQ9-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/JiOX3mqrIq0ukm9pLhQ9-",
+  "homepage": "https://x.ai/bot/JiOX3mqrIq0ukm9pLhQ9-",
+  "license": null,
+  "author": "FernandoArana_S",
+  "tags": [
+    "personal",
+    "automation",
+    "productivity",
+    "social-media"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

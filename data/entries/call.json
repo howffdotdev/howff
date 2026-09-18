@@ -1,0 +1,27 @@
+{
+  "slug": "call",
+  "name": "Call",
+  "category": "ops",
+  "tagline": "Place and steer live phone calls through a SIP voice-model bridge",
+  "description": "Aimed at developers wiring real telephony into an agent. A SIP bridge hands the audio to a live voice model, which follows the script, reacts to events mid-conversation and ends the call when the goal is met or the exchange is going nowhere. Add an approval step before it dials anything.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/aItvmBN1hl5uR6kHvSXrG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/aItvmBN1hl5uR6kHvSXrG",
+  "homepage": "https://x.ai/bot/aItvmBN1hl5uR6kHvSXrG",
+  "license": null,
+  "author": "iserflott",
+  "tags": [
+    "ops",
+    "developer",
+    "automation",
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

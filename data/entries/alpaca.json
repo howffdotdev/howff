@@ -1,0 +1,28 @@
+{
+  "slug": "alpaca",
+  "name": "Alpaca",
+  "category": "finance",
+  "tagline": "A paper-only desk for rehearsing options and equity decisions",
+  "description": "Built on the Alpaca API for simulated trading, so nothing here touches a funded account. It steps through position sizing gradually, runs at the open, midday and close on a schedule, and keeps its cut-out switches in place throughout. Prove the process on paper before going anywhere near real money.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/O9GVEhA_dlBr1uxomyy8L",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/O9GVEhA_dlBr1uxomyy8L",
+  "homepage": "https://x.ai/bot/O9GVEhA_dlBr1uxomyy8L",
+  "license": null,
+  "author": "swartzendruber",
+  "tags": [
+    "finance",
+    "investor",
+    "data",
+    "monitoring",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

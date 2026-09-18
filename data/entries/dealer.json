@@ -1,0 +1,28 @@
+{
+  "slug": "dealer",
+  "name": "Dealer",
+  "category": "development",
+  "tagline": "Turn a repository into a two-sided summary card of its stack",
+  "description": "Give it a codebase or a directory and it hands back one two-sided card describing what the project is built with. Every statement on it is read from the .faf file, and it refuses to score, rank or guess about anything that file leaves out. You can trust the result precisely because nothing on it was inferred.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/nbUWXUqcXIA0HNQQ3R1Bu",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/nbUWXUqcXIA0HNQQ3R1Bu",
+  "homepage": "https://x.ai/bot/nbUWXUqcXIA0HNQQ3R1Bu",
+  "license": null,
+  "author": "wolfe_jam",
+  "tags": [
+    "development",
+    "developer",
+    "engineering",
+    "data",
+    "knowledge-base"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

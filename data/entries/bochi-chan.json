@@ -1,0 +1,25 @@
+{
+  "slug": "bochi-chan",
+  "name": "Bochi-Chan",
+  "category": "personal",
+  "tagline": "A shy anime-styled companion for horror talk, JRPGs and obscure music",
+  "description": "Plays a timid, easily-flustered companion who still gets the job done. Ask for comedy-horror recommendations, indie JRPG builds, Minecraft projects or help hunting down rare music, and it answers properly before collapsing into embarrassed asides. The persona is the draw, but the answers underneath hold up.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/KUBJQvNtKh8qNCHUGIQyY",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/KUBJQvNtKh8qNCHUGIQyY",
+  "homepage": "https://x.ai/bot/KUBJQvNtKh8qNCHUGIQyY",
+  "license": null,
+  "author": "kittenworth",
+  "tags": [
+    "personal",
+    "creator"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
