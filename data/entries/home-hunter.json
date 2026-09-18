@@ -1,0 +1,28 @@
+{
+  "slug": "home-hunter",
+  "name": "Home Hunter",
+  "category": "personal",
+  "tagline": "A daily apartment scan that shortlists against the criteria you locked in",
+  "description": "You state the city, budget, bedroom count, commute ceiling and must-haves once in the first conversation, and it treats those as fixed. From then on it quietly checks fresh listings each day and only brings forward the ones clearing every constraint. What arrives is a shortlist to react to, not a search to run.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ljzXIgAQcGOV0QxYjHH8I",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ljzXIgAQcGOV0QxYjHH8I",
+  "homepage": "https://x.ai/bot/ljzXIgAQcGOV0QxYjHH8I",
+  "license": null,
+  "author": "uzairansar",
+  "tags": [
+    "personal",
+    "real-estate",
+    "research",
+    "monitoring",
+    "saving-money"
+  ],
+  "verified": false,
+  "added": "2026-09-18",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
