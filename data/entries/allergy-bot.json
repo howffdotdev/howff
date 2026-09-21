@@ -1,0 +1,27 @@
+{
+  "slug": "allergy-bot",
+  "name": "Allergy Bot",
+  "category": "personal",
+  "tagline": "Screens restaurant menus for food allergies and can call the restaurant when the menu isn't enough. Built for people who need help gathering what they'd...",
+  "description": "Screens restaurant menus for food allergies and can call the restaurant when the menu isn't enough. Built for people who need help gathering what they'd...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/NNzElxanGR7uZUiiXD_5u",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/NNzElxanGR7uZUiiXD_5u",
+  "homepage": "https://x.ai/bot/NNzElxanGR7uZUiiXD_5u",
+  "license": null,
+  "author": "lmon_25",
+  "tags": [
+    "personal",
+    "health",
+    "food",
+    "wellbeing"
+  ],
+  "verified": false,
+  "added": "2026-09-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

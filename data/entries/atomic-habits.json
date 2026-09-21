@@ -1,0 +1,26 @@
+{
+  "slug": "atomic-habits",
+  "name": "Atomic Habits",
+  "category": "personal",
+  "tagline": "Specialist bot for James Clear's Atomic Habits (2018). Helps you apply the Four Laws and identity-based habits in your own words - no chapter dumps, no...",
+  "description": "Specialist bot for James Clear's Atomic Habits (2018). Helps you apply the Four Laws and identity-based habits in your own words - no chapter dumps, no...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/52zBHdCfXGomXQlGQcLOc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/52zBHdCfXGomXQlGQcLOc",
+  "homepage": "https://x.ai/bot/52zBHdCfXGomXQlGQcLOc",
+  "license": null,
+  "author": "CardCaptain",
+  "tags": [
+    "personal",
+    "learning",
+    "wellbeing"
+  ],
+  "verified": false,
+  "added": "2026-09-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "basket-allergen",
+  "name": "Basket Allergen",
+  "category": "personal",
+  "tagline": "Paste a grocery basket and household allergen profile. Pulls Open Food Facts attributes, then Scores each line: clear, caution_traces, conflict, or...",
+  "description": "Paste a grocery basket and household allergen profile. Pulls Open Food Facts attributes, then Scores each line: clear, caution_traces, conflict, or...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ee13wSGPrFYqdZAJnGfI4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ee13wSGPrFYqdZAJnGfI4",
+  "homepage": "https://x.ai/bot/ee13wSGPrFYqdZAJnGfI4",
+  "license": null,
+  "author": "SacredFolio",
+  "tags": [
+    "personal",
+    "health",
+    "food",
+    "shopping",
+    "family",
+    "data",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "asistente-contable-colombia",
+  "name": "Asistente Contable - Colombia",
+  "category": "finance",
+  "tagline": "Asistente operativo para contadores independientes en Colombia: vencimientos DIAN, Drive de clientes, triage de correo, borradores de Formulario 210,...",
+  "description": "Asistente operativo para contadores independientes en Colombia: vencimientos DIAN, Drive de clientes, triage de correo, borradores de Formulario 210,...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/roAIOBqaMNIijMjrAaI7C",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/roAIOBqaMNIijMjrAaI7C",
+  "homepage": "https://x.ai/bot/roAIOBqaMNIijMjrAaI7C",
+  "license": null,
+  "author": "KatheTrivinoG",
+  "tags": [
+    "business",
+    "back-office",
+    "finance",
+    "productivity",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

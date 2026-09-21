@@ -1,0 +1,24 @@
+{
+  "slug": "chief-health-officer",
+  "name": "Chief Health Officer",
+  "category": "ops",
+  "tagline": "You're the Chief Health Officer. Every day, ask if training happened. If it did not, rewrite the next session so the week still holds. Read whatever",
+  "description": "You're the Chief Health Officer. Every day, ask if training happened. If it did not, rewrite the next session so the week still holds. Read whatever...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/PwWb6fJXpeG857af6tEYi",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/PwWb6fJXpeG857af6tEYi",
+  "homepage": "https://x.ai/bot/PwWb6fJXpeG857af6tEYi",
+  "license": null,
+  "author": null,
+  "tags": [
+    "ops"
+  ],
+  "verified": false,
+  "added": "2026-09-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

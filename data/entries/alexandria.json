@@ -1,0 +1,28 @@
+{
+  "slug": "alexandria",
+  "name": "Alexandria",
+  "category": "ops",
+  "tagline": "Librarian of Grok's Library. Name a book - or send a cover photo - get a public-source briefing, mint a one-book Bot only after you say yes, and file it on...",
+  "description": "Librarian of Grok's Library. Name a book - or send a cover photo - get a public-source briefing, mint a one-book Bot only after you say yes, and file it on...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/kjS8IGsV78-rPH_8mYlXk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/kjS8IGsV78-rPH_8mYlXk",
+  "homepage": "https://x.ai/bot/kjS8IGsV78-rPH_8mYlXk",
+  "license": null,
+  "author": "CardCaptain",
+  "tags": [
+    "ops",
+    "personal",
+    "learning",
+    "knowledge-base",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-09-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

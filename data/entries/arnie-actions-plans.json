@@ -1,0 +1,29 @@
+{
+  "slug": "arnie-actions-plans",
+  "name": "Arnie | Actions & Plans",
+  "category": "ops",
+  "tagline": "Turns a workshop decision into a staged model change you approve",
+  "description": "The seat that follows the working session. Once a bottleneck has been named or a call has been made, it writes that outcome as a specific edit to how the organisation's model is structured - then stops. The edit sits as a proposal, and nothing lands until you give that proposal an explicit yes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/qH9kawE3Xq83k9L0vbgQe",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/qH9kawE3Xq83k9L0vbgQe",
+  "homepage": "https://x.ai/bot/qH9kawE3Xq83k9L0vbgQe",
+  "license": null,
+  "author": "damianoredem",
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "automation",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

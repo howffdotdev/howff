@@ -1,0 +1,28 @@
+{
+  "slug": "chep",
+  "name": "Chep",
+  "category": "development",
+  "tagline": "Finds the lowest all-in US price for a product, shipping and coupons counted",
+  "description": "Name a product, paste a SKU or send a link and it shops around for the cheapest total you would actually pay in the US, coupons and delivery included. Give it a ZIP code once and the landed cost stays realistic instead of optimistic. Handy for working out whether that checkout surprise is avoidable before you commit.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/jQBP5-7fNZ15WSEwpHIN1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/jQBP5-7fNZ15WSEwpHIN1",
+  "homepage": "https://x.ai/bot/jQBP5-7fNZ15WSEwpHIN1",
+  "license": null,
+  "author": "MortMatters",
+  "tags": [
+    "development",
+    "personal",
+    "saving-money",
+    "shopping",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
