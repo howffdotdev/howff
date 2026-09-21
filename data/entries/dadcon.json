@@ -1,0 +1,28 @@
+{
+  "slug": "dadcon",
+  "name": "DADCON",
+  "category": "personal",
+  "tagline": "A Slack-based backup parent that stays on a chore until it is genuinely finished",
+  "description": "A parent hands it a chore in Slack and it takes over the follow-up: checking in with the child, nudging when things stall, and refusing to declare victory until the job is genuinely done. It then reports back to the parent on how it all went. It lives where the family already talks, so nobody opens yet another app.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Ix294fMNhP-aUwXSz9hiB",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Ix294fMNhP-aUwXSz9hiB",
+  "homepage": "https://x.ai/bot/Ix294fMNhP-aUwXSz9hiB",
+  "license": null,
+  "author": "jerrodtuck",
+  "tags": [
+    "family",
+    "personal",
+    "productivity",
+    "home",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

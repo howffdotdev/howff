@@ -1,0 +1,28 @@
+{
+  "slug": "deal-scout",
+  "name": "Deal Scout",
+  "category": "sales",
+  "tagline": "Trawls resale sites for genuinely underpriced second-hand finds and skips the scams",
+  "description": "It searches the big resale marketplaces in one pass instead of one at a time, then filters what comes back. Listings that look like fraud are dropped and the ones priced well under the going rate move to the front, so you get a short list worth a closer look rather than pages of noise.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5x_HQ9uoBCHPYvf9vbUMN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5x_HQ9uoBCHPYvf9vbUMN",
+  "homepage": "https://x.ai/bot/5x_HQ9uoBCHPYvf9vbUMN",
+  "license": null,
+  "author": "danielhayesmith",
+  "tags": [
+    "sales",
+    "personal",
+    "saving-money",
+    "shopping",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

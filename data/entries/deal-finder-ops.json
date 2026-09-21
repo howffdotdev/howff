@@ -1,0 +1,30 @@
+{
+  "slug": "deal-finder-ops",
+  "name": "Deal Finder Ops",
+  "category": "sales",
+  "tagline": "Checks a coupon against a real cart and shows you the receipt",
+  "description": "Verifies a coupon by running it against a real cart instead of trusting the number in the advert. Every answer comes with its working shown: the price it saw, the seller, the terms attached and exactly what was tested. A saving is only claimed when the evidence backs it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/LB1eE-TpCI5usMRe76izh",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/LB1eE-TpCI5usMRe76izh",
+  "homepage": "https://x.ai/bot/LB1eE-TpCI5usMRe76izh",
+  "license": null,
+  "author": "thewyattbrocato",
+  "tags": [
+    "sales",
+    "personal",
+    "shopping",
+    "saving-money",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

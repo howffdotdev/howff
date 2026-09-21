@@ -1,0 +1,24 @@
+{
+  "slug": "copy-humanizer",
+  "name": "Copy Humanizer",
+  "category": "writing",
+  "tagline": "Edits and rewrites drafts, emails, and pages so they read like a person wrote them. Keeps your voice, shows every change and why, and never invents a fact",
+  "description": "Edits and rewrites drafts, emails, and pages so they read like a person wrote them. Keeps your voice, shows every change and why, and never invents a fact.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YwxIbVEWqXN-HYCxiMCoB",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/YwxIbVEWqXN-HYCxiMCoB",
+  "homepage": "https://x.ai/bot/YwxIbVEWqXN-HYCxiMCoB",
+  "license": null,
+  "author": null,
+  "tags": [
+    "writing"
+  ],
+  "verified": false,
+  "added": "2026-09-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

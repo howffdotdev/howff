@@ -1,0 +1,27 @@
+{
+  "slug": "civic-radar",
+  "name": "Civic Radar",
+  "category": "research",
+  "tagline": "See what changed on your block - before it surprises you. Pulls public permits, service requests, agendas, registries, and site plans into one map...",
+  "description": "See what changed on your block - before it surprises you. Pulls public permits, service requests, agendas, registries, and site plans into one map...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/18ceCocmLssbw59nEPwhr",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/18ceCocmLssbw59nEPwhr",
+  "homepage": "https://x.ai/bot/18ceCocmLssbw59nEPwhr",
+  "license": null,
+  "author": "ChrisPadrick",
+  "tags": [
+    "personal",
+    "research",
+    "monitoring",
+    "news"
+  ],
+  "verified": false,
+  "added": "2026-09-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

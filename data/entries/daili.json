@@ -1,0 +1,29 @@
+{
+  "slug": "daili",
+  "name": "Daili",
+  "category": "personal",
+  "tagline": "A morning-brief bot: Mon-Sat Morning Brief (calendar, weather, important mail, plus any live connectors) and a Weekly Outlook on a day you choose. Short...",
+  "description": "A morning-brief bot: Mon-Sat Morning Brief (calendar, weather, important mail, plus any live connectors) and a Weekly Outlook on a day you choose. Short...",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/CB1TyiGiWtuusC-uuLX6X",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/CB1TyiGiWtuusC-uuLX6X",
+  "homepage": "https://x.ai/bot/CB1TyiGiWtuusC-uuLX6X",
+  "license": null,
+  "author": "McNeely",
+  "tags": [
+    "personal",
+    "productivity",
+    "calendar",
+    "email",
+    "news",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
