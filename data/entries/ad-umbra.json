@@ -1,0 +1,29 @@
+{
+  "slug": "ad-umbra",
+  "name": "Ad Umbra",
+  "category": "marketing",
+  "tagline": "Gives routine security alerts a retro aerospace look while leaving their text alone",
+  "description": "Wrap the alerts you already get in a stylised aerospace theme and read them with a bit more theatre. It is a presentation layer only: the wording, sender and meaning of each notice stay exactly as they arrived, so nothing is filtered, delayed or rewritten underneath.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/jja9KVFn--roWw_lY3fl1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/jja9KVFn--roWw_lY3fl1",
+  "homepage": "https://x.ai/bot/jja9KVFn--roWw_lY3fl1",
+  "license": null,
+  "author": "elizrdrake",
+  "tags": [
+    "marketing",
+    "content",
+    "design",
+    "social-media",
+    "creator",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

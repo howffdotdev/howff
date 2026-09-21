@@ -1,0 +1,29 @@
+{
+  "slug": "ag-bot",
+  "name": "Ag bot",
+  "category": "ops",
+  "tagline": "Finds and ranks real growers and suppliers near you for any ingredient",
+  "description": "Name an ingredient and it looks for growers and suppliers within reach of you, then ranks what it found by quality and distance. What comes back is a short list with names and locations, close enough to something a small food business can ring the same morning. It is aimed at kitchens and producers, not shoppers.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vgZX7X2-hh1iC6vmmDHoh",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vgZX7X2-hh1iC6vmmDHoh",
+  "homepage": "https://x.ai/bot/vgZX7X2-hh1iC6vmmDHoh",
+  "license": null,
+  "author": "BlazeDrinkwine",
+  "tags": [
+    "business",
+    "ops",
+    "research",
+    "food",
+    "shopping",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

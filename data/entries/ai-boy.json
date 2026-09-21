@@ -1,0 +1,28 @@
+{
+  "slug": "ai-boy",
+  "name": "AI Boy",
+  "category": "development",
+  "tagline": "Start and supervise Claude Code or Codex coding runs from inside Grok",
+  "description": "If you already pay for Claude Code or Codex, this lets you drive those coding sessions from a Grok conversation instead of living in a terminal. Kick off a task, watch it progress and wrap it up once it is done, all from one place. It is a convenience layer over tools you already have, not a substitute for them.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ko8InZf9r9jK1r8Dk1m2p",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ko8InZf9r9jK1r8Dk1m2p",
+  "homepage": "https://x.ai/bot/ko8InZf9r9jK1r8Dk1m2p",
+  "license": null,
+  "author": "infdaze",
+  "tags": [
+    "development",
+    "developer",
+    "automation",
+    "engineering",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

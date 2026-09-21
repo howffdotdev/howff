@@ -1,0 +1,27 @@
+{
+  "slug": "agent-zero",
+  "name": "Agent Zero",
+  "category": "research",
+  "tagline": "Works through data-broker listings of you and files the official opt-outs",
+  "description": "It hunts down the broker and people-finder pages that publish your details, then files removal requests one at a time - but only the ones you approve. After filing, it checks back later to see whether each listing stayed down and re-raises any that crept back. Consent comes first: nothing goes out without your yes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/DFnZYjCELW2QdywUWZRiG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/DFnZYjCELW2QdywUWZRiG",
+  "homepage": "https://x.ai/bot/DFnZYjCELW2QdywUWZRiG",
+  "license": null,
+  "author": "GrokBotRadar",
+  "tags": [
+    "personal",
+    "monitoring",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

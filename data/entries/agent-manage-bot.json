@@ -1,0 +1,30 @@
+{
+  "slug": "agent-manage-bot",
+  "name": "Agent Manage Bot",
+  "category": "development",
+  "tagline": "A control room for Grok bots paired with Mac command-line tools",
+  "description": "Sits above a two-tier setup where Grok bots handle the thinking and Mac command-line tools do the executing. Work is sorted into separate research and coding rooms, briefs that missed their slot get chased, and a recurring lab session keeps the rig exercised. Terminal sessions underneath stay attached to each layer.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XMYbnGwxPJUePeRWYOduO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XMYbnGwxPJUePeRWYOduO",
+  "homepage": "https://x.ai/bot/XMYbnGwxPJUePeRWYOduO",
+  "license": null,
+  "author": "raincoatrun",
+  "tags": [
+    "development",
+    "developer",
+    "ops",
+    "meta-bot",
+    "agent-team",
+    "automation",
+    "monitoring"
+  ],
+  "verified": false,
+  "added": "2026-09-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
