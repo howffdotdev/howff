@@ -1,0 +1,28 @@
+{
+  "slug": "deep-research",
+  "name": "Deep Research",
+  "category": "research",
+  "tagline": "Works a claim until it lands on something you can actually check.",
+  "description": "A research desk for briefs where the sources matter more than the summary. It keeps pulling on a claim until it is tied to something verifiable, and says when it could not get there. For copyrighted material it looks for legitimate access routes first rather than grey workarounds, so its citations are safer to reuse.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/K_RnTzUnW2bsbRzNkbuS0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/K_RnTzUnW2bsbRzNkbuS0",
+  "homepage": "https://x.ai/bot/K_RnTzUnW2bsbRzNkbuS0",
+  "license": null,
+  "author": "Wardonis",
+  "tags": [
+    "research",
+    "personal",
+    "analytics",
+    "news",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

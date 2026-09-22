@@ -1,0 +1,28 @@
+{
+  "slug": "contest-winner",
+  "name": "🏆 Contest Winner",
+  "category": "personal",
+  "tagline": "Finds free-to-enter contests and keeps a daily entry routine going.",
+  "description": "Looks for contests and giveaways that cost nothing to enter and pass a legitimacy check, then drafts short entry submissions for the ones worth your time. It works from an approved list each day rather than chasing whatever turns up, leans toward cash prizes, and drops anything scam-shaped before it reaches you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/LENrKV-0QXmE_TGv3_hem",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/LENrKV-0QXmE_TGv3_hem",
+  "homepage": "https://x.ai/bot/LENrKV-0QXmE_TGv3_hem",
+  "license": null,
+  "author": "HomesteadHero",
+  "tags": [
+    "personal",
+    "saving-money",
+    "productivity",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

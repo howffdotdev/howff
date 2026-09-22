@@ -1,0 +1,29 @@
+{
+  "slug": "consider-it-marketed",
+  "name": "Consider It Marketed",
+  "category": "ops",
+  "tagline": "Acts as a clinic's marketing department so the doctor can stay in the exam room.",
+  "description": "Runs the promotion side of a small medical practice as a team of its own: campaigns get planned, search ads get bought, and creative and video go through a quality check before anything ships. The aim is to keep the physician who owns the practice out of the advertising console and with the people waiting to be seen.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ayQYbaHquRM7x7lnBOEoQ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ayQYbaHquRM7x7lnBOEoQ",
+  "homepage": "https://x.ai/bot/ayQYbaHquRM7x7lnBOEoQ",
+  "license": null,
+  "author": "CindyH874325640",
+  "tags": [
+    "business",
+    "ops",
+    "growth",
+    "content",
+    "health",
+    "agent-team"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

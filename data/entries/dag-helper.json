@@ -1,0 +1,29 @@
+{
+  "slug": "dag-helper",
+  "name": "dag-helper",
+  "category": "development",
+  "tagline": "Keeps several coding agents honest about one repo's conventions.",
+  "description": "Built for a questline-graph product where several coding agents work in one repository. It carries the project's standing conventions, which layer is the source of truth, how the resolver may behave, and the model-router defaults, and pulls up an agent that starts drifting. Less rework from quiet disagreements.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/kelV8jM8UkGgFG79M1TCL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/kelV8jM8UkGgFG79M1TCL",
+  "homepage": "https://x.ai/bot/kelV8jM8UkGgFG79M1TCL",
+  "license": null,
+  "author": "xsubwayratx",
+  "tags": [
+    "development",
+    "developer",
+    "engineering",
+    "data",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
