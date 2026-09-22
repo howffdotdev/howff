@@ -1,0 +1,31 @@
+{
+  "slug": "pearl",
+  "name": "Pearl",
+  "category": "writing",
+  "tagline": "Plans a creator mission and hands the pieces to news, draft and graphics bots.",
+  "description": "Built around one mission for your content: it turns that into a plan and delegates the pieces to specialist bots covering news gathering, drafting and graphics. Handoffs get reviewed rather than assumed, and anything outside the plan comes back to you first. The bot manages the work instead of doing it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VTWG_fyW6Xr_pkjEBM9VC",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VTWG_fyW6Xr_pkjEBM9VC",
+  "homepage": "https://x.ai/bot/VTWG_fyW6Xr_pkjEBM9VC",
+  "license": null,
+  "author": "vivekk_tech",
+  "tags": [
+    "writing",
+    "creator",
+    "productivity",
+    "automation",
+    "content",
+    "news",
+    "agent-team",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "newsletterbot-by-contentdrips",
+  "name": "NewsletterBot by Contentdrips",
+  "category": "writing",
+  "tagline": "Turns a newsletter link into branded social graphics and carousels.",
+  "description": "Paste in the link to a newsletter issue and it pulls out the parts worth promoting, which you approve before anything is designed. Those highlights become social graphics and carousel slides through a branded template, either yours or one of Contentdrips' own. Output arrives sized for posting, not rebuilding.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/aZktlS8No2Ur9nlhKRcy8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/aZktlS8No2Ur9nlhKRcy8",
+  "homepage": "https://x.ai/bot/aZktlS8No2Ur9nlhKRcy8",
+  "license": null,
+  "author": "im_usamakhalid",
+  "tags": [
+    "writing",
+    "creator",
+    "marketer",
+    "content",
+    "design",
+    "social-media",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

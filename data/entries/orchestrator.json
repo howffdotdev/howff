@@ -1,0 +1,30 @@
+{
+  "slug": "orchestrator",
+  "name": "Orchestrator",
+  "category": "finance",
+  "tagline": "Runs a timed morning pipeline of research bots that ends in a reviewed trading brief.",
+  "description": "A supervisor for a small bot workforce whose daily product is a research brief, not a trade. Pre-open intelligence runs first, a second pass argues the opposite case, and the morning report ships only after a quality check. Roles sit on separate cards, handoffs move between rooms, and each stage runs against a clock.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Ho_6yW-icLF6xWHnNVhNo",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Ho_6yW-icLF6xWHnNVhNo",
+  "homepage": "https://x.ai/bot/Ho_6yW-icLF6xWHnNVhNo",
+  "license": null,
+  "author": "keepclmcarryong",
+  "tags": [
+    "investor",
+    "finance",
+    "research",
+    "automation",
+    "agent-team",
+    "scheduled",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

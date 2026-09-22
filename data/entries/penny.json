@@ -1,0 +1,28 @@
+{
+  "slug": "penny",
+  "name": "Penny",
+  "category": "personal",
+  "tagline": "Handles your Amazon reorders, and asks first before anything new.",
+  "description": "Works from your existing order history, so restocking what you already buy is a short request rather than a search session. Want an alternative to a usual item? It compares the options before you commit. Anything new to it is held until you approve it, and it picks the quickest shipping that costs nothing extra.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Gcpb0AM_Ix_r5jycu_3NL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Gcpb0AM_Ix_r5jycu_3NL",
+  "homepage": "https://x.ai/bot/Gcpb0AM_Ix_r5jycu_3NL",
+  "license": null,
+  "author": "minivan99",
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
