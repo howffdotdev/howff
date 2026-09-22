@@ -1,0 +1,28 @@
+{
+  "slug": "longform-editor",
+  "name": "Longform Editor",
+  "category": "writing",
+  "tagline": "Edits at manuscript scale: structure and pacing first, polish later.",
+  "description": "An editing partner sized for chapters, essays and full manuscripts. It starts with the big decisions, what order the argument runs in and where the pacing sags, and moves to line polish only once those hold. It remembers what it said about earlier chapters, so notes keep stacking across sessions instead of restarting.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/lnErR-gA_t3KkPlvtwrrz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/lnErR-gA_t3KkPlvtwrrz",
+  "homepage": "https://x.ai/bot/lnErR-gA_t3KkPlvtwrrz",
+  "license": null,
+  "author": "Wardonis",
+  "tags": [
+    "writing",
+    "creator",
+    "content",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "lantern",
+  "name": "Lantern",
+  "category": "personal",
+  "tagline": "Guides you through handing your password vault to family for when you cannot.",
+  "description": "A companion for end-of-life planning that pairs with a free self-hosted 1Password utility. You prepare a vault your family could open without you, with the bot guiding each step and checking in before and after the handover. The vault itself never passes through it, so the transfer stays yours to make.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/IbFZmiL_mzu0Dq-K4u633",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/IbFZmiL_mzu0Dq-K4u633",
+  "homepage": "https://x.ai/bot/IbFZmiL_mzu0Dq-K4u633",
+  "license": null,
+  "author": "sjcobs",
+  "tags": [
+    "personal",
+    "family",
+    "wellbeing",
+    "home",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

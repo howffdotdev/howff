@@ -1,0 +1,30 @@
+{
+  "slug": "jev-router",
+  "name": "Jev router",
+  "category": "development",
+  "tagline": "Fast yes-no and scoring calls, so the big model only runs when it earns it.",
+  "description": "A small, quick classification layer built on the Jev harness. It answers the cheap, constant questions in a pipeline: which branch an item goes down, how urgent it is, which label fits, and where it lands on a rubric. Calibration matters as much as speed, so a pricier model only runs when the question deserves it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/lS9XaHCr9QTTHhNtb0VQX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/lS9XaHCr9QTTHhNtb0VQX",
+  "homepage": "https://x.ai/bot/lS9XaHCr9QTTHhNtb0VQX",
+  "license": null,
+  "author": "ColinMcDermott",
+  "tags": [
+    "development",
+    "developer",
+    "meta-bot",
+    "automation",
+    "decision-support",
+    "analytics",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
