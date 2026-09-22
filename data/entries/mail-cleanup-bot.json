@@ -1,0 +1,28 @@
+{
+  "slug": "mail-cleanup-bot",
+  "name": "메일 정리봇",
+  "category": "personal",
+  "tagline": "A Korean morning brief that trims Naver and Gmail down to what needs you",
+  "description": "Delivers a short Korean-language summary of your Naver Mail and Gmail each morning instead of the whole inbox. Routine mail is set aside so the small number of payment and security items that need a decision today stand out. Read the brief, then open the real inbox only if something in it looks wrong.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/gLV5mUN4vqHFKsCSn_DTO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/gLV5mUN4vqHFKsCSn_DTO",
+  "homepage": "https://x.ai/bot/gLV5mUN4vqHFKsCSn_DTO",
+  "license": null,
+  "author": "choko_milkty",
+  "tags": [
+    "personal",
+    "email",
+    "productivity",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

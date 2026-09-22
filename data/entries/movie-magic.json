@@ -1,0 +1,28 @@
+{
+  "slug": "movie-magic",
+  "name": "Movie Magic",
+  "category": "personal",
+  "tagline": "Film picks, a running watchlist, and a weekly box-office roundup.",
+  "description": "Ask for something to watch and it suggests films that fit, then keeps a watchlist you can come back to instead of losing titles up the scroll. Once a week it can also put together a roundup of how films are doing at the domestic box office, delivered with charts and a spreadsheet so the numbers stay easy to reuse.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/6YwswfCUiouQ0SJkgPfJK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/6YwswfCUiouQ0SJkgPfJK",
+  "homepage": "https://x.ai/bot/6YwswfCUiouQ0SJkgPfJK",
+  "license": null,
+  "author": "king_rob_lo",
+  "tags": [
+    "personal",
+    "video",
+    "analytics",
+    "content",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

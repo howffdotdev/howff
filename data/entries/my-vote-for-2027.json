@@ -1,0 +1,29 @@
+{
+  "slug": "my-vote-for-2027",
+  "name": "My Vote For 2027",
+  "category": "personal",
+  "tagline": "Scores the declared hopefuls for France's 2027 presidency on five weighted criteria.",
+  "description": "One voter's scorecard for the 2027 French presidential race, written in French. Every declared candidate gets rated against five criteria weighted from the author's own wiki, and a daily sweep of X keeps the evidence moving. A fixed morning run refreshes the standings, so the ranking follows the race as it is now.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/CHmLGnQyx6r8lkb3U8k9x",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/CHmLGnQyx6r8lkb3U8k9x",
+  "homepage": "https://x.ai/bot/CHmLGnQyx6r8lkb3U8k9x",
+  "license": null,
+  "author": "LeTerryBZH",
+  "tags": [
+    "personal",
+    "decision-support",
+    "research",
+    "news",
+    "scheduled",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

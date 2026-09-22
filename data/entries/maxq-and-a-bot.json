@@ -1,0 +1,29 @@
+{
+  "slug": "maxq-and-a-bot",
+  "name": "MaxQ&A Bot",
+  "category": "personal",
+  "tagline": "Turns a rocket mission into a grade-banded lesson kit, no prep.",
+  "description": "Made for teachers and home schoolers who want a real space mission in tomorrow's lesson without building it overnight. Hand it a launch and it produces an explainer for the grade band you name, a worksheet on the mission's real numbers, and a short class video. All of it comes from data the mission actually generated.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/qwFZeLb9JL2N3rXuM6Fkz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/qwFZeLb9JL2N3rXuM6Fkz",
+  "homepage": "https://x.ai/bot/qwFZeLb9JL2N3rXuM6Fkz",
+  "license": null,
+  "author": "buckwatia",
+  "tags": [
+    "personal",
+    "student",
+    "learning",
+    "video",
+    "news",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

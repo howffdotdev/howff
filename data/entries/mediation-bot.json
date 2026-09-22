@@ -1,0 +1,27 @@
+{
+  "slug": "mediation-bot",
+  "name": "Mediation Bot",
+  "category": "personal",
+  "tagline": "Coaches you through a hard conversation, then drafts the calmer reply.",
+  "description": "Built for a conversation you would rather not be having. It helps you get your own position into plain words, then drafts the calmer reply to the other person that still reads like something you wrote. Notes stay in its own memory, and nothing goes out until you approve that exact message.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9s1eGxsc3xUQ8NrDABQlN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9s1eGxsc3xUQ8NrDABQlN",
+  "homepage": "https://x.ai/bot/9s1eGxsc3xUQ8NrDABQlN",
+  "license": null,
+  "author": "SacredFolio",
+  "tags": [
+    "personal",
+    "wellbeing",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
