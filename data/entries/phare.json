@@ -1,0 +1,28 @@
+{
+  "slug": "phare",
+  "name": "phare",
+  "category": "personal",
+  "tagline": "Teaches generative-AI basics, then quietly keeps your priorities straight.",
+  "description": "Starts as a tutor: it walks you through generative-AI foundations using official coursework rather than random blog posts, at whatever pace you set. As it learns how you work it takes on a second job, watching your priorities and following up on what you said you would do. The tone stays calm rather than pushy.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MO_6pdGbnmwl1_Ox85J7H",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MO_6pdGbnmwl1_Ox85J7H",
+  "homepage": "https://x.ai/bot/MO_6pdGbnmwl1_Ox85J7H",
+  "license": null,
+  "author": "kvncyf_",
+  "tags": [
+    "student",
+    "learning",
+    "productivity",
+    "personal",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

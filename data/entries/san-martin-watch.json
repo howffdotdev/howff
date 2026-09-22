@@ -1,0 +1,29 @@
+{
+  "slug": "san-martin-watch",
+  "name": "San Martín Watch",
+  "category": "personal",
+  "tagline": "Starbase launch-day companion: next windows, legal viewing spots, and the land's story.",
+  "description": "Answers the three things worth knowing before a Starship launch day at Starbase: when the next window sits, where you may lawfully stand to see it once Highway 4 closes, and how the ground under the pad became a launch site. Trackers skip the history: a nineteenth-century land grant that still names the area.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/dXPRQwRlwI9_jip6vFYoT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/dXPRQwRlwI9_jip6vFYoT",
+  "homepage": "https://x.ai/bot/dXPRQwRlwI9_jip6vFYoT",
+  "license": null,
+  "author": "ToddATrevino",
+  "tags": [
+    "personal",
+    "travel",
+    "news",
+    "events",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

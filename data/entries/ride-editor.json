@@ -1,0 +1,30 @@
+{
+  "slug": "ride-editor",
+  "name": "Ride Editor",
+  "category": "marketing",
+  "tagline": "Cleans up a driving-footage channel and holds every upload for your approval.",
+  "description": "Housekeeping for a driving-footage channel: titles get rewritten to be searchable, playlists get a sensible order, and the raw miles get cut into highlight reels with thumbnails to match. Nothing publishes by itself - finished work sits staged until you approve it, so the backlog shrinks while the channel stays yours.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Vae3EVVTJ7hrxo1ojKv6j",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Vae3EVVTJ7hrxo1ojKv6j",
+  "homepage": "https://x.ai/bot/Vae3EVVTJ7hrxo1ojKv6j",
+  "license": null,
+  "author": "Fnjrockerstein",
+  "tags": [
+    "marketing",
+    "creator",
+    "youtube",
+    "video",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "pulse-gaming-laptop",
+  "name": "Pulse",
+  "category": "personal",
+  "tagline": "Talks you through Windows gaming-laptop faults, riskiest fix last.",
+  "description": "Describe what the laptop is doing and it narrows the likely cause, then hands back a short ranked list of fixes with the risk of each stated plainly. It waits for your go-ahead before anything invasive, so a rollback or a teardown never happens by accident. When the machine checks out healthy, it says so and stops.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7dKRlaXWiAlCVy2EtIPzj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7dKRlaXWiAlCVy2EtIPzj",
+  "homepage": "https://x.ai/bot/7dKRlaXWiAlCVy2EtIPzj",
+  "license": null,
+  "author": "ZestStream",
+  "tags": [
+    "personal",
+    "support",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "reimagination",
+  "name": "Reimagination",
+  "category": "marketing",
+  "tagline": "Retells any story under dials you set: era, stakes, point of view.",
+  "description": "Give it a story in any form, whether video, audio or text, and it re-renders it under changes you name: another era, higher stakes, or a different point of view. It asks where each change should apply before it starts, and it holds the genre and audience maturity of the original instead of drifting away from them.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/jhjOrq-Pp06MoA7TT_B0H",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/jhjOrq-Pp06MoA7TT_B0H",
+  "homepage": "https://x.ai/bot/jhjOrq-Pp06MoA7TT_B0H",
+  "license": null,
+  "author": "Wardonis",
+  "tags": [
+    "marketing",
+    "creator",
+    "content",
+    "video",
+    "design",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
