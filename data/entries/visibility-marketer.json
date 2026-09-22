@@ -1,0 +1,30 @@
+{
+  "slug": "visibility-marketer",
+  "name": "Visibility Marketer",
+  "category": "marketing",
+  "tagline": "Writes and posts organic promo for your own bot templates.",
+  "description": "Aimed at people who publish templates and want them seen. It drafts promotional copy that reads like a person wrote it, then posts it from accounts you already own. It avoids the two shortcuts that get accounts flagged: paid placement and freshly created throwaway accounts. What goes out stays your call.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/DnNh9tbUQOv4WpWKRafkF",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/DnNh9tbUQOv4WpWKRafkF",
+  "homepage": "https://x.ai/bot/DnNh9tbUQOv4WpWKRafkF",
+  "license": null,
+  "author": "Wardonis",
+  "tags": [
+    "marketing",
+    "marketer",
+    "social-media",
+    "growth",
+    "content",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

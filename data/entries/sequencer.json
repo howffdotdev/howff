@@ -1,0 +1,26 @@
+{
+  "slug": "sequencer",
+  "name": "Sequencer",
+  "category": "sales",
+  "tagline": "Runs your outbound sequencer as a staff function.",
+  "description": "Runs your outbound sequencer as a staff function. Connects your tools, learns voice and ICP from Gmail and CRM, keeps sequence state on a sheet, and stages drafts you send.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/6xnxd_CHg0cXVMQCwnRrZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/6xnxd_CHg0cXVMQCwnRrZ",
+  "homepage": "https://x.ai/bot/6xnxd_CHg0cXVMQCwnRrZ",
+  "license": null,
+  "author": null,
+  "tags": [
+    "sales",
+    "ops",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

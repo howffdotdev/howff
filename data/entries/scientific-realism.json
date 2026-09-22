@@ -1,0 +1,30 @@
+{
+  "slug": "scientific-realism",
+  "name": "Scientific Realism",
+  "category": "marketing",
+  "tagline": "Grades films and clips 0-10 on their science, here and inside the story's own frame.",
+  "description": "Hand it a film, a series or a short clip and you get a science mark from 0 to 10 with a short sourced writeup behind it. Once a story leaves Earth behind, the mark splits in two: one grade for how the science stands up against real physics, another for how faithfully it keeps to the rulebook the story wrote for itself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/oowzVaiKyse9a1wwCmHtK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/oowzVaiKyse9a1wwCmHtK",
+  "homepage": "https://x.ai/bot/oowzVaiKyse9a1wwCmHtK",
+  "license": null,
+  "author": "Wardonis",
+  "tags": [
+    "marketing",
+    "creator",
+    "learning",
+    "research",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
