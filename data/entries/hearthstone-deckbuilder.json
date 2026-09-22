@@ -1,0 +1,27 @@
+{
+  "slug": "hearthstone-deckbuilder",
+  "name": "Hearthstone Deckbuilder",
+  "category": "personal",
+  "tagline": "Builds Hearthstone decks from your recorded gameplay rather than your description of it.",
+  "description": "Point it at footage of your own Hearthstone games and it weighs the cards, the format and the list you brought for strengths and gaps. Expect an argument about the current meta, including a case against the pet card you refuse to cut. A budget build comes with it for players who would rather not craft the latest set.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/tSUrQQ0W5uM9ZI73NmSHm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/tSUrQQ0W5uM9ZI73NmSHm",
+  "homepage": "https://x.ai/bot/tSUrQQ0W5uM9ZI73NmSHm",
+  "license": null,
+  "author": "Wardonis",
+  "tags": [
+    "personal",
+    "decision-support",
+    "video",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

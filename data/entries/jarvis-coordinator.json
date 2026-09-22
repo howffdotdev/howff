@@ -1,0 +1,31 @@
+{
+  "slug": "jarvis-coordinator",
+  "name": "Jarvis Coordinator",
+  "category": "ops",
+  "tagline": "German-language desk coordinating six specialist bots behind conservative approval gates.",
+  "description": "Written in German, it holds a fleet of six specialists together - news, office work, sales, systems and a security audit seat among them. Approvals are deliberately tight and digests arrive on a recurring rhythm, with the owner the only route for anything travelling in or out. As much fleet manifest as setup guide.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vGBwBEELW79gSF340zJpb",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vGBwBEELW79gSF340zJpb",
+  "homepage": "https://x.ai/bot/vGBwBEELW79gSF340zJpb",
+  "license": null,
+  "author": "HBud69",
+  "tags": [
+    "ops",
+    "business",
+    "personal",
+    "sales",
+    "automation",
+    "news",
+    "monitoring",
+    "agent-team"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

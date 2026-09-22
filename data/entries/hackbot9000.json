@@ -1,0 +1,29 @@
+{
+  "slug": "hackbot9000",
+  "name": "HackBot9000",
+  "category": "development",
+  "tagline": "A pre-ship review gate: stale deps, fake packages, toy login.",
+  "description": "Point it at a pull request or an app near launch and it reviews what bot-written code most often gets wrong: stale dependencies, fake packages, authentication that would not survive a real attempt, and missing basic controls. It returns a plain ship or do-not-ship verdict. It reviews; it never merges or deploys.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/RHAVARMIZex-MMDUrOUbW",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/RHAVARMIZex-MMDUrOUbW",
+  "homepage": "https://x.ai/bot/RHAVARMIZex-MMDUrOUbW",
+  "license": null,
+  "author": "fulg0re",
+  "tags": [
+    "development",
+    "developer",
+    "engineering",
+    "automation",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

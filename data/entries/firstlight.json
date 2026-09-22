@@ -1,0 +1,28 @@
+{
+  "slug": "firstlight",
+  "name": "firstlight",
+  "category": "personal",
+  "tagline": "Learns Grok Bot by doing small real tasks, not by reading a manual.",
+  "description": "Aimed at someone opening the platform for the first time, staring at an empty chat. Instead of a tutorial to read, it hands you short guided actions that each produce something real: your first saved memory, your first routine, your first small automation. Each step fits in one sitting, and what you build stays yours.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/WcEvLjD12fIJCW7xjbuea",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/WcEvLjD12fIJCW7xjbuea",
+  "homepage": "https://x.ai/bot/WcEvLjD12fIJCW7xjbuea",
+  "license": null,
+  "author": "PjBohica",
+  "tags": [
+    "personal",
+    "learning",
+    "productivity",
+    "meta-bot",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

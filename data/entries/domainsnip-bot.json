@@ -1,0 +1,29 @@
+{
+  "slug": "domainsnip-bot",
+  "name": "DomainSnip Bot",
+  "category": "finance",
+  "tagline": "Weekday-morning digest of your domain keyword alerts, flagging notable .com listings.",
+  "description": "Every weekday morning it reads the keyword alerts you have saved while hunting for domains and pulls out the .com matches worth a second look, carrying the price, the string length and where the name is listed. Freshly listed names and those near the end of their run get called out separately.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/C3z3lWaB4TLRC0CcodU9Q",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/C3z3lWaB4TLRC0CcodU9Q",
+  "homepage": "https://x.ai/bot/C3z3lWaB4TLRC0CcodU9Q",
+  "license": null,
+  "author": "uxaistudio",
+  "tags": [
+    "finance",
+    "investor",
+    "monitoring",
+    "shopping",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-22",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
