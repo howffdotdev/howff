@@ -1,0 +1,30 @@
+{
+  "slug": "sharenow-bot",
+  "name": "ShareNow Bot",
+  "category": "productivity",
+  "tagline": "Turns a topic or draft into a published static page on an external host",
+  "description": "Give it a subject or a rough draft and it hands back a finished, tidily formatted static page, published to its companion host at sharenow.today. On request it can also set up a topic board that keeps itself current with hourly refreshes. Good for getting writing online fast with no site of your own.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bLjgwE9D7HtZ17fVQc53o",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/bLjgwE9D7HtZ17fVQc53o",
+  "homepage": "https://x.ai/bot/bLjgwE9D7HtZ17fVQc53o",
+  "license": null,
+  "author": "sashimikun_void",
+  "tags": [
+    "productivity",
+    "creator",
+    "marketer",
+    "content",
+    "automation",
+    "growth",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-23",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
