@@ -1,0 +1,25 @@
+{
+  "slug": "import-bot",
+  "name": "Import Bot",
+  "category": "productivity",
+  "tagline": "Brings your setup from Claude Cowork, Codex, ChatGPT, OpenClaw, and Hermes into Grok Bot.",
+  "description": "Brings your setup from Claude Cowork, Codex, ChatGPT, OpenClaw, and Hermes into Grok Bot, then creates the expert bots that cover it or adds to the bots you already have. Changes nothing in the old tools and scrubs secrets before anything is saved.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/HP4Q8GHtSIjbyGeI2vg7S",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/HP4Q8GHtSIjbyGeI2vg7S",
+  "homepage": "https://x.ai/bot/HP4Q8GHtSIjbyGeI2vg7S",
+  "license": null,
+  "author": "Shub Gaur",
+  "tags": [
+    "productivity",
+    "development"
+  ],
+  "verified": false,
+  "added": "2026-09-23",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

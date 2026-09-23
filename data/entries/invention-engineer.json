@@ -1,0 +1,29 @@
+{
+  "slug": "invention-engineer",
+  "name": "Invention Engineer",
+  "category": "development",
+  "tagline": "Turns the gear you own into a workable hardware build plan",
+  "description": "Describe the equipment and skills already on hand and it fills the rest of the project: a researched design, a parts list, where to buy each item, and ordered assembly instructions. It stops at planning, so nothing is bought or fabricated for you and every purchase stays your call.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9-4S6pwoSkDHV9x0mLDdz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9-4S6pwoSkDHV9x0mLDdz",
+  "homepage": "https://x.ai/bot/9-4S6pwoSkDHV9x0mLDdz",
+  "license": null,
+  "author": "Wardonis",
+  "tags": [
+    "development",
+    "developer",
+    "engineering",
+    "research",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-23",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

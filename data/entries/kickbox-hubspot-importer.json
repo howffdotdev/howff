@@ -1,0 +1,31 @@
+{
+  "slug": "kickbox-hubspot-importer",
+  "name": "Kickbox → HubSpot Importer",
+  "category": "ops",
+  "tagline": "Screens a mailing list for dead addresses before it touches your CRM",
+  "description": "Point it at a spreadsheet of contacts or a saved segment in your CRM and it verifies every address before anything moves. Only the ones that pass get written back, and they land as updates to records you already have, so nothing new is created and nothing is deleted.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/PRc9UmcxySAv0UBU4g8fx",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/PRc9UmcxySAv0UBU4g8fx",
+  "homepage": "https://x.ai/bot/PRc9UmcxySAv0UBU4g8fx",
+  "license": null,
+  "author": "pofabro",
+  "tags": [
+    "ops",
+    "business",
+    "sales",
+    "marketer",
+    "email",
+    "data",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-23",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
