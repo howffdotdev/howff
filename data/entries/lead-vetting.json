@@ -1,0 +1,32 @@
+{
+  "slug": "lead-vetting",
+  "name": "Lead Vetting",
+  "category": "sales",
+  "tagline": "Reads your inbound enquiries and sends a short verdict to Slack",
+  "description": "When a consultancy or partnership request lands, it reads the message, checks it against what you actually do, and writes up whether it is worth your time. Its verdict lands in your Slack as a few decision points, and nothing goes back to the enquirer - the reply stays yours.",
+  "integrations": [
+    "Slack"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/eEfAacXdtzHANV5hVhG6o",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/eEfAacXdtzHANV5hVhG6o",
+  "homepage": "https://x.ai/bot/eEfAacXdtzHANV5hVhG6o",
+  "license": null,
+  "author": "anzevoje",
+  "tags": [
+    "business",
+    "sales",
+    "email",
+    "monitoring",
+    "productivity",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-23",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

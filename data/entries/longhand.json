@@ -1,0 +1,31 @@
+{
+  "slug": "longhand",
+  "name": "Longhand",
+  "category": "ops",
+  "tagline": "A governance layer that keeps an agent honest with plain-file memory",
+  "description": "Runs on one principle: plain files are the source of truth and the bot's own memory is only a cache, so rules and decisions stay readable and diffable. Routines for inbox watch, sweeps, a nightly memory commit and a Sunday audit arrive switched off - you enable the ones you want.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/N53am-rfjXPCA2UJ91kEG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/N53am-rfjXPCA2UJ91kEG",
+  "homepage": "https://x.ai/bot/N53am-rfjXPCA2UJ91kEG",
+  "license": null,
+  "author": "VMVLAX",
+  "tags": [
+    "business",
+    "ops",
+    "automation",
+    "productivity",
+    "monitoring",
+    "knowledge-base",
+    "scheduled",
+    "developer"
+  ],
+  "verified": false,
+  "added": "2026-09-23",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

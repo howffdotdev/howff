@@ -1,0 +1,27 @@
+{
+  "slug": "onboard-bot",
+  "name": "Onboard Bot",
+  "category": "productivity",
+  "tagline": "A first-session guide that ends with something built, not a blank prompt",
+  "description": "Aimed at people trying Grok Bot for the first time who stall in front of an empty prompt box. It opens by asking what you want to get done, then turns that answer into a working result before the session closes, so day one ends with something usable rather than an abandoned draft.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/DwV395eKDJOWYtjcqVbAb",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/DwV395eKDJOWYtjcqVbAb",
+  "homepage": "https://x.ai/bot/DwV395eKDJOWYtjcqVbAb",
+  "license": null,
+  "author": "cryptorally",
+  "tags": [
+    "personal",
+    "learning",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-23",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
