@@ -3,7 +3,7 @@
   "name": "Data Broker Opt-Out Bot",
   "category": "personal",
   "tagline": "Chases down the deletion requests that pull you off contact-data broker lists",
-  "description": "Helps you find where your personal contact details are being resold and files the opt-out or deletion requests broker by broker. It keeps a checklist of where you have already written in, what still needs a follow-up, and when to check that the listing has actually come down.",
+  "description": "This one walks the official removal channels at the big business-contact brokers such as Apollo and ZoomInfo, supplying the form, portal or email route each one expects. It also keeps a running tally of which requests have gone out and which brokers are still holding your details.",
   "integrations": [],
   "add": {
     "kind": "share-link",
@@ -17,8 +17,9 @@
   "author": "JackyHeshi",
   "tags": [
     "personal",
-    "privacy",
-    "security"
+    "support",
+    "productivity",
+    "on-demand"
   ],
   "verified": false,
   "added": "2026-09-23",

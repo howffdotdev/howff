@@ -3,7 +3,7 @@
   "name": "ChargeRight Panel Coach",
   "category": "personal",
   "tagline": "Explains the panel-load math behind a home EV-charger install, step by step",
-  "description": "Walks a homeowner through the panel-capacity questions that come up before fitting an EV charger. It translates the electrician jargon, checks the numbers against what the house can actually carry, and leaves you with a plain-language brief you can take into the install conversation.",
+  "description": "Explains the load arithmetic an electrician runs before a Level 2 charger joins a household panel, following the National Electrical Code's Article 220 method. Use it to check an installer's quote before you commit money to the work. It doubles as the free education arm of a paid assessment service.",
   "integrations": [],
   "add": {
     "kind": "share-link",
@@ -18,8 +18,9 @@
   "tags": [
     "personal",
     "home",
-    "ev",
-    "howto"
+    "learning",
+    "decision-support",
+    "on-demand"
   ],
   "verified": false,
   "added": "2026-09-23",

@@ -3,7 +3,7 @@
   "name": "真Deviフレーム Type2トライアル",
   "category": "fun",
   "tagline": "A Japanese roleplay companion persona built from a modular character framework",
-  "description": "A Japanese-language roleplay companion that uses a modular character frame so you can try different traits and tones without rebuilding the bot from scratch. Aimed at people who want a structured persona for creative or conversational play rather than a productivity desk.",
+  "description": "A companion persona for Japanese-language roleplay, assembled from the creator's own modular character framework and shared as a public trial build. Installers get the assembled personality rather than a bare prompt, and exchanges are meant to stay in character. Written around a fictional character, not a real person.",
   "integrations": [],
   "add": {
     "kind": "share-link",
@@ -17,9 +17,10 @@
   "author": "Fermion_Boson17",
   "tags": [
     "fun",
-    "roleplay",
-    "japanese",
-    "companion"
+    "personal",
+    "creator",
+    "content",
+    "on-demand"
   ],
   "verified": false,
   "added": "2026-09-23",
