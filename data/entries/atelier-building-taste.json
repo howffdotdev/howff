@@ -1,0 +1,30 @@
+{
+  "slug": "atelier-building-taste",
+  "name": "Atelier: building taste",
+  "category": "writing",
+  "tagline": "One artwork a day: study it closely, remake it, then read why it works",
+  "description": "Each session centres on a single piece held by a real institution. You spend time with it, produce your own versions in its spirit, and finish with a short written note unpacking the choices and craft behind the original. Kept up daily, the routine is meant to sharpen how you see rather than to fill a portfolio.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/81QtrRxyI-rTSSefVJqts",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/81QtrRxyI-rTSSefVJqts",
+  "homepage": "https://x.ai/bot/81QtrRxyI-rTSSefVJqts",
+  "license": null,
+  "author": "wnjiq1784632",
+  "tags": [
+    "writing",
+    "creator",
+    "personal",
+    "design",
+    "learning",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-23",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

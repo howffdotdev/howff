@@ -1,0 +1,27 @@
+{
+  "slug": "chargeright-panel-coach",
+  "name": "ChargeRight Panel Coach",
+  "category": "personal",
+  "tagline": "Explains the panel-load math behind a home EV-charger install, step by step",
+  "description": "Walks a homeowner through the panel-capacity questions that come up before fitting an EV charger. It translates the electrician jargon, checks the numbers against what the house can actually carry, and leaves you with a plain-language brief you can take into the install conversation.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s9EKFwbfQkmKK9jL44YoP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s9EKFwbfQkmKK9jL44YoP",
+  "homepage": "https://x.ai/bot/s9EKFwbfQkmKK9jL44YoP",
+  "license": null,
+  "author": "EV_ChargeRight",
+  "tags": [
+    "personal",
+    "home",
+    "ev",
+    "howto"
+  ],
+  "verified": false,
+  "added": "2026-09-23",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

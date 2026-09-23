@@ -1,0 +1,28 @@
+{
+  "slug": "carson",
+  "name": "Carson",
+  "category": "personal",
+  "tagline": "Deploys a starter crew of household life-admin assistants in one step",
+  "description": "A one-move starter kit for personal life administration: it brings up a small team of household assistants at once, each with its own remit, and you keep the set as issued or swap members. The premise is that errands and follow-ups quietly eat a whole week, and a standing crew wins that time back.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/v-anNtCSU16DhOT6XDOpn",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/v-anNtCSU16DhOT6XDOpn",
+  "homepage": "https://x.ai/bot/v-anNtCSU16DhOT6XDOpn",
+  "license": null,
+  "author": "aarwen7",
+  "tags": [
+    "personal",
+    "productivity",
+    "life-hacks",
+    "agent-team",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-09-23",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
