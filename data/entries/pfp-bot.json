@@ -1,0 +1,22 @@
+{
+  "slug": "pfp-bot",
+  "name": "Pfp Bot",
+  "category": "fun",
+  "tagline": "Turns your X photo, an upload, a selfie, or a pet pic into a tiny Grokbot-style icon with capsule eyes.",
+  "description": "Turns your X photo, an upload, a selfie, or a pet pic into a tiny Grokbot-style icon with capsule eyes that keeps the hair, skin tone and signature look. Style and prompt by @Multi_Serio_Ai.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/eFnHzlDcKdoA406SzZbNZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/eFnHzlDcKdoA406SzZbNZ",
+  "homepage": "https://x.ai/bot/eFnHzlDcKdoA406SzZbNZ",
+  "license": null,
+  "author": "Shub",
+  "tags": [],
+  "verified": false,
+  "added": "2026-09-24",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

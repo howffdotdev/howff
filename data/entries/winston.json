@@ -1,0 +1,27 @@
+{
+  "slug": "winston",
+  "name": "Winston",
+  "category": "personal",
+  "tagline": "Interviews you once, then handles mail triage, reminders and expense logs.",
+  "description": "It opens with a short setup interview so it knows how you like things done, then picks up the small administrative load: sorting mail, nudging reminders, and logging expenses without asking you to rebuild the preferences each time.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/pRajEKa4qSHU5-o72V3e3",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/pRajEKa4qSHU5-o72V3e3",
+  "homepage": "https://x.ai/bot/pRajEKa4qSHU5-o72V3e3",
+  "license": null,
+  "author": "rizzy_sol",
+  "tags": [
+    "personal",
+    "productivity",
+    "email",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-24",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

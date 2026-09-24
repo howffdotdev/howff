@@ -1,0 +1,28 @@
+{
+  "slug": "media-manager",
+  "name": "Media Manager",
+  "category": "marketing",
+  "tagline": "Owns a YouTube video's after-work: captions, chapters, titles and thumbnail prep.",
+  "description": "Once a video is live, this takes over the housekeeping: it produces the transcript, writes captions and chapter timestamps, drafts title and description options, and prepares thumbnail directions so the post-upload grind is handled in one place.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/qG_ZROllzSSRGKx_iIbsQ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/qG_ZROllzSSRGKx_iIbsQ",
+  "homepage": "https://x.ai/bot/qG_ZROllzSSRGKx_iIbsQ",
+  "license": null,
+  "author": "shao__meng",
+  "tags": [
+    "youtube",
+    "content",
+    "creator",
+    "automation",
+    "video"
+  ],
+  "verified": false,
+  "added": "2026-09-24",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

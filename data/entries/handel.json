@@ -1,0 +1,27 @@
+{
+  "slug": "handel",
+  "name": "Handel",
+  "category": "fun",
+  "tagline": "Finds the musical relatives of a track, then helps you work them into something new.",
+  "description": "Capture whatever is playing on your computer, or hand it a clip, and it goes looking for songs that share that track's DNA - similar mood, structure, or lineage - then helps you fold what it finds into writing, arranging, or studying the piece.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ex1gjM_9lKmE4pLJG8o_M",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ex1gjM_9lKmE4pLJG8o_M",
+  "homepage": "https://x.ai/bot/ex1gjM_9lKmE4pLJG8o_M",
+  "license": null,
+  "author": "monomyth",
+  "tags": [
+    "creator",
+    "content",
+    "research",
+    "learning"
+  ],
+  "verified": false,
+  "added": "2026-09-24",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "tamago",
+  "name": "Tamago",
+  "category": "development",
+  "tagline": "Builds Grok Bots whose Japanese output reads naturally, not like a translation.",
+  "description": "The job here is designing and assembling Grok Bots, with a quality bar aimed at how the Japanese reads. Anything a bot writes should sound like something a person would actually say, not a translated draft.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_SuGdfXVQ06yo3woYqQVO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_SuGdfXVQ06yo3woYqQVO",
+  "homepage": "https://x.ai/bot/_SuGdfXVQ06yo3woYqQVO",
+  "license": null,
+  "author": "knge_rstc",
+  "tags": [
+    "developer",
+    "meta-bot",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-24",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

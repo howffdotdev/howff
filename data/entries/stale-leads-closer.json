@@ -1,0 +1,27 @@
+{
+  "slug": "stale-leads-closer",
+  "name": "Stale Leads Closer",
+  "category": "sales",
+  "tagline": "Revives gone-quiet leads with a drafted follow-up text you can veto before it sends.",
+  "description": "A lead that has stopped replying gets a warm follow-up drafted from your CRM history instead of sitting forgotten. Every message is yours to approve or rewrite before anything goes out.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/GeL4XFcQHm4WIG6jp--R0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/GeL4XFcQHm4WIG6jp--R0",
+  "homepage": "https://x.ai/bot/GeL4XFcQHm4WIG6jp--R0",
+  "license": null,
+  "author": "robertodjg",
+  "tags": [
+    "sales",
+    "crm",
+    "follow-up",
+    "leads"
+  ],
+  "verified": false,
+  "added": "2026-09-24",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

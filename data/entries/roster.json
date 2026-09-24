@@ -1,0 +1,27 @@
+{
+  "slug": "roster",
+  "name": "Roster",
+  "category": "personal",
+  "tagline": "Keeps a roster of your people, bots and projects, and flags who has gone quiet.",
+  "description": "You hand it the list of people, assistants, projects and tools you actually keep track of, and it maintains that roster and tells you who has gone quiet on what - without inventing names that were not on your list.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/z1Qf4iiLWTa8g66rXGIBC",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/z1Qf4iiLWTa8g66rXGIBC",
+  "homepage": "https://x.ai/bot/z1Qf4iiLWTa8g66rXGIBC",
+  "license": null,
+  "author": "Saint_Chevalier",
+  "tags": [
+    "personal",
+    "productivity",
+    "crm",
+    "relationships"
+  ],
+  "verified": false,
+  "added": "2026-09-24",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

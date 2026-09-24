@@ -1,0 +1,28 @@
+{
+  "slug": "wirey",
+  "name": "Wirey",
+  "category": "research",
+  "tagline": "Runs a daily AI news pipeline: story sweep, wire-style script, voiceover, edit gate.",
+  "description": "Each day it sweeps the previous day's AI, technology and policy developments for the few items worth your attention, then drafts a wire-style script and voiceover and holds at an edit gate until you clear it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1xWEw-4E6aSOxIpQM1xJp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1xWEw-4E6aSOxIpQM1xJp",
+  "homepage": "https://x.ai/bot/1xWEw-4E6aSOxIpQM1xJp",
+  "license": null,
+  "author": "Farzad",
+  "tags": [
+    "news",
+    "automation",
+    "scheduled",
+    "creator",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-09-24",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

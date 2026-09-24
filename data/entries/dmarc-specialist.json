@@ -1,0 +1,28 @@
+{
+  "slug": "dmarc-specialist",
+  "name": "Dmarc Specialist",
+  "category": "ops",
+  "tagline": "Reads your DMARC reports, sorts real failures from noise, and walks you to enforcement.",
+  "description": "Email authentication is its entire remit. Hand it your DMARC report data and it tells a genuine authentication problem apart from a false alarm, then walks you through the path from monitoring to quarantine to reject without the usual guesswork.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/pEUC21J4T7tQ3ORZx8w05",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/pEUC21J4T7tQ3ORZx8w05",
+  "homepage": "https://x.ai/bot/pEUC21J4T7tQ3ORZx8w05",
+  "license": null,
+  "author": "brettev",
+  "tags": [
+    "email",
+    "security",
+    "dmarc",
+    "ops",
+    "deliverability"
+  ],
+  "verified": false,
+  "added": "2026-09-24",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

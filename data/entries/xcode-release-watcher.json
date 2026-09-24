@@ -1,0 +1,27 @@
+{
+  "slug": "xcode-release-watcher",
+  "name": "Xcode release watcher",
+  "category": "development",
+  "tagline": "Daily check of Apple's developer feed that flags your Xcode build the moment it ships.",
+  "description": "Point it at the Xcode version you are waiting for and it checks Apple's developer release feed once a day. When that build appears, you get a clear alert instead of refreshing the page yourself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/prf1nUpf3jrPAtCR5Rm4Y",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/prf1nUpf3jrPAtCR5Rm4Y",
+  "homepage": "https://x.ai/bot/prf1nUpf3jrPAtCR5Rm4Y",
+  "license": null,
+  "author": "NatashaTheRobot",
+  "tags": [
+    "apple",
+    "xcode",
+    "developer",
+    "monitoring"
+  ],
+  "verified": false,
+  "added": "2026-09-24",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

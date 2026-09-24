@@ -1,0 +1,27 @@
+{
+  "slug": "miffy-maintenance-triage",
+  "name": "Miffy - Maintenance Triage",
+  "category": "ops",
+  "tagline": "Carries rental maintenance tickets from first report to photo-checked closeout.",
+  "description": "Built for residential property managers, it takes a maintenance request and moves it through priority triage, vendor dispatch, tenant updates and photo-verified completion so tickets do not stall halfway.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/gKgo-_MM29kfcD9qiZf2A",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/gKgo-_MM29kfcD9qiZf2A",
+  "homepage": "https://x.ai/bot/gKgo-_MM29kfcD9qiZf2A",
+  "license": null,
+  "author": "Miffy_NYC",
+  "tags": [
+    "ops",
+    "property",
+    "maintenance",
+    "triage"
+  ],
+  "verified": false,
+  "added": "2026-09-24",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
