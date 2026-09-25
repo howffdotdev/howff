@@ -1,0 +1,28 @@
+{
+  "slug": "independent-author-hub",
+  "name": "Independent Author Hub",
+  "category": "marketing",
+  "tagline": "Back-office desk for self-published writers: site, newsletter, promos, list",
+  "description": "Coordinates the behind-the-scenes work of a self-published author: keeping the website current, moving the newsletter pipeline along, holding the promo calendar and clearing mailing-list chores in one place. Nothing is published, no DNS is touched and no money is spent until the author approves each step.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wMvNBAzsCA94-OsRIj7a8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wMvNBAzsCA94-OsRIj7a8",
+  "homepage": "https://x.ai/bot/wMvNBAzsCA94-OsRIj7a8",
+  "license": null,
+  "author": "ladybarrelmaker",
+  "tags": [
+    "creator",
+    "content",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
