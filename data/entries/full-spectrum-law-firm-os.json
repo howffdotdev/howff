@@ -1,0 +1,28 @@
+{
+  "slug": "full-spectrum-law-firm-os",
+  "name": "Full-Spectrum Law Firm OS",
+  "category": "productivity",
+  "tagline": "End-to-end operations for a Texas practice across family, civil, criminal and probate",
+  "description": "Covers the running of a small Texas law firm from first contact to close, across family, civil, criminal and probate matters: bringing in new matters, screening for conflicts, assembling what needs to be served, and each later step in the workflow. One system carries the process so a case never depends on memory.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/EQgLIMO5Q_sVk3iM9EQbZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/EQgLIMO5Q_sVk3iM9EQbZ",
+  "homepage": "https://x.ai/bot/EQgLIMO5Q_sVk3iM9EQbZ",
+  "license": null,
+  "author": "JC",
+  "tags": [
+    "business",
+    "back-office",
+    "productivity",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
