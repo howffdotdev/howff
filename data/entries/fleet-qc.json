@@ -1,0 +1,28 @@
+{
+  "slug": "fleet-qc",
+  "name": "Fleet QC",
+  "category": "development",
+  "tagline": "Audits a bot fleet's packs, routines and handoff rails on a standing basis",
+  "description": "Sits over your collection of bots as a quality-control desk: it reviews their instruction packs, checks the routines that repeat on timers, and probes the rails connecting one bot to the next for weak spots. Findings land as short, actionable notes in your triage hub, and it publishes, spends and enters nothing itself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/I-Z5352OxR_YS5AEburah",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/I-Z5352OxR_YS5AEburah",
+  "homepage": "https://x.ai/bot/I-Z5352OxR_YS5AEburah",
+  "license": null,
+  "author": "ladybarrelmaker",
+  "tags": [
+    "developer",
+    "agent-team",
+    "meta-bot",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
