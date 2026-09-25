@@ -1,0 +1,27 @@
+{
+  "slug": "worldsmith",
+  "name": "Worldsmith",
+  "category": "marketing",
+  "tagline": "Art direction that keeps classic fantasy game worlds visually on-model",
+  "description": "Designs cohesive visual identities for long-running fantasy settings from tabletop and video-game history, covering characters, creatures and environments so a whole franchise reads as one world. Ask for a faction, a bestiary entry or a dungeon look and the palette, silhouettes and era details stay consistent.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/N21yaS0hjGDUnqERh6UeX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/N21yaS0hjGDUnqERh6UeX",
+  "homepage": "https://x.ai/bot/N21yaS0hjGDUnqERh6UeX",
+  "license": null,
+  "author": "TravisBoatman",
+  "tags": [
+    "creator",
+    "design",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

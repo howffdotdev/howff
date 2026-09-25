@@ -1,0 +1,28 @@
+{
+  "slug": "x-bot",
+  "name": "X bot",
+  "category": "marketing",
+  "tagline": "A weekday growth rhythm for X: morning reply packs, weekly tracking, draft-only posting",
+  "description": "Keeps a weekday routine for growing one X account: a morning batch of suggested replies and follows, a weekly look at how far your posts actually reached, and drafts you copy across yourself. Nothing is published without your explicit yes, so the account always stays in your hands.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8OqqCibnjW8m8cgdn3Qyl",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8OqqCibnjW8m8cgdn3Qyl",
+  "homepage": "https://x.ai/bot/8OqqCibnjW8m8cgdn3Qyl",
+  "license": null,
+  "author": "scottxmetcalf",
+  "tags": [
+    "creator",
+    "social-media",
+    "growth",
+    "content",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

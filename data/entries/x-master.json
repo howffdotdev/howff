@@ -1,0 +1,28 @@
+{
+  "slug": "x-master",
+  "name": "X Master",
+  "category": "marketing",
+  "tagline": "A single-account X desk with a wry tone and a hard green-light on every post",
+  "description": "Runs a light desk for one professional X account: quick skims of the day, wry draft posts that cost nothing in API fees by default, and optional watches on contest or marketplace threads you follow. Every post waits for an explicit human go-ahead, and it will never auto cross-post to other accounts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/BI6F8ivoh8ljg4O6ubvPv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/BI6F8ivoh8ljg4O6ubvPv",
+  "homepage": "https://x.ai/bot/BI6F8ivoh8ljg4O6ubvPv",
+  "license": null,
+  "author": "ladybarrelmaker",
+  "tags": [
+    "creator",
+    "social-media",
+    "content",
+    "growth",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

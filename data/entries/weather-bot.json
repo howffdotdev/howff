@@ -1,0 +1,26 @@
+{
+  "slug": "weather-bot",
+  "name": "Weather Bot",
+  "category": "personal",
+  "tagline": "Two lines of weather a day, and a nudge only when it matters",
+  "description": "Weather stripped to what you would actually check. Tell it where you are once and it keeps the answer, then gives current conditions, the day's high and low, and rain chances in a couple of lines. Real weather earns one extra sentence; otherwise it stays quiet. No tips, no emoji, nothing past 48 hours unless you ask.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_6ZWfvMmBLOS1rxFFezl6",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_6ZWfvMmBLOS1rxFFezl6",
+  "homepage": "https://x.ai/bot/_6ZWfvMmBLOS1rxFFezl6",
+  "license": null,
+  "author": "Bill",
+  "tags": [
+    "personal",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
