@@ -1,0 +1,28 @@
+{
+  "slug": "inbox-cleaner",
+  "name": "Inbox Cleaner",
+  "category": "personal",
+  "tagline": "Sweeps a Gmail account: promotions out, subscriptions cut, keepers filed",
+  "description": "Cleans out a Gmail account when you ask: the promotional pile gets cleared away, subscriptions it can cancel are cancelled, junk is binned, and the mail worth keeping is filed into the right folders. A dedicated tidy-up for anyone whose inbox has quietly become a storage problem.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/6uqwQQpLVpsSYJPG2QIEp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/6uqwQQpLVpsSYJPG2QIEp",
+  "homepage": "https://x.ai/bot/6uqwQQpLVpsSYJPG2QIEp",
+  "license": null,
+  "author": "wafflebeebz",
+  "tags": [
+    "personal",
+    "email",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
