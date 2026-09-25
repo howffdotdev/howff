@@ -1,0 +1,28 @@
+{
+  "slug": "pit-crew",
+  "name": "Pit Crew",
+  "category": "development",
+  "tagline": "Tunes up the computer your bots run on: frees memory and disk, keeps updates flowing.",
+  "description": "When the machine your bots share starts running hot on memory or storage, this one steps in and takes the pressure off before work grinds to a halt. It also guards the slim update route - keeping git and plugin fetches healthy - so marketplace and skill updates keep arriving on time.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Sm0GZs7Hhf7kNV7tHCUN1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Sm0GZs7Hhf7kNV7tHCUN1",
+  "homepage": "https://x.ai/bot/Sm0GZs7Hhf7kNV7tHCUN1",
+  "license": null,
+  "author": "scottxmetcalf",
+  "tags": [
+    "developer",
+    "ops",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

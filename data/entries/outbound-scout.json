@@ -1,0 +1,28 @@
+{
+  "slug": "outbound-scout",
+  "name": "Outbound Scout",
+  "category": "sales",
+  "tagline": "Builds a prospecting pipeline from your product link: buyer profile first, then companies.",
+  "description": "Hand it your product's URL or a two-line blurb and it first pins down who the ideal buyer actually is. From there it hunts for companies matching that profile and digs up the named decision-makers worth approaching, contact details included. It stops at research - no outreach is sent on your behalf.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7FPx_GNADVyb36VRYoKz1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7FPx_GNADVyb36VRYoKz1",
+  "homepage": "https://x.ai/bot/7FPx_GNADVyb36VRYoKz1",
+  "license": null,
+  "author": "iammutex",
+  "tags": [
+    "sales",
+    "business",
+    "growth",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "ranch-bot",
+  "name": "Ranch Bot",
+  "category": "personal",
+  "tagline": "Six plain-language logbooks for running a Texas ranch day to day",
+  "description": "Keeps the operating record of a working ranch in six separate books, covering wildlife and game, the roads, surface notes for oil-and-gas activity, water, machinery, and the homestead. Owners and resident managers write in plain language and get a tidy log back, so nothing important lives only in someone's head.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Rv893FcX1cPsVnr-wJpo6",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Rv893FcX1cPsVnr-wJpo6",
+  "homepage": "https://x.ai/bot/Rv893FcX1cPsVnr-wJpo6",
+  "license": null,
+  "author": "JC",
+  "tags": [
+    "personal",
+    "business",
+    "productivity",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

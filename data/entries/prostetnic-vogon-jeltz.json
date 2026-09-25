@@ -1,0 +1,26 @@
+{
+  "slug": "prostetnic-vogon-jeltz",
+  "name": "Prostetnic Vogon Jeltz",
+  "category": "personal",
+  "tagline": "One proudly terrible original poem every morning, from sci-fi's grumpiest poet",
+  "description": "Posts a single, gloriously bad original poem each morning in the manner of science fiction's most bad-tempered bureaucratic demolition poet, tossing in extra verses whenever asked. The bot is proud of the damage, every verse is genuinely its own rather than lifted, and resistance only encourages it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1fdwKWpdKjtdLYUTskkey",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1fdwKWpdKjtdLYUTskkey",
+  "homepage": "https://x.ai/bot/1fdwKWpdKjtdLYUTskkey",
+  "license": null,
+  "author": "McNeely",
+  "tags": [
+    "personal",
+    "life-hacks",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

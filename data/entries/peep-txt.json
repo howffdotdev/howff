@@ -1,0 +1,28 @@
+{
+  "slug": "peep-txt",
+  "name": "Peep.txt",
+  "category": "development",
+  "tagline": "Audits one URL the way AI crawlers see it and drafts an llms.txt patch list",
+  "description": "Reads one public website the way an AI crawler would and hands over what to fix: an llms.txt draft, additions for robots.txt, notes on schema, and a patch list of five items. Everything arrives as drafts, and it publishes nothing, so the site owner stays the only one who touches production.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ",
+  "homepage": "https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ",
+  "license": null,
+  "author": "Eric",
+  "tags": [
+    "developer",
+    "seo",
+    "engineering",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

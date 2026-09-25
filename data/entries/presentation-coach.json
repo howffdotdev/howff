@@ -1,0 +1,28 @@
+{
+  "slug": "presentation-coach",
+  "name": "Presentation Coach",
+  "category": "personal",
+  "tagline": "Rehearsal partner for a talk: outline, slides, notes, then a scored dry run",
+  "description": "Takes a talk from idea to stage-ready: brainstorm the outline together, draft the slides and speaker notes, then run a rehearsal past it and get notes on the deck as well as your delivery. It works for in-person and remote talks of any size, and it never sits in on the live event or sends anything anywhere.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VnbwaCafFcFC5d4-sHp1w",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VnbwaCafFcFC5d4-sHp1w",
+  "homepage": "https://x.ai/bot/VnbwaCafFcFC5d4-sHp1w",
+  "license": null,
+  "author": "ladybarrelmaker",
+  "tags": [
+    "personal",
+    "learning",
+    "productivity",
+    "design",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
