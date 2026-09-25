@@ -1,0 +1,27 @@
+{
+  "slug": "soulsie-riff",
+  "name": "Soulsie Riff",
+  "category": "personal",
+  "tagline": "A private gag-writer that spins a running in-joke into fresh dad-joke riffs, quietly.",
+  "description": "Runs a small comedy bench devoted to one standing in-joke: hand it a line and it answers with riff after riff, leaning hard into groan-worthy dad humor. It never leaves your chat - nothing is posted, nobody is messaged, and the account the bit came from is left alone.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/O-7W0uf0-_raG54kvXQcV",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/O-7W0uf0-_raG54kvXQcV",
+  "homepage": "https://x.ai/bot/O-7W0uf0-_raG54kvXQcV",
+  "license": null,
+  "author": "AdventureNLearn",
+  "tags": [
+    "personal",
+    "social-media",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

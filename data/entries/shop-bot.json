@@ -1,0 +1,28 @@
+{
+  "slug": "shop-bot",
+  "name": "Shop Bot",
+  "category": "personal",
+  "tagline": "Reads your shopping bookmarks, flags restocks and prices, buys only when you say go.",
+  "description": "It reads the shopping links you have saved and keeps watch on them: restocks, new arrivals from brands you like, and whether a better price has turned up elsewhere. Gift ideas come from the same pile. When something looks worth buying it comes back to you first - no order is placed until you have said go.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/j8g1F8J69QH42NmYbgb4l",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/j8g1F8J69QH42NmYbgb4l",
+  "homepage": "https://x.ai/bot/j8g1F8J69QH42NmYbgb4l",
+  "license": null,
+  "author": "paranoidream",
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

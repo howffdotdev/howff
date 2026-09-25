@@ -1,0 +1,28 @@
+{
+  "slug": "review-desk",
+  "name": "Review Desk",
+  "category": "productivity",
+  "tagline": "Drafts review replies in your shop's own voice, star-sorted, with you approving each one.",
+  "description": "Aim it at a local shop's Google and Yelp reviews and it sorts them by star rating, then drafts a reply that sounds like that business rather than a form letter - warmth for five-star notes, care and a next step for one-star ones. Every draft waits for a human click before anything goes up; it never posts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MuKDTS9Fq0UySwClmE8wc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MuKDTS9Fq0UySwClmE8wc",
+  "homepage": "https://x.ai/bot/MuKDTS9Fq0UySwClmE8wc",
+  "license": null,
+  "author": "AraXsuper",
+  "tags": [
+    "business",
+    "support",
+    "back-office",
+    "growth",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

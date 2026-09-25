@@ -1,0 +1,28 @@
+{
+  "slug": "seo-expert",
+  "name": "SEO Expert",
+  "category": "productivity",
+  "tagline": "Keeps watch on your site's search performance and plans fixes for your sign-off.",
+  "description": "Point it at a product website and it tracks how that site performs in search, watching the numbers over time instead of grading once. From what it sees, it builds a concrete, ordered improvement plan - what to change and why each change should help. Nothing is executed until you have read the plan and given the word.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sg2dZMjlprpit0y0PNyhL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sg2dZMjlprpit0y0PNyhL",
+  "homepage": "https://x.ai/bot/sg2dZMjlprpit0y0PNyhL",
+  "license": null,
+  "author": "iammutex",
+  "tags": [
+    "business",
+    "seo",
+    "growth",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

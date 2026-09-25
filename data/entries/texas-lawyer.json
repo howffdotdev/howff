@@ -1,0 +1,28 @@
+{
+  "slug": "texas-lawyer",
+  "name": "Texas Lawyer",
+  "category": "productivity",
+  "tagline": "Tracks Texas coverage rulings and quiet regulator moves in one standing briefing.",
+  "description": "A standing briefing desk for Texas insurance-coverage law. It follows new holdings at the state's supreme court, the appeals benches below it, and the Fifth Circuit, plus regulator and legislative activity that has not made headlines yet. What lands on your desk is a running briefing you can scan, not a raw case dump.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/KSx8Y5v8FFgHNhKjSN56Y",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/KSx8Y5v8FFgHNhKjSN56Y",
+  "homepage": "https://x.ai/bot/KSx8Y5v8FFgHNhKjSN56Y",
+  "license": null,
+  "author": "ladybarrelmaker",
+  "tags": [
+    "business",
+    "news",
+    "monitoring",
+    "research",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

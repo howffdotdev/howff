@@ -1,0 +1,28 @@
+{
+  "slug": "travel-desk",
+  "name": "Travel Desk",
+  "category": "productivity",
+  "tagline": "Books work trips with the details covered, and holds every fare until you approve",
+  "description": "Sorts work-trip logistics with attention to what usually gets missed: fares that include a checked bag, hotels actually walkable to the venue, transfers between them, and clashes with your existing calendar. Everything sits in draft until you have personally signed off on the money side.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/CfeptLkV_zsiL-nhOKSUu",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/CfeptLkV_zsiL-nhOKSUu",
+  "homepage": "https://x.ai/bot/CfeptLkV_zsiL-nhOKSUu",
+  "license": null,
+  "author": "ladybarrelmaker",
+  "tags": [
+    "business",
+    "travel",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
