@@ -1,0 +1,28 @@
+{
+  "slug": "everyone",
+  "name": "Everyone",
+  "category": "personal",
+  "tagline": "A private memory of the people in your life, and pointedly not a CRM",
+  "description": "Keeps a quiet, personal record of the people around you: their story, the way you first met, and the small details that slip between conversations. Built for recollection rather than selling, so there are no pipelines or deals here, just a place to remember someone properly before you next meet.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ARBlLiKi4wbhc7o6SlnGu",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ARBlLiKi4wbhc7o6SlnGu",
+  "homepage": "https://x.ai/bot/ARBlLiKi4wbhc7o6SlnGu",
+  "license": null,
+  "author": "Liam",
+  "tags": [
+    "personal",
+    "family",
+    "knowledge-base",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

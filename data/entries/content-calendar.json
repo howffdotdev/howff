@@ -1,0 +1,28 @@
+{
+  "slug": "content-calendar",
+  "name": "Content Calendar",
+  "category": "marketing",
+  "tagline": "Owns the posting slots across channels so a multi-bot content stack ships on time",
+  "description": "Acts as the scheduling brain for content spread over several channels: it hands out posting slots, lines up multi-day arcs, untangles clashes, and holds the line at a single daily post on each channel using your timezone. Writing and publishing stay with the other desks; this one only decides when things go out.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/B_WCQAMMbhkNU2r3r4YNO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/B_WCQAMMbhkNU2r3r4YNO",
+  "homepage": "https://x.ai/bot/B_WCQAMMbhkNU2r3r4YNO",
+  "license": null,
+  "author": "ladybarrelmaker",
+  "tags": [
+    "creator",
+    "content",
+    "calendar",
+    "productivity",
+    "social-media"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

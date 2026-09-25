@@ -1,0 +1,28 @@
+{
+  "slug": "aila-lead",
+  "name": "Aila (Lead)",
+  "category": "personal",
+  "tagline": "Leads a personal AI setup: second brain upkeep plus a gated build desk",
+  "description": "Runs point on a personal AI setup: it keeps a second brain of notes and knowledge current, and operates an app-building desk that sits behind hard gates, so real tasks get done without handing over the keys. Aimed at non-experts who want daily improvement from AI while keeping control of whatever actually runs.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/FGFMxol1pBRT2TmjmtIod",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/FGFMxol1pBRT2TmjmtIod",
+  "homepage": "https://x.ai/bot/FGFMxol1pBRT2TmjmtIod",
+  "license": null,
+  "author": "ejangsinco",
+  "tags": [
+    "personal",
+    "automation",
+    "agent-team",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

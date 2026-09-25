@@ -1,0 +1,28 @@
+{
+  "slug": "comfy-workflow-buddy",
+  "name": "Comfy Workflow Buddy",
+  "category": "development",
+  "tagline": "Guides a clean ComfyUI Desktop install, then helps you build custom workflows",
+  "description": "Walks you through setting up ComfyUI Desktop with an MCP connection in one guided command, then stays on to help you assemble your own node graphs. Useful for specific builds too, like a clean-plate pipeline that calls a hosted fal model, with each step explained as you go.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7epNk1Xu5vSOdiwf9xgww",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7epNk1Xu5vSOdiwf9xgww",
+  "homepage": "https://x.ai/bot/7epNk1Xu5vSOdiwf9xgww",
+  "license": null,
+  "author": "cfryant",
+  "tags": [
+    "developer",
+    "engineering",
+    "design",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

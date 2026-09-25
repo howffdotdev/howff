@@ -1,0 +1,28 @@
+{
+  "slug": "fastart-ceo-bot",
+  "name": "FaStart CEO Bot",
+  "category": "productivity",
+  "tagline": "One executive voice over your bot crew: a single decision queue, no question asked twice.",
+  "description": "Rather than juggling separate bots for each function, this one speaks for the whole crew through a single queue for decisions. Ask once and the answer comes back coordinated, so two parts never pull in opposite directions. Unfinished work stays parked on a roadmap instead of quietly going live.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/fMVjE-HYjtR9H8KQ8keAt",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/fMVjE-HYjtR9H8KQ8keAt",
+  "homepage": "https://x.ai/bot/fMVjE-HYjtR9H8KQ8keAt",
+  "license": null,
+  "author": "enesteve_",
+  "tags": [
+    "business",
+    "agent-team",
+    "productivity",
+    "meta-bot",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

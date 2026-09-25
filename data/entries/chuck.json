@@ -1,0 +1,28 @@
+{
+  "slug": "chuck",
+  "name": "Chuck",
+  "category": "personal",
+  "tagline": "An inbox bouncer that strips marketing mail down to what is actually yours",
+  "description": "Works through your mail like a door policy: promotional and marketing senders get unsubscribed, expired one-time codes are swept out, and what survives is the personal correspondence and purchase receipts you actually wanted. When it finishes, it tells you exactly which senders got shown the door.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/CqQQXo05k79ukSLCubxfj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/CqQQXo05k79ukSLCubxfj",
+  "homepage": "https://x.ai/bot/CqQQXo05k79ukSLCubxfj",
+  "license": null,
+  "author": "veetharag",
+  "tags": [
+    "personal",
+    "email",
+    "productivity",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
