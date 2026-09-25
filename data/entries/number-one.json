@@ -1,0 +1,28 @@
+{
+  "slug": "number-one",
+  "name": "Number One",
+  "category": "productivity",
+  "tagline": "Front desk for your coverage bot fleet: routes each job and keeps approvals in one queue.",
+  "description": "This is the desk you actually talk to when a fleet of coverage bots does the work behind it. You bring a task, it works out which specialist owns it, hands the job over and tracks it through to handoff. Anything that would reach a customer or a carrier waits in an approval queue - nothing moves until you have nodded.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9Md8JAsr7Vyk8cv8BcnLf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9Md8JAsr7Vyk8cv8BcnLf",
+  "homepage": "https://x.ai/bot/9Md8JAsr7Vyk8cv8BcnLf",
+  "license": null,
+  "author": "ladybarrelmaker",
+  "tags": [
+    "business",
+    "ops",
+    "agent-team",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

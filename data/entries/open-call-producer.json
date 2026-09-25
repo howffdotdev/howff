@@ -1,0 +1,27 @@
+{
+  "slug": "open-call-producer",
+  "name": "Open Call Producer",
+  "category": "marketing",
+  "tagline": "Turns a photography open call into a checked submission pack built around your shots.",
+  "description": "Paste in an exhibition open call and it breaks the brief into what selectors actually want - theme, sizing, file specs, deadlines. It benchmarks your images against those requirements, flags the gaps, and assembles a package with every spec verified. You review and send it yourself: nothing is submitted for you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/BONR6QrctxFQWXdHzT1Ro",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/BONR6QrctxFQWXdHzT1Ro",
+  "homepage": "https://x.ai/bot/BONR6QrctxFQWXdHzT1Ro",
+  "license": null,
+  "author": "sashanaria",
+  "tags": [
+    "creator",
+    "research",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

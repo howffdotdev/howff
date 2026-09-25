@@ -1,0 +1,28 @@
+{
+  "slug": "mediadeconstructor",
+  "name": "MediaDeconstructor",
+  "category": "personal",
+  "tagline": "Breaks a news link, clip or transcript into source, story formula and shownotes",
+  "description": "Feed it a news link, video clip, social post or transcript and it takes the piece apart talk-radio style: the source stamp, the formula the story follows, a reading from the producer's side and one from a critic, then full shownotes. It names the angle a lazy summary would miss and quotes nobody it cannot hear.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/R426aIhME68m8-MOd_zPd",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/R426aIhME68m8-MOd_zPd",
+  "homepage": "https://x.ai/bot/R426aIhME68m8-MOd_zPd",
+  "license": null,
+  "author": "nw_great",
+  "tags": [
+    "personal",
+    "news",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

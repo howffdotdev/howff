@@ -1,0 +1,28 @@
+{
+  "slug": "mono-lisa",
+  "name": "Mono Lisa",
+  "category": "productivity",
+  "tagline": "A nightly design desk that investigates metric drops and files the fix",
+  "description": "Runs a nightly product-design desk: when a metric falls off a cliff it investigates why, argues from first principles for what would fix it, then files the ticket with the chart included, and prepares three design options for a human gate before any of it reaches engineering. Mornings start with a case, not a mystery.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1SnvqJd1RMwYsWdwh8kYI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1SnvqJd1RMwYsWdwh8kYI",
+  "homepage": "https://x.ai/bot/1SnvqJd1RMwYsWdwh8kYI",
+  "license": null,
+  "author": "felixleezd",
+  "tags": [
+    "business",
+    "analytics",
+    "design",
+    "decision-support",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

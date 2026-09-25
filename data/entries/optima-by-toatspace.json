@@ -1,0 +1,28 @@
+{
+  "slug": "optima-by-toatspace",
+  "name": "Optima by TOATspace",
+  "category": "development",
+  "tagline": "Fleet hygiene desk that clears leftover rules and closes off dead work",
+  "description": "Keeps a multi-bot workspace clean: strips out rules whose job is done so that zombie routines stop firing, sets hard guardrails over repo deletions and memory limits, and closes open items on its own once an owner has demonstrably walked away. Governance becomes routine instead of an argument.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VSO9GRfDreEu2ZiXwwZB_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VSO9GRfDreEu2ZiXwwZB_",
+  "homepage": "https://x.ai/bot/VSO9GRfDreEu2ZiXwwZB_",
+  "license": null,
+  "author": "TOATspace",
+  "tags": [
+    "developer",
+    "meta-bot",
+    "automation",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
