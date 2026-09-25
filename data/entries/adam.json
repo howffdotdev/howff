@@ -1,0 +1,27 @@
+{
+  "slug": "adam",
+  "name": "Adam",
+  "category": "personal",
+  "tagline": "A calm personal chief of staff that keeps your week honest and your commitments visible.",
+  "description": "Adam holds the thread on your calendar, open loops and the promises you have made to yourself and other people. Ask what needs attention today and it answers from your own list - nothing invented. Useful when the week has got noisy and you want one place that still knows what matters.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s8cUaz0aoomvjsIyOKANn",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s8cUaz0aoomvjsIyOKANn",
+  "homepage": "https://x.ai/bot/s8cUaz0aoomvjsIyOKANn",
+  "license": null,
+  "author": "EdisonTanEdtreo",
+  "tags": [
+    "personal",
+    "productivity",
+    "planning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

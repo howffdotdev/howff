@@ -1,0 +1,28 @@
+{
+  "slug": "accc-desk",
+  "name": "ACCC Desk",
+  "category": "productivity",
+  "tagline": "Australian consumer-law desk that turns a complaint into a clear ACCC-ready pack.",
+  "description": "You bring a consumer problem - a refund that never arrived, a warranty that went quiet, a sneaky fee - and it maps the facts against Australian Consumer Law. It drafts the letter to the business, the ACCC complaint form answers, and a short evidence checklist so you are not guessing what to attach. It does not file anything; you stay in control of the send.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/b6vWcnzWjIAySVSuPWPk0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/b6vWcnzWjIAySVSuPWPk0",
+  "homepage": "https://x.ai/bot/b6vWcnzWjIAySVSuPWPk0",
+  "license": null,
+  "author": "ladybarrelmaker",
+  "tags": [
+    "business",
+    "legal",
+    "consumer",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
