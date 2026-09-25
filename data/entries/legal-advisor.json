@@ -1,0 +1,27 @@
+{
+  "slug": "legal-advisor",
+  "name": "Legal Advisor",
+  "category": "productivity",
+  "tagline": "Plain-language legal research that adapts to your jurisdiction and drafts your options.",
+  "description": "Set your jurisdiction once and it works through your question in ordinary wording, laying out the realistic options and their trade-offs instead of a wall of statutes. Deeper matters branch into focused sub-advisors. Drafts and analysis only - you stay the decision-maker on anything that gets filed or signed.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0TmnKtakm--gYpX_1jcni",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/0TmnKtakm--gYpX_1jcni",
+  "homepage": "https://x.ai/bot/0TmnKtakm--gYpX_1jcni",
+  "license": null,
+  "author": "xpixeladventure",
+  "tags": [
+    "business",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
