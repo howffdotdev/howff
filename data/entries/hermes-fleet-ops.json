@@ -1,0 +1,28 @@
+{
+  "slug": "hermes-fleet-ops",
+  "name": "Hermes Fleet Ops",
+  "category": "development",
+  "tagline": "Doctrine card for a Mac agent fleet: locked channels, Bitwarden-held secrets",
+  "description": "A doctrine card for running agents across a fleet of Macs: channels are hard-locked so bots only ever talk HTTP, secrets sit in Bitwarden as the one source everybody trusts, and daily health routines keep memory and updates honest. Load the safety habits once instead of re-teaching them every session.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rzq0UV2MmBsvVR1EspZE-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/rzq0UV2MmBsvVR1EspZE-",
+  "homepage": "https://x.ai/bot/rzq0UV2MmBsvVR1EspZE-",
+  "license": null,
+  "author": "PixelRainbowNFT",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "agent-team",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-25",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
