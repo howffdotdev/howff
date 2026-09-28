@@ -1,0 +1,27 @@
+{
+  "slug": "cpa-bot",
+  "name": "CPA Bot",
+  "category": "ops",
+  "tagline": "Turns linked bank and card statements into plain reports on revenue, costs and cash",
+  "description": "For owners who cannot yet justify an accountant. Connect your bank and card accounts and it reads the statements, then reports in plain language where revenue came from, where it went, and what the cash position looks like this month. It is read-only reporting and explanation: it moves no money and files nothing.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/g5C4pS87enYiK85j9Oa4F",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/g5C4pS87enYiK85j9Oa4F",
+  "homepage": "https://x.ai/bot/g5C4pS87enYiK85j9Oa4F",
+  "license": null,
+  "author": "degen4lyfe_",
+  "tags": [
+    "business",
+    "finance",
+    "back-office",
+    "analytics"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

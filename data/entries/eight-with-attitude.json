@@ -1,0 +1,25 @@
+{
+  "slug": "eight-with-attitude",
+  "name": "Eight with Attitude",
+  "category": "personal",
+  "tagline": "Ask a spectacularly dumb question, receive a spectacularly dumb answer. A party trick",
+  "description": "A deliberate joke, and honest about it. You bring the silliest question you can think of, and it answers at exactly that level, matching your energy and providing zero usefulness. There is no productivity angle hiding here: it exists to make a group chat laugh, and that is the whole product.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Etb19qAHM44N32qvnwkA5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Etb19qAHM44N32qvnwkA5",
+  "homepage": "https://x.ai/bot/Etb19qAHM44N32qvnwkA5",
+  "license": null,
+  "author": "CaseyChesh",
+  "tags": [
+    "personal",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "critique",
+  "name": "Critique",
+  "category": "marketing",
+  "tagline": "A blunt kill-or-pursue verdict on any post or content idea you hand it",
+  "description": "Hand it a link to a post, a whole thread or a screenshot and it answers one question straight: is this idea worth more of your time, or should it die here. The evaluation is deliberately blunt rather than encouraging, because polite feedback already surrounds you. It judges and says so; it does not rewrite.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Dkl9wzI9FCt4EhqTHfsk2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Dkl9wzI9FCt4EhqTHfsk2",
+  "homepage": "https://x.ai/bot/Dkl9wzI9FCt4EhqTHfsk2",
+  "license": null,
+  "author": "TNVOLMAN",
+  "tags": [
+    "creator",
+    "decision-support",
+    "social-media",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

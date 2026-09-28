@@ -1,0 +1,29 @@
+{
+  "slug": "earnings-brief-cn",
+  "name": "财报锦囊",
+  "category": "finance",
+  "tagline": "One US ticker in, a seven-point Chinese skim of the newest earnings out",
+  "description": "Name a US-listed ticker and it gathers the newest quarter's numbers, the analyst consensus going in, how guidance shifted, and the highlights of the earnings call. The result is a seven-point readout written in Chinese, built for a fast skim rather than a deep dive. It stops short of telling you what to trade.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/d48QaYERwvgtUmYsGlyz8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/d48QaYERwvgtUmYsGlyz8",
+  "homepage": "https://x.ai/bot/d48QaYERwvgtUmYsGlyz8",
+  "license": null,
+  "author": "kaixinluo6268",
+  "tags": [
+    "investor",
+    "finance",
+    "research",
+    "analytics",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

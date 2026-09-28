@@ -1,0 +1,26 @@
+{
+  "slug": "desk",
+  "name": "Desk",
+  "category": "research",
+  "tagline": "Grades NFL player props and totals with its own probability read. Research, never picks",
+  "description": "A research desk for NFL propositions. Name a player prop or a game total and it grades it using its own probability vocabulary, showing the reasoning so you can argue with it on paper. It deliberately stops at the research line: it never picks a side for you, and it never places anything on your behalf.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9EMVK1X_bv5hA5pAdZCpt",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9EMVK1X_bv5hA5pAdZCpt",
+  "homepage": "https://x.ai/bot/9EMVK1X_bv5hA5pAdZCpt",
+  "license": null,
+  "author": "ConWanZo",
+  "tags": [
+    "research",
+    "analytics",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

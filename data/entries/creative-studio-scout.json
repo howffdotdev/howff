@@ -1,0 +1,27 @@
+{
+  "slug": "creative-studio-scout",
+  "name": "Creative Studio Scout",
+  "category": "personal",
+  "tagline": "Finds hands-on workshops in pottery, glass, jewelry and cooking, at home or away",
+  "description": "A scout for people who would rather make something than look at something. It digs up hands-on classes in pottery, glass, jewelry and cooking near home or wherever you are traveling, and comes back with dates, prices and booking links, so one evening of curiosity can become a booked seat.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_V9NG3Es7w7am2Kpb6lWg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_V9NG3Es7w7am2Kpb6lWg",
+  "homepage": "https://x.ai/bot/_V9NG3Es7w7am2Kpb6lWg",
+  "license": null,
+  "author": "vidales_nataly",
+  "tags": [
+    "personal",
+    "learning",
+    "events",
+    "travel"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

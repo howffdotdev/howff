@@ -1,0 +1,27 @@
+{
+  "slug": "customer-service",
+  "name": "Customer Service",
+  "category": "ops",
+  "tagline": "Finds unshipped and re-ship orders in Gmail and drafts the customer replies for sign-off",
+  "description": "An order-desk assistant for small sellers who live in Gmail. It finds the orders still waiting to ship or needing a reship, then drafts the reply to each customer for your sign-off, so the awkward ones get answered the same day instead of compounding. You review and send; it keeps the queue from quietly rotting.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/zC_-D00Dam5jmHf0t62l_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/zC_-D00Dam5jmHf0t62l_",
+  "homepage": "https://x.ai/bot/zC_-D00Dam5jmHf0t62l_",
+  "license": null,
+  "author": "degen4lyfe_",
+  "tags": [
+    "business",
+    "support",
+    "email",
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

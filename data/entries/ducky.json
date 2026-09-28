@@ -1,0 +1,27 @@
+{
+  "slug": "ducky",
+  "name": "Ducky",
+  "category": "development",
+  "tagline": "A rubber-duck partner that withholds fixes until you can explain the bug yourself",
+  "description": "A thinking partner for debugging with one twist: it will happily ask clarifying questions all day, but it refuses to hand you a fix until you clear four gates that prove you actually understand what is broken. Annoying by design, and a surprisingly good teacher the moment you stop wanting the answer.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/HxOUGTNaeLbJIqT_XTzqX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/HxOUGTNaeLbJIqT_XTzqX",
+  "homepage": "https://x.ai/bot/HxOUGTNaeLbJIqT_XTzqX",
+  "license": null,
+  "author": "EdHeltzel",
+  "tags": [
+    "developer",
+    "engineering",
+    "decision-support",
+    "learning"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

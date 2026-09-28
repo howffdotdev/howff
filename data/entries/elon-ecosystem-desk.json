@@ -1,0 +1,27 @@
+{
+  "slug": "elon-ecosystem-desk",
+  "name": "Elon Ecosystem Desk",
+  "category": "research",
+  "tagline": "A weekday news desk for Tesla, SpaceX, xAI, Neuralink, Boring and X",
+  "description": "Follows the Musk-affiliated companies as a news beat: Tesla, SpaceX and Starlink, xAI, Neuralink, The Boring Company and X itself. Each claim in a story is tagged as rumor or confirmed so you know what is solid, and a daily brief can be turned on if you want the whole desk summarized in one pass.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/j8Znml_qB4leZhOgihZ-p",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/j8Znml_qB4leZhOgihZ-p",
+  "homepage": "https://x.ai/bot/j8Znml_qB4leZhOgihZ-p",
+  "license": null,
+  "author": "cvey15",
+  "tags": [
+    "news",
+    "investor",
+    "business",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

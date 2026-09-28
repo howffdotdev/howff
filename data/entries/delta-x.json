@@ -1,0 +1,29 @@
+{
+  "slug": "delta-x",
+  "name": "Delta-X",
+  "category": "personal",
+  "tagline": "A Friday planner that audits your subscriptions and commits to just three changes",
+  "description": "Once a week it plans the few things worth changing in your life, and on Friday it commits to only three so the list gets done. It also digs through inbox receipts for subscriptions and recurring charges that slipped your mind, drafting cancellations for your approval. Calm housekeeping, not a productivity regime.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/zReFhsDYUwyt8YM93ahNL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/zReFhsDYUwyt8YM93ahNL",
+  "homepage": "https://x.ai/bot/zReFhsDYUwyt8YM93ahNL",
+  "license": null,
+  "author": "peoniesdragon",
+  "tags": [
+    "personal",
+    "saving-money",
+    "email",
+    "productivity",
+    "wellbeing",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
