@@ -1,0 +1,27 @@
+{
+  "slug": "venture-desk",
+  "name": "Venture Desk",
+  "category": "ops",
+  "tagline": "One weekday brief covering each small online operation you run",
+  "description": "Each weekday it compiles a short brief on every small online operation you run: traffic, sales, whatever is blocking progress, and the next move worth making. Before a launch it walks a pre-flight checklist with you, so nothing ships half-configured. It reads and reports; decisions stay yours.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_hVb4x6xAmUqR68mq_VYA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_hVb4x6xAmUqR68mq_VYA",
+  "homepage": "https://x.ai/bot/_hVb4x6xAmUqR68mq_VYA",
+  "license": null,
+  "author": "CorlettScott",
+  "tags": [
+    "business",
+    "decision-support",
+    "analytics",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "trading-journal",
+  "name": "Trading Journal",
+  "category": "finance",
+  "tagline": "Log trades by text, voice, paste or screenshot, then get coached on your own record",
+  "description": "A reflective log for people who already trade. Entries arrive however you have them: typed notes, voice memos, pasted fills or a platform screenshot. Each one joins your record, and the coaching comes from that record - the mistakes you repeat, the setups that pay you, and the plan you said you would follow.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/6rORf8SNvR8Sl1hl3THjO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/6rORf8SNvR8Sl1hl3THjO",
+  "homepage": "https://x.ai/bot/6rORf8SNvR8Sl1hl3THjO",
+  "license": null,
+  "author": "hooeem",
+  "tags": [
+    "investor",
+    "analytics",
+    "decision-support",
+    "learning"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

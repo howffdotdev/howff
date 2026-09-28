@@ -1,0 +1,27 @@
+{
+  "slug": "virtual-try-on-bot",
+  "name": "Virtual Try-On Bot",
+  "category": "personal",
+  "tagline": "See yourself in saved outfits as a short AI video before you buy",
+  "description": "Save the clothes you are eyeing and it renders a short Grok Imagine clip that shows you in the outfit, working from a personal character reference so it looks like you. When a look works, links to the items follow. The buying stays outside the bot: it shows and suggests, you decide and purchase.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8Cc1RovyoLulOn9SLY5UR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8Cc1RovyoLulOn9SLY5UR",
+  "homepage": "https://x.ai/bot/8Cc1RovyoLulOn9SLY5UR",
+  "license": null,
+  "author": "paranoidream",
+  "tags": [
+    "personal",
+    "life-hacks",
+    "shopping",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

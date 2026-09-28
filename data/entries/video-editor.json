@@ -1,0 +1,28 @@
+{
+  "slug": "video-editor",
+  "name": "Video Editor",
+  "category": "marketing",
+  "tagline": "Turns a talking-head recording into a clean, branded YouTube cut",
+  "description": "Hand it a single-camera desk recording and it comes back with a publishable YouTube edit: the speech transcribed, the audio cleaned up, dead air cut, and motion graphics laid over the top. First-time users get install walkthroughs for the tooling, plus a kit for building your own motion-brand presets.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Oo4vOtwAggO933EwCmKrc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Oo4vOtwAggO933EwCmKrc",
+  "homepage": "https://x.ai/bot/Oo4vOtwAggO933EwCmKrc",
+  "license": null,
+  "author": "ross_zeiger",
+  "tags": [
+    "video",
+    "youtube",
+    "creator",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

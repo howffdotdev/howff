@@ -1,0 +1,27 @@
+{
+  "slug": "the-box-of-names",
+  "name": "The Box of Names",
+  "category": "personal",
+  "tagline": "Traces any name across civilizations and eras, marking each link real or legendary",
+  "description": "Give it a word, a place, a deity, an object, any name at all, and it follows that name across civilizations and centuries, showing how it traveled and morphed between cultures. Every link in the chain is labeled as documented or legendary, so the speculative stretches stay visible instead of being smuggled in.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/M0ZZw7AT7MzGjvYe1jLBb",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/M0ZZw7AT7MzGjvYe1jLBb",
+  "homepage": "https://x.ai/bot/M0ZZw7AT7MzGjvYe1jLBb",
+  "license": null,
+  "author": "BLDG_390",
+  "tags": [
+    "learning",
+    "research",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

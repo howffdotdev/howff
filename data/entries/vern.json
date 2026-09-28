@@ -1,0 +1,28 @@
+{
+  "slug": "vern",
+  "name": "Vern",
+  "category": "personal",
+  "tagline": "A small private address book that nudges you before a birthday or when a friendship cools",
+  "description": "Vern keeps everyone in a small private address book and watches two things: birthdays coming up, and friendships that have gone quiet too long. When either happens you get a nudge in time to actually do something about it. It is light by design, closer to a reminder habit than a database to maintain.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rDEpX2aSCERCaVJACxNz7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/rDEpX2aSCERCaVJACxNz7",
+  "homepage": "https://x.ai/bot/rDEpX2aSCERCaVJACxNz7",
+  "license": null,
+  "author": "ahoop",
+  "tags": [
+    "personal",
+    "family",
+    "productivity",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

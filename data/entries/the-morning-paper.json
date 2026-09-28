@@ -1,0 +1,27 @@
+{
+  "slug": "the-morning-paper",
+  "name": "The Morning Paper",
+  "category": "personal",
+  "tagline": "Your ZIP code's own daily paper: hometown headlines, local weather and jobs nearby",
+  "description": "Tell it your ZIP code and each morning it assembles a personal paper: live local weather, headlines from your town plus the nation and the world, and job listings close by. Every item names where it came from, so nothing arrives as an unsourced claim. It reads like the hometown paper most towns stopped printing.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/e5UBnGbfvCyML0pahKPNw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/e5UBnGbfvCyML0pahKPNw",
+  "homepage": "https://x.ai/bot/e5UBnGbfvCyML0pahKPNw",
+  "license": null,
+  "author": "MAGAmechanic60",
+  "tags": [
+    "personal",
+    "news",
+    "scheduled",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
