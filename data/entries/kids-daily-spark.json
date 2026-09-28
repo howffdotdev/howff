@@ -1,0 +1,27 @@
+{
+  "slug": "kids-daily-spark",
+  "name": "Kids Daily Spark",
+  "category": "personal",
+  "tagline": "A one-page STEM hook for each kid, every day, with a 30-second try-it",
+  "description": "Each day it prepares a single page per child built around one real science or technology idea, a hook that makes it stick, and a hands-on mini experiment that takes about half a minute. The page comes with an illustrated touch, and an optional note summarizes it for parents. Scales across kids of different ages.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Lpl_fDQ5Jhj2sfoCWy1Hf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Lpl_fDQ5Jhj2sfoCWy1Hf",
+  "homepage": "https://x.ai/bot/Lpl_fDQ5Jhj2sfoCWy1Hf",
+  "license": null,
+  "author": "HelloBenL",
+  "tags": [
+    "family",
+    "learning",
+    "student",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

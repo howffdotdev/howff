@@ -1,0 +1,27 @@
+{
+  "slug": "interview-to-book",
+  "name": "Interview to Book / 故事成书",
+  "category": "personal",
+  "tagline": "Interviews a life story question by question and binds it into a book",
+  "description": "Choose a life arc and it interviews someone one question at a time, taking typed, spoken or filmed answers. The responses are then shaped into a print-ready memoir, cover included, instead of a folder of transcripts. Built to preserve a parent's recollections, and tested end to end on the sharer himself first.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XuGcpLoS77HdZoupGOlnp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XuGcpLoS77HdZoupGOlnp",
+  "homepage": "https://x.ai/bot/XuGcpLoS77HdZoupGOlnp",
+  "license": null,
+  "author": "jackhu_bangzhu",
+  "tags": [
+    "personal",
+    "family",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

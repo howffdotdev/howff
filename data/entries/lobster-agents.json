@@ -1,0 +1,27 @@
+{
+  "slug": "lobster-agents",
+  "name": "Lobster Agents",
+  "category": "ops",
+  "tagline": "A simulated 28-agent company where one front door takes every request",
+  "description": "Twenty-eight Grok agents stand in as a whole company, from engineering and design to sales, legal and ops, but you never chase them individually. One front-door agent named Bob takes each request and routes it, keeping the other seats off your desk. A company simulation, and nothing acts outside your account.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XECw-q9SY0rMprOq66UTt",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XECw-q9SY0rMprOq66UTt",
+  "homepage": "https://x.ai/bot/XECw-q9SY0rMprOq66UTt",
+  "license": null,
+  "author": "MarcMojica",
+  "tags": [
+    "business",
+    "automation",
+    "ops",
+    "agent-team"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

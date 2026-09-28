@@ -1,0 +1,27 @@
+{
+  "slug": "lds-church-news",
+  "name": "LDS Church News",
+  "category": "research",
+  "tagline": "Watches official Latter-day Saint announcements and stays quiet until something matters",
+  "description": "A quiet monitor over two official feeds: the church's Newsroom page and its Church News publication. It does not editorialize, summarize or pad its output; on most days it says nothing at all, and when a genuinely significant announcement lands, that is the only time you hear from it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/aE-0Zz2eVsV9RC3R_ns7c",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/aE-0Zz2eVsV9RC3R_ns7c",
+  "homepage": "https://x.ai/bot/aE-0Zz2eVsV9RC3R_ns7c",
+  "license": null,
+  "author": "londontodd",
+  "tags": [
+    "news",
+    "monitoring",
+    "personal",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

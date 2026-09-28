@@ -1,0 +1,28 @@
+{
+  "slug": "launch-sky-watch",
+  "name": "Launch & Sky Watch",
+  "category": "personal",
+  "tagline": "Rocket schedules, station flyovers and eclipses, timed to your clock and your own sky",
+  "description": "It tracks rocket-launch windows and converts them to your local clock, and it keeps a sky calendar too: station flyovers, meteor peaks and upcoming eclipses. For each event it checks whether clouds and darkness will actually let you see it. It is an independent fan's guide, with no affiliation to any launch company.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/jhwkYhWyRJbDs_-uHzGar",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/jhwkYhWyRJbDs_-uHzGar",
+  "homepage": "https://x.ai/bot/jhwkYhWyRJbDs_-uHzGar",
+  "license": null,
+  "author": "BTC_Yogi",
+  "tags": [
+    "personal",
+    "news",
+    "events",
+    "scheduled",
+    "monitoring"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

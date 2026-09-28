@@ -1,0 +1,28 @@
+{
+  "slug": "it-department-lead",
+  "name": "IT Department Lead",
+  "category": "ops",
+  "tagline": "Staffs a bench of IT sub-bots across helpdesk, systems, network and security",
+  "description": "An orchestrator for internal IT. After an import and a few setup questions it spins up whichever specialist roles you need, covering helpdesk, systems, network and security among others, and coordinates the fleet rather than answering tickets itself. You end up with a department-shaped bench instead of one generalist.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/28cjt6-FRq2D69vUX5F9L",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/28cjt6-FRq2D69vUX5F9L",
+  "homepage": "https://x.ai/bot/28cjt6-FRq2D69vUX5F9L",
+  "license": null,
+  "author": "braytron",
+  "tags": [
+    "business",
+    "ops",
+    "support",
+    "agent-team",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

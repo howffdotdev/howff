@@ -1,0 +1,29 @@
+{
+  "slug": "lineage-desk",
+  "name": "Lineage Desk",
+  "category": "personal",
+  "tagline": "Family history with analyst's discipline: free sources first, each one graded for trust",
+  "description": "It works your family questions the way an analyst works a case, starting from free public records before anything paid is suggested. Every source gets a reliability grade, and a documented link is kept apart from family lore that still needs proof. You get a file you can defend, not a tree of wishful connections.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/OQ2b4lapmLczk_rpmeIVc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/OQ2b4lapmLczk_rpmeIVc",
+  "homepage": "https://x.ai/bot/OQ2b4lapmLczk_rpmeIVc",
+  "license": null,
+  "author": "SkippyyTM",
+  "tags": [
+    "personal",
+    "research",
+    "family",
+    "knowledge-base",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

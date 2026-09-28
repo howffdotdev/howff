@@ -1,0 +1,27 @@
+{
+  "slug": "live-shorts-desk",
+  "name": "Live Shorts Desk",
+  "category": "marketing",
+  "tagline": "Turns a live broadcast into Shorts candidates that wait for your pass first",
+  "description": "While a live show runs it collects moments that would work as YouTube Shorts and gates each against a locked quality checklist before anything is staged. Nothing publishes on its own; the batch holds until you have passed it by hand. The sharer runs it on a real weather channel, not a demo.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/r-Ctb7rwRVFOY-_p_T9eX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/r-Ctb7rwRVFOY-_p_T9eX",
+  "homepage": "https://x.ai/bot/r-Ctb7rwRVFOY-_p_T9eX",
+  "license": null,
+  "author": "MadnessOfMouth",
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
