@@ -1,0 +1,27 @@
+{
+  "slug": "ship-intake",
+  "name": "Ship Intake",
+  "category": "ops",
+  "tagline": "From a Slack complaint to a GitHub issue to a fix and a reply in the thread",
+  "description": "A bug reported in Slack becomes a properly written GitHub issue, gets handed to a Cursor cloud agent for the fix, and the outcome lands back in the original thread so the reporter hears what happened. The loop closes where it started, with a human still reading along. The author's team runs it daily.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vvD3TLiLMsqBQPyAsUHky",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vvD3TLiLMsqBQPyAsUHky",
+  "homepage": "https://x.ai/bot/vvD3TLiLMsqBQPyAsUHky",
+  "license": null,
+  "author": "AnthonyDo",
+  "tags": [
+    "business",
+    "automation",
+    "engineering",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "social-supervisor",
+  "name": "Social Supervisor",
+  "category": "ops",
+  "tagline": "Weekday digests across two X accounts, with every post held as a draft",
+  "description": "Founders running a brand account beside a product account get one weekday summary covering both, with replies that need a human flagged. Anything it prepares lands in a draft queue, so nothing goes out under your name until you approve it. The two lanes stay separate throughout.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/IRLoWA2QOfhsBQtQ1d79Z",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/IRLoWA2QOfhsBQtQ1d79Z",
+  "homepage": "https://x.ai/bot/IRLoWA2QOfhsBQtQ1d79Z",
+  "license": null,
+  "author": "fxopsAI",
+  "tags": [
+    "business",
+    "automation",
+    "social-media",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

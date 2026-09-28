@@ -1,0 +1,28 @@
+{
+  "slug": "ship-desk",
+  "name": "Ship Desk",
+  "category": "development",
+  "tagline": "Staged release desk that keeps checkout switched off until you flip the go switch",
+  "description": "Walks a product from staging to production one locked promote at a time, so a release only goes live when you say so. Checkout stays fail-closed until you explicitly turn it on, which keeps accidental buy buttons off a launch while it is still moving.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/thMhD-rbJ0Osd274RGohH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/thMhD-rbJ0Osd274RGohH",
+  "homepage": "https://x.ai/bot/thMhD-rbJ0Osd274RGohH",
+  "license": null,
+  "author": "usgworld",
+  "tags": [
+    "developer",
+    "business",
+    "automation",
+    "shopping",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

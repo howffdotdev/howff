@@ -1,0 +1,26 @@
+{
+  "slug": "solar-trailer-tesla-charge",
+  "name": "Solar Trailer → Tesla Charge",
+  "category": "ops",
+  "tagline": "Feeds a Tesla charge from a solar trailer, capped to spare panel output",
+  "description": "Couples a trailer-mounted Victron solar array to a Tesla so daytime charging draws on surplus sunshine rather than grid power. Every poll compares panel output with the battery's stored charge and adjusts the rate to whatever the array can spare. A chat ping marks when the car plugs in and when charging finishes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/l1UJtFYw-3KTHuGvjROIN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/l1UJtFYw-3KTHuGvjROIN",
+  "homepage": "https://x.ai/bot/l1UJtFYw-3KTHuGvjROIN",
+  "license": null,
+  "author": "ElectricTechAdv",
+  "tags": [
+    "automation",
+    "monitoring",
+    "engineering"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

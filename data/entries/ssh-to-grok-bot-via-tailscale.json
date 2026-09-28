@@ -1,0 +1,27 @@
+{
+  "slug": "ssh-to-grok-bot-via-tailscale",
+  "name": "SSH to Grok Bot via Tailscale",
+  "category": "development",
+  "tagline": "Puts the bot's own computer on your tailnet so you can shell straight in",
+  "description": "Walks the bot through installing Tailscale on its machine the first time you run it, then gives you a way to open a shell over your tailnet from either a local client or the web console. Once it is in place you can treat the bot's computer like any other box on your network instead of working only through chat.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/BrViAOWzDSiAjBLqUnBgA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/BrViAOWzDSiAjBLqUnBgA",
+  "homepage": "https://x.ai/bot/BrViAOWzDSiAjBLqUnBgA",
+  "license": null,
+  "author": "app_sail",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "software-conductor",
+  "name": "Software Conductor",
+  "category": "development",
+  "tagline": "Runs a crew of Cursor cloud agents like a lead engineer and merges on green",
+  "description": "Hand it engineering work and it breaks the job down, spins up Cursor cloud agents, and reviews what each returns. It keeps an eye on CI right through deploy and will merge only once the pipeline is green. You stay the approver while it does the scoping, chasing and checking.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/C6uIpBcH_m-o5Mf9uQS4w",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/C6uIpBcH_m-o5Mf9uQS4w",
+  "homepage": "https://x.ai/bot/C6uIpBcH_m-o5Mf9uQS4w",
+  "license": null,
+  "author": "DejaegherJeff",
+  "tags": [
+    "developer",
+    "automation",
+    "engineering",
+    "agent-team"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

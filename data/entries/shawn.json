@@ -1,0 +1,27 @@
+{
+  "slug": "shawn",
+  "name": "Shawn",
+  "category": "research",
+  "tagline": "Paper-first sports wager research: closing-line moves and post-juice value",
+  "description": "A research desk for sports wagers that never touches real money. It tracks how closing lines move through the day and hunts for positive-expected-value spots once the bookmaker's margin is accounted for, keeping an auditable daily card and a ticket ledger on paper only.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/gEEv8k6WgJyU8es3eaXi7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/gEEv8k6WgJyU8es3eaXi7",
+  "homepage": "https://x.ai/bot/gEEv8k6WgJyU8es3eaXi7",
+  "license": null,
+  "author": "BadgersBet",
+  "tags": [
+    "analytics",
+    "decision-support",
+    "data",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

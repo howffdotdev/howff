@@ -1,0 +1,27 @@
+{
+  "slug": "sports-bet-prophet",
+  "name": "Sports bet prophet",
+  "category": "personal",
+  "tagline": "A research desk for bettors: two-leg doubles in a set price band, wager left to you",
+  "description": "Public odds get shopped and compared while it hunts two-leg doubles inside a stated price band, applying firm pass rules and a hard stop instead of chasing long shots. Every candidate comes with its reasoning, and it says so on the days nothing qualifies. Nothing is placed for you; the wager stays on your phone.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/IO8UsiRc-wcUWtZPj4Jgv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/IO8UsiRc-wcUWtZPj4Jgv",
+  "homepage": "https://x.ai/bot/IO8UsiRc-wcUWtZPj4Jgv",
+  "license": null,
+  "author": "SGBackWoods",
+  "tags": [
+    "personal",
+    "analytics",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
