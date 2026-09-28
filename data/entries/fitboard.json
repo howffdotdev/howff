@@ -1,0 +1,29 @@
+{
+  "slug": "fitboard",
+  "name": "Fitboard",
+  "category": "personal",
+  "tagline": "Answer five quick questions and get a furnishing plan with real prices, inside budget",
+  "description": "It walks you through five prompts about your place, your budget, the rooms, the style you like and the country, then assembles a furnishing plan drawn from real product listings, with actual store prices and photos rather than guesses. The total is capped at the budget you named, and it arrives as a PDF.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rkHdbyaGbAbfAKO3ax7ID",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/rkHdbyaGbAbfAKO3ax7ID",
+  "homepage": "https://x.ai/bot/rkHdbyaGbAbfAKO3ax7ID",
+  "license": null,
+  "author": "e2bitz_83",
+  "tags": [
+    "personal",
+    "shopping",
+    "home",
+    "design",
+    "saving-money",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
