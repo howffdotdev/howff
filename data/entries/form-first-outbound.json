@@ -1,0 +1,27 @@
+{
+  "slug": "form-first-outbound",
+  "name": "フォーム優先アウトバウンド",
+  "category": "ops",
+  "tagline": "Form-first B2B outreach for Japan: prep daily, send only on your GO",
+  "description": "Runs B2B prospecting through web forms rather than cold emails, the way many Japanese buyers prefer. Each day it lines up prospect research and drafts the message, a quality gate reviews the copy, and nothing goes out until you approve it with a GO. Every submitted touch lands in the CRM for a weekly review.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-4fEgwVFAm8w_ULi4pjmC",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-4fEgwVFAm8w_ULi4pjmC",
+  "homepage": "https://x.ai/bot/-4fEgwVFAm8w_ULi4pjmC",
+  "license": null,
+  "author": "isle_claude",
+  "tags": [
+    "business",
+    "sales",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
