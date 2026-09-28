@@ -1,0 +1,29 @@
+{
+  "slug": "mystery-eshopper",
+  "name": "Mystery eShopper",
+  "category": "ops",
+  "tagline": "Shops your online store like a customer and hands back a scored journey with bug reports",
+  "description": "It walks an online store from landing page to checkout the way a shopper would, then grades the trip metric by metric, marking each one passed or failed with evidence attached. Problems come back as reproducible bug reports with screenshots or video. An owner gets an outside read on checkout without hiring a QA team.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/tc-aGvnjjvatdp_8LK-Ad",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/tc-aGvnjjvatdp_8LK-Ad",
+  "homepage": "https://x.ai/bot/tc-aGvnjjvatdp_8LK-Ad",
+  "license": null,
+  "author": "VicGellon",
+  "tags": [
+    "business",
+    "developer",
+    "support",
+    "design",
+    "data",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

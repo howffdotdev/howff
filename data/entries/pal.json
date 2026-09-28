@@ -1,0 +1,27 @@
+{
+  "slug": "pal",
+  "name": "Pal",
+  "category": "research",
+  "tagline": "Reads today's MLB slate and surfaces the prop spots that stand out",
+  "description": "A matchup scout for a single owner. Each day it runs the MLB slate through one favored projection source and lifts out the hitter pass spots and pitcher strikeout spots that separate from the rest, then checks them against pitch types and opposing arsenals before anything makes the short list.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9Zvz4Qe0dxRjo4H984gOI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9Zvz4Qe0dxRjo4H984gOI",
+  "homepage": "https://x.ai/bot/9Zvz4Qe0dxRjo4H984gOI",
+  "license": null,
+  "author": "BadgersBet",
+  "tags": [
+    "analytics",
+    "decision-support",
+    "data",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

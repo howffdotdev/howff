@@ -1,0 +1,27 @@
+{
+  "slug": "personalized-localized-name-gen",
+  "name": "Personalized Localized Name Gen",
+  "category": "personal",
+  "tagline": "Invents a fictional name that fits a target country, written in its own script",
+  "description": "Share a few details about yourself, pick a country, and it invents a fitting fictional identity: a given name, a surname, plus a nickname for cultures that use them, rendered in the local script when there is one. The framing is travel and fiction, an alias for a trip or a character, not impersonation.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/A5MrnZ1SGhd4yOX-ZlWBh",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/A5MrnZ1SGhd4yOX-ZlWBh",
+  "homepage": "https://x.ai/bot/A5MrnZ1SGhd4yOX-ZlWBh",
+  "license": null,
+  "author": "MarioSaputra",
+  "tags": [
+    "personal",
+    "life-hacks",
+    "travel",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

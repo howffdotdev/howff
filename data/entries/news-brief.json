@@ -1,0 +1,27 @@
+{
+  "slug": "news-brief",
+  "name": "News Brief",
+  "category": "research",
+  "tagline": "A weekly digest of the stories that lasted, stated as facts with any slant labelled",
+  "description": "Once a week it picks out the stories that kept developing, not the ones that flared and died. Each item is written as a plain statement of what happened, drawn from outlets across the political spectrum, and any slant it finds in the coverage is named outright. A calm answer to feeds that reward outrage.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8VRND3bWXULRzcYZfl3iP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8VRND3bWXULRzcYZfl3iP",
+  "homepage": "https://x.ai/bot/8VRND3bWXULRzcYZfl3iP",
+  "license": null,
+  "author": "scientists_blog",
+  "tags": [
+    "news",
+    "research",
+    "learning",
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

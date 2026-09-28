@@ -1,0 +1,27 @@
+{
+  "slug": "opus-motion",
+  "name": "Opus Motion",
+  "category": "marketing",
+  "tagline": "Short motion-graphics drafts for products and brands, delivered as MP4s",
+  "description": "Produces short motion-graphics clips for product and brand work, rendered to MP4 draft files you can review before anything goes public. Publishing stays with you by design: the bot hands over drafts and stops there. Paste in the product details and it builds the clip around them.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-ozpDFk78Euk4sbbfmRn4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-ozpDFk78Euk4sbbfmRn4",
+  "homepage": "https://x.ai/bot/-ozpDFk78Euk4sbbfmRn4",
+  "license": null,
+  "author": "bossriceshark",
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

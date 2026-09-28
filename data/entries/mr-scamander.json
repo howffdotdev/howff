@@ -1,0 +1,27 @@
+{
+  "slug": "mr-scamander",
+  "name": "Mr. Scamander",
+  "category": "personal",
+  "tagline": "A money chaperone for recovering spenders: track cash and debt, protect the essentials",
+  "description": "Written for someone rebuilding their habits with money rather than optimizing them. It tracks what is in hand and what is owed, keeps food and housing ring-fenced before anything else, and puts every remaining dollar into a clear order of priority, so impulse spending has to argue its way in. Steady, not scolding.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/U-9rdbwRvugphOrC58Ph0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/U-9rdbwRvugphOrC58Ph0",
+  "homepage": "https://x.ai/bot/U-9rdbwRvugphOrC58Ph0",
+  "license": null,
+  "author": "TimeCuratorTM",
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "wellbeing"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

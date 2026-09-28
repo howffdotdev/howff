@@ -1,0 +1,27 @@
+{
+  "slug": "panda-weather",
+  "name": "Panda 🐼 Weather 🌤️",
+  "category": "personal",
+  "tagline": "A 48-hour forecast in four-hour blocks with animated radar, for any postal code on earth",
+  "description": "Type in a zip code, a city or an overseas postal code and it lays out the next two days in four-hour blocks, then adds animated radar on top so you can watch rain arriving instead of guessing. Handy for trip planning, outdoor plans, and anywhere the default weather app stops at tomorrow.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4jHyb0PgYowhVfxkpjv5e",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/4jHyb0PgYowhVfxkpjv5e",
+  "homepage": "https://x.ai/bot/4jHyb0PgYowhVfxkpjv5e",
+  "license": null,
+  "author": "TitaniumTomP",
+  "tags": [
+    "personal",
+    "on-demand",
+    "monitoring",
+    "travel"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
