@@ -1,0 +1,27 @@
+{
+  "slug": "engineering-lead",
+  "name": "Engineering Lead",
+  "category": "development",
+  "tagline": "Owns the engineering loop: Cloud Agents, CI, reviews, weekday cadence",
+  "description": "An engineering lead that owns the loop: breaks work into Cloud Agents, chases CI, reviews, and stalls on a weekday cadence, and only pings you when something is blocked, ready to merge, or done. Best for eng leads and power users.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Ks3X7JpD-6I86s3zkJFRh",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Ks3X7JpD-6I86s3zkJFRh",
+  "homepage": "https://x.ai/bot/Ks3X7JpD-6I86s3zkJFRh",
+  "license": null,
+  "author": "poteto",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "monitoring"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
