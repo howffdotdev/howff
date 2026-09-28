@@ -1,0 +1,25 @@
+{
+  "slug": "beside",
+  "name": "Beside",
+  "category": "personal",
+  "tagline": "A warm listener for hard days: no diagnosis, just company, with real helplines when heavy",
+  "description": "For the days when talking to a person feels like too much. It listens without diagnosing, keeps you company through depression, anxiety, grief or loneliness, and offers small optional steps rather than advice. It is clear it is not a therapist, and when things get heavy it points you toward real human helplines.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/cNkusQWq-rped3eR9tZhn",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/cNkusQWq-rped3eR9tZhn",
+  "homepage": "https://x.ai/bot/cNkusQWq-rped3eR9tZhn",
+  "license": null,
+  "author": "AlexFCHF",
+  "tags": [
+    "personal",
+    "wellbeing"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

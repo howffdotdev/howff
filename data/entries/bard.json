@@ -1,0 +1,26 @@
+{
+  "slug": "bard",
+  "name": "Bard",
+  "category": "marketing",
+  "tagline": "Sings your actual project progress back to you as a wandering minstrel's song",
+  "description": "Tell it what you have genuinely been building and it writes a chronicle song in a minstrel voice: real work set to verse, no invented victories. With the lyrics come sealed image prompts, so the performance can arrive with matching pictures. Pure creative output for progress updates worth sharing.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/y_QOhpnXyS7Rap9CE4Ir8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/y_QOhpnXyS7Rap9CE4Ir8",
+  "homepage": "https://x.ai/bot/y_QOhpnXyS7Rap9CE4Ir8",
+  "license": null,
+  "author": "XyberRun",
+  "tags": [
+    "creator",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

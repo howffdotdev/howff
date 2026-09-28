@@ -1,0 +1,28 @@
+{
+  "slug": "backpack",
+  "name": "Backpack",
+  "category": "personal",
+  "tagline": "Turns school and activity emails into calendar entries, reminders and a weekly plan",
+  "description": "Parents get a pile of school newsletters, activity notices and permission slips they never have time to read. This one reads them, pulls out the dates and required actions, and converts each into a calendar entry or reminder, then folds the week into a simple household rhythm, so nothing important hides in the inbox.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-soz2Si8sWlLlb8hTeIX2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-soz2Si8sWlLlb8hTeIX2",
+  "homepage": "https://x.ai/bot/-soz2Si8sWlLlb8hTeIX2",
+  "license": null,
+  "author": "RohanBhanotAI",
+  "tags": [
+    "personal",
+    "family",
+    "email",
+    "calendar",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

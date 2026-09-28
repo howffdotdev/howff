@@ -1,0 +1,27 @@
+{
+  "slug": "bill-watch",
+  "name": "Bill Watch",
+  "category": "personal",
+  "tagline": "Surface the subscriptions and charges your inbox quietly forgot about",
+  "description": "Bill Watch combs your inbox for money you have stopped tracking: recurring charges, free trials about to roll into paid plans, subscriptions gathering dust, and credits sitting unspent. It returns a read-only keep-or-cut rundown so you can decide what to cancel without handing over write access to anything.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/doSuUa9J-ChT2mhQt5Iei",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/doSuUa9J-ChT2mhQt5Iei",
+  "homepage": "https://x.ai/bot/doSuUa9J-ChT2mhQt5Iei",
+  "license": null,
+  "author": "DennisW_15",
+  "tags": [
+    "personal",
+    "saving-money",
+    "finance",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

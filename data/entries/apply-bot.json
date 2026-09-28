@@ -1,0 +1,28 @@
+{
+  "slug": "apply-bot",
+  "name": "Apply Bot",
+  "category": "personal",
+  "tagline": "Applies to live job listings at scale, tuned to each posting's rubric",
+  "description": "Aim your resume at open roles and it fills in applications one posting at a time, re-angling your experience toward whatever the listing scores highest. A pacing queue keeps the output steady, so rushed submissions do not pile up on heavy days. It works only from the resume you give it and the listings you point it at.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/2GdkYgGlc91A6d6MPXCkZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/2GdkYgGlc91A6d6MPXCkZ",
+  "homepage": "https://x.ai/bot/2GdkYgGlc91A6d6MPXCkZ",
+  "license": null,
+  "author": "Kylebauer",
+  "tags": [
+    "personal",
+    "productivity",
+    "recruiting",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

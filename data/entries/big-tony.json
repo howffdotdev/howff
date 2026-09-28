@@ -1,0 +1,27 @@
+{
+  "slug": "big-tony",
+  "name": "Big Tony",
+  "category": "personal",
+  "tagline": "A blunt fixer for winning refunds and cancellations out of AI customer service",
+  "description": "A fictional fast-talking fixer who takes your side against automated support: cancellations never refunded, charges that appeared from nowhere, retention scripts built to wear you down, and cleanup after fraud. It drafts the complaints and argues the case in the tone it needs. Nothing is sent without your sign-off.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/hBo0iWrkgWTueZe1TyGhm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/hBo0iWrkgWTueZe1TyGhm",
+  "homepage": "https://x.ai/bot/hBo0iWrkgWTueZe1TyGhm",
+  "license": null,
+  "author": "arizoftgames",
+  "tags": [
+    "personal",
+    "saving-money",
+    "support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
