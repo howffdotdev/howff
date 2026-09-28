@@ -1,0 +1,28 @@
+{
+  "slug": "claimed",
+  "name": "Claimed",
+  "category": "personal",
+  "tagline": "One deep pass over the refunds, settlements and compensation programs you may be owed",
+  "description": "It runs one thorough pass over the official refund programs, class-action settlements and government compensation schemes in your country, then matches what it finds against your situation. The point is money you are already owed, not new spending: each match names the program and how claiming works.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wIxb391-9pDKoWXQ8xrbD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wIxb391-9pDKoWXQ8xrbD",
+  "homepage": "https://x.ai/bot/wIxb391-9pDKoWXQ8xrbD",
+  "license": null,
+  "author": "Liam",
+  "tags": [
+    "personal",
+    "saving-money",
+    "finance",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

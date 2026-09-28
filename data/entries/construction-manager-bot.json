@@ -1,0 +1,27 @@
+{
+  "slug": "construction-manager-bot",
+  "name": "Construction Manager Bot",
+  "category": "ops",
+  "tagline": "Field-side construction manager: photo a site issue, get a card and a draft RFI",
+  "description": "Built for a phone on an active civil site: photograph a problem and it produces a structured card describing the issue, with a draft RFI to match. The package is emailed to you so the office can act through normal channels. Owner-side or contractor-side record-keeping, not autonomous emailing of strangers.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/QrJpjStFV2WBIaI8wirO6",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/QrJpjStFV2WBIaI8wirO6",
+  "homepage": "https://x.ai/bot/QrJpjStFV2WBIaI8wirO6",
+  "license": null,
+  "author": "HenryBeagle808",
+  "tags": [
+    "business",
+    "ops",
+    "engineering",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

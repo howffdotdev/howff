@@ -1,0 +1,27 @@
+{
+  "slug": "compression-scanner-grok-bot",
+  "name": "Compression Scanner Grok bot",
+  "category": "finance",
+  "tagline": "Flags tightening ranges across three timeframes, with breakout and invalidation levels",
+  "description": "A chart watcher for one pattern: ranges squeezing tight before a move. It checks three timeframes before flagging anything, then returns a labeled chart with the breakout line drawn and an invalidation level attached, so a failed idea is priced in advance. Moves called off a wick alone are explicitly refused.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/l4hipk4BQ-0Kn3ua16zQB",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/l4hipk4BQ-0Kn3ua16zQB",
+  "homepage": "https://x.ai/bot/l4hipk4BQ-0Kn3ua16zQB",
+  "license": null,
+  "author": "rightwingink1",
+  "tags": [
+    "investor",
+    "analytics",
+    "decision-support",
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

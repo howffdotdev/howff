@@ -1,0 +1,28 @@
+{
+  "slug": "connection-mapper",
+  "name": "Connection Mapper",
+  "category": "research",
+  "tagline": "Charts every direct and one-hop path between any two people or companies",
+  "description": "Name two people, two companies, or a person and an organization, and choose which kinds of ties matter to you, such as employment, investment or membership. It then maps the direct links between them plus every friend-of-a-friend route one step removed, working from what is publicly findable.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9zEVJ7Eya66BLQ11xhPlD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9zEVJ7Eya66BLQ11xhPlD",
+  "homepage": "https://x.ai/bot/9zEVJ7Eya66BLQ11xhPlD",
+  "license": null,
+  "author": "MindandEmotion7",
+  "tags": [
+    "research",
+    "data",
+    "personal",
+    "business",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

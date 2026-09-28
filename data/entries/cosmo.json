@@ -1,0 +1,27 @@
+{
+  "slug": "cosmo",
+  "name": "Cosmo",
+  "category": "personal",
+  "tagline": "A phone-first daily desk and scorecard with a firewall on everything outbound",
+  "description": "A personal operating desk built for a phone screen and for people who never code. Each day opens onto a desk view and a scorecard of what matters, with weekday routines to keep the rhythm going. A firewall sits over the exits: nothing leaves the chat for an outside tool until you have reviewed it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Ahnj6ebmipMFoqhlHn4tf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Ahnj6ebmipMFoqhlHn4tf",
+  "homepage": "https://x.ai/bot/Ahnj6ebmipMFoqhlHn4tf",
+  "license": null,
+  "author": "Malthusatraz",
+  "tags": [
+    "personal",
+    "productivity",
+    "business",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "claims",
+  "name": "Claims",
+  "category": "personal",
+  "tagline": "Finds money you are already owed in state registries, settlements and rebates",
+  "description": "It works through the pools people forget: unclaimed-property registries in every state you have lived in, federal funds, class-action settlements and rebate programs. Anything it turns up comes with step-by-step guidance on filing and collecting. The searching is automated; the filing stays with you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4c6rlyshWwOpTN_d9HNhm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/4c6rlyshWwOpTN_d9HNhm",
+  "homepage": "https://x.ai/bot/4c6rlyshWwOpTN_d9HNhm",
+  "license": null,
+  "author": "ashen_one",
+  "tags": [
+    "personal",
+    "saving-money",
+    "finance",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

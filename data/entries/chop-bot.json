@@ -1,0 +1,29 @@
+{
+  "slug": "chop-bot",
+  "name": "Chop Bot",
+  "category": "personal",
+  "tagline": "One morning brief for email, calendar and X replies, with every draft approved by you",
+  "description": "Each day it gathers your email, your calendar and your X conversations and compresses them into one short brief. The replies you owe get drafted and parked in Gmail drafts for your approval, and long-silent threads get a nudge so they do not slip away. Nothing goes out until you say yes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3ITYjIFCSujYyq6rp5VAq",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/3ITYjIFCSujYyq6rp5VAq",
+  "homepage": "https://x.ai/bot/3ITYjIFCSujYyq6rp5VAq",
+  "license": null,
+  "author": "CaliLumberJack",
+  "tags": [
+    "personal",
+    "business",
+    "productivity",
+    "email",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

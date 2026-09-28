@@ -1,0 +1,29 @@
+{
+  "slug": "coverage-desk",
+  "name": "Coverage Desk",
+  "category": "personal",
+  "tagline": "Turns your insurance declarations page into everyday wording, so you know what you carry",
+  "description": "Give it the declarations page or your own list of coverages, and it explains in everyday wording what each part of the policy does and does not cover. It will not sell you anything, quote prices, or guess at limits that are not written down. Anything it cannot settle is handed to your human agent instead.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Xf744EvEIun3bzP0zdp0u",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Xf744EvEIun3bzP0zdp0u",
+  "homepage": "https://x.ai/bot/Xf744EvEIun3bzP0zdp0u",
+  "license": null,
+  "author": "lonzom10",
+  "tags": [
+    "personal",
+    "business",
+    "finance",
+    "decision-support",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

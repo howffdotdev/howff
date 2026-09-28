@@ -1,0 +1,26 @@
+{
+  "slug": "contest-scout",
+  "name": "Contest Scout",
+  "category": "marketing",
+  "tagline": "Works X and Facebook giveaways end to end and flags win notices in your inbox",
+  "description": "Point it at giveaway posts on X and Facebook and it works through each one's entry steps - following, liking, reposting or commenting as required - on a rhythm you set, skipping off-site entry forms. It confirms every required action landed, watches your inbox for winning notifications, and happily chats between draws.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/2FV4XCt5kNubiSFtAQwxC",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/2FV4XCt5kNubiSFtAQwxC",
+  "homepage": "https://x.ai/bot/2FV4XCt5kNubiSFtAQwxC",
+  "license": null,
+  "author": "julis555",
+  "tags": [
+    "social-media",
+    "personal",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
