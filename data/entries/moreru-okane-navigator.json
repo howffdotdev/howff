@@ -1,0 +1,27 @@
+{
+  "slug": "moreru-okane-navigator",
+  "name": "もらえるお金ナビゲーター",
+  "category": "personal",
+  "tagline": "A Japanese guide to public benefits, insurance claims and deductions you may be missing",
+  "description": "Built for Japan, where money regularly goes unclaimed simply because nobody applied for it. It researches public benefits, insurance reimbursements, overpayments and deductions on official pages, then hands back a checklist of what to claim and how to ask for it, leaving the actual filing to you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/NUjvclMSCc_QgGtV-6wPa",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/NUjvclMSCc_QgGtV-6wPa",
+  "homepage": "https://x.ai/bot/NUjvclMSCc_QgGtV-6wPa",
+  "license": null,
+  "author": "route20191212",
+  "tags": [
+    "personal",
+    "saving-money",
+    "finance",
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

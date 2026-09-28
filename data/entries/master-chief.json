@@ -1,0 +1,28 @@
+{
+  "slug": "master-chief",
+  "name": "Master Chief",
+  "category": "productivity",
+  "tagline": "Inbox triage, voice-matched replies and a weekday brief for your morning",
+  "description": "An email-and-calendar aide that clears the inbox down to what needs you, drafts replies that read the way you write, and gets you prepared for the meetings on today's line. On weekday mornings it delivers a short brief, so the day starts with a plan instead of a scroll through everything that arrived overnight.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/F8vp6AGwCX3DYuTJ_aahF",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/F8vp6AGwCX3DYuTJ_aahF",
+  "homepage": "https://x.ai/bot/F8vp6AGwCX3DYuTJ_aahF",
+  "license": null,
+  "author": "psinke",
+  "tags": [
+    "email",
+    "calendar",
+    "business",
+    "productivity",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

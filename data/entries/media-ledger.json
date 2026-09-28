@@ -1,0 +1,29 @@
+{
+  "slug": "media-ledger",
+  "name": "Media Ledger",
+  "category": "personal",
+  "tagline": "A running ledger of the books, games, films and albums you own, straight from receipts",
+  "description": "It goes through your inbox for purchase confirmations and builds one ledger of every digital thing you already own, from ebooks and audiobooks to games, films and albums. Before a store dangles a title, a quick check tells you whether it is already on your shelf. No more paying twice for a book you forgot.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/xpZm4ufgAWoCcYPAbugWE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/xpZm4ufgAWoCcYPAbugWE",
+  "homepage": "https://x.ai/bot/xpZm4ufgAWoCcYPAbugWE",
+  "license": null,
+  "author": "phillipstewart",
+  "tags": [
+    "personal",
+    "shopping",
+    "data",
+    "back-office",
+    "automation",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "market-morning",
+  "name": "Market Morning",
+  "category": "finance",
+  "tagline": "A pre-open and post-close briefing built around your own watchlist",
+  "description": "Each trading day it frames the names you follow before the bell and recaps them after the close: notable moves, earnings reports and fresh filings, every point tied to a source you can open yourself. Made for investors who direct their own research and want context before acting, not a feed of tips from a stranger.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-1jDLDwW_6HvtXCXwQF3V",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-1jDLDwW_6HvtXCXwQF3V",
+  "homepage": "https://x.ai/bot/-1jDLDwW_6HvtXCXwQF3V",
+  "license": null,
+  "author": "BTC_Yogi",
+  "tags": [
+    "investor",
+    "news",
+    "finance",
+    "research",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

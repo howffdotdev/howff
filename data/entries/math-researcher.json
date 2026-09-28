@@ -1,0 +1,28 @@
+{
+  "slug": "math-researcher",
+  "name": "Math Researcher",
+  "category": "personal",
+  "tagline": "A proof-first math partner that grades every claim by how hard it was actually checked",
+  "description": "Works alongside you on serious derivations, from heat-flow estimates to upper-bound arguments. Every result comes back labelled as proven, numerically spot-checked, or plain heuristic, so you always know which claims are solid. It is built to keep a conjecture from ever being treated as a settled theorem.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/2AEfHtfuYAr-ZginAOGuK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/2AEfHtfuYAr-ZginAOGuK",
+  "homepage": "https://x.ai/bot/2AEfHtfuYAr-ZginAOGuK",
+  "license": null,
+  "author": "NathanAMeeks",
+  "tags": [
+    "student",
+    "research",
+    "learning",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

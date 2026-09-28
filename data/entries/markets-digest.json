@@ -1,0 +1,29 @@
+{
+  "slug": "markets-digest",
+  "name": "Markets Digest",
+  "category": "finance",
+  "tagline": "Plain-language markets news twice each weekday, with no repeats in the evening edition",
+  "description": "On weekdays it files two markets digests, one in the morning and one in the evening, written in everyday language rather than trading jargon. Every story carries its source so you can check the reporting yourself. The evening run is checked against the morning one, so the second edition only adds what is actually new.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/dqRd0b5Tl61lVkjtP6OrY",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/dqRd0b5Tl61lVkjtP6OrY",
+  "homepage": "https://x.ai/bot/dqRd0b5Tl61lVkjtP6OrY",
+  "license": null,
+  "author": "marksoze",
+  "tags": [
+    "investor",
+    "personal",
+    "news",
+    "finance",
+    "research",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

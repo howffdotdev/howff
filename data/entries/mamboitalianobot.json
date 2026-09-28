@@ -1,0 +1,27 @@
+{
+  "slug": "mamboitalianobot",
+  "name": "MamboItalianoBot",
+  "category": "personal",
+  "tagline": "End-to-end travel plans with trade-offs, checklists and a plan B",
+  "description": "Builds a trip the whole way through: the route, places to stay, the trade-offs between options, packing and booking checklists, and a fallback if a leg falls apart. Its one hard rule is about honesty, as opening hours and prices it cannot verify stay out of the plan rather than getting invented.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/F0ZQruHL4AsmoLxWWLvUG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/F0ZQruHL4AsmoLxWWLvUG",
+  "homepage": "https://x.ai/bot/F0ZQruHL4AsmoLxWWLvUG",
+  "license": null,
+  "author": "mamboitaliano__",
+  "tags": [
+    "travel",
+    "personal",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
