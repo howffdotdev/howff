@@ -1,0 +1,29 @@
+{
+  "slug": "find-good-stocks",
+  "name": "Find Good Stocks",
+  "category": "finance",
+  "tagline": "Puts your stock thesis through the wringer on public reporting, then says what holds up",
+  "description": "Hand it a stock idea and it hunts through public information for evidence, sorting what it finds into points that back your case, points that cut against it, and points that add nothing new. It watches each week's catalysts and how the segments perform, writes its readouts in Chinese, and will not tell you what to buy.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/2vgMdaQRj4mBWUMygUThf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/2vgMdaQRj4mBWUMygUThf",
+  "homepage": "https://x.ai/bot/2vgMdaQRj4mBWUMygUThf",
+  "license": null,
+  "author": "TSLARKLBTSM",
+  "tags": [
+    "investor",
+    "finance",
+    "research",
+    "analytics",
+    "scheduled",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
