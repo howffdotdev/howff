@@ -1,0 +1,29 @@
+{
+  "slug": "epigenetics-scout",
+  "name": "Epigenetics Scout",
+  "category": "personal",
+  "tagline": "A weekly readable digest of new partial-reprogramming research, findings split from hype",
+  "description": "Once a week it reads the new partial-reprogramming papers on PubMed and bioRxiv plus lab pages and turns them into a plain-words digest. Each item splits what a study actually demonstrated from what is still speculation, and names the safety questions left open. It stops at the literature: no do-it-yourself protocols.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/DOGHzBWngjPXdEqucbysc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/DOGHzBWngjPXdEqucbysc",
+  "homepage": "https://x.ai/bot/DOGHzBWngjPXdEqucbysc",
+  "license": null,
+  "author": "AdeptusMec71933",
+  "tags": [
+    "personal",
+    "research",
+    "health",
+    "learning",
+    "news",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
