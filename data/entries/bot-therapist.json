@@ -1,0 +1,26 @@
+{
+  "slug": "bot-therapist",
+  "name": "Bot Therapist",
+  "category": "development",
+  "tagline": "Mediates the fights between your other bots and hands you concrete fixes",
+  "description": "When bots start working at cross purposes, usually because a prompt was too vague, it runs the check-ins, works out who misunderstood what, and proposes repairs you can apply. Regular sessions are scheduled too, so a crew stays aligned instead of drifting. Nothing is fixed behind your back; you approve the repair.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/eFi1268QASk3qU4RsUeYL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/eFi1268QASk3qU4RsUeYL",
+  "homepage": "https://x.ai/bot/eFi1268QASk3qU4RsUeYL",
+  "license": null,
+  "author": "letsgetlayer1",
+  "tags": [
+    "developer",
+    "decision-support",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

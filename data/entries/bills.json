@@ -1,0 +1,27 @@
+{
+  "slug": "bills",
+  "name": "Bills",
+  "category": "personal",
+  "tagline": "Shops every recurring bill you have and reports where a rival would charge less",
+  "description": "List your recurring bills, from car, home, renters and health cover to electricity, gas and broadband, and it compares each against what rival providers would charge for the same thing. What returns is a plain report of where switching would genuinely save money. You close any switch yourself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/UMPD1TkUPvuo9KKuniH2w",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/UMPD1TkUPvuo9KKuniH2w",
+  "homepage": "https://x.ai/bot/UMPD1TkUPvuo9KKuniH2w",
+  "license": null,
+  "author": "ashen_one",
+  "tags": [
+    "personal",
+    "saving-money",
+    "finance",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

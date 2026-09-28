@@ -1,0 +1,26 @@
+{
+  "slug": "bot-builder",
+  "name": "Bot Builder",
+  "category": "development",
+  "tagline": "Turns a fuzzy bot idea into a paste-ready spec for one bot or a crew",
+  "description": "Start with something as vague as needing a bot for invoices and it returns a production-grade specification to paste straight into Grok, whether a single operator or a crew with divided roles. Anything material is held for sign-off before it locks, so the spec cannot drift from what you asked for.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/iZXoXZbO9c0rojklFO1hx",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/iZXoXZbO9c0rojklFO1hx",
+  "homepage": "https://x.ai/bot/iZXoXZbO9c0rojklFO1hx",
+  "license": null,
+  "author": "brodyis4doge",
+  "tags": [
+    "developer",
+    "productivity",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

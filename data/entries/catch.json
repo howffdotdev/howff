@@ -1,0 +1,27 @@
+{
+  "slug": "catch",
+  "name": "Catch",
+  "category": "ops",
+  "tagline": "A small-business triage filter: isolate what truly needs you, draft each next move",
+  "description": "Most of what arrives at a small business does not need the owner, but the few things that do are buried in the pile. It watches everything coming in, isolates the items that genuinely require you, keeps track of what is waiting on someone else, and drafts a sensible next move for each one.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/iKSYn9Dsn07JyR50qePha",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/iKSYn9Dsn07JyR50qePha",
+  "homepage": "https://x.ai/bot/iKSYn9Dsn07JyR50qePha",
+  "license": null,
+  "author": "TyeInBloom",
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

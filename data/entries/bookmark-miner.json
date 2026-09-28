@@ -1,0 +1,28 @@
+{
+  "slug": "bookmark-miner",
+  "name": "Bookmark Miner",
+  "category": "personal",
+  "tagline": "Turns the X posts you saved into a ranked list of things actually worth doing",
+  "description": "Everyone saves posts they never revisit. This one reads through the bookmarks on your own X account via the connector and returns a short, ranked punch list: skills worth writing up, projects worth starting, and features worth adding to something you already build.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/2KoI66uCOtx0PSf3do4tK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/2KoI66uCOtx0PSf3do4tK",
+  "homepage": "https://x.ai/bot/2KoI66uCOtx0PSf3do4tK",
+  "license": null,
+  "author": "therookiehacker",
+  "tags": [
+    "personal",
+    "productivity",
+    "research",
+    "social-media",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

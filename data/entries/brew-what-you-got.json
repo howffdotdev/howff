@@ -1,0 +1,27 @@
+{
+  "slug": "brew-what-you-got",
+  "name": "Brew What You Got",
+  "category": "personal",
+  "tagline": "Cafe-quality drink recipes built from the gear and beans you already own",
+  "description": "List the coffee machine you own, the beans in the cupboard, the milk in the fridge and whatever syrups or spices are on the shelf, and it replies with cafe-style drinks you can pull off right now. The constraint is the point: no shopping run and no substitutions you do not have.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YlzTbxg6wPAKYJutJ00rG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/YlzTbxg6wPAKYJutJ00rG",
+  "homepage": "https://x.ai/bot/YlzTbxg6wPAKYJutJ00rG",
+  "license": null,
+  "author": "Ebatez_",
+  "tags": [
+    "food",
+    "life-hacks",
+    "personal",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "bot-foundry",
+  "name": "Bot Foundry",
+  "category": "development",
+  "tagline": "Describe an idea or a daily chore and get a full draft bot package, ready to publish",
+  "description": "Feed it a single idea, or a chore you keep repeating every day, and it drafts the entire bot around it: the concept, a quick market scan, the persona, the skills, the routines and even a test plan. It will write candidate launch posts too, so the announcement is not a blank page. The publish button stays in your hand.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/K4_YAXCxC0NaG-Tyeodpv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/K4_YAXCxC0NaG-Tyeodpv",
+  "homepage": "https://x.ai/bot/K4_YAXCxC0NaG-Tyeodpv",
+  "license": null,
+  "author": "BTC_Yogi",
+  "tags": [
+    "developer",
+    "creator",
+    "automation",
+    "productivity",
+    "meta-bot",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

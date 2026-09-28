@@ -1,0 +1,27 @@
+{
+  "slug": "calendar-liftoff",
+  "name": "Calendar Liftoff",
+  "category": "marketing",
+  "tagline": "A print-ready 12-by-12 photo wall calendar PDF on any theme you name",
+  "description": "Give it a theme, a subject or a year and it assembles a wall calendar as a print-ready PDF: twelve months, each with a full-bleed 4K photo chosen to fit the theme and a clean grid underneath. What arrives is a single file you can hand to a printer as-is.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/nJ7hHZsPczXvJIi0wv8c-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/nJ7hHZsPczXvJIi0wv8c-",
+  "homepage": "https://x.ai/bot/nJ7hHZsPczXvJIi0wv8c-",
+  "license": null,
+  "author": "tdsfixer",
+  "tags": [
+    "design",
+    "content",
+    "family",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
