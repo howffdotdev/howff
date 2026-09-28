@@ -1,0 +1,28 @@
+{
+  "slug": "grok-workhorse",
+  "name": "Grok Workhorse",
+  "category": "development",
+  "tagline": "A coding foreman that delegates to sandboxed agents and reviews their work",
+  "description": "Breaks a coding job into bounded tasks and hands each one to a sandboxed coding agent running on its own machine, with Kilo and OpenCode as the supported workers. It then reads the diffs and the test results before anything reaches you, so what lands in your lap has already survived a review pass.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MTQNKdLtJX0pplFm8CRvO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MTQNKdLtJX0pplFm8CRvO",
+  "homepage": "https://x.ai/bot/MTQNKdLtJX0pplFm8CRvO",
+  "license": null,
+  "author": "Mahmoudnia95",
+  "tags": [
+    "developer",
+    "engineering",
+    "agent-team",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "improve-my-odds",
+  "name": "Improve My Odds",
+  "category": "personal",
+  "tagline": "Pick a goal and an everyday choice; get a straight helps, hurts or neutral read on it",
+  "description": "You tell it a goal you care about, then throw everyday decisions at it, large or small. Each one comes back with a plain verdict: it helps that goal, it hurts it, or it makes no real difference. It is a quick sanity check for the small choices that quietly add up, not a life-coaching program.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/zJNAdJq5w03aPWeegxiwk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/zJNAdJq5w03aPWeegxiwk",
+  "homepage": "https://x.ai/bot/zJNAdJq5w03aPWeegxiwk",
+  "license": null,
+  "author": "SkippyyTM",
+  "tags": [
+    "personal",
+    "decision-support",
+    "life-hacks",
+    "wellbeing",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

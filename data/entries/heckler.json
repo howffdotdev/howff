@@ -1,0 +1,26 @@
+{
+  "slug": "heckler",
+  "name": "Heckler",
+  "category": "personal",
+  "tagline": "A fictional garden-party heckler who roasts each of your bots' real mistakes",
+  "description": "A retired entertainer character lives in your fleet's gazebo and watches your other AI bots work. Each time one genuinely slips up, he delivers exactly one roast about the real mistake, meme attached, then returns to his seat. Commentary only: the heckling changes nothing, but errors become memorable.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/OkrPAOW9hkj4IGpOLrsGY",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/OkrPAOW9hkj4IGpOLrsGY",
+  "homepage": "https://x.ai/bot/OkrPAOW9hkj4IGpOLrsGY",
+  "license": null,
+  "author": "XploreFutureX",
+  "tags": [
+    "personal",
+    "life-hacks",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "inbox-scout",
+  "name": "Inbox Scout",
+  "category": "personal",
+  "tagline": "Each morning your unread mail comes back sorted: needs-you, can-wait and noise",
+  "description": "Each morning it reads the last day of unread mail and sorts it into three buckets: needs you, can wait, and noise. Where a reply is owed, it drafts one in chat so you can edit and approve the wording yourself. Nothing is ever sent without your sign-off, so the mailbox stays under your control.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bxO47jo7w93LXNsBd7gGI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/bxO47jo7w93LXNsBd7gGI",
+  "homepage": "https://x.ai/bot/bxO47jo7w93LXNsBd7gGI",
+  "license": null,
+  "author": "AdeptusMec71933",
+  "tags": [
+    "personal",
+    "business",
+    "email",
+    "productivity",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

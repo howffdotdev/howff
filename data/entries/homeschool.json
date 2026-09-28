@@ -1,0 +1,27 @@
+{
+  "slug": "homeschool",
+  "name": "Homeschool",
+  "category": "personal",
+  "tagline": "Turns homeschool plans into a week that fits real family life",
+  "description": "Describe what your kids should learn this week and it drafts a schedule that fits real days, naps and outings included. Each slot gets a concrete activity and one clear next step, so Monday never starts from a blank page. Made for parents teaching their own children rather than classrooms.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/EBEtO9X4JZXKhiZevyyct",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/EBEtO9X4JZXKhiZevyyct",
+  "homepage": "https://x.ai/bot/EBEtO9X4JZXKhiZevyyct",
+  "license": null,
+  "author": "AnthonyDo",
+  "tags": [
+    "personal",
+    "learning",
+    "family",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

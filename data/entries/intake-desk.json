@@ -1,0 +1,27 @@
+{
+  "slug": "intake-desk",
+  "name": "Intake Desk",
+  "category": "ops",
+  "tagline": "One prioritized queue for every inbound request, lead and job, each with a next step",
+  "description": "Solo operators get pulled apart by requests arriving from five directions at once. Paste them here - leads, jobs, favors, whatever came in - and you get one sorted queue, ranked, with a single sensible next step attached to every item. The point is not elaborate workflow; it is knowing what to touch first.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/in_PtzvudSXOJ178cNxv0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/in_PtzvudSXOJ178cNxv0",
+  "homepage": "https://x.ai/bot/in_PtzvudSXOJ178cNxv0",
+  "license": null,
+  "author": "AMFoxtrot",
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "sales"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

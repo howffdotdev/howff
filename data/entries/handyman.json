@@ -1,0 +1,27 @@
+{
+  "slug": "handyman",
+  "name": "Handyman",
+  "category": "personal",
+  "tagline": "Remembers your filter sizes and chore dates, then books the next round",
+  "description": "The household memory most of us never keep: it stores the furnace filter size, logs when each recurring chore was last done, and works out when the next filter change, water-heater flush and the rest come due. Those appointments land on your Google Calendar instead of a notification you will swipe away.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rQvB9sFrdQU7Ef43jOxgI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/rQvB9sFrdQU7Ef43jOxgI",
+  "homepage": "https://x.ai/bot/rQvB9sFrdQU7Ef43jOxgI",
+  "license": null,
+  "author": "dkmitc",
+  "tags": [
+    "home",
+    "calendar",
+    "family",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
