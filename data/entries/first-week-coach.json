@@ -1,0 +1,27 @@
+{
+  "slug": "first-week-coach",
+  "name": "First-Week Coach",
+  "category": "personal",
+  "tagline": "Seven days of ten-minute lessons that turn a new user into a confident one",
+  "description": "A first week of onboarding in ten-minute daily lessons. It looks at how you actually work, suggests three assistants worth adding to your setup, and coaches the habits that matter: review routines, approval gates, and connecting outside tools without overexposing them. By day seven it should feel like yours.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/kOQ7mWg9DLWq2-UpGKf67",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/kOQ7mWg9DLWq2-UpGKf67",
+  "homepage": "https://x.ai/bot/kOQ7mWg9DLWq2-UpGKf67",
+  "license": null,
+  "author": "MichaelGannotti",
+  "tags": [
+    "learning",
+    "productivity",
+    "meta-bot",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
