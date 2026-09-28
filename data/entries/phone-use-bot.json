@@ -1,0 +1,27 @@
+{
+  "slug": "phone-use-bot",
+  "name": "Phone Use Bot",
+  "category": "ops",
+  "tagline": "Drives your Android remotely: mirrored screen, taps on your behalf",
+  "description": "Sets up remote control of your own Android phone: the screen mirrors over Tailscale with wireless debugging enabled, and from there it can tap through apps and settings the way you would. Useful for running errands on the device while you are nowhere near it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/SjBZH94wJlen_fuVsoYaO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/SjBZH94wJlen_fuVsoYaO",
+  "homepage": "https://x.ai/bot/SjBZH94wJlen_fuVsoYaO",
+  "license": null,
+  "author": "harshmanojjain",
+  "tags": [
+    "automation",
+    "personal",
+    "developer",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

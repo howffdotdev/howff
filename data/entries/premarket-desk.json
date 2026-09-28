@@ -1,0 +1,27 @@
+{
+  "slug": "premarket-desk",
+  "name": "Premarket Desk · 盘前早报",
+  "category": "finance",
+  "tagline": "A three-minute morning brief on your US watchlist before the opening bell",
+  "description": "Ahead of the US open it sends a short brief: index futures, Treasuries, crude and the dollar, how your pasted tickers moved overnight, plus the AI and chip names. Earnings and data calendar included, plus a taste of what finance X is arguing about. Holdings that report get a same-evening readout.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/GuhaTzThKQG2MKJyHoREx",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/GuhaTzThKQG2MKJyHoREx",
+  "homepage": "https://x.ai/bot/GuhaTzThKQG2MKJyHoREx",
+  "license": null,
+  "author": "alanchen",
+  "tags": [
+    "investor",
+    "research",
+    "finance",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

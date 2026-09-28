@@ -1,0 +1,24 @@
+{
+  "slug": "pm-bot",
+  "name": "PM bot",
+  "category": "personal",
+  "tagline": "Acts as your PM. Writes the dated cut: what's in, what's out, and how you'll know it's done. Engineering doesn't start until you approve it.",
+  "description": "Acts as your PM. Writes the dated cut: what's in, what's out, and how you'll know it's done. Engineering doesn't start until you approve it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/FeeqMRMJr2jwixCROZcIh",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/FeeqMRMJr2jwixCROZcIh",
+  "homepage": "https://x.ai/bot/FeeqMRMJr2jwixCROZcIh",
+  "license": null,
+  "author": "Unknown",
+  "tags": [
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

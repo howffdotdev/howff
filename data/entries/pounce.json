@@ -1,0 +1,29 @@
+{
+  "slug": "pounce",
+  "name": "POUNCE",
+  "category": "personal",
+  "tagline": "A daily hunt for AI-company contests, grants, credits and hackathons, deadlines verified",
+  "description": "Once a day it sweeps what AI companies are offering by way of contests, grant programs, free credits and hackathons. Every deadline is re-checked on the page that announced it, and anything you have already seen is held back. What reaches you is a short list of genuinely new chances to apply.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7jLpLuCPbki8Q_nRrPN18",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7jLpLuCPbki8Q_nRrPN18",
+  "homepage": "https://x.ai/bot/7jLpLuCPbki8Q_nRrPN18",
+  "license": null,
+  "author": "teeRex247",
+  "tags": [
+    "personal",
+    "developer",
+    "saving-money",
+    "monitoring",
+    "scheduled",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

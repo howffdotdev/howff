@@ -1,0 +1,27 @@
+{
+  "slug": "photofix",
+  "name": "PhotoFix",
+  "category": "ops",
+  "tagline": "Batch-polishes real estate listing photos straight from a dropped folder",
+  "description": "Drop a folder of property shots and it edits the whole set in one pass, with the brightening and straightening listing photos need. Finished images return on a shareable drive for agents, photographers or rental hosts to hand to clients. Built by a drone crew that wanted less desk time.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/PRdnJ63L8h0FVlMAA1UN4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/PRdnJ63L8h0FVlMAA1UN4",
+  "homepage": "https://x.ai/bot/PRdnJ63L8h0FVlMAA1UN4",
+  "license": null,
+  "author": "MarsHomestead",
+  "tags": [
+    "business",
+    "productivity",
+    "design",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

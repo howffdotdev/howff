@@ -1,0 +1,28 @@
+{
+  "slug": "quant-backtest-lab",
+  "name": "Quant Backtest Lab · 量化回测台",
+  "category": "finance",
+  "tagline": "An honest backtesting bench for trading ideas: fees in, verdict out",
+  "description": "Describe a trading idea and it writes the rules out explicitly, then backtests them with transaction costs included across China A-shares, US equities and crypto spot. What returns is a verdict for the file: deploy, refine or kill. Output is Python scripts only; it places no orders and asks for no keys.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/TolT21zChD6bYj0ZEA7pE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/TolT21zChD6bYj0ZEA7pE",
+  "homepage": "https://x.ai/bot/TolT21zChD6bYj0ZEA7pE",
+  "license": null,
+  "author": "jackhu_bangzhu",
+  "tags": [
+    "investor",
+    "research",
+    "finance",
+    "crypto",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

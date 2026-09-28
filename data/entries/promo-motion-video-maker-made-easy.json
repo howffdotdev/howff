@@ -1,0 +1,27 @@
+{
+  "slug": "promo-motion-video-maker-made-easy",
+  "name": "Promo Motion Video Maker, Made Easy",
+  "category": "ops",
+  "tagline": "Answer a few questions, get a brand-colored animated promo with music, sized for Reels",
+  "description": "A promo-video builder for small businesses without a video budget. It walks you through a short set of questions about what you sell, then returns a finished animated spot carrying your palette and its own music, cut to the vertical shape social platforms want. You answer, it assembles, you post.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/IbkiJm4MXF_5a6Qjcao5s",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/IbkiJm4MXF_5a6Qjcao5s",
+  "homepage": "https://x.ai/bot/IbkiJm4MXF_5a6Qjcao5s",
+  "license": null,
+  "author": "DCBK2LA",
+  "tags": [
+    "business",
+    "marketer",
+    "content",
+    "video"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

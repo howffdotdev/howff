@@ -1,0 +1,24 @@
+{
+  "slug": "qa-bot",
+  "name": "QA bot",
+  "category": "personal",
+  "tagline": "QA bot",
+  "description": "QA bot",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/lKQWoQAvYgg_7Bkg2R-m7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/lKQWoQAvYgg_7Bkg2R-m7",
+  "homepage": "https://x.ai/bot/lKQWoQAvYgg_7Bkg2R-m7",
+  "license": null,
+  "author": "Unknown",
+  "tags": [
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
