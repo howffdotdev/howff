@@ -1,0 +1,26 @@
+{
+  "slug": "x-follower-spam-scanner",
+  "name": "X Follower Spam Scanner",
+  "category": "marketing",
+  "tagline": "Audits your followers for spam, bots and hollow parody accounts, and asks before blocking",
+  "description": "A quality check for your audience. It scans your followers for spam accounts, obvious bots, hollow parody or fan accounts, and impersonators, then reports what it found and waits: every block is confirmed with you before it happens. Useful after a viral moment, when the follower count jumps and not all of it is people.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sN4FX1kmXF5n1RW8JNorL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sN4FX1kmXF5n1RW8JNorL",
+  "homepage": "https://x.ai/bot/sN4FX1kmXF5n1RW8JNorL",
+  "license": null,
+  "author": "HashCons",
+  "tags": [
+    "social-media",
+    "monitoring",
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

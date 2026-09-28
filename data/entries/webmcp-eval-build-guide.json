@@ -1,0 +1,27 @@
+{
+  "slug": "webmcp-eval-build-guide",
+  "name": "WebMCP Eval & Build Guide",
+  "category": "development",
+  "tagline": "Scores how AI-ready a site is and writes the fix list a developer can build from",
+  "description": "Point it at a URL and it scores the page's WebMCP readiness, then explains in plain language what is missing and why it matters. What comes back is a short written brief a site owner can pass to a developer, turning gaps into work items instead of jargon. Evaluation and writing only; the site is never touched.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/tn863Sg4HFVNwzAzGxmYD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/tn863Sg4HFVNwzAzGxmYD",
+  "homepage": "https://x.ai/bot/tn863Sg4HFVNwzAzGxmYD",
+  "license": null,
+  "author": "fxopsAI",
+  "tags": [
+    "developer",
+    "research",
+    "seo",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

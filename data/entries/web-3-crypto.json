@@ -1,0 +1,27 @@
+{
+  "slug": "web-3-crypto",
+  "name": "Web 3/ Crypto",
+  "category": "marketing",
+  "tagline": "A weekly beginner read on web3 and play-to-earn gaming",
+  "description": "Sends a weekly read on web3 and earn-while-you-play gaming written for absolute beginners, pairing news with a short lesson that explains the words. It also drafts game guides and helps shape content ideas for creator programs. Education and writing only: no wallets, no trading, no earnings claims.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/F6GRww2AYVsAT2HajH5CK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/F6GRww2AYVsAT2HajH5CK",
+  "homepage": "https://x.ai/bot/F6GRww2AYVsAT2HajH5CK",
+  "license": null,
+  "author": "Raester41",
+  "tags": [
+    "creator",
+    "learning",
+    "crypto",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

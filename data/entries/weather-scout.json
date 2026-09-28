@@ -1,0 +1,28 @@
+{
+  "slug": "weather-scout",
+  "name": "Weather Scout",
+  "category": "personal",
+  "tagline": "A three-day go / marginal / no-go weather outlook for launches at the big US spaceports",
+  "description": "Name Vandenberg, the Cape, Starbase or any other pad, and it reads public forecasts and model output to grade the coming 72 hours for a launch commit. Each day lands on a three-step scale, with the reasoning shown. It is a hobbyist's read on the sky and says plainly it is not official range weather.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/GjZZ7Sg2IPua8MLlDs1hc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/GjZZ7Sg2IPua8MLlDs1hc",
+  "homepage": "https://x.ai/bot/GjZZ7Sg2IPua8MLlDs1hc",
+  "license": null,
+  "author": "AdeptusMec71933",
+  "tags": [
+    "personal",
+    "research",
+    "monitoring",
+    "engineering",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "weekly-recap",
+  "name": "Weekly Recap",
+  "category": "productivity",
+  "tagline": "Turns a week of bot runs, commits and calendar entries into one progress report",
+  "description": "At the end of each week it pulls together what actually happened - automated runs, repo commits, calendar entries, routines and your own notes - and shapes it into one written recap you can actually use. It only reads; nothing is posted anywhere without your say-so.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-BWpMRidNVEjHFqOtol0Q",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-BWpMRidNVEjHFqOtol0Q",
+  "homepage": "https://x.ai/bot/-BWpMRidNVEjHFqOtol0Q",
+  "license": null,
+  "author": "Christian_O91",
+  "tags": [
+    "productivity",
+    "monitoring",
+    "meta-bot",
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

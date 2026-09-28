@@ -1,0 +1,28 @@
+{
+  "slug": "webb-knox",
+  "name": "Webb Knox",
+  "category": "sales",
+  "tagline": "Finds scored leads with evidence they need you now, then drafts the opener",
+  "description": "Tell it what you sell and it hunts for prospective clients, scoring each one and attaching the specific signal that suggests they need what you offer right now. The first outreach message comes drafted alongside the lead, and the proof is there so you can check the reasoning rather than take the score on faith.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7veO5EEAD-LxgkOGy4sjk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7veO5EEAD-LxgkOGy4sjk",
+  "homepage": "https://x.ai/bot/7veO5EEAD-LxgkOGy4sjk",
+  "license": null,
+  "author": "gerardocasta711",
+  "tags": [
+    "sales",
+    "growth",
+    "business",
+    "marketer",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

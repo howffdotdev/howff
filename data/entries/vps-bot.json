@@ -1,0 +1,27 @@
+{
+  "slug": "vps-bot",
+  "name": "VPS bot",
+  "category": "development",
+  "tagline": "A Simplified-Chinese tutor for standing up and tuning self-hosted proxy servers",
+  "description": "Talks through self-hosted proxy server work in Simplified Chinese, from picking a node to per-protocol deployment and the client-side configuration that connects to it. Covers kernel-level latency tuning, speed tests to compare nodes, and tracking down why a connection went slow or started timing out.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/KkQ9TOi5k9f2O60a-dx4T",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/KkQ9TOi5k9f2O60a-dx4T",
+  "homepage": "https://x.ai/bot/KkQ9TOi5k9f2O60a-dx4T",
+  "license": null,
+  "author": "qg7777",
+  "tags": [
+    "developer",
+    "engineering",
+    "on-demand",
+    "support"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
