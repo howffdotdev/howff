@@ -1,0 +1,27 @@
+{
+  "slug": "gif-bot",
+  "name": "Gif Bot",
+  "category": "marketing",
+  "tagline": "Turn a described YouTube moment into a captioned, soundless GIF for chat",
+  "description": "Describe a YouTube moment and it finds that exact stretch, burns the spoken lines onto the frames as captions, and exports a muted clip sized for phones. You get GIF and MP4 versions that drop straight into a group chat. Nothing is posted anywhere; the files are yours to share.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3kZ4nf8Qf_2P__xBdyUB4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/3kZ4nf8Qf_2P__xBdyUB4",
+  "homepage": "https://x.ai/bot/3kZ4nf8Qf_2P__xBdyUB4",
+  "license": null,
+  "author": "dklein09",
+  "tags": [
+    "creator",
+    "productivity",
+    "video",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

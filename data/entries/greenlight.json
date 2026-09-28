@@ -1,0 +1,27 @@
+{
+  "slug": "greenlight",
+  "name": "Greenlight",
+  "category": "development",
+  "tagline": "Stress-tests your app against Mac, Setapp and Chrome store review rules pre-upload",
+  "description": "For indie developers, review day is where releases quietly die. This one reads your app or extension against the review rules of the Apple Mac store, Setapp and the Chrome Web Store, flags whatever looks like a rejection waiting to happen, and hands you a fix list to clear before you press upload.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/CjabaVv2icvagIumZlevu",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/CjabaVv2icvagIumZlevu",
+  "homepage": "https://x.ai/bot/CjabaVv2icvagIumZlevu",
+  "license": null,
+  "author": "MrSaneApps",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

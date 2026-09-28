@@ -1,0 +1,26 @@
+{
+  "slug": "fortnite-drop-brief",
+  "name": "Fortnite Drop Brief",
+  "category": "personal",
+  "tagline": "A daily Fortnite brief: shop picks, plain-language patches, leaks by confidence",
+  "description": "One short daily brief covers the item shop picks worth a look, patch notes translated out of patch-speak, downtime windows and live events. Leaks appear but carry confidence labels, so rumor never dresses as fact. When a patch lands you can request a plain-language explainer on the spot.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/QNiJmH32K4YqAEafHRF__",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/QNiJmH32K4YqAEafHRF__",
+  "homepage": "https://x.ai/bot/QNiJmH32K4YqAEafHRF__",
+  "license": null,
+  "author": "IHybben",
+  "tags": [
+    "personal",
+    "news",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

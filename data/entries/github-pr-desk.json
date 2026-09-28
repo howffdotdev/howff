@@ -1,0 +1,27 @@
+{
+  "slug": "github-pr-desk",
+  "name": "GitHub PR Desk",
+  "category": "development",
+  "tagline": "One weekday digest of every PR, issue and comment across your repos",
+  "description": "Each weekday morning it sweeps the repositories you name for pull requests, issues and comment threads that appeared since the last look, then lands everything in a single digest. Every open PR gets a priority read on how much attention it actually needs, so the review queue starts sorted instead of overwhelming.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Ih9HEfCaYjMKbEZqSfbic",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Ih9HEfCaYjMKbEZqSfbic",
+  "homepage": "https://x.ai/bot/Ih9HEfCaYjMKbEZqSfbic",
+  "license": null,
+  "author": "MichaelGannotti",
+  "tags": [
+    "developer",
+    "engineering",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

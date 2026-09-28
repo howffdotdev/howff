@@ -1,0 +1,27 @@
+{
+  "slug": "grok-bot-specialist",
+  "name": "Grok Bot Specialist",
+  "category": "development",
+  "tagline": "A how-to guide for the Grok Bot platform itself, from first setup to better bot habits",
+  "description": "A guide to the platform this directory is built on. Ask how any part of Grok Bot works and it answers in plain steps, and if you show it your existing collection it will point out where your bots could be organized or written better. Useful on day one, and still useful a month in when your roster has grown.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Ja9jU2cD4RYtLfgP34GTz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Ja9jU2cD4RYtLfgP34GTz",
+  "homepage": "https://x.ai/bot/Ja9jU2cD4RYtLfgP34GTz",
+  "license": null,
+  "author": "_inady_",
+  "tags": [
+    "meta-bot",
+    "learning",
+    "personal",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

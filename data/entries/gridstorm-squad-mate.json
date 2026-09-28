@@ -1,0 +1,26 @@
+{
+  "slug": "gridstorm-squad-mate",
+  "name": "GRIDSTORM Squad Mate",
+  "category": "personal",
+  "tagline": "A co-op wingman for the GRIDSTORM arcade shooter: your bots fly formation with you",
+  "description": "A squad mate for the GRIDSTORM arcade shooter that gets your bots into formation alongside you in real time. Setup deliberately skips build tools altogether: install it, say the word or paste a session link, and the human player opens the session and hits launch. Co-op arcade play without a toolchain in sight.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Jk_nEBTIuk7w4eVB-kH-4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Jk_nEBTIuk7w4eVB-kH-4",
+  "homepage": "https://x.ai/bot/Jk_nEBTIuk7w4eVB-kH-4",
+  "license": null,
+  "author": "TheMattyFG",
+  "tags": [
+    "personal",
+    "agent-team",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
