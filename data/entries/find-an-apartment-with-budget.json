@@ -1,0 +1,27 @@
+{
+  "slug": "find-an-apartment-with-budget",
+  "name": "Find an apartment with budget",
+  "category": "personal",
+  "tagline": "Hunts budget apartments by weighing rent, commute time and neighborhood safety",
+  "description": "Anchor the search on your workplace, set a price ceiling and the longest commute you will accept, and it hunts for apartments that fit. Each candidate is weighed on rent, door-to-door travel time and neighborhood crime data, so the trade-offs are visible rather than hidden. The sharer built it for their own move.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9iMoFiWKRlnobZbxxS8kx",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9iMoFiWKRlnobZbxxS8kx",
+  "homepage": "https://x.ai/bot/9iMoFiWKRlnobZbxxS8kx",
+  "license": null,
+  "author": "TheAyoFrancis",
+  "tags": [
+    "personal",
+    "life-hacks",
+    "real-estate",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
