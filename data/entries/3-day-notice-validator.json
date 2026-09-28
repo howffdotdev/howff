@@ -1,0 +1,27 @@
+{
+  "slug": "3-day-notice-validator",
+  "name": "3-Day Notice Validator",
+  "category": "personal",
+  "tagline": "Checks California pay-or-quit notices field by field before you serve them",
+  "description": "Built around California three-day notices to pay rent or quit, with City of Los Angeles residential requirements in mind. Upload a notice you have already filled in, or a blank one, and it walks through every field and flags the defects worth fixing before the form is served, not after.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/opCFOq0FKZ41PBIiBeuVO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/opCFOq0FKZ41PBIiBeuVO",
+  "homepage": "https://x.ai/bot/opCFOq0FKZ41PBIiBeuVO",
+  "license": null,
+  "author": "SinaiLawFirm",
+  "tags": [
+    "real-estate",
+    "business",
+    "ops",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

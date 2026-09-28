@@ -1,0 +1,27 @@
+{
+  "slug": "ai-security-advisor",
+  "name": "AI Security Advisor",
+  "category": "development",
+  "tagline": "Defensive hardening advice for AI apps: injection, tool abuse, leakage",
+  "description": "A defensive advisor for teams putting AI applications in front of users. It works through the failure modes that matter, such as prompt injection, tools used outside their mandate, and data leaking into the wrong context, grounding advice in threat patterns seen worldwide rather than generic checklists.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rrKp1eA9QnW8P5QAGKaKS",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/rrKp1eA9QnW8P5QAGKaKS",
+  "homepage": "https://x.ai/bot/rrKp1eA9QnW8P5QAGKaKS",
+  "license": null,
+  "author": "zeuss_000",
+  "tags": [
+    "developer",
+    "engineering",
+    "business",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
