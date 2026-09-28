@@ -1,0 +1,28 @@
+{
+  "slug": "x-unyou-advisor",
+  "name": "X運用アドバイザー",
+  "category": "marketing",
+  "tagline": "Weekly consultant-style reports on your X account, every action human-approved",
+  "description": "Reads the numbers behind your own X account and turns them into a consultant-grade weekly report plus briefing material for a client or a manager. Built for creators and account operators who want analysis without handing over the keys: every post, follow and direct message waits for your sign-off first.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/lQyIEp3Wqbm8X78tLTa-8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/lQyIEp3Wqbm8X78tLTa-8",
+  "homepage": "https://x.ai/bot/lQyIEp3Wqbm8X78tLTa-8",
+  "license": null,
+  "author": "shin_chan_ai",
+  "tags": [
+    "social-media",
+    "marketer",
+    "analytics",
+    "business",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

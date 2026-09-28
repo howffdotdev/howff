@@ -1,0 +1,27 @@
+{
+  "slug": "xchat-case-curator",
+  "name": "XChat 사례 큐레이터 봇",
+  "category": "ops",
+  "tagline": "Feeds your XChat group fresh Grok-bot use cases, filtered, summarized, translated",
+  "description": "On a repeating cycle it searches X for new ways people are using Grok bots, keeping only posts that include a template or a step-by-step how-to and skipping the hype. Each pick is summarized, translated and posted into an XChat group you run, so members get usable material instead of a firehose.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Sg-5129uv9Hi2RRcrjRfi",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Sg-5129uv9Hi2RRcrjRfi",
+  "homepage": "https://x.ai/bot/Sg-5129uv9Hi2RRcrjRfi",
+  "license": null,
+  "author": "brandonchung75",
+  "tags": [
+    "ops",
+    "monitoring",
+    "social-media",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "x-thread-article-writer",
+  "name": "X Thread & Article Writer",
+  "category": "marketing",
+  "tagline": "Turns rough notes into a paste-ready X thread and longform piece",
+  "description": "Give it a half-formed idea, scattered notes or just a link and it writes both an X thread and a longform draft that sounds like you rather than a press release. Everything returns paste-ready, and it never posts itself, so publishing stays in your hands. For people with something to say and no patience for formatting.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/xLeBNzgp0Z6IUGxyt8sj4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/xLeBNzgp0Z6IUGxyt8sj4",
+  "homepage": "https://x.ai/bot/xLeBNzgp0Z6IUGxyt8sj4",
+  "license": null,
+  "author": "sigarellano",
+  "tags": [
+    "creator",
+    "content",
+    "social-media",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "x-growth-assistant",
+  "name": "X Growth Assistant",
+  "category": "marketing",
+  "tagline": "Prunes dead follows, clears spam accounts and suggests niche-relevant adds",
+  "description": "Account hygiene for X. It works down your following list, dropping accounts that never followed back and clearing out obvious spam and dormant profiles, then proposes people in your niche worth adding in their place. The whole thing runs at a deliberately measured pace rather than in bursts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/B4ro8N0_j3XGF5ras3iW0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/B4ro8N0_j3XGF5ras3iW0",
+  "homepage": "https://x.ai/bot/B4ro8N0_j3XGF5ras3iW0",
+  "license": null,
+  "author": "DonaldMoor91672",
+  "tags": [
+    "social-media",
+    "growth",
+    "marketer",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
