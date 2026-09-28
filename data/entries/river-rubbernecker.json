@@ -1,0 +1,27 @@
+{
+  "slug": "river-rubbernecker",
+  "name": "River Rubbernecker",
+  "category": "personal",
+  "tagline": "Warns you before a tanker or container ship passes your stretch of water",
+  "description": "For anyone living or working beside a busy waterway, it follows live vessel traffic and flags big ships before they reach you. Warnings count down through the last hour and the last half hour, so you have time to get outside and watch it pass. It only watches and alerts, nothing else.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/WmFSeUpqUmS9N_J4SmM-v",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/WmFSeUpqUmS9N_J4SmM-v",
+  "homepage": "https://x.ai/bot/WmFSeUpqUmS9N_J4SmM-v",
+  "license": null,
+  "author": "_jsolly",
+  "tags": [
+    "personal",
+    "monitoring",
+    "travel",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

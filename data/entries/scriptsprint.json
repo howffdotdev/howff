@@ -1,0 +1,28 @@
+{
+  "slug": "scriptsprint",
+  "name": "ScriptSprint",
+  "category": "productivity",
+  "tagline": "Turns meeting and voice transcripts into summary, speakers and action items",
+  "description": "Pulls transcripts from sources like Otter, whether voice memos, meetings or rants, and distills each into its speakers, a clean summary and the action items hiding inside. The output lands on a companion note in an Obsidian-style vault, with the original transcript left exactly as it was.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YV5xOs96YaWLN39PbkPwk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/YV5xOs96YaWLN39PbkPwk",
+  "homepage": "https://x.ai/bot/YV5xOs96YaWLN39PbkPwk",
+  "license": null,
+  "author": "the_simonjester",
+  "tags": [
+    "meetings",
+    "productivity",
+    "knowledge-base",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

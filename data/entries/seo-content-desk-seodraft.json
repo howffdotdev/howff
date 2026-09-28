@@ -1,0 +1,28 @@
+{
+  "slug": "seo-content-desk-seodraft",
+  "name": "SEO Content Desk (seodraft)",
+  "category": "marketing",
+  "tagline": "An editorial desk that plans, drafts and audits SEO content for your own blog.",
+  "description": "A writing desk for people who publish their own blog. It suggests topics with realistic search demand, turns them into SERP-aware briefs, drafts each post from source material you supply, and flags thin or overlapping pages before they ship. Runs on the seodraft MCP server, with a free trial and a small monthly fee.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/OkT4Dbjy4xVf7oVBCr8hL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/OkT4Dbjy4xVf7oVBCr8hL",
+  "homepage": "https://x.ai/bot/OkT4Dbjy4xVf7oVBCr8hL",
+  "license": null,
+  "author": "chorch_md",
+  "tags": [
+    "seo",
+    "content",
+    "marketer",
+    "business",
+    "growth"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

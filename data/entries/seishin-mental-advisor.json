@@ -1,0 +1,27 @@
+{
+  "slug": "seishin-mental-advisor",
+  "name": "精神メンタル・アドバイザー",
+  "category": "personal",
+  "tagline": "Sorts old journal notes into fact, impression and unverified, then proposes next steps",
+  "description": "Point it at notes you wrote on an earlier day and it separates what actually happened from what you interpreted and what was never confirmed. After that it offers between one and three candidate moves you could take next. A self-reflection tool, not a clinician: no diagnosis, and nothing posts anywhere on its own.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ZCm7Z2hxDPeGPmMIpjCId",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ZCm7Z2hxDPeGPmMIpjCId",
+  "homepage": "https://x.ai/bot/ZCm7Z2hxDPeGPmMIpjCId",
+  "license": null,
+  "author": "shin_chan_ai",
+  "tags": [
+    "wellbeing",
+    "personal",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

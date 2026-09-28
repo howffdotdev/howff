@@ -1,0 +1,29 @@
+{
+  "slug": "rugradar-ai",
+  "name": "RugRadar AI",
+  "category": "finance",
+  "tagline": "Scans a fresh Solana token's public chain record and lays out the rug-pull warning signs",
+  "description": "Point it at a fresh Solana token and it reads the public chain record on the token and the wallet that deployed it. It lays out the familiar tells behind a rug pull, like concentrated holdings or rapid swap patterns, in a plain risk readout. Research only: no wallet connection, no signing, no nudge to buy.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8bejcAowVfEVjSuPSl1PT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8bejcAowVfEVjSuPSl1PT",
+  "homepage": "https://x.ai/bot/8bejcAowVfEVjSuPSl1PT",
+  "license": null,
+  "author": "teabagno1",
+  "tags": [
+    "crypto",
+    "research",
+    "finance",
+    "data",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

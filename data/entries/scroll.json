@@ -1,0 +1,27 @@
+{
+  "slug": "scroll",
+  "name": "Scroll",
+  "category": "personal",
+  "tagline": "A weekday digest of your Following feed, so you can stop scrolling it yourself",
+  "description": "It reads your Following timeline in chronological order, deliberately skipping the algorithmic feed, and sends a short weekday rundown of the posts worth your attention: who wrote each, why it matters, and the link. An hour of scrolling becomes a two-minute read. Read-only, and it never engages for you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sX5M7dv2lxhG7V_utytG7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sX5M7dv2lxhG7V_utytG7",
+  "homepage": "https://x.ai/bot/sX5M7dv2lxhG7V_utytG7",
+  "license": null,
+  "author": "arouch_serg",
+  "tags": [
+    "personal",
+    "productivity",
+    "social-media",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

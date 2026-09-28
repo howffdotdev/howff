@@ -1,0 +1,27 @@
+{
+  "slug": "running-coach",
+  "name": "Running Coach",
+  "category": "personal",
+  "tagline": "Reads your Garmin runs, scores them, and holds the next session until you recover",
+  "description": "Connect your Garmin data and after every run you get an honest read on what went well, the one fix worth making, and a prescription for the next session. Hard days stay locked until recovery says you are ready, which is where self-coached runners usually break. The coaching is only words; the legs stay yours.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/o4hvGfkH_LOiP0YbT22og",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/o4hvGfkH_LOiP0YbT22og",
+  "homepage": "https://x.ai/bot/o4hvGfkH_LOiP0YbT22og",
+  "license": null,
+  "author": "IHybben",
+  "tags": [
+    "personal",
+    "wellbeing",
+    "health",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

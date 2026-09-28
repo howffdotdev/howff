@@ -1,0 +1,27 @@
+{
+  "slug": "ryan-app-builder",
+  "name": "Ryan App Builder",
+  "category": "personal",
+  "tagline": "Walks a first-time builder from plain idea to an app on their home screen",
+  "description": "Describe what you want in plain English and it designs and builds a small working app that pins to your phone's home screen, no code and no app store required. Aimed at people who have never built anything; the sharer's examples were a chore chart and a team schedule. Each step is confirmed before moving on.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/acSvd_2n8QnlnAjJebkvy",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/acSvd_2n8QnlnAjJebkvy",
+  "homepage": "https://x.ai/bot/acSvd_2n8QnlnAjJebkvy",
+  "license": null,
+  "author": "BlakeKing777",
+  "tags": [
+    "personal",
+    "productivity",
+    "developer",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
