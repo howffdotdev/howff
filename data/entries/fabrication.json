@@ -1,0 +1,27 @@
+{
+  "slug": "fabrication",
+  "name": "Fabrication",
+  "category": "development",
+  "tagline": "Carries a CAD part through geometry checks and bed-fit review to a slice-ready file",
+  "description": "A print-prep engineer for people who would rather catch problems on screen than on the printer. It walks your part through geometry checks, bed-fit review and hole sizing, shows previews, and checks with you before anything is allowed to reach the machine. What lands on the bed is a file you already agreed to.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/jQ4VpRUAOS4awmiDlwI6n",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/jQ4VpRUAOS4awmiDlwI6n",
+  "homepage": "https://x.ai/bot/jQ4VpRUAOS4awmiDlwI6n",
+  "license": null,
+  "author": "JonathanSayle",
+  "tags": [
+    "engineering",
+    "design",
+    "developer",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
