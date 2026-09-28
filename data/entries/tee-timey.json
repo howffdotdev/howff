@@ -1,0 +1,27 @@
+{
+  "slug": "tee-timey",
+  "name": "Tee Timey",
+  "category": "ops",
+  "tagline": "Your own tee-time sniper: supply the courses, pick the windows, it fires",
+  "description": "A do-it-yourself reservation hunter for golfers. You link the courses you actually play along with your own login for each, set the windows you want, and it runs the timed booking drops itself. There is no shared service in the middle, the setup lives on your side, and some courses simply are not supported.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/W1w9HsbZ8HaOOxAOMYTA5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/W1w9HsbZ8HaOOxAOMYTA5",
+  "homepage": "https://x.ai/bot/W1w9HsbZ8HaOOxAOMYTA5",
+  "license": null,
+  "author": "TeeTimeybot",
+  "tags": [
+    "automation",
+    "life-hacks",
+    "personal",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

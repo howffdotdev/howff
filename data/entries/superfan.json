@@ -1,0 +1,26 @@
+{
+  "slug": "superfan",
+  "name": "Superfan",
+  "category": "personal",
+  "tagline": "A daily check-in for your teams: next fixture, last result, season ledger",
+  "description": "Name the teams you follow and the time of day you want to hear about them. It shows up at that time with the next fixture on the calendar, the most recent score, and where each club sits in the season ledger. Optional extras can be layered on if the basics are not enough for you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/l5MDTh-AZS2Frx4b2TYy_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/l5MDTh-AZS2Frx4b2TYy_",
+  "homepage": "https://x.ai/bot/l5MDTh-AZS2Frx4b2TYy_",
+  "license": null,
+  "author": "SamuelD2022",
+  "tags": [
+    "personal",
+    "news",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

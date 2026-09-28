@@ -1,0 +1,28 @@
+{
+  "slug": "teddy",
+  "name": "Teddy",
+  "category": "personal",
+  "tagline": "An inbox-and-calendar chief of staff that drafts everything before it acts",
+  "description": "Teddy sits above the daily mess, triaging the inbox, keeping the calendar honest, tracking tasks and herding your other bots so they stop stepping on each other. Every action it prepares lands as a draft first, so nothing is filed, sent or scheduled until you have seen it. A coordinating desk, not another specialist.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1CN_MjQ2E4oT3hnJXscGB",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1CN_MjQ2E4oT3hnJXscGB",
+  "homepage": "https://x.ai/bot/1CN_MjQ2E4oT3hnJXscGB",
+  "license": null,
+  "author": "JackLocke",
+  "tags": [
+    "personal",
+    "productivity",
+    "email",
+    "calendar",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

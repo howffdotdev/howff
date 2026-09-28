@@ -1,0 +1,27 @@
+{
+  "slug": "team-builder",
+  "name": "Team Builder",
+  "category": "ops",
+  "tagline": "Interviews you, then hires a whole company of bots to run the floor",
+  "description": "It starts with an interview about what you are building, then staffs the organization to match: research, build, marketing and improvement roles, plus helpers, all under a chief of staff who coordinates the floor. You describe the company once and the roster gets hired around that answer.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Lrx_GIK9mbXKotjqjwDeA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Lrx_GIK9mbXKotjqjwDeA",
+  "homepage": "https://x.ai/bot/Lrx_GIK9mbXKotjqjwDeA",
+  "license": null,
+  "author": "stevederico",
+  "tags": [
+    "business",
+    "agent-team",
+    "meta-bot",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

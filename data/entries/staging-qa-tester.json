@@ -1,0 +1,27 @@
+{
+  "slug": "staging-qa-tester",
+  "name": "Staging QA Tester",
+  "category": "development",
+  "tagline": "Clicks through your staging build like a real user and grades every feature",
+  "description": "Before a release it walks your staging site as a real visitor would, one role at a time, grading each feature Pass, Partial, Fail, Blocked or Untested. You get a written report, it restores what it touched, and it never deletes accounts or exposes credentials. The sharer credits it with catching a live privilege bug.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/PJogrsWFV5ePKHLKwMMlQ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/PJogrsWFV5ePKHLKwMMlQ",
+  "homepage": "https://x.ai/bot/PJogrsWFV5ePKHLKwMMlQ",
+  "license": null,
+  "author": "njivy",
+  "tags": [
+    "developer",
+    "monitoring",
+    "engineering",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

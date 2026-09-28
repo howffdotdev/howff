@@ -1,0 +1,27 @@
+{
+  "slug": "starship-tracker",
+  "name": "Starship Tracker",
+  "category": "personal",
+  "tagline": "A fan-run Starship launch desk that stays quiet until the status truly moves",
+  "description": "It watches public information about the next Starship flight and stays quiet while nothing moves, so an alert means something changed. A live countdown board separates official confirmations from fan guesses and streaming chatter. Public sources only, with rumor labeled as rumor.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/LH13m3OO5TPi1w8E65sYB",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/LH13m3OO5TPi1w8E65sYB",
+  "homepage": "https://x.ai/bot/LH13m3OO5TPi1w8E65sYB",
+  "license": null,
+  "author": "chad7757",
+  "tags": [
+    "personal",
+    "monitoring",
+    "news",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

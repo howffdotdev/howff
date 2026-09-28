@@ -1,0 +1,27 @@
+{
+  "slug": "thaw",
+  "name": "Thaw",
+  "category": "ops",
+  "tagline": "Scores invented water pipes for one-year failure risk, explained in plain words",
+  "description": "Sketch a water pipe or hand over a CSV, and a random-forest model trained purely on synthetic data rates the odds of a failure within the year, then explains the score in plain English. Every pipe is invented, so this demonstrates AI-assisted asset planning rather than watching real infrastructure.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/CvO94wB4V27zmL1haDbQL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/CvO94wB4V27zmL1haDbQL",
+  "homepage": "https://x.ai/bot/CvO94wB4V27zmL1haDbQL",
+  "license": null,
+  "author": "thebytorsnowdog",
+  "tags": [
+    "ops",
+    "research",
+    "data",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

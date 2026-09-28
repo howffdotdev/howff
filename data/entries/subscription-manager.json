@@ -1,0 +1,28 @@
+{
+  "slug": "subscription-manager",
+  "name": "Subscription Manager",
+  "category": "finance",
+  "tagline": "A running ledger of every renewal, with a nudge two days before each",
+  "description": "Keeps a ledger of everything you pay for and pings you two days ahead of each renewal, so nothing renews by surprise. It makes up no entries on its own, as a charge only exists in the ledger because you logged it, and canceling anything at the vendor happens only when you say go.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/NsCDfZMFctaP1WIp_48k4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/NsCDfZMFctaP1WIp_48k4",
+  "homepage": "https://x.ai/bot/NsCDfZMFctaP1WIp_48k4",
+  "license": null,
+  "author": "c0rtex1100X",
+  "tags": [
+    "finance",
+    "saving-money",
+    "personal",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
