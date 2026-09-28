@@ -1,0 +1,27 @@
+{
+  "slug": "researcher-ai-desk",
+  "name": "Researcher AI Desk",
+  "category": "personal",
+  "tagline": "Runs research like a small newsroom, with a board, a morning pass and two desks",
+  "description": "Sets up a research operation with a running to-do board, a morning sweep of what is new, and separate seats for literature and drafting so the two do not blur. It plugs into grok.com Projects, with calendar, scheduling and mail hooks available if wanted. Suits anyone who needs a research habit, not a one-off answer.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/89JF_2TtrVf27zelZ8pZ8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/89JF_2TtrVf27zelZ8pZ8",
+  "homepage": "https://x.ai/bot/89JF_2TtrVf27zelZ8pZ8",
+  "license": null,
+  "author": "original_Tree",
+  "tags": [
+    "student",
+    "research",
+    "productivity",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

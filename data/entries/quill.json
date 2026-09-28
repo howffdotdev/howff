@@ -1,0 +1,27 @@
+{
+  "slug": "quill",
+  "name": "Quill",
+  "category": "writing",
+  "tagline": "A revision pass for your notes: voice punch-up, continuity check or depth read",
+  "description": "A craft pass for writing in an Obsidian vault. Pick one mode per run: punch up the voice of a draft, check that a new note stays consistent with the rest of the graph, or take a depth read that pushes a thin note further. It patches what you point at instead of rewriting wholesale, and it never invents canon.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/tHo33t3IaAhpxds5IpNbD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/tHo33t3IaAhpxds5IpNbD",
+  "homepage": "https://x.ai/bot/tHo33t3IaAhpxds5IpNbD",
+  "license": null,
+  "author": "the_simonjester",
+  "tags": [
+    "content",
+    "knowledge-base",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

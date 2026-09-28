@@ -1,0 +1,27 @@
+{
+  "slug": "res",
+  "name": "Res",
+  "category": "personal",
+  "tagline": "Watches four booking sites for your sold-out table and grabs it on your say-so",
+  "description": "Name the restaurant and sitting you want and it keeps an eye on four booking desks at once: Resy, OpenTable, SevenRooms and Tock. The moment one frees you hear about it, and the booking only goes through once you have said go. Built for sittings that normally vanish minutes after release.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/v5OIJ6Q7oIdUwTrRh-kfL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/v5OIJ6Q7oIdUwTrRh-kfL",
+  "homepage": "https://x.ai/bot/v5OIJ6Q7oIdUwTrRh-kfL",
+  "license": null,
+  "author": "ashen_one",
+  "tags": [
+    "personal",
+    "life-hacks",
+    "food",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

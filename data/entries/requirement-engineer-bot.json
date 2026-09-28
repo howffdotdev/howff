@@ -1,0 +1,27 @@
+{
+  "slug": "requirement-engineer-bot",
+  "name": "Requirement Engineer Bot",
+  "category": "development",
+  "tagline": "Turns a raw brief into a structured, traceable spec a bot can build against",
+  "description": "Hand it a brief and it returns a proper requirements specification: top-level needs broken down into implementation-level detail, each item traceable to the objective it serves. The structure lets a downstream bot or developer build from it and verify delivery against what was asked. It writes specs, not code.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5KADFS8AIIDOlow5tS34Z",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5KADFS8AIIDOlow5tS34Z",
+  "homepage": "https://x.ai/bot/5KADFS8AIIDOlow5tS34Z",
+  "license": null,
+  "author": "FishxCD",
+  "tags": [
+    "developer",
+    "engineering",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

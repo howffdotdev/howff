@@ -1,0 +1,27 @@
+{
+  "slug": "reply-desk",
+  "name": "Reply Desk",
+  "category": "ops",
+  "tagline": "Drafts customer replies for local service businesses without inventing a fact",
+  "description": "Paste a customer email, text or public review and it drafts a reply a local service business can send as-is. It is barred from inventing prices, dates or promises, so a draft reflects only what you have told it. You review and send everything; nothing goes out on its own.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8lLjBC7bXUqbfh-vLG9jf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8lLjBC7bXUqbfh-vLG9jf",
+  "homepage": "https://x.ai/bot/8lLjBC7bXUqbfh-vLG9jf",
+  "license": null,
+  "author": "lonzom10",
+  "tags": [
+    "business",
+    "support",
+    "email",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "quote-chase-desk",
+  "name": "Quote Chase Desk",
+  "category": "ops",
+  "tagline": "Chases a trades shop's open quotes with approval-gated follow-up drafts",
+  "description": "Made for trades businesses, it holds a live list of estimates still awaiting an answer and writes follow-up nudges on a patient, spaced rhythm, with every message waiting for your sign-off before anything leaves. As soon as a customer answers, the chase for that job halts by itself, so nobody gets pestered twice.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/tWEuvegaSpz8PwlwhFVHg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/tWEuvegaSpz8PwlwhFVHg",
+  "homepage": "https://x.ai/bot/tWEuvegaSpz8PwlwhFVHg",
+  "license": null,
+  "author": "AraXsuper",
+  "tags": [
+    "business",
+    "sales",
+    "back-office",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

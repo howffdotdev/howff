@@ -1,0 +1,29 @@
+{
+  "slug": "quartermaster",
+  "name": "Quartermaster",
+  "category": "personal",
+  "tagline": "A zero-sum household budget kept in Google Sheets, with a daily money report to read",
+  "description": "It keeps a zero-sum budget, where every dollar of income is assigned a job, in a Google Sheet you own. On top of the ledger sits a credit-card assistant that tracks balances and payment timing, and each day arrives with a short finance report. An HTML dashboard makes the month readable at a glance.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/JOeuvpFg4v2VAuYX8H0UM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/JOeuvpFg4v2VAuYX8H0UM",
+  "homepage": "https://x.ai/bot/JOeuvpFg4v2VAuYX8H0UM",
+  "license": null,
+  "author": "yoshih543",
+  "tags": [
+    "personal",
+    "finance",
+    "productivity",
+    "analytics",
+    "scheduled",
+    "data"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

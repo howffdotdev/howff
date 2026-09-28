@@ -1,0 +1,27 @@
+{
+  "slug": "repo-monkey",
+  "name": "Repo Monkey",
+  "category": "development",
+  "tagline": "Boils your GitHub noise down to what actually needs a human, one step each",
+  "description": "It sweeps your GitHub notifications, open PRs and CI runs, then returns a short list of items that genuinely need a person, each with one concrete next step. Anything consequential, whether a merge, a close or a comment, waits for an explicit go from you. Fewer tabs, fewer missed reviews.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/evdmG7ilYN01Nu4NBXPyQ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/evdmG7ilYN01Nu4NBXPyQ",
+  "homepage": "https://x.ai/bot/evdmG7ilYN01Nu4NBXPyQ",
+  "license": null,
+  "author": "Keranik",
+  "tags": [
+    "developer",
+    "monitoring",
+    "engineering",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
