@@ -1,0 +1,27 @@
+{
+  "slug": "fantasy-football-gm",
+  "name": "Fantasy Football GM",
+  "category": "personal",
+  "tagline": "A four-desk front office for start/sit, waivers and trades",
+  "description": "Runs your fantasy league like a head office with four desks: waiver wire, player usage, trade market and injury watch. Every recommendation is weighted for how your league scores, and it will not submit a move - start, bid or trade - until you give the go-ahead.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/HvJZI9Kj-DIyFEk309CdD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/HvJZI9Kj-DIyFEk309CdD",
+  "homepage": "https://x.ai/bot/HvJZI9Kj-DIyFEk309CdD",
+  "license": null,
+  "author": "mattkim1",
+  "tags": [
+    "personal",
+    "decision-support",
+    "analytics",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

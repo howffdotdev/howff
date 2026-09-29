@@ -1,0 +1,27 @@
+{
+  "slug": "events",
+  "name": "Events",
+  "category": "ops",
+  "tagline": "Pack lists before the market, sales logged once it is over",
+  "description": "For small sellers working markets and pop-ups, this desk covers both ends of the day: a merchandise pack list built before each event so nothing gets left behind, then a record of what actually sold afterward. That second half is what lets in-person sales reach the same books as your online channels.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VnfgvYJ-G58ZjwfvijWOy",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VnfgvYJ-G58ZjwfvijWOy",
+  "homepage": "https://x.ai/bot/VnfgvYJ-G58ZjwfvijWOy",
+  "license": null,
+  "author": "RichGarrick",
+  "tags": [
+    "business",
+    "events",
+    "back-office",
+    "ops"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

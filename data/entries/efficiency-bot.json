@@ -1,0 +1,27 @@
+{
+  "slug": "efficiency-bot",
+  "name": "Efficiency Bot",
+  "category": "development",
+  "tagline": "Finds the wasted tokens in your other bots, then trims them out",
+  "description": "An efficiency auditor for your own bot collection. It rereads recent conversations to find where tokens burn on repetitive or bloated patterns, trims those patterns out of the bot's instructions and builds leaner workflows, so the same job costs less on the next run.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VxIyueNAPSZ9AlmfMwanO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VxIyueNAPSZ9AlmfMwanO",
+  "homepage": "https://x.ai/bot/VxIyueNAPSZ9AlmfMwanO",
+  "license": null,
+  "author": "Kenook_",
+  "tags": [
+    "meta-bot",
+    "automation",
+    "developer",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

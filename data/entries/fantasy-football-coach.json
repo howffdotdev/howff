@@ -1,0 +1,27 @@
+{
+  "slug": "fantasy-football-coach",
+  "name": "Fantasy Football Coach",
+  "category": "personal",
+  "tagline": "Start/sit calls, game-day inactives and waiver work, by league rules",
+  "description": "Covers season-long leagues and daily fantasy contests in one aide. It issues start and sit calls, rechecks inactives once game day arrives, and works the waiver wire strictly by your league's own rules. The research is the product , every roster move stays yours to make.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/EJYTBBKPwAOdZPrKZCp8v",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/EJYTBBKPwAOdZPrKZCp8v",
+  "homepage": "https://x.ai/bot/EJYTBBKPwAOdZPrKZCp8v",
+  "license": null,
+  "author": "FirstDeployAI",
+  "tags": [
+    "personal",
+    "decision-support",
+    "analytics",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
