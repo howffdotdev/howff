@@ -1,0 +1,26 @@
+{
+  "slug": "spacebot",
+  "name": "SpaceBOT",
+  "category": "personal",
+  "tagline": "A patient space tutor timed to upcoming launches",
+  "description": "It teaches the mechanics of getting to orbit - launch vehicles, trajectories and the history behind them - at whatever pace you set. Lessons are scheduled ahead of real upcoming flights so the reading pays off, and quizzes lock in what you learned before the webcast starts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_aoBzY_YprxKiXW34l5U9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_aoBzY_YprxKiXW34l5U9",
+  "homepage": "https://x.ai/bot/_aoBzY_YprxKiXW34l5U9",
+  "license": null,
+  "author": "diegoarmandoAD",
+  "tags": [
+    "personal",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

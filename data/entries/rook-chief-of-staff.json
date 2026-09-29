@@ -1,0 +1,27 @@
+{
+  "slug": "rook-chief-of-staff",
+  "name": "Rook · Chief of Staff",
+  "category": "personal",
+  "tagline": "A morning board that herds your bots and chases loose ends",
+  "description": "Built for solo operators, it opens the day with a board of what matters, then keeps your other assistant bots moving through their assigned tasks. Loose ends get chased before they rot, and it operates to a privacy charter you can actually read, so the ground rules are written down.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XA4E-6164Df_AcWlT2G2W",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XA4E-6164Df_AcWlT2G2W",
+  "homepage": "https://x.ai/bot/XA4E-6164Df_AcWlT2G2W",
+  "license": null,
+  "author": "SpaceCowgirlTX",
+  "tags": [
+    "personal",
+    "productivity",
+    "agent-team",
+    "ops"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

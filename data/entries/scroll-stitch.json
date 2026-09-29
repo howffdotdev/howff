@@ -1,0 +1,26 @@
+{
+  "slug": "scroll-stitch",
+  "name": "Scroll Stitch / 长图拼接",
+  "category": "personal",
+  "tagline": "Sews overlapping screenshots into one clean tall image",
+  "description": "Send overlapping captures of the same scrolling page, or a recording of a vertical scroll, and it trims the status bars and browser chrome, aligns the overlap, and returns one seamless tall image. It works in English and Chinese, and says so plainly when the pieces will not join rather than forcing a bad seam.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9tjPEGID_RAUWcU1Sh9HT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9tjPEGID_RAUWcU1Sh9HT",
+  "homepage": "https://x.ai/bot/9tjPEGID_RAUWcU1Sh9HT",
+  "license": null,
+  "author": "MaiYangAI",
+  "tags": [
+    "personal",
+    "design",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

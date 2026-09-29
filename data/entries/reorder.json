@@ -1,0 +1,27 @@
+{
+  "slug": "reorder",
+  "name": "Reorder",
+  "category": "ops",
+  "tagline": "Watches stock against your reorder points and drafts supplier orders",
+  "description": "A purchasing desk for a small operation. It watches finished goods and materials against the thresholds you set, projects the date each line runs out, and drafts the supplier orders before a shelf goes empty. The drafts stay drafts , a human reviews and places every order.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/BDvP1yXPqp5DtJlk94Kmj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/BDvP1yXPqp5DtJlk94Kmj",
+  "homepage": "https://x.ai/bot/BDvP1yXPqp5DtJlk94Kmj",
+  "license": null,
+  "author": "RichGarrick",
+  "tags": [
+    "business",
+    "back-office",
+    "ops",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

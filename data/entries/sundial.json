@@ -1,0 +1,27 @@
+{
+  "slug": "sundial",
+  "name": "Sundial",
+  "category": "personal",
+  "tagline": "A calendar guard that spots collisions and protects focus time",
+  "description": "It watches your connected calendar for commitments that collide and days that have quietly filled up, flagging both before they bite. Deadlines and deep-work blocks are treated as fixed points, and no invite goes out to anyone until you say so.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yF9Z-RMzHW1SpLC94-BmM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/yF9Z-RMzHW1SpLC94-BmM",
+  "homepage": "https://x.ai/bot/yF9Z-RMzHW1SpLC94-BmM",
+  "license": null,
+  "author": "WaterMixing",
+  "tags": [
+    "personal",
+    "calendar",
+    "productivity",
+    "meetings"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
