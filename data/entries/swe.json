@@ -1,0 +1,27 @@
+{
+  "slug": "swe",
+  "name": "SWE",
+  "category": "development",
+  "tagline": "Cursor's software engineer bot: writes code, triages issues, monitors production",
+  "description": "Cursor's software engineer bot. It writes code, triages issues, monitors production and helps move engineering work forward from the same shareable Grok Bot setup.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sd4474cf03cd8552905ff",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sd4474cf03cd8552905ff",
+  "homepage": "https://x.ai/bot/sd4474cf03cd8552905ff",
+  "license": null,
+  "author": "Cursor",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

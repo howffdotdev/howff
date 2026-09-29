@@ -1,0 +1,28 @@
+{
+  "slug": "sunlight",
+  "name": "Sunlight",
+  "category": "research",
+  "tagline": "Follows the money behind a media narrative, briefed in two cards",
+  "description": "A claim examiner for media narratives. Pick a story and it traces the funding and interests sitting behind it, then packages the findings into short glance briefs sized for a skim. It will also draft a two-card X post for your review , drafts only, so the framing that goes out is the one you approved.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/zfDZyngnaxStUF6RtoD-7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/zfDZyngnaxStUF6RtoD-7",
+  "homepage": "https://x.ai/bot/zfDZyngnaxStUF6RtoD-7",
+  "license": null,
+  "author": "acornsoftai",
+  "tags": [
+    "research",
+    "news",
+    "social-media",
+    "creator",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

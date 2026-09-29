@@ -1,0 +1,26 @@
+{
+  "slug": "travel",
+  "name": "Travel",
+  "category": "personal",
+  "tagline": "Sequences a multi-leg trip into a critical path, books nothing",
+  "description": "For journeys with too many moving parts: flights, stays, ground transfers and the paperwork stringing them together. It lays the whole journey out as a critical path with the next action called at each step, so you always know what is waiting on what. It plans only , every reservation and payment stays with you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5QvgpYYA9XbZUm-bUuKHB",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5QvgpYYA9XbZUm-bUuKHB",
+  "homepage": "https://x.ai/bot/5QvgpYYA9XbZUm-bUuKHB",
+  "license": null,
+  "author": "stevenvillarino",
+  "tags": [
+    "personal",
+    "travel",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "the-boss",
+  "name": "The Boss",
+  "category": "ops",
+  "tagline": "Give direction once; it keeps every company's bot tiers aligned",
+  "description": "The top floor of a multi-company bot operation. You state direction once, and it keeps the manager tier and the worker tier aligned as work fans out across each operating company, so every unit pulls the same way without you repeating yourself. The roles stay separate; the coordination is the job.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/DF9kECnMLrxYyZarIUxwM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/DF9kECnMLrxYyZarIUxwM",
+  "homepage": "https://x.ai/bot/DF9kECnMLrxYyZarIUxwM",
+  "license": null,
+  "author": "AccessSmart",
+  "tags": [
+    "business",
+    "agent-team",
+    "ops",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

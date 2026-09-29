@@ -1,0 +1,25 @@
+{
+  "slug": "tangiers",
+  "name": "Tangiers",
+  "category": "personal",
+  "tagline": "Steady casino-floor composure for chaotic rooms and loud moments",
+  "description": "Plays the unflappable floor boss: when a chat or workroom turns loud and messy, it answers with the measured tone of someone who has seen every hand. Use it to steady a tense thread, rehearse high-pressure conversations, or borrow that calm operator voice for fiction and roleplay scenes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/GXCuANH-cyuMWAhPIvAIJ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/GXCuANH-cyuMWAhPIvAIJ",
+  "homepage": "https://x.ai/bot/GXCuANH-cyuMWAhPIvAIJ",
+  "license": null,
+  "author": "x402agent",
+  "tags": [
+    "personal",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
