@@ -1,0 +1,28 @@
+{
+  "slug": "crypto-budget-tax-keeper",
+  "name": "Crypto Budget & Tax Keeper",
+  "category": "finance",
+  "tagline": "A read-only budget and net-worth picture for crypto holders",
+  "description": "A bookkeeper that only ever reads. It draws on bank and exchange data to assemble a plain-language budget and a net-worth picture, and keeps the crypto records organized enough to hand straight to a tax professional. No wallet connections, no orders, no moving funds , the read-only posture is the design.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/h-l5EmqmnU91tgYOPaJE5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/h-l5EmqmnU91tgYOPaJE5",
+  "homepage": "https://x.ai/bot/h-l5EmqmnU91tgYOPaJE5",
+  "license": null,
+  "author": "allthemoney",
+  "tags": [
+    "crypto",
+    "finance",
+    "personal",
+    "back-office",
+    "monitoring"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

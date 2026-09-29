@@ -1,0 +1,27 @@
+{
+  "slug": "deploy-desk",
+  "name": "Deploy Desk",
+  "category": "development",
+  "tagline": "Keeps a small product shipped, posted and journaled - you approve",
+  "description": "A launch desk for tiny software products: it watches the deployed site, queues social posts with generated visuals so the product's account never goes quiet, and drafts outreach for you to send. Every deploy gets journaled next to its rollback path, and nothing ships without your sign-off.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7n0xNJQkJya50-WawGibg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7n0xNJQkJya50-WawGibg",
+  "homepage": "https://x.ai/bot/7n0xNJQkJya50-WawGibg",
+  "license": null,
+  "author": "DJDEEZ",
+  "tags": [
+    "developer",
+    "automation",
+    "social-media",
+    "ops"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

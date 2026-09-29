@@ -1,0 +1,28 @@
+{
+  "slug": "desk-dana",
+  "name": "Desk Dana",
+  "category": "personal",
+  "tagline": "Turns how you work into a concrete desk-setup shopping list",
+  "description": "A shopping advisor for the desk you actually sit at. Describe how you work and list the gear you already own, and it returns a concrete shopping list , surfaces, seating, screens, peripherals, lighting , grounded in your space and habits instead of a generic ultimate-setup guide.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/xcO3RvVUw8qlXpveiuUj7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/xcO3RvVUw8qlXpveiuUj7",
+  "homepage": "https://x.ai/bot/xcO3RvVUw8qlXpveiuUj7",
+  "license": null,
+  "author": "FrankFindsOut",
+  "tags": [
+    "personal",
+    "shopping",
+    "home",
+    "design",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

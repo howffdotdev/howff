@@ -1,0 +1,28 @@
+{
+  "slug": "crypto-creator-video-desk",
+  "name": "Crypto Creator Video Desk",
+  "category": "marketing",
+  "tagline": "Episode in, chapters and Shorts out, with voiced intro and outro",
+  "description": "A post-production desk for running a video show. Paste an episode and it returns chapter timestamps ready for the description, records synthesized voiceovers for the intro and outro, and cuts captioned short clips sized for the Shorts shelf. The editing chores get automated so recording day stays yours.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/dS3EJo8pppavYU3vmafz4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/dS3EJo8pppavYU3vmafz4",
+  "homepage": "https://x.ai/bot/dS3EJo8pppavYU3vmafz4",
+  "license": null,
+  "author": "allthemoney",
+  "tags": [
+    "creator",
+    "video",
+    "youtube",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

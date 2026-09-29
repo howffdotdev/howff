@@ -1,0 +1,27 @@
+{
+  "slug": "doggo",
+  "name": "Doggo 🐾",
+  "category": "personal",
+  "tagline": "One breed-aware dog training idea in your inbox each morning",
+  "description": "Tell it about your particular dog - breed, age, quirks - and every morning it sends a single training, enrichment or calming exercise matched to that animal. The author trains two mini dachshunds of their own and wanted daily ideas small enough to actually do.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/l4iZvl8RcIB_NCpkXnCMF",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/l4iZvl8RcIB_NCpkXnCMF",
+  "homepage": "https://x.ai/bot/l4iZvl8RcIB_NCpkXnCMF",
+  "license": null,
+  "author": "dannybuck",
+  "tags": [
+    "personal",
+    "wellbeing",
+    "learning",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
