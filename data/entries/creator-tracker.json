@@ -1,0 +1,28 @@
+{
+  "slug": "creator-tracker",
+  "name": "Creator Tracker",
+  "category": "marketing",
+  "tagline": "Pings you when chosen X accounts post, with link and digest",
+  "description": "Pick the accounts worth watching and it pings you the moment they post, with the link and a one-sentence digest of what changed. Alerts can be narrowed to a single topic you name, and a daily leaderboard shows which of your picks actually produced.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VybQINyBDKmSOgy-wua_A",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VybQINyBDKmSOgy-wua_A",
+  "homepage": "https://x.ai/bot/VybQINyBDKmSOgy-wua_A",
+  "license": null,
+  "author": "16luca",
+  "tags": [
+    "social-media",
+    "monitoring",
+    "creator",
+    "personal",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

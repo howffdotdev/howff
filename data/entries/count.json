@@ -1,0 +1,27 @@
+{
+  "slug": "count",
+  "name": "Count",
+  "category": "ops",
+  "tagline": "Pre-filled stocktake sheets, and no number lands until you sign off",
+  "description": "A counting desk for small businesses doing physical inventory. It lays out tally sheets pre-filled with what is supposed to be on the shelf, then waits for a sign-off before any figure reaches the master stock file. The guard is the point: a mis-typed count can never quietly rewrite your records.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0bhvgIzOyOCg5L-hv40DL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/0bhvgIzOyOCg5L-hv40DL",
+  "homepage": "https://x.ai/bot/0bhvgIzOyOCg5L-hv40DL",
+  "license": null,
+  "author": "RichGarrick",
+  "tags": [
+    "business",
+    "back-office",
+    "ops",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

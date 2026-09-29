@@ -1,0 +1,27 @@
+{
+  "slug": "crosscheck",
+  "name": "Crosscheck",
+  "category": "ops",
+  "tagline": "Audits your marketing claims through two independent reviewers",
+  "description": "Before a page or pitch goes out, every load-bearing claim is walked past two separate reviewers: one argues the reasoning, the other chases live sources. Each claim returns graded as backed, shaky, contradicted or unverifiable, with suggested repairs for the ones that fail.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/U4E-bNBzYlVcl_hMYf-kZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/U4E-bNBzYlVcl_hMYf-kZ",
+  "homepage": "https://x.ai/bot/U4E-bNBzYlVcl_hMYf-kZ",
+  "license": null,
+  "author": "the_Arow_H",
+  "tags": [
+    "business",
+    "marketer",
+    "research",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

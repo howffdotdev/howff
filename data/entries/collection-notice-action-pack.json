@@ -1,0 +1,27 @@
+{
+  "slug": "collection-notice-action-pack",
+  "name": "Collection Notice Action Pack",
+  "category": "personal",
+  "tagline": "Turns a scary collection letter into a deadline, a script and drafts",
+  "description": "Paste in a collection notice and it converts the document into a work plan: the real reply deadline, a script that avoids admitting anything, draft dispute letters, and a checklist of the evidence worth gathering. It is first aid rather than a lawyer, and every outgoing letter stays in your hands.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bPxpPAdxa5nqiTaUVK5wO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/bPxpPAdxa5nqiTaUVK5wO",
+  "homepage": "https://x.ai/bot/bPxpPAdxa5nqiTaUVK5wO",
+  "license": null,
+  "author": "AlexFCHF",
+  "tags": [
+    "personal",
+    "finance",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
