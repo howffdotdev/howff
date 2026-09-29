@@ -1,0 +1,27 @@
+{
+  "slug": "protective-detail",
+  "name": "Protective Detail",
+  "category": "personal",
+  "tagline": "An advance team for your own schedule: packet, climate, route, ready",
+  "description": "Runs advance work on your own calendar. Ahead of each outing it assembles a packet for the destination, and by your leave-by time it has already set the temperature and loaded navigation. Location is handled with care: place names only, carried over a private network instead of a public tracker.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/37Km_vSkZWbQLJacdb_xq",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/37Km_vSkZWbQLJacdb_xq",
+  "homepage": "https://x.ai/bot/37Km_vSkZWbQLJacdb_xq",
+  "license": null,
+  "author": "autosourcer0",
+  "tags": [
+    "personal",
+    "automation",
+    "travel",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

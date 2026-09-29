@@ -1,0 +1,28 @@
+{
+  "slug": "pelosi",
+  "name": "Pelosi",
+  "category": "finance",
+  "tagline": "Weekday alerts when members of Congress disclose new stock trades",
+  "description": "A watchtower over the stock dealings that sitting lawmakers have to disclose publicly, with Nancy Pelosi's filings first in line. Each weekday morning it reports any new filing that has landed, so the moves are visible as they become public record rather than weeks later. Public filings, read and summarized.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sZvrsCSynGeSuBVA7lA2x",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sZvrsCSynGeSuBVA7lA2x",
+  "homepage": "https://x.ai/bot/sZvrsCSynGeSuBVA7lA2x",
+  "license": null,
+  "author": "amartins02",
+  "tags": [
+    "investor",
+    "finance",
+    "monitoring",
+    "news",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

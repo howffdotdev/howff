@@ -1,0 +1,27 @@
+{
+  "slug": "paycheck-reality-check",
+  "name": "Paycheck Reality Check",
+  "category": "personal",
+  "tagline": "Reads a pay stub line by line and drafts the letter if it falls short",
+  "description": "Paste in a pay stub and it works through it line by line, building a worksheet that shows what each deduction and rate should be without inventing numbers it cannot back. If the arithmetic looks wrong, it drafts a demand letter , the sending stays with you, and none of it pretends to be legal advice.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wuUzQmWkCqaQeDQm_he85",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wuUzQmWkCqaQeDQm_he85",
+  "homepage": "https://x.ai/bot/wuUzQmWkCqaQeDQm_he85",
+  "license": null,
+  "author": "AlexFCHF",
+  "tags": [
+    "personal",
+    "finance",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

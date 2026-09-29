@@ -1,0 +1,27 @@
+{
+  "slug": "reconcile",
+  "name": "Reconcile",
+  "category": "ops",
+  "tagline": "Shows exactly where your stock records and sales channels disagree",
+  "description": "An inventory truth desk for shops selling in more than one place. It lays your master stock file next to each sales channel you sell on, tables the rows that have drifted apart, and proposes a correction for every mismatch. Nothing applies itself , you approve the fixes before anything lands.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Tbq0su-ypEEzdjTXjIZLo",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Tbq0su-ypEEzdjTXjIZLo",
+  "homepage": "https://x.ai/bot/Tbq0su-ypEEzdjTXjIZLo",
+  "license": null,
+  "author": "RichGarrick",
+  "tags": [
+    "business",
+    "back-office",
+    "ops",
+    "analytics"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

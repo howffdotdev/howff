@@ -1,0 +1,26 @@
+{
+  "slug": "opportunities-research",
+  "name": "Opportunities Research",
+  "category": "ops",
+  "tagline": "Hunts unsolved problems and undersized markets, then prunes hard",
+  "description": "A venture scout that looks for real gaps: unsolved problems in ordinary work patterns and undersized markets visible in public startup output. It prunes its own list aggressively, and it will not invent a remedy it cannot support or inflate a market to make one look bigger.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/w2Bi7X2d96hPeIYqlhzJJ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/w2Bi7X2d96hPeIYqlhzJJ",
+  "homepage": "https://x.ai/bot/w2Bi7X2d96hPeIYqlhzJJ",
+  "license": null,
+  "author": "theoscarvibes",
+  "tags": [
+    "business",
+    "research",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
