@@ -1,0 +1,28 @@
+{
+  "slug": "loyalty",
+  "name": "Loyalty",
+  "category": "personal",
+  "tagline": "Finds travel points and miles that never posted, then claims them",
+  "description": "It reads flight and hotel confirmation email, notices when the promised points or nights never landed in your loyalty account, and then works through the airline or hotel's own claim flow to request the missing credit. You keep the trips; it chases the balance.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/6FxcOf5cgteUpdtd3g700",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/6FxcOf5cgteUpdtd3g700",
+  "homepage": "https://x.ai/bot/6FxcOf5cgteUpdtd3g700",
+  "license": null,
+  "author": "carlosnoriega",
+  "tags": [
+    "personal",
+    "travel",
+    "saving-money",
+    "monitoring",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

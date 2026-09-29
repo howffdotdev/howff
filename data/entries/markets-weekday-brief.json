@@ -1,0 +1,27 @@
+{
+  "slug": "markets-weekday-brief",
+  "name": "Markets Weekday Brief",
+  "category": "finance",
+  "tagline": "Weekday odds card for watchers of prediction markets",
+  "description": "Each weekday it sets out where the odds currently sit on the prediction markets you follow, using public data from Polymarket and Kalshi, and flags a few YES angles that look worth weighing. Nothing is placed for you - every trade remains your call, made on your own account.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s495_rZYq6LpYVTuurgkr",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s495_rZYq6LpYVTuurgkr",
+  "homepage": "https://x.ai/bot/s495_rZYq6LpYVTuurgkr",
+  "license": null,
+  "author": "SpacedBraden",
+  "tags": [
+    "investor",
+    "research",
+    "analytics",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

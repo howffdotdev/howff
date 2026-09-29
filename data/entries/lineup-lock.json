@@ -1,0 +1,27 @@
+{
+  "slug": "lineup-lock",
+  "name": "Lineup Lock",
+  "category": "personal",
+  "tagline": "Names your fantasy lineup this week, with honest confidence levels",
+  "description": "A week-of coach for fantasy football that commits to an answer. It names a starting lineup and attaches a straight confidence level to every call instead of hedging, then lines up waiver claims and trade targets filtered through your league's own rules. Advice only , your roster, your clicks.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/nEM_sUscFyr3VFeYmFhZA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/nEM_sUscFyr3VFeYmFhZA",
+  "homepage": "https://x.ai/bot/nEM_sUscFyr3VFeYmFhZA",
+  "license": null,
+  "author": "PatchesHQ",
+  "tags": [
+    "personal",
+    "decision-support",
+    "analytics",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

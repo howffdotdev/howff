@@ -1,0 +1,26 @@
+{
+  "slug": "lottery-ticket-checker",
+  "name": "彩票兑奖助手",
+  "category": "personal",
+  "tagline": "Check a lottery ticket against the official draw , results, no tips",
+  "description": "Send a photo of your ticket or type the numbers in, and it checks them against the results of the official draw before telling you straight whether any prize landed. It refuses both halves of the usual upsell: no number tips and no buying on your behalf. A read-only checker for an app corner full of scams.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/NwH2B_cWmac3RDj8uFGjX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/NwH2B_cWmac3RDj8uFGjX",
+  "homepage": "https://x.ai/bot/NwH2B_cWmac3RDj8uFGjX",
+  "license": null,
+  "author": "MaiYangAI",
+  "tags": [
+    "personal",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
