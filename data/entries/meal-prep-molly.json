@@ -1,0 +1,27 @@
+{
+  "slug": "meal-prep-molly",
+  "name": "Meal Prep Molly",
+  "category": "personal",
+  "tagline": "Your weekly grocery restock, collapsed into one message",
+  "description": "Holds the standing list of household staples and turns each week's restock into a single order placed through a grocery delivery service. Ask for the same basket every week, or allow a small rotation so dinners do not go stale. The chore shrinks to reading one message and nodding.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9CAijdJobViu5luVV9mRX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9CAijdJobViu5luVV9mRX",
+  "homepage": "https://x.ai/bot/9CAijdJobViu5luVV9mRX",
+  "license": null,
+  "author": "FrankFindsOut",
+  "tags": [
+    "personal",
+    "food",
+    "shopping",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

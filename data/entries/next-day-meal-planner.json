@@ -1,0 +1,27 @@
+{
+  "slug": "next-day-meal-planner",
+  "name": "次の日の献立 自動化",
+  "category": "personal",
+  "tagline": "Today's meal photos in, tomorrow's balanced recipes back , linked",
+  "description": "A Japanese-language meal planner working on a daily cycle. Photograph today's meals and send them over; it estimates the day's calories, notes which nutrients fell short, then answers with breakfast, lunch and dinner ideas for tomorrow pulled from real recipe posts on X, screenshots included.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XPiIoybgpw_Oo2QmOQ9AR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XPiIoybgpw_Oo2QmOQ9AR",
+  "homepage": "https://x.ai/bot/XPiIoybgpw_Oo2QmOQ9AR",
+  "license": null,
+  "author": "fukubae_kenko_",
+  "tags": [
+    "personal",
+    "food",
+    "health",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

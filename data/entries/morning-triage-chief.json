@@ -1,0 +1,27 @@
+{
+  "slug": "morning-triage-chief",
+  "name": "Morning Triage Chief",
+  "category": "personal",
+  "tagline": "Turns a messy to-do dump into four buckets and three first moves",
+  "description": "Paste the tangle of tasks you woke up with and it comes back sorted into four labeled groups with a count for each. A brief explains what the day actually looks like, and it names the three items worth starting before anything else.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7-EeGYxDyedmNYELbedW1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7-EeGYxDyedmNYELbedW1",
+  "homepage": "https://x.ai/bot/7-EeGYxDyedmNYELbedW1",
+  "license": null,
+  "author": "AngelZhenCPA",
+  "tags": [
+    "personal",
+    "productivity",
+    "ops",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

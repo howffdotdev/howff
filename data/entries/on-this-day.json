@@ -1,0 +1,27 @@
+{
+  "slug": "on-this-day",
+  "name": "On This Day",
+  "category": "personal",
+  "tagline": "Ten sourced events from today's date, plus a trivia closer",
+  "description": "Each morning it picks ten things that happened on this date and shows the evidence behind every one. The mix leans toward the eras and regions you tell it you care about, and it ends the round with a short trivia set so the history sticks.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/13MQct_8eYUPSLSS_Bihn",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/13MQct_8eYUPSLSS_Bihn",
+  "homepage": "https://x.ai/bot/13MQct_8eYUPSLSS_Bihn",
+  "license": null,
+  "author": "9GBennett",
+  "tags": [
+    "personal",
+    "learning",
+    "news",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

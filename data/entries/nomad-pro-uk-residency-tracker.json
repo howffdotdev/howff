@@ -1,0 +1,28 @@
+{
+  "slug": "nomad-pro-uk-residency-tracker",
+  "name": "Nomad Pro - UK Residency Tracker",
+  "category": "personal",
+  "tagline": "A day-count ledger against the UK Statutory Residence Test",
+  "description": "Built for people splitting the year between Britain and everywhere else. Each evening you log the days you traveled or worked, and it keeps that running count beside the residency thresholds so you can see which tie you are drifting toward. It stays a record-keeper, not a tax adviser.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/A5PJWWubWq6RSITiu_tdG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/A5PJWWubWq6RSITiu_tdG",
+  "homepage": "https://x.ai/bot/A5PJWWubWq6RSITiu_tdG",
+  "license": null,
+  "author": "citizen906",
+  "tags": [
+    "personal",
+    "travel",
+    "finance",
+    "monitoring",
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
