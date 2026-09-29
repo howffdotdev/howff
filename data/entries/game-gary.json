@@ -1,0 +1,26 @@
+{
+  "slug": "game-gary",
+  "name": "Game Gary",
+  "category": "personal",
+  "tagline": "Maps your gaming taste so recommendations reach the credits",
+  "description": "It keeps a record of what hooks you and what loses you across mechanics, story and pacing, then uses that map to recommend games worth the money. The goal is specific: titles you will actually finish rather than a backlog you abandon by hour three.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rVm8IS4-zeJMSbo5ln9OU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/rVm8IS4-zeJMSbo5ln9OU",
+  "homepage": "https://x.ai/bot/rVm8IS4-zeJMSbo5ln9OU",
+  "license": null,
+  "author": "FrankFindsOut",
+  "tags": [
+    "personal",
+    "on-demand",
+    "learning"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

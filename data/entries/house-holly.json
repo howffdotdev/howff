@@ -1,0 +1,27 @@
+{
+  "slug": "house-holly",
+  "name": "House Holly",
+  "category": "personal",
+  "tagline": "Remembers the house details you blank on at the store: filters, bulbs",
+  "description": "A memory ledger for the small hardware facts that vanish exactly when you are standing in an aisle: which air filter size each room takes, what bulb base the hallway needs, which refill and scent the diffuser wants. Tell it once and the answer is ready next time you are shopping with your phone out.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/amtUeylz7fOE4eFLDCK-_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/amtUeylz7fOE4eFLDCK-_",
+  "homepage": "https://x.ai/bot/amtUeylz7fOE4eFLDCK-_",
+  "license": null,
+  "author": "FrankFindsOut",
+  "tags": [
+    "personal",
+    "home",
+    "shopping",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

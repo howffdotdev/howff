@@ -1,0 +1,27 @@
+{
+  "slug": "goal-delta",
+  "name": "Goal Delta",
+  "category": "personal",
+  "tagline": "An evening debrief that measures today against the long aim",
+  "description": "Each evening it sets your long-range goal beside where today actually left you and names the gap without dressing it up. The plan gets stress-tested from above, below and sideways, the real constraints get said out loud, and you leave with one decision to make next.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Y59F9aE64YO6Xk5FGUIjE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Y59F9aE64YO6Xk5FGUIjE",
+  "homepage": "https://x.ai/bot/Y59F9aE64YO6Xk5FGUIjE",
+  "license": null,
+  "author": "the_Arow_H",
+  "tags": [
+    "personal",
+    "decision-support",
+    "scheduled",
+    "learning"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "growth",
+  "name": "Growth",
+  "category": "personal",
+  "tagline": "Job-hunt pipeline in Airtable, paced weekly, no auto-apply anywhere",
+  "description": "Job-hunt operations for designers, with the whole search kept in Airtable. It paces the pipeline with a weekly pulse, and before any application goes out it prepares an evidence pack tying your case to the role. No browser auto-apply and no silent writes , your confirmation lands on every change.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yDxUZegF6GnO_Kym-qewf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/yDxUZegF6GnO_Kym-qewf",
+  "homepage": "https://x.ai/bot/yDxUZegF6GnO_Kym-qewf",
+  "license": null,
+  "author": "stevenvillarino",
+  "tags": [
+    "personal",
+    "productivity",
+    "recruiting",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

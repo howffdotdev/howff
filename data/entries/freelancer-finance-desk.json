@@ -1,0 +1,28 @@
+{
+  "slug": "freelancer-finance-desk",
+  "name": "Freelancer Finance Desk",
+  "category": "finance",
+  "tagline": "Closes a month of freelance books into one reviewed packet",
+  "description": "A month-end bookkeeper for freelancers and solo operators. Upload transactions, receipts and invoices and it matches documents to entries, flags duplicates and transfers that should not count twice, and hands back a clean ledger plus drafts of open invoices , everything a draft, nothing sent on its own.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/RWC0ZT_Tbr-SwUcJGGXFF",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/RWC0ZT_Tbr-SwUcJGGXFF",
+  "homepage": "https://x.ai/bot/RWC0ZT_Tbr-SwUcJGGXFF",
+  "license": null,
+  "author": "omidmasoom",
+  "tags": [
+    "finance",
+    "back-office",
+    "business",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
