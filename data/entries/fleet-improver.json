@@ -1,0 +1,27 @@
+{
+  "slug": "fleet-improver",
+  "name": "Fleet Improver",
+  "category": "development",
+  "tagline": "Nightly audit of your bot fleet: tokens in, value out",
+  "description": "Once a day it grades every bot you run on a simple question: how many tokens does each one burn to return useful work? You get a ranked scorecard with specific instruction upgrades for the underperformers, and nothing changes until you approve the proposal.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/i-AGTTurx7EvXBqJ4U5Rw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/i-AGTTurx7EvXBqJ4U5Rw",
+  "homepage": "https://x.ai/bot/i-AGTTurx7EvXBqJ4U5Rw",
+  "license": null,
+  "author": "rzubiran",
+  "tags": [
+    "meta-bot",
+    "automation",
+    "developer",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

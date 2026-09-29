@@ -1,0 +1,26 @@
+{
+  "slug": "framecraft",
+  "name": "Framecraft",
+  "category": "marketing",
+  "tagline": "Assembles tidy Figma frames from your library, measured not guessed",
+  "description": "An assembly seat inside Figma for product designers. It builds new frames and tidies existing ones with the library components already in the file, and it reads autolayout and spacing from the inspected properties rather than eyeballing them, so what comes back matches the file's own system.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rT68Jw98kUdeABmvFobN5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/rT68Jw98kUdeABmvFobN5",
+  "homepage": "https://x.ai/bot/rT68Jw98kUdeABmvFobN5",
+  "license": null,
+  "author": "stevenvillarino",
+  "tags": [
+    "design",
+    "developer",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

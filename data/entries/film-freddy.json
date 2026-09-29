@@ -1,0 +1,26 @@
+{
+  "slug": "film-freddy",
+  "name": "Film Freddy",
+  "category": "personal",
+  "tagline": "Learns what you finish and abandon, then picks your next film",
+  "description": "It pays attention to the movies you actually finish and the ones you bail on, building a picture of your taste instead of trusting ratings alone. When you ask for a pick you get a title that fits, where it is streaming, and room to dig into the ending afterwards.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Ff8KTOWm4Y9_thCnSslcU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Ff8KTOWm4Y9_thCnSslcU",
+  "homepage": "https://x.ai/bot/Ff8KTOWm4Y9_thCnSslcU",
+  "license": null,
+  "author": "FrankFindsOut",
+  "tags": [
+    "personal",
+    "on-demand",
+    "learning"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

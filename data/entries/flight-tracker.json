@@ -1,0 +1,28 @@
+{
+  "slug": "flight-tracker",
+  "name": "Flight Tracker",
+  "category": "personal",
+  "tagline": "Finds real flight and hotel deals and watches booked trips for you",
+  "description": "A travel deal scout that searches flights, hotels and rental cars side by side, then keeps watch on trips you have already locked in. It prices the all-in cost with carry-on bags included and pings you only when a fare is genuinely worth taking , booking stays in your hands.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/LoyTTSxTkugyejunRQovu",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/LoyTTSxTkugyejunRQovu",
+  "homepage": "https://x.ai/bot/LoyTTSxTkugyejunRQovu",
+  "license": null,
+  "author": "realgary12",
+  "tags": [
+    "travel",
+    "saving-money",
+    "monitoring",
+    "personal",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "finance",
+  "name": "Finance",
+  "category": "personal",
+  "tagline": "Bills, subscriptions and cash flow in one view, with a check first",
+  "description": "The boring parts of household money, kept visible: which bills are due, which subscriptions keep renewing, and how cash flow looks this month. Anything out of line gets flagged rather than buried. Before it touches money or contacts a bank on your behalf, it stops and asks you first.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XEHPBUHEWd4IB0ReUpKzB",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XEHPBUHEWd4IB0ReUpKzB",
+  "homepage": "https://x.ai/bot/XEHPBUHEWd4IB0ReUpKzB",
+  "license": null,
+  "author": "stevenvillarino",
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "monitoring"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
