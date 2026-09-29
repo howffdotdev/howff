@@ -1,0 +1,28 @@
+{
+  "slug": "what-s-for-dinner",
+  "name": "What's for Dinner?",
+  "category": "personal",
+  "tagline": "One home-cooked dinner proposal a day, matched to your household",
+  "description": "It learns your household's allergies, diets, kitchen gear and budget, then proposes one home-cooked dinner each day instead of burying you in options. Standing in front of a half-empty fridge at six o'clock? Tell it what is left and it will rebuild tonight's meal around that.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/K0ks73uZiVozA3BT0XSs7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/K0ks73uZiVozA3BT0XSs7",
+  "homepage": "https://x.ai/bot/K0ks73uZiVozA3BT0XSs7",
+  "license": null,
+  "author": "CantBeatDees",
+  "tags": [
+    "personal",
+    "food",
+    "family",
+    "scheduled",
+    "saving-money"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

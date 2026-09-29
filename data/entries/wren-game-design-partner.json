@@ -1,0 +1,27 @@
+{
+  "slug": "wren-game-design-partner",
+  "name": "Wren: Game Design Partner",
+  "category": "marketing",
+  "tagline": "Shapes the game before any code, then reviews what got built",
+  "description": "A design partner for the phase before programming starts. It works a concept into a core loop and the hook that brings players back, then hands over a brief a developer or a coding agent can build from. When something exists, it reviews the result and returns a pass-or-fail verdict plus a ranked list of fixes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XqdTeBFaHmeWI4xKbma_3",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XqdTeBFaHmeWI4xKbma_3",
+  "homepage": "https://x.ai/bot/XqdTeBFaHmeWI4xKbma_3",
+  "license": null,
+  "author": "ixef",
+  "tags": [
+    "design",
+    "developer",
+    "on-demand",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

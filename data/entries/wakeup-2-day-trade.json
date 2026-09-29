@@ -1,0 +1,27 @@
+{
+  "slug": "wakeup-2-day-trade",
+  "name": "Wakeup 2 Day Trade",
+  "category": "finance",
+  "tagline": "A quick, citation-backed read on why a ticker is moving, before you commit",
+  "description": "Name a ticker and get a minutes-long research sprint on why it is moving today: how strong the catalyst really is, how the dilution and cash risks look, where short interest sits, and which claims trace back to dated sources you can check yourself. It is a research pass by design, not an autonomous trading system.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/di6vIWc5BcaN7aghHpC8C",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/di6vIWc5BcaN7aghHpC8C",
+  "homepage": "https://x.ai/bot/di6vIWc5BcaN7aghHpC8C",
+  "license": null,
+  "author": "derekshi",
+  "tags": [
+    "investor",
+    "research",
+    "decision-support",
+    "finance"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
