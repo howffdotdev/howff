@@ -1,0 +1,27 @@
+{
+  "slug": "kdp-bot",
+  "name": "KDP Bot",
+  "category": "ops",
+  "tagline": "Carries a KDP project from manuscript to launch, step by step",
+  "description": "A working partner for self-publishing on Kindle Direct Publishing: it moves a book from manuscript through categories, keyword selection, pricing and listing without letting a step slide. The pace is deliberate - steady sequential work rather than a burst of advice you must organize yourself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bb3jvQ2Vqz0GOftMpZViD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/bb3jvQ2Vqz0GOftMpZViD",
+  "homepage": "https://x.ai/bot/bb3jvQ2Vqz0GOftMpZViD",
+  "license": null,
+  "author": "OptimusSk8er",
+  "tags": [
+    "business",
+    "creator",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

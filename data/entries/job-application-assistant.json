@@ -1,0 +1,27 @@
+{
+  "slug": "job-application-assistant",
+  "name": "Job Application Assistant",
+  "category": "personal",
+  "tagline": "One master resume, tailored drafts, nothing sent until you say apply",
+  "description": "A small applications shop in one bot. It keeps a single polished master resume and a running list of roles you are chasing, then turns out resume and cover-letter drafts cut to each posting and exported as clean PDFs an applicant-tracking system can read. Everything stays a draft until you give the word.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3cymtsAFCEoIB3gpHAv4a",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/3cymtsAFCEoIB3gpHAv4a",
+  "homepage": "https://x.ai/bot/3cymtsAFCEoIB3gpHAv4a",
+  "license": null,
+  "author": "BarPrepPlay",
+  "tags": [
+    "personal",
+    "productivity",
+    "recruiting",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

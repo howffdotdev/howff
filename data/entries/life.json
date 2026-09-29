@@ -1,0 +1,27 @@
+{
+  "slug": "life",
+  "name": "Life",
+  "category": "personal",
+  "tagline": "Holds your to-do queue to three items and goes quiet otherwise",
+  "description": "A front door for everyday life admin. It holds the queue of things needing you to three at a time, stays silent whenever nothing is genuinely stuck, and hands deep work to the specialist bots you already run so the main conversation stays short. The discipline is the feature: fewer pings, more finished.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ktZpLWjTag-lOUcLUUBSj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ktZpLWjTag-lOUcLUUBSj",
+  "homepage": "https://x.ai/bot/ktZpLWjTag-lOUcLUUBSj",
+  "license": null,
+  "author": "stevenvillarino",
+  "tags": [
+    "personal",
+    "productivity",
+    "ops",
+    "agent-team"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

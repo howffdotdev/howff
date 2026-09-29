@@ -1,0 +1,28 @@
+{
+  "slug": "instagram-iris",
+  "name": "Instagram Iris",
+  "category": "ops",
+  "tagline": "Scores IG creators against your ICP and drafts the first DM",
+  "description": "Give it your ideal-customer profile and it scores Instagram creators against that bar, so your outreach list starts qualified instead of guessed. For each one it hands you a hook drawn from that creator's own recent feed plus a ready-to-edit DM you send yourself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bc_XHf6W4m2dwI9qGDiYU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/bc_XHf6W4m2dwI9qGDiYU",
+  "homepage": "https://x.ai/bot/bc_XHf6W4m2dwI9qGDiYU",
+  "license": null,
+  "author": "FrankFindsOut",
+  "tags": [
+    "business",
+    "sales",
+    "marketer",
+    "social-media",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
