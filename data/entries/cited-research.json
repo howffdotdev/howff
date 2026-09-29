@@ -1,0 +1,28 @@
+{
+  "slug": "cited-research",
+  "name": "Cited Research",
+  "category": "research",
+  "tagline": "Research answers that show their receipts and flag what is unproven",
+  "description": "A research companion built around showing its work. It answers with sources attached, separates what the evidence supports from its own inference, and marks any claim it could not verify. Useful when you need to know which parts of an answer are solid ground and which are still a guess.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3iT9jfIRge_nu0Ojqa6sL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/3iT9jfIRge_nu0Ojqa6sL",
+  "homepage": "https://x.ai/bot/3iT9jfIRge_nu0Ojqa6sL",
+  "license": null,
+  "author": "bramforge",
+  "tags": [
+    "research",
+    "decision-support",
+    "learning",
+    "student",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

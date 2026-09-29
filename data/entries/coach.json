@@ -1,0 +1,26 @@
+{
+  "slug": "coach",
+  "name": "Coach",
+  "category": "personal",
+  "tagline": "Weekly accountability for designers, with evidence before any nudge",
+  "description": "An accountability partner aimed at designers managing a career. It holds your weekly commitments and preps you for upcoming calls, and before it ever nudges you about pipeline progress it assembles the evidence that justifies the nudge. Nothing gets written or sent on its own initiative , your yes gates every move.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9sDwKR-MphjuZ-Q00mr59",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9sDwKR-MphjuZ-Q00mr59",
+  "homepage": "https://x.ai/bot/9sDwKR-MphjuZ-Q00mr59",
+  "license": null,
+  "author": "stevenvillarino",
+  "tags": [
+    "personal",
+    "productivity",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

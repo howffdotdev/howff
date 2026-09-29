@@ -1,0 +1,28 @@
+{
+  "slug": "boardy",
+  "name": "Boardy",
+  "category": "ops",
+  "tagline": "Requests introductions from an AI networking service, via your Gmail",
+  "description": "A bridge that pulls an outside AI introductions service into the chat. Name the person you hope to meet or the kind of introduction you need, and it writes the request from your own Gmail account, then relays whatever comes back into the conversation. Your mailbox does the sending; the bot does the typing.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Qf3kc7g_FQY41atLr-dBr",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Qf3kc7g_FQY41atLr-dBr",
+  "homepage": "https://x.ai/bot/Qf3kc7g_FQY41atLr-dBr",
+  "license": null,
+  "author": "jp_costa",
+  "tags": [
+    "business",
+    "sales",
+    "email",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

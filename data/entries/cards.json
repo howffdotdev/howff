@@ -1,0 +1,27 @@
+{
+  "slug": "cards",
+  "name": "Cards",
+  "category": "personal",
+  "tagline": "Keeps a crowded credit-card wallet honest: expiring credits, fee math",
+  "description": "Built for people carrying more cards than they can track. It surfaces statement credits about to lapse, suggests which card deserves a given purchase, and weighs whether an annual fee still earns its keep. Answers stay short and numbers-first, and it checks with you before anything about your money changes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0GjZj5W6UCzPfxX5y381r",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/0GjZj5W6UCzPfxX5y381r",
+  "homepage": "https://x.ai/bot/0GjZj5W6UCzPfxX5y381r",
+  "license": null,
+  "author": "stevenvillarino",
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
