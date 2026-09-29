@@ -1,0 +1,27 @@
+{
+  "slug": "agent-improver",
+  "name": "Agent Improver",
+  "category": "ops",
+  "tagline": "Tunes one of your Grok Bots so it stays useful after the first week",
+  "description": "A tuner for a Grok Bot you already run. Paste the bot, describe the misses, and it rewrites instructions, tightens tools and proposes a short test plan so the bot keeps earning its keep after week one instead of drifting into noise.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Idb_NF5CDfs2il25w0CiM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Idb_NF5CDfs2il25w0CiM",
+  "homepage": "https://x.ai/bot/Idb_NF5CDfs2il25w0CiM",
+  "license": null,
+  "author": "stevenvillarino",
+  "tags": [
+    "business",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-29",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
