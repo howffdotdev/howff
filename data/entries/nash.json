@@ -1,0 +1,26 @@
+{
+  "slug": "nash",
+  "name": "Nash",
+  "category": "ops",
+  "tagline": "A game-theory read of a negotiation, laid out before you walk in",
+  "description": "A game-theory view of a negotiation that matters. It sets out who is at the table, what each side is really after, and how they are most likely to answer your next move. Then it points at the places where your own plan is running on nerves rather than on the board.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/96mwrkqcL-8lqFvBUtejM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/96mwrkqcL-8lqFvBUtejM",
+  "homepage": "https://x.ai/bot/96mwrkqcL-8lqFvBUtejM",
+  "license": null,
+  "author": "the_Arow_H",
+  "tags": [
+    "business",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
