@@ -1,9 +1,9 @@
 {
   "slug": "dogthenaughtyhunter",
   "name": "DogTheNaughtyHunter",
-  "category": "marketing",
-  "tagline": "Surfaces X posts that attack a brand so the reply can be drafted in public",
-  "description": "Keeps watch for posts on X that go after a brand, a person or a project, and drafts a public reply for each one. The reply is written to answer the attack in the open rather than let it sit unanswered; nothing posts until you send it.",
+  "category": "research",
+  "tagline": "Screens your X account for coordinated fake-account swarms worth a closer look",
+  "description": "Point it at the X account you are signed into and it walks your notifications and follower surface looking for signs of coordinated inauthentic activity. Suspected swarm accounts collect onto a running roster that you can interrogate at your own pace, and nothing new joins the list until you have signed off on it.",
   "integrations": [],
   "add": {
     "kind": "share-link",
@@ -16,10 +16,11 @@
   "license": null,
   "author": "TheRetardedELon",
   "tags": [
+    "research",
     "social-media",
-    "support",
     "monitoring",
-    "scheduled"
+    "data",
+    "on-demand"
   ],
   "verified": false,
   "added": "2026-09-30",
