@@ -1,0 +1,28 @@
+{
+  "slug": "order-watch",
+  "name": "Order Watch",
+  "category": "personal",
+  "tagline": "Follows your parcels across retailers and only speaks up when a delivery needs you",
+  "description": "A delivery watchdog that sits over a connected inbox, following parcels and their order updates across several retailers. When a status looks ambiguous it asks you a clarifying question first; otherwise it says nothing until something genuinely needs your attention. Quiet by design, never another source of noise.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5tvkGcgMHWuUkCBvH2od-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5tvkGcgMHWuUkCBvH2od-",
+  "homepage": "https://x.ai/bot/5tvkGcgMHWuUkCBvH2od-",
+  "license": null,
+  "author": "gokul_i",
+  "tags": [
+    "personal",
+    "shopping",
+    "email",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

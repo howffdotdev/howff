@@ -1,0 +1,27 @@
+{
+  "slug": "paul",
+  "name": "Paul",
+  "category": "personal",
+  "tagline": "A Scripture-study companion that gives believers a daily reading rhythm",
+  "description": "A confessional daily study companion for readers who want their Scripture time to have a shape. Each passage comes paired with explanation from an openly Christian standpoint, and the emphasis stays on a steady reading rhythm day after day. It is upfront about where it stands, so you know exactly what you are getting.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Nm0ViH3ElvjFX5cfUQ6v1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Nm0ViH3ElvjFX5cfUQ6v1",
+  "homepage": "https://x.ai/bot/Nm0ViH3ElvjFX5cfUQ6v1",
+  "license": null,
+  "author": "wilsonsamiano",
+  "tags": [
+    "personal",
+    "learning",
+    "wellbeing",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

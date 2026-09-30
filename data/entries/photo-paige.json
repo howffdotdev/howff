@@ -1,0 +1,27 @@
+{
+  "slug": "photo-paige",
+  "name": "Photo Paige",
+  "category": "personal",
+  "tagline": "Sorts your Apple Photos into albums and flags the dead weight for your sign-off",
+  "description": "A decluttering helper for your Apple Photos library. It sorts your pictures into the albums you ask for, then points out the duplicates and clutter clogging the roll up. Every deletion stays your call - it proposes, you decide, and nothing disappears from the library on its own.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/qye6GiC4AqhUjhGewdxUM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/qye6GiC4AqhUjhGewdxUM",
+  "homepage": "https://x.ai/bot/qye6GiC4AqhUjhGewdxUM",
+  "license": null,
+  "author": "FrankFindsOut",
+  "tags": [
+    "personal",
+    "home",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

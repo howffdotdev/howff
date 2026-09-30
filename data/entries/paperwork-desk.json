@@ -1,0 +1,27 @@
+{
+  "slug": "paperwork-desk",
+  "name": "Paperwork Desk",
+  "category": "personal",
+  "tagline": "Forward your bills and letters; it tracks amounts, deadlines and replies",
+  "description": "You forward bills, leases, renewal notices, medical statements and plain letters, and it pulls out the amounts and dates that matter. Every deadline goes onto a tracked list, and reminder or reply drafts are written for you - nothing is ever sent until you approve it yourself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Gv02Uedgl530XCpAqbUoU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Gv02Uedgl530XCpAqbUoU",
+  "homepage": "https://x.ai/bot/Gv02Uedgl530XCpAqbUoU",
+  "license": null,
+  "author": "Daniel191555486",
+  "tags": [
+    "personal",
+    "productivity",
+    "back-office",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "pepetrack",
+  "name": "PepeTrack",
+  "category": "personal",
+  "tagline": "A reading, math and notes log for your peptide and GLP-1 study",
+  "description": "A companion for reading published research on peptides and GLP-1 compounds, not a source of medical advice. It helps you work through study protocols as written, handles the dilution arithmetic those protocols involve, and keeps your reading notes and logs organized. Education only, never a prescription.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/nooY_fiizqHxS9TB4z74g",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/nooY_fiizqHxS9TB4z74g",
+  "homepage": "https://x.ai/bot/nooY_fiizqHxS9TB4z74g",
+  "license": null,
+  "author": "TyeInBloom",
+  "tags": [
+    "health",
+    "research",
+    "learning",
+    "monitoring"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
