@@ -1,0 +1,27 @@
+{
+  "slug": "scotty",
+  "name": "Scotty",
+  "category": "marketing",
+  "tagline": "Decides what a lean team ships next and writes the paste-ready brief",
+  "description": "A product strategist aimed at independent makers and lean crews that cannot afford a planning department. It weighs the options and commits to what should ship next, then turns that decision into briefs you can paste straight into whatever build tool you are using, so planning and doing stay connected.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/EcBVR4ogAfcv_7yLmzlu6",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/EcBVR4ogAfcv_7yLmzlu6",
+  "homepage": "https://x.ai/bot/EcBVR4ogAfcv_7yLmzlu6",
+  "license": null,
+  "author": "DeepRiverRadio",
+  "tags": [
+    "creator",
+    "productivity",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

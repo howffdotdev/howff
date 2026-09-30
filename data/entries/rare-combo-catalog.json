@@ -1,0 +1,27 @@
+{
+  "slug": "rare-combo-catalog",
+  "name": "Rare Combo Catalog",
+  "category": "research",
+  "tagline": "Organizes scattered rare-condition findings into a gap table and doctor questions",
+  "description": "A research organizer for families living with a rare condition combination. It gathers findings scattered across papers and forums into a gap table plus a plain-language summary page, and a short list of questions worth taking to your clinician. Questions, never verdicts: the diagnosis stays with the professionals.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9J6OME5--PpDmAuCxFYBG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9J6OME5--PpDmAuCxFYBG",
+  "homepage": "https://x.ai/bot/9J6OME5--PpDmAuCxFYBG",
+  "license": null,
+  "author": "BiancaBellChamb",
+  "tags": [
+    "research",
+    "health",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

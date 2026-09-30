@@ -1,0 +1,27 @@
+{
+  "slug": "senior-repairo",
+  "name": "Senior Repairo",
+  "category": "development",
+  "tagline": "A repair desk for the other Grok bots you run",
+  "description": "Point it at a bot you already run and it reads that bot's instructions like a service manual: stale lines, rules that contradict each other, and steps that waste retries all get called out. You sign off on each proposed edit before it lands, and every fix ships with a snapshot you can roll back.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3Wod4pPE0JSy1yGWylR_x",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/3Wod4pPE0JSy1yGWylR_x",
+  "homepage": "https://x.ai/bot/3Wod4pPE0JSy1yGWylR_x",
+  "license": null,
+  "author": "SpaceGarbage202",
+  "tags": [
+    "developer",
+    "automation",
+    "meta-bot",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

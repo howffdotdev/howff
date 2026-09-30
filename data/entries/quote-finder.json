@@ -1,0 +1,27 @@
+{
+  "slug": "quote-finder",
+  "name": "Quote Finder",
+  "category": "research",
+  "tagline": "Verifies whether that famous quote is real, and says so when it is not",
+  "description": "Name a person and a line you half-remember, and it goes looking for the verifiable source. Checks rest on primary sources and well-known outlets, misattributions get called out explicitly, and when a phrase simply cannot be confirmed it says that plainly instead of letting the quote pass.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XRIQWqAANS7fBiN0PygzI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XRIQWqAANS7fBiN0PygzI",
+  "homepage": "https://x.ai/bot/XRIQWqAANS7fBiN0PygzI",
+  "license": null,
+  "author": "MichaelDispigna",
+  "tags": [
+    "research",
+    "knowledge-base",
+    "news",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

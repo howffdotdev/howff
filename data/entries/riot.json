@@ -1,0 +1,27 @@
+{
+  "slug": "riot",
+  "name": "Riot",
+  "category": "personal",
+  "tagline": "A debate-lab seat that argues against your idea with volume but no substance",
+  "description": "Takes the role of a loud, confident critic who reacts to your plan with plenty of conviction and none of the groundwork behind it. Watching that pushback land shows you which parts of your argument survive heat and which only work on people who already agree.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7xonnJvEu_lLjq5nfw6Wn",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7xonnJvEu_lLjq5nfw6Wn",
+  "homepage": "https://x.ai/bot/7xonnJvEu_lLjq5nfw6Wn",
+  "license": null,
+  "author": "IAmMichaelSweet",
+  "tags": [
+    "personal",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
