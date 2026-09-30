@@ -1,0 +1,28 @@
+{
+  "slug": "crypto-buddy",
+  "name": "Crypto Buddy",
+  "category": "finance",
+  "tagline": "Morning briefing of overnight crypto moves and the reasons behind them",
+  "description": "A morning brief of what moved overnight across crypto, with the reasons behind each move rather than a bare price list. It pulls from market data and public posts, then hands you a short readout so you start the day already caught up.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/EcBVR4ogAfcv_7yLmzlu6",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/EcBVR4ogAfcv_7yLmzlu6",
+  "homepage": "https://x.ai/bot/EcBVR4ogAfcv_7yLmzlu6",
+  "license": null,
+  "author": "0x_m4rt1n",
+  "tags": [
+    "crypto",
+    "investor",
+    "news",
+    "research",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "dogthenaughtyhunter",
+  "name": "DogTheNaughtyHunter",
+  "category": "marketing",
+  "tagline": "Surfaces X posts that attack a brand so the reply can be drafted in public",
+  "description": "Keeps watch for posts on X that go after a brand, a person or a project, and drafts a public reply for each one. The reply is written to answer the attack in the open rather than let it sit unanswered; nothing posts until you send it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wwQfz7q4jRS2QtI8E6Sl0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wwQfz7q4jRS2QtI8E6Sl0",
+  "homepage": "https://x.ai/bot/wwQfz7q4jRS2QtI8E6Sl0",
+  "license": null,
+  "author": "WinRedWatch",
+  "tags": [
+    "social-media",
+    "support",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

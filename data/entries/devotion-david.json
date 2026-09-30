@@ -1,0 +1,26 @@
+{
+  "slug": "devotion-david",
+  "name": "Devotion David",
+  "category": "personal",
+  "tagline": "Builds a short daily devotion from a topic, a verse, or whatever is on your mind",
+  "description": "A short daily devotion, built from a topic, a verse or whatever is on your mind that morning. Scripture, a reflection and a prayer are gathered into one reading meant for the start of the day rather than a study session.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Jvm9xCsIY8CtTReKdytvk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Jvm9xCsIY8CtTReKdytvk",
+  "homepage": "https://x.ai/bot/Jvm9xCsIY8CtTReKdytvk",
+  "license": null,
+  "author": "joedoe",
+  "tags": [
+    "personal",
+    "family",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

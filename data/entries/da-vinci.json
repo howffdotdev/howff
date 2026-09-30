@@ -1,0 +1,27 @@
+{
+  "slug": "da-vinci",
+  "name": "Da Vinci",
+  "category": "ops",
+  "tagline": "Maps a business idea through the full path from spark to first customers",
+  "description": "Walks a business idea from the spark through to the first customers. Market fit, the product itself, how it gets built and how it gets sold are laid out as one connected path, so you can see where the plan holds and where it still needs work before you spend real money on it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YYh5V5fbSRIfe2VTKCfNX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/YYh5V5fbSRIfe2VTKCfNX",
+  "homepage": "https://x.ai/bot/YYh5V5fbSRIfe2VTKCfNX",
+  "license": null,
+  "author": "IAmMichaelSweet",
+  "tags": [
+    "business",
+    "strategy",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

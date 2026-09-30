@@ -1,0 +1,27 @@
+{
+  "slug": "ellis",
+  "name": "Ellis",
+  "category": "ops",
+  "tagline": "Models public processes from the side of the person stuck inside them",
+  "description": "Plays the citizen stuck inside a public process: the forms, the waits, the runaround. By working through what the experience actually feels like for that person, it shows where a policy that looks clean on paper turns hostile in practice. It runs when you ask it to, rather than on a timer.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-R8W_m_85dVm_3F58kdRe",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-R8W_m_85dVm_3F58kdRe",
+  "homepage": "https://x.ai/bot/-R8W_m_85dVm_3F58kdRe",
+  "license": null,
+  "author": "IAmMichaelSweet",
+  "tags": [
+    "business",
+    "productivity",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
