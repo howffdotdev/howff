@@ -1,0 +1,27 @@
+{
+  "slug": "news-honestly",
+  "name": "News Honestly",
+  "category": "personal",
+  "tagline": "Gives every hot headline its two best good-faith readings, plus a bridge",
+  "description": "Pick up the day's story and this walks both serious readings of it - the version its defenders honestly hold and the version its critics honestly hold - with sources for each. Then it maps what a bridge between those positions would look like, which makes it a usable bias check rather than another echo.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vKZRklu07uF34Ut9XzMxt",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vKZRklu07uF34Ut9XzMxt",
+  "homepage": "https://x.ai/bot/vKZRklu07uF34Ut9XzMxt",
+  "license": null,
+  "author": "BrianRoemmele",
+  "tags": [
+    "news",
+    "research",
+    "decision-support",
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
