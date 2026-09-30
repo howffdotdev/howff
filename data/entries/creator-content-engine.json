@@ -1,0 +1,27 @@
+{
+  "slug": "creator-content-engine",
+  "name": "Creator Content Engine",
+  "category": "marketing",
+  "tagline": "Feeds one idea in, gets post drafts back across X formats",
+  "description": "Made for people posting on X who need range in a hurry. Give it a topic, a half-formed thought, a screenshot, a news item or a video idea, and it returns hooks and draft posts worked up in several formats, so you can pick the shape that fits instead of rewriting one take over and over.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/pP-dzi24JtjMB_LNYFeJ2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/pP-dzi24JtjMB_LNYFeJ2",
+  "homepage": "https://x.ai/bot/pP-dzi24JtjMB_LNYFeJ2",
+  "license": null,
+  "author": "250_Revolution",
+  "tags": [
+    "creator",
+    "social-media",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "burundi-sky-watch",
+  "name": "Burundi Sky Watch",
+  "category": "personal",
+  "tagline": "Ask what is flying over Burundi right now and get the live answer",
+  "description": "A live view of the skies over Burundi. Ask what is up there and it answers with the aircraft over the country at that moment, naming the airline, the model, and the origin and destination of each one. Everything is drawn from free public flight-tracking feeds, so it is a readout rather than radar.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VMqXvofTHZ5qHzqnYb3jp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VMqXvofTHZ5qHzqnYb3jp",
+  "homepage": "https://x.ai/bot/VMqXvofTHZ5qHzqnYb3jp",
+  "license": null,
+  "author": "Marcellin_dev",
+  "tags": [
+    "personal",
+    "data",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

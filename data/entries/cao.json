@@ -1,0 +1,27 @@
+{
+  "slug": "cao",
+  "name": "CAO",
+  "category": "personal",
+  "tagline": "Turns a botched promise or missed deadline into an apology worth actually sending",
+  "description": "An apology-drafting desk for the moment you dropped the ball on a promise or a delivery. It names the specific harm, skips the excuse-making, and lands on a concrete repair, set out in four steps. The draft stops there: you read it, edit it, and decide whether it ever gets sent.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1QpKMVVzO9iJe-Tg_kfcC",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1QpKMVVzO9iJe-Tg_kfcC",
+  "homepage": "https://x.ai/bot/1QpKMVVzO9iJe-Tg_kfcC",
+  "license": null,
+  "author": "LYP0x0",
+  "tags": [
+    "personal",
+    "email",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

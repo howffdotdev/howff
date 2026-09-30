@@ -1,0 +1,27 @@
+{
+  "slug": "creative-opps-oracle",
+  "name": "Creative Opps Oracle",
+  "category": "marketing",
+  "tagline": "Rounds up open calls, grants and paid gigs that fit one artist's practice",
+  "description": "A talent-scout desk for a single working independent artist. It starts by auditing your public presence so it knows how you actually work, then rounds up what is currently open - calls for work, grants, residencies and paid gigs - across art, music, code, games, film and writing. One artist at a time.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/oO-3Pi3np8FJFRJVui2yb",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/oO-3Pi3np8FJFRJVui2yb",
+  "homepage": "https://x.ai/bot/oO-3Pi3np8FJFRJVui2yb",
+  "license": null,
+  "author": "EmpressTrash",
+  "tags": [
+    "creator",
+    "growth",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
