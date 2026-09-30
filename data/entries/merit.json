@@ -1,0 +1,27 @@
+{
+  "slug": "merit",
+  "name": "Merit",
+  "category": "research",
+  "tagline": "A Friday desk that scores civic, science and fringe claims on a rubric",
+  "description": "Once a week it sweeps a wide territory - civic claims, science, UAP and the paranormal - and puts each one through a scoring rubric instead of a vibe check. A running list of unresolved claims carries forward, and the whole thing lands as a single weekly brief for readers who would rather verify than believe.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/jdb0HKk70EATE6FI-ZjOp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/jdb0HKk70EATE6FI-ZjOp",
+  "homepage": "https://x.ai/bot/jdb0HKk70EATE6FI-ZjOp",
+  "license": null,
+  "author": "ChiChi077",
+  "tags": [
+    "research",
+    "news",
+    "decision-support",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
