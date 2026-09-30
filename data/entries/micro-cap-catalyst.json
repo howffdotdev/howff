@@ -1,0 +1,28 @@
+{
+  "slug": "micro-cap-catalyst",
+  "name": "Micro Cap Catalyst",
+  "category": "finance",
+  "tagline": "Screens the small-cap catalyst calendar and proposes next moves for your review",
+  "description": "Built around a US small-cap book you run one name at a time. Once the cash close is in, it screens the coming catalyst calendar for that holding and comes back with a hold, sell or buy proposal. Nothing executes by itself: every exact order waits for your approval, and the read is a starting point, not advice.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wwQfz7q4jRS2QtI8E6Sl0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wwQfz7q4jRS2QtI8E6Sl0",
+  "homepage": "https://x.ai/bot/wwQfz7q4jRS2QtI8E6Sl0",
+  "license": null,
+  "author": "mintotsai",
+  "tags": [
+    "investor",
+    "research",
+    "finance",
+    "analytics",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
