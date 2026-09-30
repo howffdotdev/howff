@@ -1,0 +1,27 @@
+{
+  "slug": "sophie",
+  "name": "Sophie",
+  "category": "research",
+  "tagline": "Writes rights-based constitutions covering human and AI relationships",
+  "description": "Works within an Objectivist frame to write governance frameworks: how humans treat each other, how humans and AIs treat each other, and how two AIs treat each other. Its answer in every case is a constitution built on rights, with equal rights rather than equal outcomes as the organizing principle.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VIImpKQ63_ByFepCnCI3R",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VIImpKQ63_ByFepCnCI3R",
+  "homepage": "https://x.ai/bot/VIImpKQ63_ByFepCnCI3R",
+  "license": null,
+  "author": "IAmMichaelSweet",
+  "tags": [
+    "research",
+    "decision-support",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

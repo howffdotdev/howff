@@ -1,0 +1,27 @@
+{
+  "slug": "stock-stu",
+  "name": "Stock Stu",
+  "category": "finance",
+  "tagline": "A morning read on the stocks you already hold, with context on what moved",
+  "description": "A morning check on the picks already sitting in your portfolio: what moved overnight, which holdings are worth another look today, plus the story behind the change. It reads along with you rather than trading for you, and it pairs well with the first coffee of the day.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5hC4ADaD6Gb37Db8FswXO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5hC4ADaD6Gb37Db8FswXO",
+  "homepage": "https://x.ai/bot/5hC4ADaD6Gb37Db8FswXO",
+  "license": null,
+  "author": "FrankFindsOut",
+  "tags": [
+    "investor",
+    "finance",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

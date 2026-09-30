@@ -1,0 +1,27 @@
+{
+  "slug": "x-stats-tracker",
+  "name": "X Stats Tracker",
+  "category": "marketing",
+  "tagline": "A nightly scorekeeper for your X account, delivered as a morning briefing",
+  "description": "While you sleep it keeps score on your X presence: follower count, engagement, mentions and tip activity, each drawn as a trend line instead of a lone number. The sunrise briefing spells out what changed since yesterday, so you can see which direction things are actually moving rather than guessing from a single day.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9wqZ8S-tTuXVSleduPQgK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9wqZ8S-tTuXVSleduPQgK",
+  "homepage": "https://x.ai/bot/9wqZ8S-tTuXVSleduPQgK",
+  "license": null,
+  "author": "Serenejaysew",
+  "tags": [
+    "creator",
+    "social-media",
+    "analytics",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

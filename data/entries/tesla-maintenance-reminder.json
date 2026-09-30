@@ -1,0 +1,27 @@
+{
+  "slug": "tesla-maintenance-reminder",
+  "name": "Tesla Maintenance Reminder",
+  "category": "personal",
+  "tagline": "Tracks Tesla wear items and nudges you when each service is due",
+  "description": "Keeps a running record of the wear items a Tesla owner has to think about: tire wear and rotation, alignment, the 12-volt battery, camera housings, filtration (HEPA and cabin), and wiper blades. When an item comes due it sends a nudge, so the booking happens on your schedule instead of after a failure.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/pKfa-wIy5YSH1GOt0PN9A",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/pKfa-wIy5YSH1GOt0PN9A",
+  "homepage": "https://x.ai/bot/pKfa-wIy5YSH1GOt0PN9A",
+  "license": null,
+  "author": "jbaladjay_",
+  "tags": [
+    "personal",
+    "home",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

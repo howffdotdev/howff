@@ -1,0 +1,28 @@
+{
+  "slug": "winreddestroyer",
+  "name": "WinRedDestroyer",
+  "category": "personal",
+  "tagline": "Logs repeated political text spam into a case file and drafts the paperwork",
+  "description": "Builds an evidence file out of repeated political fundraising texts: the send dates, screenshots, repeat STOP requests, and the campaign officers named on public filings. Cases live behind a password, and each one ends in a cease-and-desist letter that you read over and send yourself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YS_lqB19LnlaPqXPEUn4f",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/YS_lqB19LnlaPqXPEUn4f",
+  "homepage": "https://x.ai/bot/YS_lqB19LnlaPqXPEUn4f",
+  "license": null,
+  "author": "valdagher",
+  "tags": [
+    "personal",
+    "monitoring",
+    "data",
+    "social-media",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
