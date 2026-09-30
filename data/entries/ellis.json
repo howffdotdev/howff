@@ -2,8 +2,8 @@
   "slug": "ellis",
   "name": "Ellis",
   "category": "ops",
-  "tagline": "Models public processes from the side of the person stuck inside them",
-  "description": "Plays the citizen stuck inside a public process: the forms, the waits, the runaround. By working through what the experience actually feels like for that person, it shows where a policy that looks clean on paper turns hostile in practice. It runs when you ask it to, rather than on a timer.",
+  "tagline": "Shows what a public process feels like from the citizen's side of it",
+  "description": "Plays the citizen stuck inside a public process: the forms, the waits, the runaround. By working through what the experience actually feels like for that person, it shows where a policy that looks clean on paper turns hostile in practice.",
   "integrations": [],
   "add": {
     "kind": "share-link",
@@ -17,7 +17,7 @@
   "author": "IAmMichaelSweet",
   "tags": [
     "business",
-    "productivity",
+    "research",
     "decision-support",
     "on-demand"
   ],
