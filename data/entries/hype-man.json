@@ -1,0 +1,26 @@
+{
+  "slug": "hype-man",
+  "name": "Hype Man",
+  "category": "personal",
+  "tagline": "A cheerleader that logs your wins and matches its energy to the day you had",
+  "description": "A sideline cheerleader that keeps a record of your wins. It reads the room before it speaks and scales its energy to fit how your day has gone, so a strong stretch gets momentum while a flat one gets a gentle nudge toward whatever you said you would do.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/QVYB4aI8lO8-LgCNmFblE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/QVYB4aI8lO8-LgCNmFblE",
+  "homepage": "https://x.ai/bot/QVYB4aI8lO8-LgCNmFblE",
+  "license": null,
+  "author": "MichaelHeckert",
+  "tags": [
+    "personal",
+    "wellbeing",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "landlord-ledger",
+  "name": "Landlord Ledger",
+  "category": "ops",
+  "tagline": "A rent ledger for small-scale landlords, reminders only on your sign-off",
+  "description": "Built for a landlord with a handful of units. Incoming deposits get matched to the tenant who paid them, late or short payments get marked, and expenses land in the categories tax season asks for. Reminders are drafted for your review - nothing goes out and no money moves without your sign-off.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sPjI0Dec1DUvTc7H0zxNG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sPjI0Dec1DUvTc7H0zxNG",
+  "homepage": "https://x.ai/bot/sPjI0Dec1DUvTc7H0zxNG",
+  "license": null,
+  "author": "Daniel191555486",
+  "tags": [
+    "business",
+    "finance",
+    "back-office",
+    "monitoring"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

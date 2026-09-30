@@ -1,0 +1,27 @@
+{
+  "slug": "job-map-express",
+  "name": "Job Map Express",
+  "category": "ops",
+  "tagline": "Sketches the full Jobs-to-be-Done map for a product idea, right in chat",
+  "description": "A cartographer for Jobs-to-be-Done thinking, aimed at product people. In a single chat it sketches the whole job map: the core job to be done, the metrics that matter, the related jobs around it, and the consumption chain it sits inside. The point is seeing where a solution genuinely fits before anyone builds.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/f8P45KE_1HnIUPSqM-EEX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/f8P45KE_1HnIUPSqM-EEX",
+  "homepage": "https://x.ai/bot/f8P45KE_1HnIUPSqM-EEX",
+  "license": null,
+  "author": "mikeboysen",
+  "tags": [
+    "business",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

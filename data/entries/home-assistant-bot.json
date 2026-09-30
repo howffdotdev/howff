@@ -1,0 +1,27 @@
+{
+  "slug": "home-assistant-bot",
+  "name": "Home Assistant Bot",
+  "category": "personal",
+  "tagline": "Drives your Home Assistant lights, climate and routines, and onboards you first",
+  "description": "A smart-home foreman for households running Home Assistant. Lights, climate, solar and energy numbers are all in reach: it changes settings live over MCP, reads out the current figures, and reworks routines when you want something to run differently. A new owner gets walked through the connection first.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ZwOyvMIIYuQBoBvnqYmER",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ZwOyvMIIYuQBoBvnqYmER",
+  "homepage": "https://x.ai/bot/ZwOyvMIIYuQBoBvnqYmER",
+  "license": null,
+  "author": "DomenicoNicoli",
+  "tags": [
+    "home",
+    "automation",
+    "engineering",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

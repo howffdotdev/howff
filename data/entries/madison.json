@@ -1,0 +1,27 @@
+{
+  "slug": "madison",
+  "name": "Madison",
+  "category": "personal",
+  "tagline": "Civic-access helper for records requests, court work, schools and benefits",
+  "description": "Built for people pushing on public institutions, and for the assistants acting on their behalf. It covers records requests of the FOIA kind, court processes, school districts and benefits portals, laying out the coverage patterns those systems tend to follow so you know what to ask for and when.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/237C0hK8Lph45gLkwplld",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/237C0hK8Lph45gLkwplld",
+  "homepage": "https://x.ai/bot/237C0hK8Lph45gLkwplld",
+  "license": null,
+  "author": "IAmMichaelSweet",
+  "tags": [
+    "personal",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
