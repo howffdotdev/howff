@@ -2,25 +2,24 @@
   "slug": "crypto-buddy",
   "name": "Crypto Buddy",
   "category": "finance",
-  "tagline": "Morning briefing of overnight crypto moves and the reasons behind them",
-  "description": "A morning brief of what moved overnight across crypto, with the reasons behind each move rather than a bare price list. It pulls from market data and public posts, then hands you a short readout so you start the day already caught up.",
+  "tagline": "A sourced due-diligence brief on any coin, separating real news from noise",
+  "description": "Curious about a coin? Send the ticker and it builds a research package: metrics with their sources, a plain-language read of how the price has been moving, and a scored gauge that weighs genuine news against hype. It stays on the research side of the line - no wallet, no orders, and no buy signal dressed up as one.",
   "integrations": [],
   "add": {
     "kind": "share-link",
-    "url": "https://x.ai/bot/EcBVR4ogAfcv_7yLmzlu6",
+    "url": "https://x.ai/bot/TSgExceGHVJN9U2E4-_23",
     "hint": null
   },
   "instructions": null,
-  "source": "https://x.ai/bot/EcBVR4ogAfcv_7yLmzlu6",
-  "homepage": "https://x.ai/bot/EcBVR4ogAfcv_7yLmzlu6",
+  "source": "https://x.ai/bot/TSgExceGHVJN9U2E4-_23",
+  "homepage": "https://x.ai/bot/TSgExceGHVJN9U2E4-_23",
   "license": null,
-  "author": "0x_m4rt1n",
+  "author": "JRNavarro75",
   "tags": [
     "crypto",
-    "investor",
-    "news",
     "research",
-    "scheduled"
+    "investor",
+    "on-demand"
   ],
   "verified": false,
   "added": "2026-09-30",
