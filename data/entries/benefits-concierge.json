@@ -1,0 +1,27 @@
+{
+  "slug": "benefits-concierge",
+  "name": "Benefits Concierge",
+  "category": "personal",
+  "tagline": "Keeps your card and membership perks from expiring unused",
+  "description": "Keeps a ledger of what your credit cards and memberships actually entitle you to, including the seasonal credits that quietly reset. It warns you before one is about to expire and, when you are about to make a purchase, book a trip or go shopping, points at the perk you should be using instead.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s8xQ8kXnmy06ChZvNJHXn",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s8xQ8kXnmy06ChZvNJHXn",
+  "homepage": "https://x.ai/bot/s8xQ8kXnmy06ChZvNJHXn",
+  "license": null,
+  "author": "connorli1996",
+  "tags": [
+    "personal",
+    "finance",
+    "monitoring",
+    "saving-money"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "amazon-a-plus-content-creator-kdp",
+  "name": "Amazon A+ Content Creator (KDP)",
+  "category": "ops",
+  "tagline": "Plans and renders Amazon A+ modules for self-published books, claims kept honest",
+  "description": "A polish studio for the product pages behind self-published books. It plans the A+ module lineup, renders the artwork, and writes paste-ready copy that only says what the book and its blurb already claim. Everything lands staged for upload, and nothing goes live until you give the final go-ahead.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/M50zP05s02Y7cBzIc7i00",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/M50zP05s02Y7cBzIc7i00",
+  "homepage": "https://x.ai/bot/M50zP05s02Y7cBzIc7i00",
+  "license": null,
+  "author": "El_Tonio83",
+  "tags": [
+    "business",
+    "content",
+    "design",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

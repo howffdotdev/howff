@@ -1,0 +1,27 @@
+{
+  "slug": "bot-my-meals",
+  "name": "Bot My Meals",
+  "category": "personal",
+  "tagline": "Runs weekly dinner planning for one household, menu through grocery list",
+  "description": "Dinner planning for one household: the one that installed it. Every week it comes up with a fresh menu and handles the chores around it end to end, from gathering approvals to the resulting shopping list. It works for your family and nobody else's, which keeps the plan honest and the portions right.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ouezkwgSV26h5aMS0Pa4m",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ouezkwgSV26h5aMS0Pa4m",
+  "homepage": "https://x.ai/bot/ouezkwgSV26h5aMS0Pa4m",
+  "license": null,
+  "author": "TimDOES",
+  "tags": [
+    "personal",
+    "family",
+    "food",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

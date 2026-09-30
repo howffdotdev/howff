@@ -1,0 +1,27 @@
+{
+  "slug": "budget-coach",
+  "name": "Budget Coach",
+  "category": "personal",
+  "tagline": "Sizes your category budgets to real income and flags overspending early",
+  "description": "Sets spending limits per category based on what you actually earn, then keeps watching the running totals as the month moves. When a category drifts past its line it flags the overrun early and proposes specific cuts you can make to get back under.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/SgloJICCQNZpb0h9XJQF1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/SgloJICCQNZpb0h9XJQF1",
+  "homepage": "https://x.ai/bot/SgloJICCQNZpb0h9XJQF1",
+  "license": null,
+  "author": "alexnextd00r",
+  "tags": [
+    "personal",
+    "finance",
+    "monitoring",
+    "saving-money"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
