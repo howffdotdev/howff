@@ -1,0 +1,28 @@
+{
+  "slug": "ho-be-gone",
+  "name": "Ho Be Gone",
+  "category": "personal",
+  "tagline": "Auto-blocks the scam, spam and impersonator accounts that follow or ping you",
+  "description": "Keeps watch on your follower list and on who has been interacting with you, then blocks the ones that read as scams, copycats or bot accounts. Every block feeds the filter, so the corrections you make afterwards shape what gets blocked the next time around.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/zM69z4OgdFDSzWcFNsQqx",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/zM69z4OgdFDSzWcFNsQqx",
+  "homepage": "https://x.ai/bot/zM69z4OgdFDSzWcFNsQqx",
+  "license": null,
+  "author": "TheRetardedELon",
+  "tags": [
+    "personal",
+    "social-media",
+    "automation",
+    "support",
+    "monitoring"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

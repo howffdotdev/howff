@@ -1,0 +1,27 @@
+{
+  "slug": "gluco",
+  "name": "Gluco",
+  "category": "personal",
+  "tagline": "A simple chat log for glucose readings, meals and meds, plus a daily wrap-up",
+  "description": "A chat-based logbook for glucose, meals and medication, kept plain on purpose. Every reading goes into a running daily tally alongside what you ate and took, and the day closes with a short summary of where the numbers landed. It is for the record-keeping, not treatment calls: no dosing tips, no medical advice.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7dHh-kr8rz5r5z_RKE-VM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7dHh-kr8rz5r5z_RKE-VM",
+  "homepage": "https://x.ai/bot/7dHh-kr8rz5r5z_RKE-VM",
+  "license": null,
+  "author": "Brianhill",
+  "tags": [
+    "personal",
+    "health",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

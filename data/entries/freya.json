@@ -1,0 +1,27 @@
+{
+  "slug": "freya",
+  "name": "Freya",
+  "category": "personal",
+  "tagline": "An evening-and-days-off household coach that keeps home life present",
+  "description": "Acts as a household operations chief for the hours that matter outside work - the evening, the weekend, the day off. It nudges you toward actually being there for family and keeping the domestic rhythm running, and it does that without treating your ambition as the thing to be defeated.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MX6t6uaMBbtiYQwX_oDXM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MX6t6uaMBbtiYQwX_oDXM",
+  "homepage": "https://x.ai/bot/MX6t6uaMBbtiYQwX_oDXM",
+  "license": null,
+  "author": "IAmMichaelSweet",
+  "tags": [
+    "personal",
+    "family",
+    "wellbeing",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

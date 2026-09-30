@@ -1,0 +1,27 @@
+{
+  "slug": "grok-apron",
+  "name": "Grok Apron",
+  "category": "personal",
+  "tagline": "Turns the week's grocery circular into a family menu and a ready cart",
+  "description": "Read the store's circular and it plans the week's meals around what is actually on sale, sized for a family rather than a meal-prep single. It then assembles the matching cart in the store's own online ordering, ready for a pickup or a delivery run, and stops there - the checkout itself stays with you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bjQaTbH4Oe2G0lNxb2HBF",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/bjQaTbH4Oe2G0lNxb2HBF",
+  "homepage": "https://x.ai/bot/bjQaTbH4Oe2G0lNxb2HBF",
+  "license": null,
+  "author": "Handicapper_Gen",
+  "tags": [
+    "family",
+    "food",
+    "shopping",
+    "saving-money"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

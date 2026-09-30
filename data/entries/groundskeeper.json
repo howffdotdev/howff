@@ -1,0 +1,27 @@
+{
+  "slug": "groundskeeper",
+  "name": "Groundskeeper",
+  "category": "productivity",
+  "tagline": "A cleanup sweep for a messy Obsidian vault: stubs, dupes, untagged notes",
+  "description": "Sweeps the messy corners of a notes vault: root-level files that never got filed, notes with no tags, empty stubs waiting to be filled, and duplicates crowding the same idea. Run it beside the kit's intake and drafting companions and the vault stays browsable instead of silting up.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VdfCFyIIqWZ8OMwoWsnzQ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VdfCFyIIqWZ8OMwoWsnzQ",
+  "homepage": "https://x.ai/bot/VdfCFyIIqWZ8OMwoWsnzQ",
+  "license": null,
+  "author": "the_simonjester",
+  "tags": [
+    "productivity",
+    "knowledge-base",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
