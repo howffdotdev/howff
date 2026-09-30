@@ -1,0 +1,27 @@
+{
+  "slug": "nemesis",
+  "name": "Nemesis",
+  "category": "ops",
+  "tagline": "A standing adversary seat that breaks your own access designs early",
+  "description": "Holds a standing adversary assignment on your project, and its job is to break what you built on purpose. Prompt injection, credential handling, whatever the weak seam is - it goes after the design so the failures show up in the lab instead of in front of real people.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/i9shKGaHEyG79WsgIT4BG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/i9shKGaHEyG79WsgIT4BG",
+  "homepage": "https://x.ai/bot/i9shKGaHEyG79WsgIT4BG",
+  "license": null,
+  "author": "IAmMichaelSweet",
+  "tags": [
+    "business",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-09-30",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
