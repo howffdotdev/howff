@@ -1,9 +1,9 @@
 {
   "slug": "da-vinci",
   "name": "Da Vinci",
-  "category": "ops",
-  "tagline": "Maps a business idea through the full path from spark to first customers",
-  "description": "Walks a business idea from the spark through to the first customers. Market fit, the product itself, how it gets built and how it gets sold are laid out as one connected path, so you can see where the plan holds and where it still needs work before you spend real money on it.",
+  "category": "development",
+  "tagline": "Maps where parallel agent lanes touch and flags cross-contamination early",
+  "description": "Draws the map of a multi-agent setup: which work lanes touch which, where handoffs and shared files create overlap, and where one lane's output can leak into another's. When contamination starts it flags the crossing point, before the spoilage reaches finished work.",
   "integrations": [],
   "add": {
     "kind": "share-link",
@@ -16,9 +16,9 @@
   "license": null,
   "author": "IAmMichaelSweet",
   "tags": [
+    "meta-bot",
+    "agent-team",
     "business",
-    "strategy",
-    "decision-support",
     "on-demand"
   ],
   "verified": false,
