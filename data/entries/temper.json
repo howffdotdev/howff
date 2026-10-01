@@ -1,0 +1,27 @@
+{
+  "slug": "temper",
+  "name": "Temper",
+  "category": "development",
+  "tagline": "Stress-tests proposed code fixes with attacker agents and your real tests",
+  "description": "Turns accepting a patch into a contest. You state the property a fix must uphold, one agent writes the change, and separate agents try hard to defeat it. The final gate reruns your real test suite on a scratch copy with no model in the loop, and any result that flips between identical reruns counts as a failure.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9Zp-JZWckPEjwBPp2EGtX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9Zp-JZWckPEjwBPp2EGtX",
+  "homepage": "https://x.ai/bot/9Zp-JZWckPEjwBPp2EGtX",
+  "license": null,
+  "author": "the_Arow_H",
+  "tags": [
+    "developer",
+    "engineering",
+    "agent-team",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

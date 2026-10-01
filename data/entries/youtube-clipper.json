@@ -1,0 +1,27 @@
+{
+  "slug": "youtube-clipper",
+  "name": "YouTube Clipper",
+  "category": "marketing",
+  "tagline": "Turn a link and a timestamp into a downloadable high-resolution clip",
+  "description": "Hand it a YouTube URL with a timestamp, or just say which part of the video you are after, and it returns that stretch as an mp4 file. Exports go out at up to 4K resolution, dropping to whatever lower quality the source actually offers. Built for creators pulling short, shareable pieces out of long uploads.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/H2qTNvMCgLSoL8FhSESlk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/H2qTNvMCgLSoL8FhSESlk",
+  "homepage": "https://x.ai/bot/H2qTNvMCgLSoL8FhSESlk",
+  "license": null,
+  "author": "itsmechase",
+  "tags": [
+    "youtube",
+    "video",
+    "content",
+    "creator"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

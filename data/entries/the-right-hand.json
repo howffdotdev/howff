@@ -1,0 +1,27 @@
+{
+  "slug": "the-right-hand",
+  "name": "The Right Hand",
+  "category": "development",
+  "tagline": "Dispatches work across your bot fleet and queues what needs your sign-off",
+  "description": "Sits above a collection of Grok Bots the way a chief of staff sits above a team. Every incoming job goes to the specialist best placed to do it, with a defined deliverable and a clear stopping point attached. Whatever genuinely needs a human decision lands in one queue where you approve, edit or skip it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7Fop1sRnzjv3CB9vWsHJD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7Fop1sRnzjv3CB9vWsHJD",
+  "homepage": "https://x.ai/bot/7Fop1sRnzjv3CB9vWsHJD",
+  "license": null,
+  "author": "AirbossHVAC",
+  "tags": [
+    "agent-team",
+    "meta-bot",
+    "productivity",
+    "business"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

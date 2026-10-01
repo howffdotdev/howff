@@ -1,0 +1,27 @@
+{
+  "slug": "whop-economic-intelligence",
+  "name": "Whop Economic Intelligence",
+  "category": "ops",
+  "tagline": "Names the single next growth move for your store, then proves it worked",
+  "description": "Trained on six and a half billion dollars of marketplace transactions, so advice starts from what actually moved revenue for sellers like you. It picks the one action worth taking now and shows the evidence behind it, carries the action out only after you say yes, then re-checks the ledger to confirm the numbers moved.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/M2ZLrLAUFFU0fFf6Aq28c",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/M2ZLrLAUFFU0fFf6Aq28c",
+  "homepage": "https://x.ai/bot/M2ZLrLAUFFU0fFf6Aq28c",
+  "license": null,
+  "author": "ColinMcDermott",
+  "tags": [
+    "business",
+    "growth",
+    "data",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

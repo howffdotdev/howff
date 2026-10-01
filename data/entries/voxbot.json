@@ -1,0 +1,27 @@
+{
+  "slug": "voxbot",
+  "name": "VoxBot",
+  "category": "productivity",
+  "tagline": "Puts real calls through your own telephony and voice accounts",
+  "description": "Runs real phone calls through telephony and voice accounts you connect yourself. Outbound calls are placed on request against a scripted brief, inbound callers face an authentication gate once you set one, and you choose which voice answers. Spend and numbers stay on your own accounts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Xm31xkpbR3rr_b_zJauoq",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Xm31xkpbR3rr_b_zJauoq",
+  "homepage": "https://x.ai/bot/Xm31xkpbR3rr_b_zJauoq",
+  "license": null,
+  "author": "andrewslaptop",
+  "tags": [
+    "automation",
+    "business",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
