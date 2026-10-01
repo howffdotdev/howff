@@ -1,0 +1,27 @@
+{
+  "slug": "bill",
+  "name": "Bill",
+  "category": "finance",
+  "tagline": "Audits your phone bill for overcharges, then argues the case with support",
+  "description": "An advocate for your wireless account. It reads past bills and usage for charges that should not be there and credits you never received, then argues the case in the carrier's own support channel, pushing past the automated assistant to human reps and supervisors. It works on your account, at your direction.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Zq7A3Opad78rsoj8eoFay",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Zq7A3Opad78rsoj8eoFay",
+  "homepage": "https://x.ai/bot/Zq7A3Opad78rsoj8eoFay",
+  "license": null,
+  "author": "congressdj",
+  "tags": [
+    "saving-money",
+    "finance",
+    "personal",
+    "support"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

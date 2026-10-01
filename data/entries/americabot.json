@@ -1,0 +1,26 @@
+{
+  "slug": "americabot",
+  "name": "AmericaBot",
+  "category": "personal",
+  "tagline": "Plain-English answers about US government services and where to apply",
+  "description": "A front door to america.gov for people who want a straight answer instead of a portal maze. Ask what a service does, whether you qualify, or where the official application lives, and it explains in ordinary language and points you at the right government page. An optional tour shows what it can do, and you can skip it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/JI_vqjMDn_w7wFUw-G1UR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/JI_vqjMDn_w7wFUw-G1UR",
+  "homepage": "https://x.ai/bot/JI_vqjMDn_w7wFUw-G1UR",
+  "license": null,
+  "author": "andrewslaptop",
+  "tags": [
+    "personal",
+    "support",
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

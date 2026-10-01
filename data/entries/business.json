@@ -1,0 +1,27 @@
+{
+  "slug": "business",
+  "name": "Business",
+  "category": "ops",
+  "tagline": "Bookkeeping and a customer list on one auditable open-source database",
+  "description": "Runs your bookkeeping, customer list and site sign-ups on a published open-source database schema for businesses, keeping the complete transaction history rather than collapsing it into totals. Every figure traces back to the entries behind it, so the numbers stay auditable and reproducible. Sized for small operations.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/90lHQMpkeUT1ZWIw6dxkB",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/90lHQMpkeUT1ZWIw6dxkB",
+  "homepage": "https://x.ai/bot/90lHQMpkeUT1ZWIw6dxkB",
+  "license": null,
+  "author": "ArtJazd",
+  "tags": [
+    "business",
+    "back-office",
+    "data",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "competitive-landscape-desk",
+  "name": "Competitive Landscape Desk",
+  "category": "ops",
+  "tagline": "A source-backed rival table that ends in one clear recommendation",
+  "description": "Give it your product and your market and it builds a side-by-side table of the rivals you are up against, with sources attached to each claim. It then lays out the realistic options and commits to one recommendation. You decide what leaves the desk - nothing goes out on its own.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/2pBIwrTpcLT7kDQ3NNGxY",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/2pBIwrTpcLT7kDQ3NNGxY",
+  "homepage": "https://x.ai/bot/2pBIwrTpcLT7kDQ3NNGxY",
+  "license": null,
+  "author": "Cypher0x9",
+  "tags": [
+    "business",
+    "sales",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "bot-team-health-check",
+  "name": "Bot Team Health Check",
+  "category": "development",
+  "tagline": "Audits how your assistant fleet is configured and returns one fix list",
+  "description": "A review pass over the assistants you have already built. It reads how each is configured, looks for setup that will cause trouble later, and comes back with one numbered list: what is wrong, what change fixes it, who acts, and what waits on your decision. It changes nothing itself: no edits, additions or deletions.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/nLVsSuD8_hN5rhLTGtbw9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/nLVsSuD8_hN5rhLTGtbw9",
+  "homepage": "https://x.ai/bot/nLVsSuD8_hN5rhLTGtbw9",
+  "license": null,
+  "author": "antoniostoner",
+  "tags": [
+    "meta-bot",
+    "ops",
+    "productivity",
+    "business"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

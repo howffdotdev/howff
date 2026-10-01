@@ -1,0 +1,27 @@
+{
+  "slug": "codey",
+  "name": "Codey",
+  "category": "development",
+  "tagline": "A cautious coding partner that never merges or deploys without your go",
+  "description": "A coding collaborator that errs on the side of asking. It proposes changes and can open a pull request when you request one, but merging, publishing and deploying all wait for an explicit go from you. Useful on repos where an unreviewed automated write is the thing you most want to avoid.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XoKZHbjmYSaOZO1Z4LmSf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XoKZHbjmYSaOZO1Z4LmSf",
+  "homepage": "https://x.ai/bot/XoKZHbjmYSaOZO1Z4LmSf",
+  "license": null,
+  "author": "SergioTigera",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

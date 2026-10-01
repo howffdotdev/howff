@@ -1,0 +1,27 @@
+{
+  "slug": "agent-37",
+  "name": "Agent 37",
+  "category": "development",
+  "tagline": "Gives a second opinion that hunts past the obvious expert answer",
+  "description": "A strategist for problems where the conventional answer feels thin. It first states plainly what a competent specialist would recommend, then searches unrelated fields for a cheap, unlikely mechanism that might beat it. The unusual route only replaces the standard one when payoff times odds clearly justify the switch.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/io4WlxSSNdGzYQKgcmfpw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/io4WlxSSNdGzYQKgcmfpw",
+  "homepage": "https://x.ai/bot/io4WlxSSNdGzYQKgcmfpw",
+  "license": null,
+  "author": "the_Arow_H",
+  "tags": [
+    "developer",
+    "decision-support",
+    "research",
+    "business"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

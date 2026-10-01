@@ -1,0 +1,27 @@
+{
+  "slug": "bot-doctor",
+  "name": "Bot Doctor",
+  "category": "development",
+  "tagline": "Diagnoses an assistant that has gone vague, then proposes repairs you approve",
+  "description": "For an assistant that has lost its edge and started forgetting things or ignoring what you asked. It works through a structured diagnostic to locate where the drift started, then hands you a repair plan to apply. Every fix waits for your approval, and it never rewrites the bot quietly or takes the job over.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ug20hy7rQtr37O8IBoeSm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ug20hy7rQtr37O8IBoeSm",
+  "homepage": "https://x.ai/bot/ug20hy7rQtr37O8IBoeSm",
+  "license": null,
+  "author": "sal_habash",
+  "tags": [
+    "developer",
+    "meta-bot",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
