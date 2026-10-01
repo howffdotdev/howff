@@ -1,0 +1,27 @@
+{
+  "slug": "grantogre",
+  "name": "GrantOgre",
+  "category": "ops",
+  "tagline": "Finds currently-open funding programmes and prepares the application pack",
+  "description": "Searches for funding programmes that are currently open and genuinely fit the applicant, whether that is a business, a nonprofit, or a client project you are running. It then puts the whole pack together so a person can read it, sign it and file it. Nothing is ever submitted on its own.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/WXC1m-5Iiyu1IyvBEt9Va",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/WXC1m-5Iiyu1IyvBEt9Va",
+  "homepage": "https://x.ai/bot/WXC1m-5Iiyu1IyvBEt9Va",
+  "license": null,
+  "author": "HoneybadgerFan4",
+  "tags": [
+    "business",
+    "back-office",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

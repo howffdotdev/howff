@@ -1,0 +1,27 @@
+{
+  "slug": "game-deals-radar",
+  "name": "Game Deals Radar",
+  "category": "personal",
+  "tagline": "A daily roundup of live game sales across the four big stores",
+  "description": "Collects the discounts running now on Xbox, PlayStation, Switch and Steam into one short daily read, filtering out expired tags and fake markdowns so what you see is genuinely on sale. Keep a wishlist and it watches those titles too, flagging the moment one falls to the price you named. It never buys anything.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/l8tq3o7JcvC-YFV2HaHfu",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/l8tq3o7JcvC-YFV2HaHfu",
+  "homepage": "https://x.ai/bot/l8tq3o7JcvC-YFV2HaHfu",
+  "license": null,
+  "author": "JPipo86",
+  "tags": [
+    "shopping",
+    "saving-money",
+    "monitoring",
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

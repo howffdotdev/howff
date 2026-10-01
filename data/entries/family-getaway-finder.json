@@ -1,0 +1,26 @@
+{
+  "slug": "family-getaway-finder",
+  "name": "Family Getaway Finder",
+  "category": "personal",
+  "tagline": "Shortlists family stays with free cancellation around your real dates",
+  "description": "Finds places a family can actually stay for a weekend or a three-to-four-night break, and only suggests options that come with free cancellation. If a child's sports fixture fixes the dates, it builds the trip around that game instead of making you work backwards. It stops at the shortlist; you book and pay.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/j2IJb0gsBSzeoYCJ7vWHD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/j2IJb0gsBSzeoYCJ7vWHD",
+  "homepage": "https://x.ai/bot/j2IJb0gsBSzeoYCJ7vWHD",
+  "license": null,
+  "author": "antoniostoner",
+  "tags": [
+    "family",
+    "travel",
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

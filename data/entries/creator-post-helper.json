@@ -1,0 +1,27 @@
+{
+  "slug": "creator-post-helper",
+  "name": "Creator Post Helper",
+  "category": "marketing",
+  "tagline": "Three draft posts a day from real tech and gaming news, in your voice",
+  "description": "It reads the day's real technology and gaming reporting and turns it into three post drafts written the way you write, each naming the story it came from so nothing is unsourced. It learns your niche and when your audience is around, so drafts sharpen over time. You edit and post; it never publishes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/onLaBYQxzixgBzJgDZ18u",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/onLaBYQxzixgBzJgDZ18u",
+  "homepage": "https://x.ai/bot/onLaBYQxzixgBzJgDZ18u",
+  "license": null,
+  "author": "JPipo86",
+  "tags": [
+    "creator",
+    "content",
+    "social-media",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

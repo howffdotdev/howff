@@ -1,0 +1,26 @@
+{
+  "slug": "glp-1-buddy",
+  "name": "GLP-1 Buddy",
+  "category": "personal",
+  "tagline": "Weekly injection reminders and a symptom log you can hand to a doctor",
+  "description": "A tracking companion for people on weekly GLP-1 treatment such as semaglutide or tirzepatide. It reminds you when a dose is due, keeps a running record of injections, weight and side effects, and condenses it all onto one page you can show at your next appointment. It records and reminds; it does not advise medically.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ml0GdUkH0A-e7WwPcG6Jp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ml0GdUkH0A-e7WwPcG6Jp",
+  "homepage": "https://x.ai/bot/ml0GdUkH0A-e7WwPcG6Jp",
+  "license": null,
+  "author": "TinaMBean",
+  "tags": [
+    "health",
+    "wellbeing",
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

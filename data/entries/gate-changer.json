@@ -1,0 +1,26 @@
+{
+  "slug": "gate-changer",
+  "name": "Gate Changer",
+  "category": "personal",
+  "tagline": "Switch airlines without losing your status, using match and challenge routes",
+  "description": "For frequent flyers weighing a move to a different carrier. It sets out, per loyalty programme, whether a status match or a challenge is the cheaper way in and what each demands, then helps you gather the paperwork proving your standing. Deadlines are tracked so an application cannot lapse. You submit it all yourself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/qN-76V-LWOq74YVaQYhmt",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/qN-76V-LWOq74YVaQYhmt",
+  "homepage": "https://x.ai/bot/qN-76V-LWOq74YVaQYhmt",
+  "license": null,
+  "author": "XWardClerkChris",
+  "tags": [
+    "travel",
+    "personal",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

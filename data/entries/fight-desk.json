@@ -1,0 +1,26 @@
+{
+  "slug": "fight-desk",
+  "name": "Fight Desk",
+  "category": "personal",
+  "tagline": "Manage a stable of AI fighters across duels, gauntlets and dungeon runs",
+  "description": "A roster manager for the AgentBorn champion game. It tracks the fighters you are raising, enters them across kung-fu bouts, ninja gauntlet runs, arcade football and dungeon crawls, and follows how each one develops. Every bout produces a public replay page you can send to friends.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/BTFxr9l6QaZ2iS9lHVpDM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/BTFxr9l6QaZ2iS9lHVpDM",
+  "homepage": "https://x.ai/bot/BTFxr9l6QaZ2iS9lHVpDM",
+  "license": null,
+  "author": "AgentBornGG",
+  "tags": [
+    "personal",
+    "social-media",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "financial-advisor",
+  "name": "Financial Advisor",
+  "category": "personal",
+  "tagline": "Everyday budgeting and savings planning over your own account balances",
+  "description": "A plain-money coach for ordinary months rather than markets. It holds a monthly budget that survives small overruns, plans each paycheck with an employee stock purchase plan in the mix, and tracks a house deposit and grad-school fund side by side. Bank and brokerage links are read-only: it sees balances, moves nothing.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/FlK_S-je8TVcA-kH9r40p",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/FlK_S-je8TVcA-kH9r40p",
+  "homepage": "https://x.ai/bot/FlK_S-je8TVcA-kH9r40p",
+  "license": null,
+  "author": "shamash31",
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
