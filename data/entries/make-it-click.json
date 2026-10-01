@@ -1,0 +1,27 @@
+{
+  "slug": "make-it-click",
+  "name": "Make It Click",
+  "category": "personal",
+  "tagline": "Explains new material by building on knowledge you already have",
+  "description": "A study companion that begins with the knowledge you already hold rather than a textbook chapter. Give it a subject and it builds the explanation out of ideas you are comfortable with, so each new concept has something to attach to. Aimed at anyone who bounced off a topic once and wants it to land this time.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_zzfxlEvWwRKyQVPLB14i",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_zzfxlEvWwRKyQVPLB14i",
+  "homepage": "https://x.ai/bot/_zzfxlEvWwRKyQVPLB14i",
+  "license": null,
+  "author": "lenabuyan",
+  "tags": [
+    "personal",
+    "learning",
+    "student",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "jobgod",
+  "name": "JobGod",
+  "category": "personal",
+  "tagline": "Runs your whole job hunt from intake to ready-to-send applications",
+  "description": "Carries a job search end to end in one place. A setup wizard captures your background, a spreadsheet keeps every application and its stage visible, and scout digests land only after you approve them. Resume rewrites wait for your sign-off, and finished applications are packaged so you can submit them yourself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-ZNR2GLCmvAdhZ4r_6XA2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-ZNR2GLCmvAdhZ4r_6XA2",
+  "homepage": "https://x.ai/bot/-ZNR2GLCmvAdhZ4r_6XA2",
+  "license": null,
+  "author": "DevinSoto",
+  "tags": [
+    "personal",
+    "productivity",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

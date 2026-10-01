@@ -1,0 +1,27 @@
+{
+  "slug": "heartbeat-dreamer",
+  "name": "Heartbeat Dreamer",
+  "category": "development",
+  "tagline": "A read-only scout that grades what changed and reports it up the chain",
+  "description": "A subordinate researcher that never sends a message of its own. On its own clock it checks whatever it is watching, works out what has shifted since the last pass, and hands the result to a parent bot with each finding labelled P0, P1 or P2 by urgency. Its job is observation and triage only, never delivery.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/mDdDU-Ex2yDqySZ5hiTt8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/mDdDU-Ex2yDqySZ5hiTt8",
+  "homepage": "https://x.ai/bot/mDdDU-Ex2yDqySZ5hiTt8",
+  "license": null,
+  "author": "theaaron",
+  "tags": [
+    "meta-bot",
+    "agent-team",
+    "monitoring",
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "inbox-triage-desk",
+  "name": "Inbox Triage Desk",
+  "category": "productivity",
+  "tagline": "Puts every message in one of four lanes, with the actual ask quoted",
+  "description": "Every message lands in one of four lanes - answer, hand off, put on the calendar, or keep for reference - and the actual request in each one is quoted so you see what is really being asked. Deadlines are pulled forward rather than buried, and a draft reply waits with the lane. Nothing is sent or archived without you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/soRR-1IslCTX7U4YiBg3Y",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/soRR-1IslCTX7U4YiBg3Y",
+  "homepage": "https://x.ai/bot/soRR-1IslCTX7U4YiBg3Y",
+  "license": null,
+  "author": "Cypher0x9",
+  "tags": [
+    "email",
+    "productivity",
+    "business",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

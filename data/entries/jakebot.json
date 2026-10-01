@@ -1,0 +1,27 @@
+{
+  "slug": "jakebot",
+  "name": "Jakebot",
+  "category": "marketing",
+  "tagline": "A storybook pal from the nineties who helps you tell your own story",
+  "description": "Built around an original storybook character its creator wrote, updated into a coach for your life rather than the narrator of his. It walks through its reasoning out loud, keeps a log of every change you make, and points you toward communities that match what you are into.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5OjTxkF_Lgn75n0plYPgn",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5OjTxkF_Lgn75n0plYPgn",
+  "homepage": "https://x.ai/bot/5OjTxkF_Lgn75n0plYPgn",
+  "license": null,
+  "author": "Rune_King_Jake",
+  "tags": [
+    "creator",
+    "content",
+    "personal",
+    "social-media"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

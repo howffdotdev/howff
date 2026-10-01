@@ -1,0 +1,26 @@
+{
+  "slug": "kung-fu-saga",
+  "name": "Kung Fu Saga",
+  "category": "personal",
+  "tagline": "A Kung Fu Saga guide: picking a class, building up, beating bosses, gear",
+  "description": "An interactive guide companion for Kung Fu Saga players. Ask it about class selection, build paths, leveling routes or a specific boss fight and it walks you through the trade-offs. It also weighs gear calls, including when an item is worth saving for and when spending now is the better move.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/iv-6BncmS0G5UWrxc9tN7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/iv-6BncmS0G5UWrxc9tN7",
+  "homepage": "https://x.ai/bot/iv-6BncmS0G5UWrxc9tN7",
+  "license": null,
+  "author": "TerpGPT",
+  "tags": [
+    "personal",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

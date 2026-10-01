@@ -1,0 +1,27 @@
+{
+  "slug": "meeting-recap-desk",
+  "name": "Meeting Recap Desk",
+  "category": "ops",
+  "tagline": "Turns meeting notes into decisions, follow-ups and named owners",
+  "description": "Hand it your raw meeting notes or a transcript and it comes back with a tidy recap: what was actually decided, which follow-ups are now due, and one owner against each. The point is that nothing agreed in the room quietly evaporates afterwards. Nothing is sent anywhere without your sign-off.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/pmHKMlkRfVnvDS5MfRTS8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/pmHKMlkRfVnvDS5MfRTS8",
+  "homepage": "https://x.ai/bot/pmHKMlkRfVnvDS5MfRTS8",
+  "license": null,
+  "author": "Cypher0x9",
+  "tags": [
+    "business",
+    "meetings",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "homework-coach-desk",
+  "name": "Homework Coach Desk",
+  "category": "personal",
+  "tagline": "Socratic homework help for grade-schoolers that refuses to give answers",
+  "description": "Works through schoolwork with a child by asking guiding questions and pausing so the child checks their own attempt, keeping the learning on their side. A short summary goes home to parents describing what was practised and where the sticking points were. For graded work it holds back the solution.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/mkRmzjWBqKTB06jNFRjMI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/mkRmzjWBqKTB06jNFRjMI",
+  "homepage": "https://x.ai/bot/mkRmzjWBqKTB06jNFRjMI",
+  "license": null,
+  "author": "Cypher0x9",
+  "tags": [
+    "family",
+    "student",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
