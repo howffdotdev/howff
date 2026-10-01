@@ -1,0 +1,27 @@
+{
+  "slug": "possessions",
+  "name": "POSSESSIONS",
+  "category": "personal",
+  "tagline": "Treat your household's stuff, cars and accounts as one tracked portfolio",
+  "description": "Treats your household as one portfolio rather than a pile of receipts. Log what you paid for furniture, vehicles, property and accounts, and it follows each item's value against that cost, totals profits on things you flipped, and charts net worth over time. A handoff mode lays the same picture out for family.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_AtzRQVYEzMUS8QsanARG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_AtzRQVYEzMUS8QsanARG",
+  "homepage": "https://x.ai/bot/_AtzRQVYEzMUS8QsanARG",
+  "license": null,
+  "author": "bill_mitchell_",
+  "tags": [
+    "personal",
+    "finance",
+    "home",
+    "family"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

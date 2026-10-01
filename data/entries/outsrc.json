@@ -1,0 +1,27 @@
+{
+  "slug": "outsrc",
+  "name": "Outsrc",
+  "category": "development",
+  "tagline": "Routes coding jobs to the terminal agents already installed on your machine",
+  "description": "A local dispatcher that farms your bot's programming work out to the command-line coding agents you already pay for, naming Claude Code, Codex and xAI's Grok Build among them. Every job runs in a fresh git worktree so nothing collides, and the result returns as a diff you review before keeping it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/FdogFaBe5Y2LWMc-bmsAg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/FdogFaBe5Y2LWMc-bmsAg",
+  "homepage": "https://x.ai/bot/FdogFaBe5Y2LWMc-bmsAg",
+  "license": null,
+  "author": "edtadros",
+  "tags": [
+    "developer",
+    "engineering",
+    "meta-bot",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

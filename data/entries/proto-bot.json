@@ -1,0 +1,29 @@
+{
+  "slug": "proto-bot",
+  "name": "Proto Bot",
+  "category": "development",
+  "tagline": "Turns daily ideas into live shareable prototypes as draft pull requests with screenshots and a short video",
+  "description": "Turns your daily ideas into live, shareable prototypes in your real app, built as draft pull requests with click-path screenshots and a short video, plus Figma mocks, images, and memes on the side. Never merges, publishes, or shares without your yes.",
+  "integrations": [
+    "Slack",
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/p4sSEZV7xqcBgdT7m2O8i",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/p4sSEZV7xqcBgdT7m2O8i",
+  "homepage": "https://x.ai/bot/p4sSEZV7xqcBgdT7m2O8i",
+  "license": null,
+  "author": "Shub",
+  "tags": [
+    "development",
+    "prototyping",
+    "product"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

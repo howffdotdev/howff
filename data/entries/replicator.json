@@ -1,0 +1,27 @@
+{
+  "slug": "replicator",
+  "name": "Replicator",
+  "category": "development",
+  "tagline": "Rebuilds a Grok bot as a ChatGPT Dot from a paste-ready kit",
+  "description": "A migration tool between assistant platforms. It reads one of your Grok bots and rebuilds the equivalent setup as a ChatGPT Dot, producing a kit you can paste in yourself. If you are signed in on ChatGPT desktop it can apply the clone there too, though the paste kit works on its own.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/WszXQvrcVT5tSqlASLijR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/WszXQvrcVT5tSqlASLijR",
+  "homepage": "https://x.ai/bot/WszXQvrcVT5tSqlASLijR",
+  "license": null,
+  "author": "monomyth",
+  "tags": [
+    "developer",
+    "meta-bot",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

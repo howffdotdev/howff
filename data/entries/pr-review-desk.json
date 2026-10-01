@@ -1,0 +1,27 @@
+{
+  "slug": "pr-review-desk",
+  "name": "PR Review Desk",
+  "category": "development",
+  "tagline": "Line-anchored pull-request findings, worst problems surfaced first",
+  "description": "Point it at a pull request and it returns a single review packet where every finding is pinned to the exact line it concerns. Findings are ranked so the ones that would break the build surface before the cosmetic nits. Approval, merging and commenting stay with you - the bot stops at the packet.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5tp4v8_Z22suR9biJ_9wa",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5tp4v8_Z22suR9biJ_9wa",
+  "homepage": "https://x.ai/bot/5tp4v8_Z22suR9biJ_9wa",
+  "license": null,
+  "author": "Cypher0x9",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

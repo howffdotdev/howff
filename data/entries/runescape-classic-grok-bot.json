@@ -1,0 +1,26 @@
+{
+  "slug": "runescape-classic-grok-bot",
+  "name": "Runescape Classic Grok Bot",
+  "category": "personal",
+  "tagline": "A beginner companion for RuneScape Classic: controls, gear, banking, combat",
+  "description": "A walkthrough companion for anyone picking up RuneScape Classic for the first time. It starts with first-session controls such as moving, equipping, banking and attacking, then gets into gear choices and early combat. It also explains the invite-a-friend scheme, for anyone bringing another player along.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0JrDm0jPnwX5i6nzl689d",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/0JrDm0jPnwX5i6nzl689d",
+  "homepage": "https://x.ai/bot/0JrDm0jPnwX5i6nzl689d",
+  "license": null,
+  "author": "TerpGPT",
+  "tags": [
+    "personal",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

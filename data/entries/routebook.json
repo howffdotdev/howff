@@ -1,0 +1,27 @@
+{
+  "slug": "routebook",
+  "name": "Routebook",
+  "category": "ops",
+  "tagline": "A travel-agency operations desk: leads, quotes, bookings, guest paperwork",
+  "description": "An operations desk for travel and tour firms, not a holiday planner for consumers. It keeps leads, quotations, bookings, flights and ground transport in order, and prepares the paperwork guests need. Confirmations that go out to hotels, ferry lines and ticket sellers are drafted, then wait for a person to approve them.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XGri4qPORtUxnDruyF_da",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XGri4qPORtUxnDruyF_da",
+  "homepage": "https://x.ai/bot/XGri4qPORtUxnDruyF_da",
+  "license": null,
+  "author": "docjais",
+  "tags": [
+    "business",
+    "travel",
+    "ops",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
