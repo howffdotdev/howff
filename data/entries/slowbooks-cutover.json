@@ -1,0 +1,27 @@
+{
+  "slug": "slowbooks-cutover",
+  "name": "SlowBooks Cutover",
+  "category": "ops",
+  "tagline": "Move one QuickBooks Desktop company to SlowBooks and prove the numbers",
+  "description": "A guided migration for one company file, run through Conductor with the source held read-only. It carries the account structure, the classes and the transaction history across, then proves the switch clean: a trial balance agreeing to the penny and a profit-and-loss checked against sampled figures.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/IpwtPuGwCQ-y24b4loSBh",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/IpwtPuGwCQ-y24b4loSBh",
+  "homepage": "https://x.ai/bot/IpwtPuGwCQ-y24b4loSBh",
+  "license": null,
+  "author": "jschnett",
+  "tags": [
+    "back-office",
+    "finance",
+    "business",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

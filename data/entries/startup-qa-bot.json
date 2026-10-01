@@ -1,0 +1,28 @@
+{
+  "slug": "startup-qa-bot",
+  "name": "Startup QA Bot",
+  "category": "development",
+  "tagline": "Weekday product walks in a test account that report what shipped, broke, and needs your call",
+  "description": "Walks your product every weekday in its own test account and tells you what shipped, what got unshipped, what broke (with repro steps and screenshots), and which calls need you. Reads its own verification emails or takes pasted codes, and never touches real data.",
+  "integrations": [
+    "GitHub"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XBauviUoNcdi05-ExoOo4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XBauviUoNcdi05-ExoOo4",
+  "homepage": "https://x.ai/bot/XBauviUoNcdi05-ExoOo4",
+  "license": null,
+  "author": "Shub",
+  "tags": [
+    "development",
+    "qa",
+    "monitoring"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

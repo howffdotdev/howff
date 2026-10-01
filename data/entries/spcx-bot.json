@@ -1,0 +1,28 @@
+{
+  "slug": "spcx-bot",
+  "name": "$SPCX Bot",
+  "category": "finance",
+  "tagline": "A single-ticker research desk for SpaceX post-IPO, grounded in filings",
+  "description": "A research desk dedicated to one security: SpaceX after its listing. Answers are anchored to primary material - the listing prospectus, investor decks and earnings calls - rather than commentary, and it follows the news that genuinely shifts the price. Read-only throughout: no orders, no wallet, no return predictions.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/TAD58vAxB2qfo2pY1jtjJ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/TAD58vAxB2qfo2pY1jtjJ",
+  "homepage": "https://x.ai/bot/TAD58vAxB2qfo2pY1jtjJ",
+  "license": null,
+  "author": "jim_CFA_CFP",
+  "tags": [
+    "investor",
+    "finance",
+    "research",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

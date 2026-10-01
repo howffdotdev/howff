@@ -1,0 +1,27 @@
+{
+  "slug": "safari-27-mcp",
+  "name": "Safari 27 MCP",
+  "category": "development",
+  "tagline": "Drives Safari's WebDriver interface to smoke-test online storefronts",
+  "description": "A QA specialist for online storefronts, built on Safari's WebDriver tooling over its MCP interface. It runs accessibility-tree smoke tests, confirms page structure stays readable to automated agents, and checks behaviour before a DNS change lands. A weekly loop keeps the suite current, with evidence required each run.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8obMM4mRWRLf51EB2n4JV",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8obMM4mRWRLf51EB2n4JV",
+  "homepage": "https://x.ai/bot/8obMM4mRWRLf51EB2n4JV",
+  "license": null,
+  "author": "PixelRainbowNFT",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "business"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

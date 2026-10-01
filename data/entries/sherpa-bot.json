@@ -1,0 +1,27 @@
+{
+  "slug": "sherpa-bot",
+  "name": "Sherpa Bot",
+  "category": "ops",
+  "tagline": "A founder readiness check that lands on one problem, one customer, one action",
+  "description": "Built for people who say they want to start something but have not started. It opens with a readiness screen to see whether you are in motion, then steers you toward one specific problem worth solving and one customer who has it. Each session ends with exactly one thing to do next, on a two-week clock.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/CGmwZlk_FVNYJO_VruSFZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/CGmwZlk_FVNYJO_VruSFZ",
+  "homepage": "https://x.ai/bot/CGmwZlk_FVNYJO_VruSFZ",
+  "license": null,
+  "author": "MorganWKhan",
+  "tags": [
+    "business",
+    "decision-support",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

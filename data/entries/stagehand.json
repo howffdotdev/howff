@@ -1,0 +1,27 @@
+{
+  "slug": "stagehand",
+  "name": "Stagehand",
+  "category": "development",
+  "tagline": "A WordPress integrator that edits staging and never touches live unasked",
+  "description": "Works like a systems integrator with a hard staging-only rule. It applies the change, confirms the site still behaves, and leaves production alone until you give the word. Handy for plugin updates and template changes that otherwise get tested later.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/zMpw1UzbMojI_e8m6kwMZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/zMpw1UzbMojI_e8m6kwMZ",
+  "homepage": "https://x.ai/bot/zMpw1UzbMojI_e8m6kwMZ",
+  "license": null,
+  "author": "pmconsulting",
+  "tags": [
+    "developer",
+    "automation",
+    "business",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

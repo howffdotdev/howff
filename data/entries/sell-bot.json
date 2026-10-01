@@ -1,0 +1,31 @@
+{
+  "slug": "sell-bot",
+  "name": "Sell Bot",
+  "category": "sales",
+  "tagline": "Works the full customer journey from outreach and booked calls through proposals, activation and expansion",
+  "description": "Works your whole customer journey: outreach in your voice, booked calls with prep and follow-ups, proposals and contracts, then activation, support and billing answers, and expansion. Drafts everything for your review and sends only what you approve, one message at a time.",
+  "integrations": [
+    "Gmail",
+    "Google Calendar",
+    "Slack",
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/znrhzY4AYMg4v3QTfU0IJ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/znrhzY4AYMg4v3QTfU0IJ",
+  "homepage": "https://x.ai/bot/znrhzY4AYMg4v3QTfU0IJ",
+  "license": null,
+  "author": "Shub",
+  "tags": [
+    "sales",
+    "outreach",
+    "pipeline"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

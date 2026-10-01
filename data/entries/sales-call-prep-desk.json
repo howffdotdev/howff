@@ -1,0 +1,27 @@
+{
+  "slug": "sales-call-prep-desk",
+  "name": "Sales Call Prep Desk",
+  "category": "sales",
+  "tagline": "A pre-call brief for reps: account facts, discovery questions, objection answers",
+  "description": "Before you dial in, it assembles a short, sourced brief about the account that you can check, then lists the discovery questions worth your time. It maps the objections you are most likely to hit and closes with the specific request that advances the sale. It will not message the customer itself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8QpQcgUVgUpxG5RR4mwnL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8QpQcgUVgUpxG5RR4mwnL",
+  "homepage": "https://x.ai/bot/8QpQcgUVgUpxG5RR4mwnL",
+  "license": null,
+  "author": "Cypher0x9",
+  "tags": [
+    "sales",
+    "business",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-01",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
