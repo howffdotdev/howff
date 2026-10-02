@@ -1,0 +1,29 @@
+{
+  "slug": "follows",
+  "name": "Follows",
+  "category": "personal",
+  "tagline": "Who followed, who left and who went mutual, every day",
+  "description": "It reads your X follower list and reports the movement: who arrived, who left, and which of the people you follow now follow you back, with a longer recap at the end of each week. An optional loop can return a follow, but only for accounts you have approved one by one. Nothing else on your account is touched.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/z1N3xJerHSoWUz8HxpUer",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/z1N3xJerHSoWUz8HxpUer",
+  "homepage": "https://x.ai/bot/z1N3xJerHSoWUz8HxpUer",
+  "license": null,
+  "author": "iamsethmedina",
+  "tags": [
+    "social-media",
+    "personal",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

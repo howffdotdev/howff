@@ -1,0 +1,29 @@
+{
+  "slug": "distro-bot",
+  "name": "Distro Bot",
+  "category": "marketing",
+  "tagline": "Runs your marketing loop end to end: campaigns, creative, channel analysis, and outbound",
+  "description": "Runs your marketing loop end to end: campaigns on your ad accounts, fresh creative, real channel analysis, timely posts from X and web scans, and outbound until a lead replies. Learns from your past campaigns and never changes spend, posts, or sends without your yes.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XbN6iofs_Qjsi2Od1yjyI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XbN6iofs_Qjsi2Od1yjyI",
+  "homepage": "https://x.ai/bot/XbN6iofs_Qjsi2Od1yjyI",
+  "license": null,
+  "author": "Shub",
+  "tags": [
+    "marketing",
+    "campaigns",
+    "ads",
+    "distribution"
+  ],
+  "verified": false,
+  "added": "2026-10-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

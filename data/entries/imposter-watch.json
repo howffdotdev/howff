@@ -1,0 +1,29 @@
+{
+  "slug": "imposter-watch",
+  "name": "Imposter Watch",
+  "category": "ops",
+  "tagline": "Finds X accounts pretending to be you and queues them for review",
+  "description": "A guard dog for your own handle. It scans public profile pages for copycat handles borrowing your name, your brand names or the people you follow, checks each suspect hard enough to weed out the obvious false positives, and files a short report. Nothing gets submitted to X until you read the list and say go ahead.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4FhgQWGMAq25XrprzX6Dh",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/4FhgQWGMAq25XrprzX6Dh",
+  "homepage": "https://x.ai/bot/4FhgQWGMAq25XrprzX6Dh",
+  "license": null,
+  "author": "RetiredYoungNW",
+  "tags": [
+    "social-media",
+    "monitoring",
+    "personal",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

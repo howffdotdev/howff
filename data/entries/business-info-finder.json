@@ -1,0 +1,27 @@
+{
+  "slug": "business-info-finder",
+  "name": "Business Info Finder",
+  "category": "research",
+  "tagline": "One contact sheet per company or person, ready to scan",
+  "description": "Give it a company name or an individual and it returns a single page laid out for skimming: who owns the entity, which numbers and inboxes reach it, the right person to approach, where they post publicly and when the doors are open. It gathers what is already published and formats it. It never messages anyone for you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/lsg8TX4CiXRGWhkK9T8gN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/lsg8TX4CiXRGWhkK9T8gN",
+  "homepage": "https://x.ai/bot/lsg8TX4CiXRGWhkK9T8gN",
+  "license": null,
+  "author": "Serenejaysew",
+  "tags": [
+    "business",
+    "sales",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

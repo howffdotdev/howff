@@ -1,0 +1,29 @@
+{
+  "slug": "github-trending-scout",
+  "name": "GitHub Trending Scout",
+  "category": "development",
+  "tagline": "A daily digest of the trending repos that match your stack",
+  "description": "Each morning it walks GitHub's trending page and keeps only the projects touching the languages and tools you actually work in. What arrives is a short read: a line or two per repository on what it does and why someone with your setup would care, so you skim a page instead of scrolling hundreds.",
+  "integrations": [
+    "GitHub"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/EklFc0zYAqzkxcALynMj2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/EklFc0zYAqzkxcALynMj2",
+  "homepage": "https://x.ai/bot/EklFc0zYAqzkxcALynMj2",
+  "license": null,
+  "author": "Hussein_M_Ragab",
+  "tags": [
+    "developer",
+    "engineering",
+    "news",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

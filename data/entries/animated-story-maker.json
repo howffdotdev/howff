@@ -1,0 +1,27 @@
+{
+  "slug": "animated-story-maker",
+  "name": "Animated Story Maker",
+  "category": "fun",
+  "tagline": "Turns a premise into a short 3D episode plus per-scene prompts",
+  "description": "Hand it a story idea, a mood, or pictures of the characters you have in mind and it plans a short three-dimensional animated episode around them. You get the scene breakdown plus a paste-ready generation prompt for every shot, so rendering happens on your side. Keeps a cast consistent across instalments.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/pwLrxtrOO9o3kwaVQVU3O",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/pwLrxtrOO9o3kwaVQVU3O",
+  "homepage": "https://x.ai/bot/pwLrxtrOO9o3kwaVQVU3O",
+  "license": null,
+  "author": "karatademada",
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "design"
+  ],
+  "verified": false,
+  "added": "2026-10-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
