@@ -1,0 +1,27 @@
+{
+  "slug": "snag",
+  "name": "Snag",
+  "category": "personal",
+  "tagline": "Pings you the buy link the second a coveted drop goes live",
+  "description": "Tell it which piece of hardware or gear you are chasing and it keeps an eye on the official store listing rather than resellers. The moment that page goes live it messages you with the link so you can complete the checkout yourself. It never places an order and never sees your payment details.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/C9Iy4Zc4v4zldN1dImXtp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/C9Iy4Zc4v4zldN1dImXtp",
+  "homepage": "https://x.ai/bot/C9Iy4Zc4v4zldN1dImXtp",
+  "license": null,
+  "author": "OGeniigma",
+  "tags": [
+    "shopping",
+    "monitoring",
+    "personal",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

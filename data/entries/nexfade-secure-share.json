@@ -1,0 +1,27 @@
+{
+  "slug": "nexfade-secure-share",
+  "name": "NexFade Secure Share",
+  "category": "productivity",
+  "tagline": "Turns files and notes into one-time encrypted NexFade links you can revoke",
+  "description": "Ask it to share something sensitive and it wraps the file or note in a one-time NexFade link instead of pasting the content into the chat. Encryption happens locally, so NexFade only ever receives ciphertext, and you can check a link's status or revoke it. Requires a NexFade account.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s9i2gj-picjq7jFrNWwQt",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s9i2gj-picjq7jFrNWwQt",
+  "homepage": "https://x.ai/bot/s9i2gj-picjq7jFrNWwQt",
+  "license": null,
+  "author": "rynmark-repo",
+  "tags": [
+    "business",
+    "productivity",
+    "data",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

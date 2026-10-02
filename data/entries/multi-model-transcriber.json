@@ -1,0 +1,27 @@
+{
+  "slug": "multi-model-transcriber",
+  "name": "Multi-Model Transcriber",
+  "category": "productivity",
+  "tagline": "Transcribes one file with several Whisper models and diffs them",
+  "description": "Point it at an audio or video file and it runs more than one local speech model across the same recording, then hands you every transcript side by side. Where the versions disagree it marks the passage so you know which words to double-check by ear. Everything is computed on your own machine and no media leaves it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/iQg2eJzD_yun2PDgWvfnz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/iQg2eJzD_yun2PDgWvfnz",
+  "homepage": "https://x.ai/bot/iQg2eJzD_yun2PDgWvfnz",
+  "license": null,
+  "author": "jeffasu",
+  "tags": [
+    "developer",
+    "video",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

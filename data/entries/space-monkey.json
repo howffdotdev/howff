@@ -1,0 +1,27 @@
+{
+  "slug": "space-monkey",
+  "name": "Space Monkey",
+  "category": "fun",
+  "tagline": "Turns any rocket launch into a dark mission-brief web card",
+  "description": "Ask about a specific spaceflight and it assembles the whole story, whether that mission flew, is still on the manifest, was called off, or ended in loss. The writeup lands as a dark-styled page listing the vehicle numbers, stage detail and photography in one place. Good preparation before a webcast.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/438hek2SIHhpHn9FDlQCe",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/438hek2SIHhpHn9FDlQCe",
+  "homepage": "https://x.ai/bot/438hek2SIHhpHn9FDlQCe",
+  "license": null,
+  "author": "monomyth",
+  "tags": [
+    "personal",
+    "research",
+    "news",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "muse",
+  "name": "Muse",
+  "category": "productivity",
+  "tagline": "Drive Meta's Muse assistant from inside your Grok fleet",
+  "description": "Adds Meta's Muse as one more member of your assistant lineup. Work you hand it, whether background research or social tasks across Facebook, Instagram and Threads, runs through Muse's own connected accounts, and drafts come back for your review before anything counts as finished. You stay the approver on every round.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/BJhe9l9IasV0gXFAnNO2W",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/BJhe9l9IasV0gXFAnNO2W",
+  "homepage": "https://x.ai/bot/BJhe9l9IasV0gXFAnNO2W",
+  "license": null,
+  "author": "wiiiimm",
+  "tags": [
+    "meta-bot",
+    "social-media",
+    "research",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-10-02",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
