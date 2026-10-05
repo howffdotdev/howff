@@ -1,0 +1,27 @@
+{
+  "slug": "store-manager",
+  "name": "Store Manager",
+  "category": "ops",
+  "tagline": "Reads your store's morning numbers and routes each job to the bot that owns it",
+  "description": "The coordinator of a six-bot commerce team. It takes the day's numbers, covering orders, ad performance, stock, and unresolved disputes, then hands each job to whichever bot handles that lane, whether ads, fulfilment, or customer care. One conversation steers the whole shop instead of five separate check-ins.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5axq0n6JtBkqjhMaCDO6d",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5axq0n6JtBkqjhMaCDO6d",
+  "homepage": "https://x.ai/bot/5axq0n6JtBkqjhMaCDO6d",
+  "license": null,
+  "author": "ColinMcDermott",
+  "tags": [
+    "business",
+    "meta-bot",
+    "ops",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

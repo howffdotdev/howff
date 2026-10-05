@@ -1,0 +1,27 @@
+{
+  "slug": "serp-specialist",
+  "name": "SERP SPECIALIST",
+  "category": "marketing",
+  "tagline": "Local SEO research from keyword volumes to a pitch-ready preview site",
+  "description": "Name a niche and a few towns and it maps real search volumes across those markets. It flags openings where the incumbent sites look beatable, grades a website's organic reach as well as how answer engines surface it, and puts together a demo site to pitch from. Research and drafting only, with no ranking promises.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/262LyEVXcAKuQuohFeXop",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/262LyEVXcAKuQuohFeXop",
+  "homepage": "https://x.ai/bot/262LyEVXcAKuQuohFeXop",
+  "license": null,
+  "author": "ascndnt_alchmy",
+  "tags": [
+    "seo",
+    "business",
+    "marketer",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "stylist",
+  "name": "Stylist",
+  "category": "personal",
+  "tagline": "Send one photo, get an honest style read plus outfits that suit your colouring",
+  "description": "One full-length photo of you on its own gets a frank assessment rather than flattery, then virtual try-ons in the colours that suit you. Haircut ideas, a look for a big event, and a buy-list with verified prices round it out.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/hezLDB16uwnU8khOu3L84",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/hezLDB16uwnU8khOu3L84",
+  "homepage": "https://x.ai/bot/hezLDB16uwnU8khOu3L84",
+  "license": null,
+  "author": "prorookiegamer",
+  "tags": [
+    "shopping",
+    "personal",
+    "life-hacks",
+    "design"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "sergeant-major",
+  "name": "Sergeant Major",
+  "category": "ops",
+  "tagline": "QA drill-sergeant that inspects what your other bots actually produced",
+  "description": "If you run several assistants, this one reviews their output and tells you plainly where it falls short: what is missing, what is wrong, and what has been sitting waiting on you. It does not do the work itself. It is the inspection layer, run after the fact, so gaps surface before they turn into problems.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/TkXI7PlT3q7g3mk7XsICi",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/TkXI7PlT3q7g3mk7XsICi",
+  "homepage": "https://x.ai/bot/TkXI7PlT3q7g3mk7XsICi",
+  "license": null,
+  "author": "HowitzerN",
+  "tags": [
+    "automation",
+    "productivity",
+    "developer",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

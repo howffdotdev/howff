@@ -1,0 +1,28 @@
+{
+  "slug": "subscription-slayer",
+  "name": "Subscription Slayer",
+  "category": "finance",
+  "tagline": "Spot every recurring charge hiding in your statements and stop paying for it",
+  "description": "Drop in a card or bank statement and it lists every subscription that has crept upward, doubled up, or outlived its trial. Each finding comes with a ready-to-send note requesting a cancellation or a better rate. Nothing goes out on its own, you press send.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/2N4oNHRcE-gsXbKn9GcVE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/2N4oNHRcE-gsXbKn9GcVE",
+  "homepage": "https://x.ai/bot/2N4oNHRcE-gsXbKn9GcVE",
+  "license": null,
+  "author": "BTC_Yogi",
+  "tags": [
+    "finance",
+    "saving-money",
+    "personal",
+    "automation",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

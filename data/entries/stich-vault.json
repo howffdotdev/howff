@@ -1,0 +1,27 @@
+{
+  "slug": "stich-vault",
+  "name": "Stich + Vault",
+  "category": "marketing",
+  "tagline": "Stitches phone clips into one MP4 and fetches media from your Epic Vault locker",
+  "description": "Two tools in one desk. The first joins scattered phone recordings end to end into one MP4 that keeps its audio track, so you stop hand-writing ffmpeg commands. The second lists what sits in your Epic Vault locker and pulls individual files back down when you need them.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/LySai4iBlM2ylkDRHppag",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/LySai4iBlM2ylkDRHppag",
+  "homepage": "https://x.ai/bot/LySai4iBlM2ylkDRHppag",
+  "license": null,
+  "author": "Sm0ken42O",
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

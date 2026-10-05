@@ -1,0 +1,27 @@
+{
+  "slug": "shelf-scout",
+  "name": "Shelf Scout",
+  "category": "personal",
+  "tagline": "A weekly book-and-article shelf built from your real working signals",
+  "description": "Instead of serving the usual founder reading canon, it looks at what you have genuinely been working on and stacks books and articles that follow from it. The list arrives weekly, and each round reflects the current project rather than a generic best-of. Read-only curation; you still choose what to open.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/TaRhODlVo4N5mKKH6gTW6",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/TaRhODlVo4N5mKKH6gTW6",
+  "homepage": "https://x.ai/bot/TaRhODlVo4N5mKKH6gTW6",
+  "license": null,
+  "author": "XyberRun",
+  "tags": [
+    "personal",
+    "learning",
+    "scheduled",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

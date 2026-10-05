@@ -1,0 +1,28 @@
+{
+  "slug": "smudge",
+  "name": "Smudge",
+  "category": "writing",
+  "tagline": "Rewrites machine-sounding drafts so they read like a person",
+  "description": "Hand it a draft with that obvious machine polish and it rewrites the phrasing until it reads like something a person typed. It does not hide its work: every tell it removed and every pattern it changed is listed, so you can review the edits and keep only the ones you agree with.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/H6786swUEkqg8xa3MFVLz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/H6786swUEkqg8xa3MFVLz",
+  "homepage": "https://x.ai/bot/H6786swUEkqg8xa3MFVLz",
+  "license": null,
+  "author": "9unsmoke",
+  "tags": [
+    "content",
+    "creator",
+    "productivity",
+    "personal",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

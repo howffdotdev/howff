@@ -1,0 +1,28 @@
+{
+  "slug": "song-meter-birdnet",
+  "name": "Song Meter BirdNET",
+  "category": "research",
+  "tagline": "Runs Song Meter cards through local BirdNET and preps Raven tables",
+  "description": "A field-research workflow for Wildlife Acoustics Song Meter recordings. Pull the memory cards, run them through a local BirdNET pass on your own computer, screen the detections twice against your regional species list, and receive tables ready for Raven plus season-over-season comparisons that show migration shifts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YPzHnM2hsyp4JkI7wxyAG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/YPzHnM2hsyp4JkI7wxyAG",
+  "homepage": "https://x.ai/bot/YPzHnM2hsyp4JkI7wxyAG",
+  "license": null,
+  "author": "scgerber",
+  "tags": [
+    "research",
+    "data",
+    "engineering",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

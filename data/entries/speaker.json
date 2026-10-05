@@ -1,0 +1,28 @@
+{
+  "slug": "speaker",
+  "name": "Speaker",
+  "category": "personal",
+  "tagline": "A truthful running account of your life, checked against your other bots nightly",
+  "description": "Borrowing its name from a well-known science-fiction role, it maintains a truthful, balanced account of you while you are still here to correct it. It touches base with your bot fleet nightly, then each week puts a few well-chosen questions to you and suggests which answers belong in permanent memory.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MYauHGRcP387M8a_2mbNT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MYauHGRcP387M8a_2mbNT",
+  "homepage": "https://x.ai/bot/MYauHGRcP387M8a_2mbNT",
+  "license": null,
+  "author": "BudJohnson",
+  "tags": [
+    "personal",
+    "family",
+    "wellbeing",
+    "knowledge-base",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "shorts-reels-editor",
+  "name": "Shorts & Reels Editor",
+  "category": "marketing",
+  "tagline": "Cuts raw footage into vertical shorts with the hook first and captions on",
+  "description": "Give it your raw footage and it cuts a vertical short that opens with the hook instead of burying it, adds captions, and frames the shot so nothing you need stays hidden behind platform buttons. It keeps the quirks of each short-form app in mind, so one export survives TikTok, Reels, and Shorts without a re-edit.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/G071a96I_2jNBHYK0fJYM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/G071a96I_2jNBHYK0fJYM",
+  "homepage": "https://x.ai/bot/G071a96I_2jNBHYK0fJYM",
+  "license": null,
+  "author": "Draggen75",
+  "tags": [
+    "video",
+    "content",
+    "creator",
+    "social-media"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

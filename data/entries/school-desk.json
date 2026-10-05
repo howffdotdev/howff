@@ -1,0 +1,28 @@
+{
+  "slug": "school-desk",
+  "name": "School Desk",
+  "category": "personal",
+  "tagline": "Turns the school inbox into dated reminders so nothing gets left on the counter",
+  "description": "Aim it at the mailbox the school writes to and every message becomes a dated entry with plenty of lead time. One evening digest covers whatever tomorrow demands, kit to pack, forms to sign, money to send, and quiet days produce no message at all.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/fk_sA7YhYV3Gzb4wNNbvP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/fk_sA7YhYV3Gzb4wNNbvP",
+  "homepage": "https://x.ai/bot/fk_sA7YhYV3Gzb4wNNbvP",
+  "license": null,
+  "author": "BowieHole",
+  "tags": [
+    "family",
+    "calendar",
+    "email",
+    "personal",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
