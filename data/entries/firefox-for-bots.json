@@ -1,0 +1,27 @@
+{
+  "slug": "firefox-for-bots",
+  "name": "Firefox for Bots",
+  "category": "development",
+  "tagline": "Puts Firefox on your bot box beside Chrome, with uBlock and synced logins",
+  "description": "Adds a second browser to your Grok Bot machine so automation is not stuck with Chrome alone. You get an ad blocker from the start, passwords kept in sync for every bot on that box, shared logins either browser can reach, and the built-in VPN held in reserve. Page notifications can be routed to your bots as well.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7v-lRs0HUGjU8zD_0-tGg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7v-lRs0HUGjU8zD_0-tGg",
+  "homepage": "https://x.ai/bot/7v-lRs0HUGjU8zD_0-tGg",
+  "license": null,
+  "author": "garrettRandom99",
+  "tags": [
+    "developer",
+    "automation",
+    "engineering",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

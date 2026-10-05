@@ -1,0 +1,30 @@
+{
+  "slug": "fan-edit-optimus",
+  "name": "Fan Edit Optimus",
+  "category": "personal",
+  "tagline": "Hunts down fan edits of films and series across community edit archives",
+  "description": "Name a film or series and it goes looking for fan-made cuts of it, searching a long-running community Drive archive, the fan-edit corners of Reddit, and a hand-picked list of edit sites. Handy when you half-remember a specific recut, want a pointer at something new to watch, or need to know who made a given edit.",
+  "integrations": [
+    "Reddit"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/DR18SV4AEeeNRcKT1U-0P",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/DR18SV4AEeeNRcKT1U-0P",
+  "homepage": "https://x.ai/bot/DR18SV4AEeeNRcKT1U-0P",
+  "license": null,
+  "author": "FanEditFanClub",
+  "tags": [
+    "personal",
+    "research",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

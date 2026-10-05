@@ -1,0 +1,28 @@
+{
+  "slug": "faqt",
+  "name": "FAQT",
+  "category": "ops",
+  "tagline": "Answers your support inbox only from approved FAQs, with citations",
+  "description": "First-line coverage for a company info@ inbox with a fail-closed design. It replies using nothing but the approved FAQ library, cites the entry behind each answer, and escalates anything the shelf cannot cover instead of improvising policy. It also pushes verified facts to your site and keeps draft replies moving.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/lLH9eC9XM05hWxSQgL6qj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/lLH9eC9XM05hWxSQgL6qj",
+  "homepage": "https://x.ai/bot/lLH9eC9XM05hWxSQgL6qj",
+  "license": null,
+  "author": "ALittleOfLex",
+  "tags": [
+    "business",
+    "support",
+    "knowledge-base",
+    "automation",
+    "email"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

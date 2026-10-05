@@ -1,0 +1,28 @@
+{
+  "slug": "fleet-keeper",
+  "name": "Fleet Keeper",
+  "category": "development",
+  "tagline": "Read-only audit of your Grok bot fleet: duplicates, gaps, stale entries",
+  "description": "Reads through your bot workspace without changing anything and reports what it finds: duplicate bots, overlapping duties, stale entries, setups missing an instructions section. Each suggested fix is sorted into what it will apply once you approve and what stays with you. It never deletes a bot or messages another one.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MH87fY2e7A7WbU0ZBrVCS",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MH87fY2e7A7WbU0ZBrVCS",
+  "homepage": "https://x.ai/bot/MH87fY2e7A7WbU0ZBrVCS",
+  "license": null,
+  "author": "TheCoderBtw",
+  "tags": [
+    "meta-bot",
+    "developer",
+    "productivity",
+    "ops",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

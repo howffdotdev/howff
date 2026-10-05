@@ -1,0 +1,27 @@
+{
+  "slug": "explainer-bot",
+  "name": "Explainer Bot",
+  "category": "marketing",
+  "tagline": "Sets up a local explainer-video pipeline, then turns any topic into a teaching clip",
+  "description": "First it guides you through installing a free, open-source video pipeline on your own Mac. Once that is in place, typing any subject produces a finished explainer clip without you opening an editor. Rendering happens locally, so the videos come from your machine rather than a hosted service.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9ppPlUn9YaDuVx4VAArOR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9ppPlUn9YaDuVx4VAArOR",
+  "homepage": "https://x.ai/bot/9ppPlUn9YaDuVx4VAArOR",
+  "license": null,
+  "author": "Mike",
+  "tags": [
+    "video",
+    "content",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "finance-bot",
+  "name": "Finance Bot",
+  "category": "finance",
+  "tagline": "Turns a business inbox into a running ledger and a month-end profit figure",
+  "description": "It reads a company mailbox without write access, watching for money coming in and going out, and appends each finding as a row in a Google Sheets ledger. Month-end brings a profit-and-loss statement built from those rows, and adding rows is the only change it can make.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/n-LVavRHTPJnFnBS50XTk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/n-LVavRHTPJnFnBS50XTk",
+  "homepage": "https://x.ai/bot/n-LVavRHTPJnFnBS50XTk",
+  "license": null,
+  "author": "johnboyle",
+  "tags": [
+    "finance",
+    "business",
+    "back-office",
+    "automation",
+    "email"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

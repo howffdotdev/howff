@@ -1,0 +1,27 @@
+{
+  "slug": "event-rsvp-form-maker",
+  "name": "행사 참석 확인 폼 메이커",
+  "category": "personal",
+  "tagline": "Builds an event RSVP form, deploys it, and hands you the door QR code",
+  "description": "Made for meetup hosts. Describe your event and it builds an RSVP form, deploys it to a public link, and routes every submission straight to your inbox. It also produces a door code for attendees to scan on arrival, so the same form covers both sign-up and check-in.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/p-0lxiUJj0Ws8_w7rDiCi",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/p-0lxiUJj0Ws8_w7rDiCi",
+  "homepage": "https://x.ai/bot/p-0lxiUJj0Ws8_w7rDiCi",
+  "license": null,
+  "author": "brandonchung75",
+  "tags": [
+    "events",
+    "business",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

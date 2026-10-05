@@ -1,0 +1,27 @@
+{
+  "slug": "fitness-bot",
+  "name": "Fitness Bot",
+  "category": "personal",
+  "tagline": "Training and nutrition coaching that starts from your goal, your kit, and your form",
+  "description": "It asks what you are training for and what equipment you own, then builds around that: weights with light conditioning by default, ordinary food over supplements, and gear picks only if you ask. A photo or clip of a lift gets a form breakdown. Estimates throughout, and explicit that it is not medical advice.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3v6ebv-qBDNCFkTDeH68W",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/3v6ebv-qBDNCFkTDeH68W",
+  "homepage": "https://x.ai/bot/3v6ebv-qBDNCFkTDeH68W",
+  "license": null,
+  "author": "DannyGrinberg",
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

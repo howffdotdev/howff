@@ -1,0 +1,27 @@
+{
+  "slug": "edna",
+  "name": "Edna",
+  "category": "personal",
+  "tagline": "Dresses you each morning from the clothes already hanging in your closet",
+  "description": "It starts from photos of the clothes you already own, assembling each day's main look plus a backup, and its critique of whatever you send is unflinching. A few high-wear gaps worth filling get named, and every purchase waits for your approval.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-xN7D6OrK7kEqV0rBJNh9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-xN7D6OrK7kEqV0rBJNh9",
+  "homepage": "https://x.ai/bot/-xN7D6OrK7kEqV0rBJNh9",
+  "license": null,
+  "author": "congressdj",
+  "tags": [
+    "shopping",
+    "personal",
+    "design",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

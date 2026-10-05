@@ -1,0 +1,28 @@
+{
+  "slug": "fit-check",
+  "name": "Fit Check",
+  "category": "personal",
+  "tagline": "Outfit ideas, honest photo feedback and help taming your closet",
+  "description": "A daily dressing companion in three parts: outfit ideas tuned to whatever day or event is coming up, candid feedback when you send a photo of what you have on, and practical help organising the wardrobe itself so the good pieces stop disappearing into the back of the closet.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YObVEKxqYvofsdaPCRdj3",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/YObVEKxqYvofsdaPCRdj3",
+  "homepage": "https://x.ai/bot/YObVEKxqYvofsdaPCRdj3",
+  "license": null,
+  "author": "BryanGislason",
+  "tags": [
+    "personal",
+    "design",
+    "life-hacks",
+    "shopping",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

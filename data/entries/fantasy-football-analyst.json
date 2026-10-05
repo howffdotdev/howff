@@ -1,0 +1,27 @@
+{
+  "slug": "fantasy-football-analyst",
+  "name": "Fantasy Football Analyst",
+  "category": "personal",
+  "tagline": "Draft-day companion and weekly lineup voice for your fantasy football league",
+  "description": "Sit with it during your live draft and it helps you work the board as picks come in. Once the season starts it makes the weekly calls: who starts, who sits, and which waiver claims are worth a bid, all weighed against byes, injuries, and the scoring quirks of your particular league.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/QyGWyxX5eOLem3J5J1qAp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/QyGWyxX5eOLem3J5J1qAp",
+  "homepage": "https://x.ai/bot/QyGWyxX5eOLem3J5J1qAp",
+  "license": null,
+  "author": "KaceyC13",
+  "tags": [
+    "personal",
+    "decision-support",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "email-assist",
+  "name": "Email Assist",
+  "category": "productivity",
+  "tagline": "Weekday-morning inbox watcher that pings you only when it matters",
+  "description": "On weekday mornings it reads through what arrived overnight and pings you about the messages that plausibly need you, leaving the rest of the pile alone. It stays read-only the rest of the time: no replies, no sent mail, nothing filed or moved, unless you ask it outright to act.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/tVeYePJvkcwbseg_vtnEt",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/tVeYePJvkcwbseg_vtnEt",
+  "homepage": "https://x.ai/bot/tVeYePJvkcwbseg_vtnEt",
+  "license": null,
+  "author": "melvindvivas",
+  "tags": [
+    "email",
+    "productivity",
+    "personal",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
