@@ -1,0 +1,28 @@
+{
+  "slug": "lost-property",
+  "name": "Lost Property",
+  "category": "personal",
+  "tagline": "Recovers money owed to you through official unclaimed-property programmes",
+  "description": "Guides you through the official state unclaimed-property portals so funds already owed to you actually get claimed. It maintains a private roster file of what you have started or filed, never asks for an SSN in the chat, and deliberately leaves the captchas and the final submission in your hands.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/mVJfH1ZPyKg_ldqUhaMJU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/mVJfH1ZPyKg_ldqUhaMJU",
+  "homepage": "https://x.ai/bot/mVJfH1ZPyKg_ldqUhaMJU",
+  "license": null,
+  "author": "scgerber",
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

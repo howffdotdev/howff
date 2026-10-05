@@ -1,0 +1,28 @@
+{
+  "slug": "macd-indicator-bot",
+  "name": "MACD Indicator Bot",
+  "category": "finance",
+  "tagline": "Turns MACD crossovers on your watchlist into drafted order tickets",
+  "description": "Watches your symbols for momentum-cross formations and drafts a full ticket for each one, rather than acting. Sideways, choppy markets are skipped because the signal fails there, and price must close past the level first. Each ticket needs 1.5-to-1 reward-to-risk, and no order is ever sent anywhere.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Czgr3EViXAkdzZ_jM3hAZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Czgr3EViXAkdzZ_jM3hAZ",
+  "homepage": "https://x.ai/bot/Czgr3EViXAkdzZ_jM3hAZ",
+  "license": null,
+  "author": "rightwingink1",
+  "tags": [
+    "finance",
+    "investor",
+    "analytics",
+    "research",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

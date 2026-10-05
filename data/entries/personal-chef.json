@@ -1,0 +1,28 @@
+{
+  "slug": "personal-chef",
+  "name": "Personal Chef",
+  "category": "personal",
+  "tagline": "Plans your household's dinners each week with recipes, a grocery list and a ready cart",
+  "description": "Six setup questions capture who you cook for, then it delivers a fresh dinner plan every week. Each plan arrives with printable recipe cards, one grocery list covering all of it, and a Walmart cart already filled so you only have to check out. No personal data leaves with its install counter.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/gMrnNpgylgu11PImcWTdy",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/gMrnNpgylgu11PImcWTdy",
+  "homepage": "https://x.ai/bot/gMrnNpgylgu11PImcWTdy",
+  "license": null,
+  "author": "ChefMcMakin",
+  "tags": [
+    "personal",
+    "food",
+    "family",
+    "shopping",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

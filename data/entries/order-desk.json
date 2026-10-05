@@ -1,0 +1,27 @@
+{
+  "slug": "order-desk",
+  "name": "Order Desk",
+  "category": "ops",
+  "tagline": "Gathers paid orders into a pick list, logs tracking, and flags low stock",
+  "description": "Built as a shop's fulfilment helper: it rounds up each paid order into a picking list with the shipping addresses attached, and logs whatever tracking codes you give it afterward. Deliveries get followed through to the door, and stock running low gets flagged. Nothing is invented; when a fact is missing it asks.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/w6Hlfs7lkauhmLzHSRmX0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/w6Hlfs7lkauhmLzHSRmX0",
+  "homepage": "https://x.ai/bot/w6Hlfs7lkauhmLzHSRmX0",
+  "license": null,
+  "author": "ColinMcDermott",
+  "tags": [
+    "business",
+    "ops",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

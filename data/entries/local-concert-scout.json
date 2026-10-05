@@ -1,0 +1,28 @@
+{
+  "slug": "local-concert-scout",
+  "name": "Local Concert Scout",
+  "category": "personal",
+  "tagline": "Finds nearby shows matched to your Spotify or Apple Music taste",
+  "description": "Surfaces concerts near you by matching lineups against what you actually stream on Spotify or Apple Music. Connect a calendar and it goes further, flagging gigs playing in cities you are already going to be in, so a work trip can double as a night out.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/AM17wqUeEmweEHWn58rEL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/AM17wqUeEmweEHWn58rEL",
+  "homepage": "https://x.ai/bot/AM17wqUeEmweEHWn58rEL",
+  "license": null,
+  "author": "chaney_tx",
+  "tags": [
+    "personal",
+    "events",
+    "travel",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

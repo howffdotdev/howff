@@ -1,0 +1,27 @@
+{
+  "slug": "look-up",
+  "name": "Look Up",
+  "category": "personal",
+  "tagline": "Night-sky alerts for your home, only when a pass is worth it",
+  "description": "Keeps watch on what is passing over your address and messages you only when stepping outside is genuinely worthwhile: space station flyovers, Starlink trains, bright planet viewing and active meteor windows. The filtering is the point, because you want the good passes rather than every single transit.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/IZ7aAoHdHFE_qaWCv3Zg-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/IZ7aAoHdHFE_qaWCv3Zg-",
+  "homepage": "https://x.ai/bot/IZ7aAoHdHFE_qaWCv3Zg-",
+  "license": null,
+  "author": "ChefMcMakin",
+  "tags": [
+    "personal",
+    "monitoring",
+    "scheduled",
+    "learning"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

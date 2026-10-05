@@ -1,0 +1,27 @@
+{
+  "slug": "mypeople-bot",
+  "name": "MyPeople Bot",
+  "category": "personal",
+  "tagline": "Shows which data breaches exposed your email and the three fixes that matter",
+  "description": "Give it an email and it lists the known breaches that contain it, then narrows the response to the three changes worth making first. The same lookup works as a footprint check on you or a vetting pass on a vendor, investor, or partner. Open sources only, and it acts on nobody's behalf without your agreement.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/v5MedUVzGQEty_TkPMpyL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/v5MedUVzGQEty_TkPMpyL",
+  "homepage": "https://x.ai/bot/v5MedUVzGQEty_TkPMpyL",
+  "license": null,
+  "author": "StuyBoyNY",
+  "tags": [
+    "personal",
+    "decision-support",
+    "monitoring",
+    "data"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

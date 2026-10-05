@@ -1,0 +1,27 @@
+{
+  "slug": "meetups",
+  "name": "Meetups",
+  "category": "personal",
+  "tagline": "Finds in-person meetups within a real drive of you, and only shows what is new",
+  "description": "Tell it where you are and what you are after, founder and AI get-togethers, small-business networking nearby, or a mix, and each week it returns options you could genuinely drive to, drive time included. It skips anything you have already seen, so only genuinely new events show up and a weekly check stays quick.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/FZxPVNIVZcA_3kA4ZReDQ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/FZxPVNIVZcA_3kA4ZReDQ",
+  "homepage": "https://x.ai/bot/FZxPVNIVZcA_3kA4ZReDQ",
+  "license": null,
+  "author": "nmtalkss",
+  "tags": [
+    "personal",
+    "business",
+    "events",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

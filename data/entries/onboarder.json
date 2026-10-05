@@ -1,0 +1,27 @@
+{
+  "slug": "onboarder",
+  "name": "Onboarder",
+  "category": "ops",
+  "tagline": "Walks a first-time user through to a working setup, one clear step at a time",
+  "description": "Built for somebody's first hour on a new bot platform: it asks what you are actually trying to get done, then connects each service with you one real link at a time in plain language. Once the setup works it steps aside and is finished. Nothing is sent or spent until you have said yes to that exact action.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Xd_NXX5Yk6_7LmkA2TGLN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Xd_NXX5Yk6_7LmkA2TGLN",
+  "homepage": "https://x.ai/bot/Xd_NXX5Yk6_7LmkA2TGLN",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [
+    "business",
+    "support",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "money-minute",
+  "name": "Money Minute",
+  "category": "personal",
+  "tagline": "A one-minute daily check-in that logs spending and tracks a weekly limit",
+  "description": "Once a day you say what you spent and it adds it to a running total, so the habit costs about a minute. Set a weekly ceiling if you like and it nudges you at eight in the evening when a day's figure is still unrecorded. Plain budgeting, nothing more: no trading, no market talk, no touching your money.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/k6lmP0975z3GfVpJiyN5D",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/k6lmP0975z3GfVpJiyN5D",
+  "homepage": "https://x.ai/bot/k6lmP0975z3GfVpJiyN5D",
+  "license": null,
+  "author": "prorookiegamer",
+  "tags": [
+    "personal",
+    "finance",
+    "productivity",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

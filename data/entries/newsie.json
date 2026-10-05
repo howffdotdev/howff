@@ -1,0 +1,26 @@
+{
+  "slug": "newsie",
+  "name": "Newsie",
+  "category": "research",
+  "tagline": "Emails a short morning brief: national news, your local coverage, and Tesla and SpaceX",
+  "description": "Compiles a compact read for the start of the day by pulling together national headlines, reporting from outlets near you, and updates on Tesla and SpaceX. It lands in your inbox and in chat, and it spells out every acronym the first time it uses one.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/q631iJtHVwxloj8ZBoJyV",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/q631iJtHVwxloj8ZBoJyV",
+  "homepage": "https://x.ai/bot/q631iJtHVwxloj8ZBoJyV",
+  "license": null,
+  "author": "apostlejohn",
+  "tags": [
+    "news",
+    "personal",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
