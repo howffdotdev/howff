@@ -1,0 +1,28 @@
+{
+  "slug": "zephyr-sites",
+  "name": "Zephyr Sites",
+  "category": "development",
+  "tagline": "Deploy, update and roll back static sites on Zephyr Cloud by chat",
+  "description": "Connects to your Zephyr Cloud account once, then handles static-site work from the conversation: pushing a deploy, shipping an update, or rolling back a release that went wrong. When a target organisation has to be chosen it asks you to pick, and everything else is requested in plain language.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/O0hx4K5Vg8pciw4RSSlqK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/O0hx4K5Vg8pciw4RSSlqK",
+  "homepage": "https://x.ai/bot/O0hx4K5Vg8pciw4RSSlqK",
+  "license": null,
+  "author": "ZephyrCloudIO",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "business",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

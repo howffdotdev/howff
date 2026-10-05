@@ -1,0 +1,27 @@
+{
+  "slug": "weather",
+  "name": "Weather",
+  "category": "personal",
+  "tagline": "A dawn forecast, storm radar loops, and shareable clips for the family group chat",
+  "description": "Aims to replace a folder of weather apps with one chat. Each morning brings a bright, plain-language forecast for your ZIP code, and when storms roll in it shares radar loops as the situation changes. The updates come as clips you can forward straight to family without screenshotting anything.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/hKtfpTR4u3YRZKXCnyS3W",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/hKtfpTR4u3YRZKXCnyS3W",
+  "homepage": "https://x.ai/bot/hKtfpTR4u3YRZKXCnyS3W",
+  "license": null,
+  "author": "TeslaTakesOver",
+  "tags": [
+    "personal",
+    "scheduled",
+    "monitoring",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

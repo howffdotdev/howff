@@ -1,0 +1,27 @@
+{
+  "slug": "when-it-matters",
+  "name": "When It Matters",
+  "category": "research",
+  "tagline": "Watches the signal behind a question and pings you only on a flip",
+  "description": "You name something you keep re-checking by hand and it works out which underlying signal actually decides the answer. From there it monitors that signal on its own and stays quiet otherwise, messaging you only when the verdict flips, so your attention goes to real changes instead of constant polling.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/BqrH8_GNQvSYV-gcmJnd8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/BqrH8_GNQvSYV-gcmJnd8",
+  "homepage": "https://x.ai/bot/BqrH8_GNQvSYV-gcmJnd8",
+  "license": null,
+  "author": "hnshah",
+  "tags": [
+    "monitoring",
+    "research",
+    "scheduled",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

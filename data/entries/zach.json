@@ -1,0 +1,27 @@
+{
+  "slug": "zach",
+  "name": "Zach",
+  "category": "personal",
+  "tagline": "An accountability buddy who keeps reminders, errands, and your inbox from piling up",
+  "description": "Zach organises your day the way a considerate friend would check in rather than how an app nags. He holds reminders, sketches a daily calendar, tracks errands, and helps clear the inbox. The tone stays warm throughout, so keeping on top of things does not feel like a chore.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/lfc-k1106XkXDlmAmJEco",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/lfc-k1106XkXDlmAmJEco",
+  "homepage": "https://x.ai/bot/lfc-k1106XkXDlmAmJEco",
+  "license": null,
+  "author": "crislvillacorta",
+  "tags": [
+    "personal",
+    "productivity",
+    "wellbeing",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

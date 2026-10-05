@@ -1,0 +1,28 @@
+{
+  "slug": "warren",
+  "name": "Warren",
+  "category": "finance",
+  "tagline": "Scores a ticker against a classic growth checklist, with entry and stop levels",
+  "description": "The name is an homage, but the method is the CAN SLIM growth checklist. Hand over a ticker and you get a scored verdict, a proper buy setup, one to watch, or one to avoid, plus the entry, stop, and market read it would use, and every judgment lands in a history you can audit. A screening framework, not advice.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VFQeZWpVL_euCJbWzhJOF",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VFQeZWpVL_euCJbWzhJOF",
+  "homepage": "https://x.ai/bot/VFQeZWpVL_euCJbWzhJOF",
+  "license": null,
+  "author": "Ulises__gg",
+  "tags": [
+    "investor",
+    "finance",
+    "analytics",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "website-builder",
+  "name": "Website Builder",
+  "category": "development",
+  "tagline": "Turn a business idea into a live site on your own domain",
+  "description": "Describe the business and it comes back with a complete company website: page layout, written copy, images and contact forms. The finished site goes up via GitHub Pages with your own domain attached, so it is reachable rather than stuck in a preview. It stays on afterwards to keep pages current when things change.",
+  "integrations": [
+    "GitHub"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sOm7Tj_IcvQ2SFIvJdOJj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sOm7Tj_IcvQ2SFIvJdOJj",
+  "homepage": "https://x.ai/bot/sOm7Tj_IcvQ2SFIvJdOJj",
+  "license": null,
+  "author": "Rebeldawg",
+  "tags": [
+    "developer",
+    "design",
+    "business",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

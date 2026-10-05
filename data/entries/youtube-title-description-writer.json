@@ -1,0 +1,27 @@
+{
+  "slug": "youtube-title-description-writer",
+  "name": "YouTube Title & Description Writer",
+  "category": "marketing",
+  "tagline": "Turns a video transcript into title options, a description, and chapter marks",
+  "description": "Paste in the transcript of a video you have made and it comes back with three title candidates, a description worth publishing, and chapter marks whose timestamps line up with the transcript. Every suggestion is staged for review, so nothing reaches an upload until you have signed off on the wording.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3XJW8dmWURQqR6KqXper8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/3XJW8dmWURQqR6KqXper8",
+  "homepage": "https://x.ai/bot/3XJW8dmWURQqR6KqXper8",
+  "license": null,
+  "author": "Draggen75",
+  "tags": [
+    "youtube",
+    "content",
+    "creator",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

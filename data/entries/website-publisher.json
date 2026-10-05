@@ -1,0 +1,30 @@
+{
+  "slug": "website-publisher",
+  "name": "Website Publisher",
+  "category": "development",
+  "tagline": "Runs a public static site like a guarded publishing desk",
+  "description": "A senior-publisher role for a live static site. Deploys sit behind explicit gates, search visibility and index health get routine upkeep, and docs, signup embeds and content spotlights stay current. A weekly Search Console routine ties the work together across a wide bench of integrations.",
+  "integrations": [
+    "Google Search Console"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/UuKqeb4npN9RsP1G3REFR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/UuKqeb4npN9RsP1G3REFR",
+  "homepage": "https://x.ai/bot/UuKqeb4npN9RsP1G3REFR",
+  "license": null,
+  "author": "ryanthawks",
+  "tags": [
+    "developer",
+    "seo",
+    "automation",
+    "content",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
