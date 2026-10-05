@@ -1,0 +1,28 @@
+{
+  "slug": "icloud",
+  "name": "iCloud",
+  "category": "productivity",
+  "tagline": "Connects Apple's calendar, mail, contacts and reminders into Grok with one app password",
+  "description": "A community-built connector that wires Apple's iCloud services into the app: calendar, mail, contacts and reminders. Installation checkboxes let you pick which of the four you want, and a single Apple app-specific password handles the sign-in for whichever you choose.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/cXeisxhmz3YpvnWVH1k0F",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/cXeisxhmz3YpvnWVH1k0F",
+  "homepage": "https://x.ai/bot/cXeisxhmz3YpvnWVH1k0F",
+  "license": null,
+  "author": "CyberZack42",
+  "tags": [
+    "email",
+    "calendar",
+    "automation",
+    "productivity",
+    "developer"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

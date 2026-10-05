@@ -1,0 +1,28 @@
+{
+  "slug": "job-finder",
+  "name": "Job Finder",
+  "category": "personal",
+  "tagline": "Hunts matching jobs on weekdays and files the applications for you",
+  "description": "Set the role, salary band and location once, and it keeps hunting for openings that fit the brief. It applies on your behalf, favouring employers you flag as priorities, and skips postings that exist mainly to harvest your details. Searches run on weekdays, so the pipeline keeps moving while you do other things.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/isQfIGJuDGIY_H6KNrmgz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/isQfIGJuDGIY_H6KNrmgz",
+  "homepage": "https://x.ai/bot/isQfIGJuDGIY_H6KNrmgz",
+  "license": null,
+  "author": "Rebeldawg",
+  "tags": [
+    "personal",
+    "recruiting",
+    "productivity",
+    "scheduled",
+    "business"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

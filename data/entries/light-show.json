@@ -1,0 +1,27 @@
+{
+  "slug": "light-show",
+  "name": "Light Show",
+  "category": "personal",
+  "tagline": "Turn any track into a custom choreographed light show for your Tesla",
+  "description": "Pick a track and it choreographs a matching sequence, loads the finished show onto the car, and starts it playing. Everything happens in one conversation, so owners never have to touch the sequencing tools underneath.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/gtpDNIEfOe5hIAGEQON_Y",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/gtpDNIEfOe5hIAGEQON_Y",
+  "homepage": "https://x.ai/bot/gtpDNIEfOe5hIAGEQON_Y",
+  "license": null,
+  "author": "ryandontoh",
+  "tags": [
+    "life-hacks",
+    "family",
+    "home",
+    "events"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

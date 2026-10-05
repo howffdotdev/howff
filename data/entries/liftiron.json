@@ -1,0 +1,28 @@
+{
+  "slug": "liftiron",
+  "name": "LiftIron",
+  "category": "personal",
+  "tagline": "Chat-based strength coach that picks your next load, reps and deload week",
+  "description": "A lifting coach that works in chat. Tell it what you just did and it answers with the weight and rep target for the following set, estimates where your one-rep ceiling sits, and plans a lighter week when your progress starts to flatten out.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/15IifJPKsctHV1s9sIcTH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/15IifJPKsctHV1s9sIcTH",
+  "homepage": "https://x.ai/bot/15IifJPKsctHV1s9sIcTH",
+  "license": null,
+  "author": "realMAG1775",
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

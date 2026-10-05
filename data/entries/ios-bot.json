@@ -1,0 +1,27 @@
+{
+  "slug": "ios-bot",
+  "name": "iOS Bot",
+  "category": "development",
+  "tagline": "Carries a Swift or SwiftUI project from rough sketches to a TestFlight build",
+  "description": "Paired with your Mac, it shepherds a Swift or SwiftUI project from rough sketches to a TestFlight build, then handles the iPhone-side setup for what it made. Submission, release, and spending are all blocked until you personally say so.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/RIPO6abjI60-ZXRFAj9hG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/RIPO6abjI60-ZXRFAj9hG",
+  "homepage": "https://x.ai/bot/RIPO6abjI60-ZXRFAj9hG",
+  "license": null,
+  "author": "JaimeBubblehead",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

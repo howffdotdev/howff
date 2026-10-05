@@ -1,0 +1,29 @@
+{
+  "slug": "linkedin-automation",
+  "name": "LinkedIn Automation",
+  "category": "marketing",
+  "tagline": "Keeps a LinkedIn presence running: posts in your voice, prospects filed by topic",
+  "description": "It keeps a LinkedIn presence moving on your behalf: drafting and publishing posts that read like your own writing, working through engagement in topic-scoped passes, and filing anyone who looks like a buyer into a spreadsheet that keeps one tab per topic. You review the sheet instead of chasing the feed.",
+  "integrations": [
+    "LinkedIn"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wmWF7EgQD3c1O3cSHFA0v",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wmWF7EgQD3c1O3cSHFA0v",
+  "homepage": "https://x.ai/bot/wmWF7EgQD3c1O3cSHFA0v",
+  "license": null,
+  "author": "melvindvivas",
+  "tags": [
+    "social-media",
+    "sales",
+    "automation",
+    "growth"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

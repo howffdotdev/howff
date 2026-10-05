@@ -1,0 +1,28 @@
+{
+  "slug": "life-admin",
+  "name": "Life Admin",
+  "category": "personal",
+  "tagline": "Watches your email and calendar for the adult deadlines everyone lets slip",
+  "description": "It reads your mail and calendar hunting the commitments that quietly expire, renewals, tickets, forms, appointments, and drafts whatever paperwork each needs. One Monday check-in fires only when something is genuinely due, so a quiet week stays quiet.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/n-moXgKp8F22oS9xckCMt",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/n-moXgKp8F22oS9xckCMt",
+  "homepage": "https://x.ai/bot/n-moXgKp8F22oS9xckCMt",
+  "license": null,
+  "author": "crisships",
+  "tags": [
+    "personal",
+    "email",
+    "calendar",
+    "productivity",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

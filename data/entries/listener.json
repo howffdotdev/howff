@@ -1,0 +1,27 @@
+{
+  "slug": "listener",
+  "name": "Listener",
+  "category": "productivity",
+  "tagline": "Sits in on Teams calls, then returns a transcript and a decisions-and-actions digest",
+  "description": "It joins a Teams meeting as a visible, named attendee and captures the call audio. Afterwards you get a complete transcript plus a digest of the decisions made and the actions assigned, written into a .docx you can circulate as minutes. Everyone on the call can see that it is there.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-BXZiXKHwvcge3PviX2yK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-BXZiXKHwvcge3PviX2yK",
+  "homepage": "https://x.ai/bot/-BXZiXKHwvcge3PviX2yK",
+  "license": null,
+  "author": "berlu135",
+  "tags": [
+    "meetings",
+    "productivity",
+    "business",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

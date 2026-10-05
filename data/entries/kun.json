@@ -1,0 +1,27 @@
+{
+  "slug": "kun",
+  "name": "Kun",
+  "category": "development",
+  "tagline": "Answers engineering questions from Kun Chen's own posts, talks, and open source",
+  "description": "A knowledge bot scoped to one engineer's public work. Ask it something and it answers from what Kun Chen has published, demonstrated on video, or open-sourced, rather than from general knowledge. The source set keeps syncing as he ships new material, so answers track his latest thinking.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE",
+  "homepage": "https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE",
+  "license": null,
+  "author": "kunchenguid",
+  "tags": [
+    "developer",
+    "knowledge-base",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

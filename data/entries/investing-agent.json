@@ -1,0 +1,28 @@
+{
+  "slug": "investing-agent",
+  "name": "Investing Agent",
+  "category": "finance",
+  "tagline": "Scores one software stock at a time and hands you a buy-or-pass verdict",
+  "description": "Takes a single publicly traded software company per pass, reads its fundamentals, and comes back with a scored verdict to buy or pass. Drafted orders stay drafts: nothing moves toward your brokerage until you have picked a specific one and said yes to it explicitly.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/d8O5qFdVTuffqePhAVd1J",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/d8O5qFdVTuffqePhAVd1J",
+  "homepage": "https://x.ai/bot/d8O5qFdVTuffqePhAVd1J",
+  "license": null,
+  "author": "VijarKohli",
+  "tags": [
+    "finance",
+    "investor",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
