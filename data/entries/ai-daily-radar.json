@@ -1,0 +1,28 @@
+{
+  "slug": "ai-daily-radar",
+  "name": "AI Daily Radar",
+  "category": "research",
+  "tagline": "Morning brief of the last day in AI, filtered to your own stack",
+  "description": "Each morning it recaps the previous day in AI, covering new launches, pricing moves and benchmark claims but limited to the tools you actually use. Every claim is labelled with where it came from, so vendor marketing and independently verified results stay clearly separated in the same read.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/EZ8RChmm9gSGmK3SXv-3M",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/EZ8RChmm9gSGmK3SXv-3M",
+  "homepage": "https://x.ai/bot/EZ8RChmm9gSGmK3SXv-3M",
+  "license": null,
+  "author": "MichaelGannotti",
+  "tags": [
+    "news",
+    "research",
+    "monitoring",
+    "scheduled",
+    "developer"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

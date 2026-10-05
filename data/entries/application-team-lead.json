@@ -1,0 +1,28 @@
+{
+  "slug": "application-team-lead",
+  "name": "Application Team Lead",
+  "category": "development",
+  "tagline": "Runs your job hunt: gathers materials, finds matching roles and fans out applications",
+  "description": "Coordinates the whole application push rather than doing one piece of it. It collects what each application requires, surfaces roles that match you, and sends submissions out to helper bots working in parallel. Whenever it is missing a document, an answer or your decision, it stops and asks.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ufmS2cx8QpmyouPNIAkZC",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ufmS2cx8QpmyouPNIAkZC",
+  "homepage": "https://x.ai/bot/ufmS2cx8QpmyouPNIAkZC",
+  "license": null,
+  "author": "Kenook_",
+  "tags": [
+    "meta-bot",
+    "agent-team",
+    "automation",
+    "recruiting",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

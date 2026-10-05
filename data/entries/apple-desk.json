@@ -1,0 +1,27 @@
+{
+  "slug": "apple-desk",
+  "name": "Apple Desk",
+  "category": "development",
+  "tagline": "Run your Reminders, Calendar, Notes, and Messages from chat, on your own Mac",
+  "description": "It lives on your Mac and reaches the Apple apps through their command-line tools, covering reminders, calendar events, notes, contacts, and messages. Setup is guided and each permission gets its own click of approval before anything is granted.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vVST27b0qMvGLrEfxZ3nj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vVST27b0qMvGLrEfxZ3nj",
+  "homepage": "https://x.ai/bot/vVST27b0qMvGLrEfxZ3nj",
+  "license": null,
+  "author": "Phillip",
+  "tags": [
+    "developer",
+    "automation",
+    "productivity",
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

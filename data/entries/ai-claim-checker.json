@@ -1,0 +1,27 @@
+{
+  "slug": "ai-claim-checker",
+  "name": "AI Claim Checker",
+  "category": "research",
+  "tagline": "Fact-card every AI vendor claim before you repeat it to anyone",
+  "description": "Give it an AI launch post, a benchmark graphic, or a pricing claim and it returns a dated card ruling on each statement: independently backed, vendor-sourced only, contradicted elsewhere, or unverifiable. Sources are attached, so hype can be checked before it spreads.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/G48vC01p5cAxckACKFIaM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/G48vC01p5cAxckACKFIaM",
+  "homepage": "https://x.ai/bot/G48vC01p5cAxckACKFIaM",
+  "license": null,
+  "author": "MichaelGannotti",
+  "tags": [
+    "research",
+    "news",
+    "decision-support",
+    "analytics"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

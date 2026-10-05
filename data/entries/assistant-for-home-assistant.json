@@ -1,0 +1,27 @@
+{
+  "slug": "assistant-for-home-assistant",
+  "name": "Assistant for Home Assistant",
+  "category": "personal",
+  "tagline": "A health check for your Home Assistant that speaks up only when a human must act",
+  "description": "It watches a Home Assistant install for quiet failures: hardware gone unresponsive, cameras dark, updates that never landed, automations that quit firing. Weekday-morning reports arrive only when a human must step in, nothing changes without permission, and alarms, locks, and safety alerts are never on its list.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/w5-QLuYOODW6pHHOZjx-X",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/w5-QLuYOODW6pHHOZjx-X",
+  "homepage": "https://x.ai/bot/w5-QLuYOODW6pHHOZjx-X",
+  "license": null,
+  "author": "BowieHole",
+  "tags": [
+    "home",
+    "monitoring",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "100m-offers",
+  "name": "$100M Offers",
+  "category": "sales",
+  "tagline": "Turns what you sell into an offer people actually want, in plain English",
+  "description": "Describe what you sell and who you sell it to, and it works the offer until the value is obvious: what is included, what makes it different, and why the price feels fair. The framing follows Alex Hormozi's book on offer design, explained in plain language for people new to marketing rather than for agencies.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wGsQKvaJgqNoE5w7l2_h_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wGsQKvaJgqNoE5w7l2_h_",
+  "homepage": "https://x.ai/bot/wGsQKvaJgqNoE5w7l2_h_",
+  "license": null,
+  "author": "CardCaptain",
+  "tags": [
+    "business",
+    "sales",
+    "learning",
+    "marketer"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

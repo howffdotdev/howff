@@ -1,0 +1,28 @@
+{
+  "slug": "after-i-m-gone",
+  "name": "After I’m Gone",
+  "category": "personal",
+  "tagline": "Keeps a current roadmap ready for whoever settles your estate",
+  "description": "Creates and maintains a practical roadmap for the person who would have to step in if you died or became incapacitated: who to contact, where each document lives, care arrangements, insurance, money and account access. Passwords are deliberately kept out of the conversation entirely.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/oerw7YjTMwbCuj-DaaQ7T",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/oerw7YjTMwbCuj-DaaQ7T",
+  "homepage": "https://x.ai/bot/oerw7YjTMwbCuj-DaaQ7T",
+  "license": null,
+  "author": "scgerber",
+  "tags": [
+    "personal",
+    "family",
+    "finance",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

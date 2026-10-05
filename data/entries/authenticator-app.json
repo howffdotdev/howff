@@ -1,0 +1,27 @@
+{
+  "slug": "authenticator-app",
+  "name": "Authenticator App",
+  "category": "development",
+  "tagline": "A two-factor vault that hands out login codes only on your terms",
+  "description": "Store your two-factor secrets in one place and pull the current six-digit code whenever a sign-in asks. A different assistant can receive a code only for services on your allow list, and the secret itself stays masked through every exchange.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/etB2IDpbLPT-ZW4IIewQK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/etB2IDpbLPT-ZW4IIewQK",
+  "homepage": "https://x.ai/bot/etB2IDpbLPT-ZW4IIewQK",
+  "license": null,
+  "author": "refreshinga",
+  "tags": [
+    "developer",
+    "automation",
+    "productivity",
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

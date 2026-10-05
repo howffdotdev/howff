@@ -1,0 +1,30 @@
+{
+  "slug": "bloks",
+  "name": "Bloks",
+  "category": "productivity",
+  "tagline": "Walks any project brief through seven stages to a build-ready handoff, docs in Notion",
+  "description": "Takes any brief - hackathon entry, client ask, internal push - and carries it stage by stage to something a builder can pick up: frame the problem, research it, scope it, generate ideas, write the spec, review it, then hand off. Documents stay in Notion as it goes, so the team always sees the current version.",
+  "integrations": [
+    "Notion"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/w4Rvgudmoi8AEb0FZ3PGg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/w4Rvgudmoi8AEb0FZ3PGg",
+  "homepage": "https://x.ai/bot/w4Rvgudmoi8AEb0FZ3PGg",
+  "license": null,
+  "author": "NadineCodes",
+  "tags": [
+    "productivity",
+    "developer",
+    "business",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

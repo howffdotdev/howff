@@ -1,0 +1,27 @@
+{
+  "slug": "asic-fleet",
+  "name": "ASIC Fleet",
+  "category": "finance",
+  "tagline": "Keeps a home Bitaxe mining fleet inventoried, tuned and healthy",
+  "description": "An ops helper for people running Bitaxe and ESP-Miner hashing boards at home or in a small shop. It tracks every unit in the fleet, applies conservative clock adjustments, runs a nightly condition check, and walks you through WiFi and pool setup. Automated writes stay off, and pool credentials stay out of the chat.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/KLf9yQcaJWOW-6bBT8e6Y",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/KLf9yQcaJWOW-6bBT8e6Y",
+  "homepage": "https://x.ai/bot/KLf9yQcaJWOW-6bBT8e6Y",
+  "license": null,
+  "author": "scgerber",
+  "tags": [
+    "crypto",
+    "engineering",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

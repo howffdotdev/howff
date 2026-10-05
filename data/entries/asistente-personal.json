@@ -1,0 +1,27 @@
+{
+  "slug": "asistente-personal",
+  "name": "Asistente Personal",
+  "category": "personal",
+  "tagline": "Spanish-language aide for inbox triage, drafted replies, and CFDI invoices",
+  "description": "Aides Spanish speakers with everyday admin. It sorts your mail and messages, writes proposed answers, and waits for your yes before anything is sent. Photograph a receipt and it produces the Mexican CFDI invoice through autofactura, so the tax pile shrinks instead of growing.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Kf1jr6ZtTbJl-MSWGRjAw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Kf1jr6ZtTbJl-MSWGRjAw",
+  "homepage": "https://x.ai/bot/Kf1jr6ZtTbJl-MSWGRjAw",
+  "license": null,
+  "author": "fminondo",
+  "tags": [
+    "personal",
+    "email",
+    "productivity",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

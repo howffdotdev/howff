@@ -1,0 +1,28 @@
+{
+  "slug": "aaron-event-finder",
+  "name": "Aaron, Event Finder",
+  "category": "personal",
+  "tagline": "Finds date-verified local events near a ZIP and turns them into a day plan",
+  "description": "Give it a ZIP code and a drive time, and it looks for events that really exist and are genuinely on the calendar. Paid, free, and RSVP-only all count. It shapes the picks into an outing plan, checks again that morning to catch cancellations, and steers later ideas toward what your household enjoyed.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/2Bdmewa3uCUtdVByWvzRz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/2Bdmewa3uCUtdVByWvzRz",
+  "homepage": "https://x.ai/bot/2Bdmewa3uCUtdVByWvzRz",
+  "license": null,
+  "author": "FrederickPaiSu",
+  "tags": [
+    "events",
+    "family",
+    "personal",
+    "scheduled",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
