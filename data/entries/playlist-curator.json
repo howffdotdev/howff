@@ -1,0 +1,27 @@
+{
+  "slug": "playlist-curator",
+  "name": "Playlist Curator",
+  "category": "personal",
+  "tagline": "Keeps a NetEase Cloud Music playlist rolling on a 90-minute refresh cycle",
+  "description": "It maintains one working playlist on NetEase Cloud Music from your likes and listening history. Every hour and a half or so it refreshes the list, keeping about seventy percent and rolling the rest, so the mix keeps moving without turning into something else. Deleting a track feeds the next round of picks.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Z4nHLMPHoK6cN25ADf0EF",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Z4nHLMPHoK6cN25ADf0EF",
+  "homepage": "https://x.ai/bot/Z4nHLMPHoK6cN25ADf0EF",
+  "license": null,
+  "author": "doitian",
+  "tags": [
+    "personal",
+    "automation",
+    "scheduled",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

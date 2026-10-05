@@ -1,0 +1,27 @@
+{
+  "slug": "plaquemax",
+  "name": "Plaquemax",
+  "category": "personal",
+  "tagline": "Maps the roadside historical markers on your route, with a heads-up before each",
+  "description": "Tell it where you are driving and it arranges the historical markers on that route in the order you will pass them. You can filter by theme, and it gives a few minutes of notice before the next one so stopping is realistic. Markers can be read aloud while you keep your hands on the wheel.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/KZ1cKh5hlgqicxQhn3C2e",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/KZ1cKh5hlgqicxQhn3C2e",
+  "homepage": "https://x.ai/bot/KZ1cKh5hlgqicxQhn3C2e",
+  "license": null,
+  "author": "ChrisAdcockMD",
+  "tags": [
+    "travel",
+    "personal",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

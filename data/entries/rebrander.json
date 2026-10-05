@@ -1,0 +1,28 @@
+{
+  "slug": "rebrander",
+  "name": "Rebrander",
+  "category": "ops",
+  "tagline": "Owns a rename project from first decision to last mention",
+  "description": "Owns a rename project from the day the decision lands. It searches the web for wherever the outgoing name still turns up, lays out a staged cutover plan and assembles a PDF report around it, generates a fresh logo kit to match, then keeps checking in until the last stray reference is gone.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/HGorKc5KDQLynW4JONxn_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/HGorKc5KDQLynW4JONxn_",
+  "homepage": "https://x.ai/bot/HGorKc5KDQLynW4JONxn_",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [
+    "business",
+    "marketer",
+    "design",
+    "monitoring",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

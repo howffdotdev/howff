@@ -1,0 +1,27 @@
+{
+  "slug": "product-ads",
+  "name": "Product Ads",
+  "category": "marketing",
+  "tagline": "Runs product ads inside a daily budget, pausing losers and scaling winners",
+  "description": "It starts from the photos and details you already have, building campaign drafts from them, then manages everything inside a fixed daily budget you set. Underperforming ads get paused and converting ones get scaled, following rules you agreed to in advance. Spend is reported from live numbers rather than estimates.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1DFKnMzjYNPZyFFajRbUr",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1DFKnMzjYNPZyFFajRbUr",
+  "homepage": "https://x.ai/bot/1DFKnMzjYNPZyFFajRbUr",
+  "license": null,
+  "author": "ColinMcDermott",
+  "tags": [
+    "business",
+    "marketer",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

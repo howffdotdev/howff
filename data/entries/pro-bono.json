@@ -1,0 +1,27 @@
+{
+  "slug": "pro-bono",
+  "name": "Pro Bono",
+  "category": "ops",
+  "tagline": "Drafts small-business filings and tracks every deadline so nothing lapses",
+  "description": "Aim it at a small business's paperwork: licences, DBA registrations, trademarks, and state compliance filings all get drafted for you to review and submit. It then keeps a calendar of every deadline tied to those records. The bot prepares documents only, since actual filing stays with you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/lDkNsblCAkXCxBU44ZHxp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/lDkNsblCAkXCxBU44ZHxp",
+  "homepage": "https://x.ai/bot/lDkNsblCAkXCxBU44ZHxp",
+  "license": null,
+  "author": "ProCountApps",
+  "tags": [
+    "business",
+    "back-office",
+    "ops",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

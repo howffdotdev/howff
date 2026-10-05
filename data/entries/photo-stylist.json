@@ -1,0 +1,28 @@
+{
+  "slug": "photo-stylist",
+  "name": "Photo Stylist",
+  "category": "personal",
+  "tagline": "Style critique and restyle ideas from one full-length photo",
+  "description": "Send a full-length photo and get a straight assessment of what is working and what is not, followed by restyle suggestions, hair and glasses options, and put-together looks for specific occasions. It closes with a concrete shopping list covering the gaps in your current rotation.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/cXNeUZ2jpSYhXH91uqBNT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/cXNeUZ2jpSYhXH91uqBNT",
+  "homepage": "https://x.ai/bot/cXNeUZ2jpSYhXH91uqBNT",
+  "license": null,
+  "author": "OliverRCote",
+  "tags": [
+    "personal",
+    "design",
+    "shopping",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

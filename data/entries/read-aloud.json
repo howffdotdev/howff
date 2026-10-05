@@ -1,0 +1,27 @@
+{
+  "slug": "read-aloud",
+  "name": "Read Aloud!",
+  "category": "productivity",
+  "tagline": "A natural-voice reader for pages, PDFs, ebooks, email, and whatever is on screen",
+  "description": "Point it at your screen, a browser page, a PDF, an ebook, or your inbox and it reads the text in a voice that sounds human. Choose a full read, a single chapter, or a summary, with translation along the way and descriptions of images and charts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/mVkkx9p_-u6HZDNavZOz9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/mVkkx9p_-u6HZDNavZOz9",
+  "homepage": "https://x.ai/bot/mVkkx9p_-u6HZDNavZOz9",
+  "license": null,
+  "author": "ptbnat",
+  "tags": [
+    "productivity",
+    "learning",
+    "life-hacks",
+    "news"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

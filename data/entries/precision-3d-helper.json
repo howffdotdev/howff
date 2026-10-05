@@ -1,0 +1,27 @@
+{
+  "slug": "precision-3d-helper",
+  "name": "Precision 3D Helper",
+  "category": "ops",
+  "tagline": "Front-desk and machine-side helper for a small 3D printing shop",
+  "description": "It covers the front desk of a small printing shop: answering the customer questions that repeat weekly, quoting jobs with quantity breaks worked out, and steering each print to a sensible material and colour. It also preps models for the printer and helps troubleshoot Bambu Lab machines when something goes wrong.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bna2wMqlfX6-F4TBmAEBJ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/bna2wMqlfX6-F4TBmAEBJ",
+  "homepage": "https://x.ai/bot/bna2wMqlfX6-F4TBmAEBJ",
+  "license": null,
+  "author": "srinimaram",
+  "tags": [
+    "business",
+    "support",
+    "engineering",
+    "ops"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

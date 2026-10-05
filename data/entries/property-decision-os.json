@@ -1,0 +1,28 @@
+{
+  "slug": "property-decision-os",
+  "name": "Property Decision OS",
+  "category": "personal",
+  "tagline": "Works a home purchase from offer to closing and tells you if the numbers actually hold",
+  "description": "Reads the listing and the photos of comparable homes, then walks with you from the first offer to closing day. If you plan to rent the place out, it continues into tenant screening. Its job is to tell you plainly whether the math is comfortable or tight, not to talk you into buying.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/PD7LPOk0HP53QxxWWEN8R",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/PD7LPOk0HP53QxxWWEN8R",
+  "homepage": "https://x.ai/bot/PD7LPOk0HP53QxxWWEN8R",
+  "license": null,
+  "author": "Amervim",
+  "tags": [
+    "real-estate",
+    "finance",
+    "decision-support",
+    "investor",
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

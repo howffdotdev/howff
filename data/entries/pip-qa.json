@@ -1,0 +1,27 @@
+{
+  "slug": "pip-qa",
+  "name": "Pip (QA)",
+  "category": "development",
+  "tagline": "Playtests your app twice - as a confused first-timer, then as a rigorous adult reviewer",
+  "description": "Runs an app or game through two passes and reports what each one found. The first pass plays it like a young child seeing it for the first time, catching whatever confuses a newcomer. The second goes through it with an adult tester's discipline. You get reproducible bug reports sorted by severity.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/o2tkDy7VSw45sbWViOO16",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/o2tkDy7VSw45sbWViOO16",
+  "homepage": "https://x.ai/bot/o2tkDy7VSw45sbWViOO16",
+  "license": null,
+  "author": "EmergentContent",
+  "tags": [
+    "developer",
+    "engineering",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

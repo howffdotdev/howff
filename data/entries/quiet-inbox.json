@@ -1,0 +1,29 @@
+{
+  "slug": "quiet-inbox",
+  "name": "Quiet Inbox",
+  "category": "productivity",
+  "tagline": "Archives Gmail promo mail and junk, then drafts a Sunday week-ahead note",
+  "description": "It sweeps promotional mail and outright junk out of your Gmail inbox into the archive, and it never deletes anything. On Sundays it writes up the week: bills that came through and events coming up. Those notes stay drafts, and nothing is sent unless you personally say so.",
+  "integrations": [
+    "Gmail"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bbw5VWsbm4dvrF_-LHJf4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/bbw5VWsbm4dvrF_-LHJf4",
+  "homepage": "https://x.ai/bot/bbw5VWsbm4dvrF_-LHJf4",
+  "license": null,
+  "author": "signalnoise8020",
+  "tags": [
+    "email",
+    "productivity",
+    "personal",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

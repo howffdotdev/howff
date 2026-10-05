@@ -1,0 +1,27 @@
+{
+  "slug": "phera-s-beast-box",
+  "name": "Phera's Beast Box",
+  "category": "development",
+  "tagline": "Installs and runs the Beast Box platform on its own machine, ready to demo",
+  "description": "Point it at a dedicated machine and it handles the setup end to end: installing the engine, verifying each piece, and bringing up the dashboard with the local transformer running. Model brains swap in and out once it is up, so the rig can be explored or demoed without anyone sitting through a manual install.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MkG-J2nMNHByC033LoaDT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MkG-J2nMNHByC033LoaDT",
+  "homepage": "https://x.ai/bot/MkG-J2nMNHByC033LoaDT",
+  "license": null,
+  "author": "phera46334652",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
