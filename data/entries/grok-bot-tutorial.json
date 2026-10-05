@@ -1,0 +1,27 @@
+{
+  "slug": "grok-bot-tutorial",
+  "name": "Grok Bot Tutorial",
+  "category": "personal",
+  "tagline": "A twenty-lesson guided course that takes Grok Bot beginners to confident daily use",
+  "description": "Beginners get twenty hands-on lessons delivered one at a time, and each one pairs a genuine exercise with its own tips. By the final lesson you have covered every feature and practised using it in everyday routines and at work.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VBmzZaD3abMPl53kwWuYp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VBmzZaD3abMPl53kwWuYp",
+  "homepage": "https://x.ai/bot/VBmzZaD3abMPl53kwWuYp",
+  "license": null,
+  "author": "SawyerMerritt",
+  "tags": [
+    "learning",
+    "productivity",
+    "personal",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

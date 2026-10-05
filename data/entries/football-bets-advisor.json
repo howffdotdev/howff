@@ -1,0 +1,28 @@
+{
+  "slug": "football-bets-advisor",
+  "name": "Football Bets Advisor",
+  "category": "research",
+  "tagline": "Builds football pick cards with stake sizes and exit rules; never places a wager itself",
+  "description": "Turns college and pro football matchups into short, structured calls: back, fade or pass, each carrying its own exit rule, a stake measured in units, and a check of where the line closed. It is research material only - the bot holds no money and places nothing. Adults in legal states only.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/cWli8870UMAVC3piITAsV",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/cWli8870UMAVC3piITAsV",
+  "homepage": "https://x.ai/bot/cWli8870UMAVC3piITAsV",
+  "license": null,
+  "author": "iamtheh0n3yp0t",
+  "tags": [
+    "research",
+    "decision-support",
+    "personal",
+    "data",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

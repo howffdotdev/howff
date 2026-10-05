@@ -1,0 +1,28 @@
+{
+  "slug": "grok-bot-polish",
+  "name": "Grok Bot Polish",
+  "category": "marketing",
+  "tagline": "Rewrites bot and app listings into search-friendly wording, from what you paste in",
+  "description": "Paste in a bot card, store listing or product page and it comes back tightened for search: a clearer name, an opening line phrased the way real searchers phrase their questions, and a description that says less and lands harder. It changes only the text you hand it and publishes nothing itself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/EN9N53oqx8y1kvHP4BAh4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/EN9N53oqx8y1kvHP4BAh4",
+  "homepage": "https://x.ai/bot/EN9N53oqx8y1kvHP4BAh4",
+  "license": null,
+  "author": "Bill",
+  "tags": [
+    "seo",
+    "content",
+    "marketer",
+    "creator",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

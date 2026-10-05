@@ -1,0 +1,28 @@
+{
+  "slug": "getsued",
+  "name": "GetSued",
+  "category": "personal",
+  "tagline": "Builds TCPA and do-not-call complaint paperwork for consumers",
+  "description": "For consumers handling an unwanted-call or robotext dispute without a lawyer. It keeps a dated record of the calls and texts, helps identify which companies are behind them, prepares complaints to the right agencies, and drafts the demand letters or court forms you would file yourself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/NgcEs4fCGiedjVLJp8x0l",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/NgcEs4fCGiedjVLJp8x0l",
+  "homepage": "https://x.ai/bot/NgcEs4fCGiedjVLJp8x0l",
+  "license": null,
+  "author": "FoxxAndCo",
+  "tags": [
+    "personal",
+    "decision-support",
+    "productivity",
+    "back-office",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

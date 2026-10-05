@@ -1,0 +1,27 @@
+{
+  "slug": "flight-briefer",
+  "name": "Flight Briefer",
+  "category": "personal",
+  "tagline": "A one-page preflight card pulled straight from official FAA and weather feeds",
+  "description": "Any leg gets a tight one-page card with the weather picture, NOTAMs, TFRs, FBO information, and notes on the aircraft, drawn only from the FAA's and aviationweather.gov's free feeds. Pilots and dispatchers skip the raw sources and still get a usable brief.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YQjlMLtWiWq14ixfZ7ig0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/YQjlMLtWiWq14ixfZ7ig0",
+  "homepage": "https://x.ai/bot/YQjlMLtWiWq14ixfZ7ig0",
+  "license": null,
+  "author": "thatsnotallxd",
+  "tags": [
+    "travel",
+    "research",
+    "decision-support",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

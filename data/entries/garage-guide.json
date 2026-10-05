@@ -1,0 +1,28 @@
+{
+  "slug": "garage-guide",
+  "name": "Garage Guide",
+  "category": "personal",
+  "tagline": "Builds a maintenance calendar for your car from its specs, mileage and service records",
+  "description": "Enter the year, make, model and current mileage, plus whatever service records you have on hand, and it lays out the upkeep and repair work ahead as a calendar. Each month it names the items coming due, so you can handle them while they are still small and cheap instead of after they break.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/HlGmTdNrPLsV5kYtjOIJI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/HlGmTdNrPLsV5kYtjOIJI",
+  "homepage": "https://x.ai/bot/HlGmTdNrPLsV5kYtjOIJI",
+  "license": null,
+  "author": "Kirby21sk",
+  "tags": [
+    "personal",
+    "life-hacks",
+    "saving-money",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

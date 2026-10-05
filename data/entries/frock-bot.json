@@ -1,0 +1,27 @@
+{
+  "slug": "frock-bot",
+  "name": "Frock Bot",
+  "category": "personal",
+  "tagline": "Bible-study research companion that cites chapter and verse for every claim",
+  "description": "A research tool for studying the Bible, built with visible guardrails. Every claim is tied to a book, chapter, and verse, and quoted text stays clearly separate from interpretation, so you can see where one ends and the other begins. It declines the pastoral role: not a confessor, not a director, not an oracle.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ghB-IMDlcgCWzczu-SZ3d",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ghB-IMDlcgCWzczu-SZ3d",
+  "homepage": "https://x.ai/bot/ghB-IMDlcgCWzczu-SZ3d",
+  "license": null,
+  "author": "SM_Schmitt",
+  "tags": [
+    "learning",
+    "knowledge-base",
+    "personal",
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

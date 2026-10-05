@@ -1,0 +1,28 @@
+{
+  "slug": "gym-bot",
+  "name": "Gym Bot",
+  "category": "personal",
+  "tagline": "Daily gym and calorie log for lifters and HYROX racers, fed by wearable data",
+  "description": "Log your training and your meals each day and it keeps the running picture alongside recovery numbers from your wearable. It renders a daily card stack so the whole week reads at a glance, suggests meals that fit what you are doing, and calls out the pattern when takeaway quietly becomes a habit.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/G4Qddx9kqlcjyq451PAQ1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/G4Qddx9kqlcjyq451PAQ1",
+  "homepage": "https://x.ai/bot/G4Qddx9kqlcjyq451PAQ1",
+  "license": null,
+  "author": "rakshitaphilip",
+  "tags": [
+    "health",
+    "wellbeing",
+    "monitoring",
+    "personal",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
