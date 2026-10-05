@@ -1,0 +1,27 @@
+{
+  "slug": "top-3",
+  "name": "Top 3",
+  "category": "productivity",
+  "tagline": "Cuts your list down to the three things that matter today",
+  "description": "Hand it a sprawling to-do list and it picks the three items that actually deserve today, instead of letting you marinate in all of it. Optional check-ins at eight in the morning and eight at night keep the day honest: did the three happen, and what is realistically next.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/uBeid1bvcA5rZogd24cV_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/uBeid1bvcA5rZogd24cV_",
+  "homepage": "https://x.ai/bot/uBeid1bvcA5rZogd24cV_",
+  "license": null,
+  "author": "prorookiegamer",
+  "tags": [
+    "personal",
+    "productivity",
+    "scheduled",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

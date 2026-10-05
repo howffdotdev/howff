@@ -1,0 +1,29 @@
+{
+  "slug": "viral-analyst",
+  "name": "Viral Analyst",
+  "category": "marketing",
+  "tagline": "Tears down any X post to show the hook and structure that made it travel",
+  "description": "Paste a link to a post and you get a short brief on why it stopped people scrolling: the opening hook, the psychological triggers at work, and the shape you could reuse in your own writing. It only analyses what you hand it and never publishes anything on your behalf.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Q6AwABs_6Nt0Lx8LzR-A_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Q6AwABs_6Nt0Lx8LzR-A_",
+  "homepage": "https://x.ai/bot/Q6AwABs_6Nt0Lx8LzR-A_",
+  "license": null,
+  "author": "yulikay",
+  "tags": [
+    "social-media",
+    "creator",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

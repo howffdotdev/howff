@@ -1,0 +1,28 @@
+{
+  "slug": "us-crypto-tax",
+  "name": "US Crypto Tax",
+  "category": "finance",
+  "tagline": "Preps a tax year of crypto for TurboTax Form 8949, no e-filing",
+  "description": "Structured preparation for one filing season of US crypto activity, aimed at TurboTax Form 8949. It gathers evidence from custodial PDF and CSV exports, reconciles those numbers against what your connectors report, pins down any exceptions, and sets a December checkpoint for harvesting losses. It does not e-file.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/PIt8hf_78MK9-MnMpvSv9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/PIt8hf_78MK9-MnMpvSv9",
+  "homepage": "https://x.ai/bot/PIt8hf_78MK9-MnMpvSv9",
+  "license": null,
+  "author": "scgerber",
+  "tags": [
+    "finance",
+    "crypto",
+    "personal",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

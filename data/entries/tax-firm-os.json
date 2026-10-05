@@ -1,0 +1,28 @@
+{
+  "slug": "tax-firm-os",
+  "name": "Tax Firm OS",
+  "category": "ops",
+  "tagline": "Whole-office copilot for a tax or accounting practice",
+  "description": "Built for a whole tax or accounting practice rather than a single person. It speeds up client replies, keeps engagement documentation complete, raises deadline warnings early, and pushes work to finish ahead of due dates, giving one assistant a view of the firm's day-to-day load.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vJqjJphtZRkdBTYBxmWur",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vJqjJphtZRkdBTYBxmWur",
+  "homepage": "https://x.ai/bot/vJqjJphtZRkdBTYBxmWur",
+  "license": null,
+  "author": "Amervim",
+  "tags": [
+    "business",
+    "finance",
+    "ops",
+    "back-office",
+    "support"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

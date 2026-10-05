@@ -1,0 +1,28 @@
+{
+  "slug": "video-creator",
+  "name": "Video Creator",
+  "category": "marketing",
+  "tagline": "Turns one topic into a finished explainer video, helpers doing the parallel work",
+  "description": "Pick a topic and it runs the whole explainer pipeline for one video at a time: research, script, voice track, hand-drawn-style animation, edit, and a QA pass, ending with an unlisted YouTube upload for you to review. It spins up helper bots so several stages run side by side instead of in a queue.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/RPtsHesZPgAlwMOZAX8Ef",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/RPtsHesZPgAlwMOZAX8Ef",
+  "homepage": "https://x.ai/bot/RPtsHesZPgAlwMOZAX8Ef",
+  "license": null,
+  "author": "Farzad",
+  "tags": [
+    "video",
+    "youtube",
+    "content",
+    "agent-team",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "veil-vane",
+  "name": "Veil & Vane",
+  "category": "personal",
+  "tagline": "Hides messages inside images and sweeps files for concealed content before you trust them",
+  "description": "A steganography bench with two directions. It can tuck a private message inside a picture so that only someone holding the passphrase can read it back, and it can inspect pictures, sound files and PDFs for anything concealed inside them. Useful for private notes, puzzle hunts, and checking a file before you open it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/eBRHmCqvGlOuGfiEJk42a",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/eBRHmCqvGlOuGfiEJk42a",
+  "homepage": "https://x.ai/bot/eBRHmCqvGlOuGfiEJk42a",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [
+    "personal",
+    "developer",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

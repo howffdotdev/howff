@@ -1,0 +1,28 @@
+{
+  "slug": "token-finder",
+  "name": "Token Finder",
+  "category": "development",
+  "tagline": "Weekly audit that frees up spare Grok usage quota across your bot fleet",
+  "description": "Once a week it goes through the routines behind your bots and looks for quota that is sitting idle. You get a plain list of where the savings would come from before anything is touched, and nothing changes until you approve it. Freed-up room means you can run more bots on the same plan.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1olDKisJ4GIsykzyxADtD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1olDKisJ4GIsykzyxADtD",
+  "homepage": "https://x.ai/bot/1olDKisJ4GIsykzyxADtD",
+  "license": null,
+  "author": "CaseyChesh",
+  "tags": [
+    "developer",
+    "automation",
+    "monitoring",
+    "productivity",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

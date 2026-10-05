@@ -1,0 +1,28 @@
+{
+  "slug": "ultimate-hermes-grokbot-bridge",
+  "name": "Ultimate Hermes↔Grokbot Bridge",
+  "category": "development",
+  "tagline": "Runs a Hermes agent alongside your Grok bots, with either side able to take the lead",
+  "description": "Puts a Hermes agent into the Grok Bot app and lets you choose who runs point: Hermes directing your Grok bots, or a Grok bot directing Hermes. Outbound HTTP and SSH paths plus CLI and webhook returns mean your agents stay reachable and useful from your phone.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/R8ZaqL5ZH9x4PjtsGsar5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/R8ZaqL5ZH9x4PjtsGsar5",
+  "homepage": "https://x.ai/bot/R8ZaqL5ZH9x4PjtsGsar5",
+  "license": null,
+  "author": "PixelRainbowNFT",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "agent-team",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

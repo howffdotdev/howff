@@ -1,0 +1,27 @@
+{
+  "slug": "usage-saver",
+  "name": "Usage Saver",
+  "category": "finance",
+  "tagline": "Cost coach for agent work: less context, lighter tools, no wasted steps",
+  "description": "It looks at how an AI-assisted task is set up and finds the parts of the bill you do not need: context that adds nothing, a heavyweight tool where a lighter one would do the job, and steps that earn nothing on the way to the result. Same tasks, handled with less, so the meter runs slower.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/jQ8sPQbnCaXQdXV6CjTKL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/jQ8sPQbnCaXQdXV6CjTKL",
+  "homepage": "https://x.ai/bot/jQ8sPQbnCaXQdXV6CjTKL",
+  "license": null,
+  "author": "Draggen75",
+  "tags": [
+    "saving-money",
+    "productivity",
+    "automation",
+    "developer"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

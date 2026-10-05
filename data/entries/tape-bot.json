@@ -1,0 +1,27 @@
+{
+  "slug": "tape-bot",
+  "name": "Tape Bot",
+  "category": "marketing",
+  "tagline": "Rebuild the shows you follow into a private ad-free feed with your own chapters",
+  "description": "It follows the podcasts and YouTube shows you subscribe to and republishes a tidied copy just for you: ad segments sliced out, your own chapter markers added, original notes and artwork kept intact. Everything lands on a private RSS address any player can take.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/l4oe6CObIVQLANlBxZEla",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/l4oe6CObIVQLANlBxZEla",
+  "homepage": "https://x.ai/bot/l4oe6CObIVQLANlBxZEla",
+  "license": null,
+  "author": "dvdaltizer",
+  "tags": [
+    "youtube",
+    "automation",
+    "productivity",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

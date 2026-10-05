@@ -1,0 +1,28 @@
+{
+  "slug": "us-tech-deals-price-checker",
+  "name": "US Tech Deals & Price Checker",
+  "category": "personal",
+  "tagline": "Tells you whether a US gadget price is actually a decent buy",
+  "description": "Give it a gadget listing and it answers the practical question: is this price actually good? It cross-checks verified US deal listings, adds price-history context so you can see whether a discount is real, and looks up live coupons before you buy. The maintainer discloses affiliate commissions on purchases.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9AsX0Exx7P4m2IwZXJ4tp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9AsX0Exx7P4m2IwZXJ4tp",
+  "homepage": "https://x.ai/bot/9AsX0Exx7P4m2IwZXJ4tp",
+  "license": null,
+  "author": "moneydeals123",
+  "tags": [
+    "shopping",
+    "saving-money",
+    "personal",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
