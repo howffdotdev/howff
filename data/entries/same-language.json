@@ -1,0 +1,28 @@
+{
+  "slug": "same-language",
+  "name": "Same Language",
+  "category": "personal",
+  "tagline": "Asks what you meant by an ambiguous word and turns the answer into a standing rule",
+  "description": "Whenever a word you used could be read two ways, it asks a single short question about which meaning you intended and files the answer privately. Once the same reading has come up three times it becomes a standing rule the rest of your fleet can read, so they stop guessing at you. Nothing leaves your setup.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wdBvHoTAcc4fqxNbOkVnA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wdBvHoTAcc4fqxNbOkVnA",
+  "homepage": "https://x.ai/bot/wdBvHoTAcc4fqxNbOkVnA",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [
+    "personal",
+    "productivity",
+    "knowledge-base",
+    "scheduled",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

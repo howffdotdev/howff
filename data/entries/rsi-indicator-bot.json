@@ -1,0 +1,28 @@
+{
+  "slug": "rsi-indicator-bot",
+  "name": "RSI Indicator Bot",
+  "category": "finance",
+  "tagline": "Drafts RSI reversal tickets from your watchlist, research only",
+  "description": "Scans your watchlist for overbought and oversold reversals, turning each qualifying one into a worked ticket with entry, stop, target, size and rationale. Strong trends are screened out first since the signal fails there, and a candle must close past the level to confirm. Research only - no order reaches a broker.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Cjn6YQ377TLVjJYGwkLEq",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Cjn6YQ377TLVjJYGwkLEq",
+  "homepage": "https://x.ai/bot/Cjn6YQ377TLVjJYGwkLEq",
+  "license": null,
+  "author": "rightwingink1",
+  "tags": [
+    "finance",
+    "investor",
+    "analytics",
+    "research",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

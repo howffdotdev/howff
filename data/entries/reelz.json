@@ -1,0 +1,28 @@
+{
+  "slug": "reelz",
+  "name": "Reelz",
+  "category": "marketing",
+  "tagline": "Turns photos and clips into vertical reels, with publishing left entirely to you",
+  "description": "Feed it a pile of pictures and short clips and it cuts them into vertical videos sized for the big short-form apps. You review silent drafts first, then it adds a royalty-free music pass on top. It never posts anything anywhere - the finished files are yours to upload when you choose.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MDxbQT9SNEdSQ63NJpgPh",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MDxbQT9SNEdSQ63NJpgPh",
+  "homepage": "https://x.ai/bot/MDxbQT9SNEdSQ63NJpgPh",
+  "license": null,
+  "author": "Orgonix23",
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "social-media",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

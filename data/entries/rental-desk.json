@@ -1,0 +1,28 @@
+{
+  "slug": "rental-desk",
+  "name": "Rental Desk",
+  "category": "ops",
+  "tagline": "Back-office helper for small landlords: listings, inquiries, showings and rent logs",
+  "description": "Keeps the paperwork side of a small rental portfolio moving. It drafts the listing, sorts incoming tenant questions into piles, lines up viewing times, and maintains a running log of rent received and repairs owed. Every item arrives as a draft, so nothing goes out until you look at it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0havI1dJhzL_gG11rueQN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/0havI1dJhzL_gG11rueQN",
+  "homepage": "https://x.ai/bot/0havI1dJhzL_gG11rueQN",
+  "license": null,
+  "author": "BrandenSeth",
+  "tags": [
+    "business",
+    "real-estate",
+    "back-office",
+    "automation",
+    "ops"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

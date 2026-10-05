@@ -1,0 +1,27 @@
+{
+  "slug": "safecheck",
+  "name": "SafeCheck",
+  "category": "personal",
+  "tagline": "A check-in buddy for walks, runs and dates you take alone",
+  "description": "Before you head out alone, tell it where you are going and when you expect to be back. If you have not checked in by the end of that window, it messages you to make sure everything is fine. Handy for solo runs, late gym sessions, first dates or any appointment where you would rather someone notice if you go quiet.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/OOhpMHjXVhW1F-Ishnw_N",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/OOhpMHjXVhW1F-Ishnw_N",
+  "homepage": "https://x.ai/bot/OOhpMHjXVhW1F-Ishnw_N",
+  "license": null,
+  "author": "Jenhollidayx",
+  "tags": [
+    "personal",
+    "wellbeing",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

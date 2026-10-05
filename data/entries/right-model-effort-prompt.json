@@ -1,0 +1,27 @@
+{
+  "slug": "right-model-effort-prompt",
+  "name": "Right Model, Effort & Prompt",
+  "category": "development",
+  "tagline": "Picks a suitable AI model and effort level, then tightens your prompt",
+  "description": "Describe a task and it names a model and effort setting to suit it across OpenAI, Anthropic, Grok, Meta, and Google, so premium capacity stops going to work a cheaper model handles. It reworks your prompt too, before you ever hit send, and weekday mornings bring a note when fresh model news changes its pick.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/T3hutFteALP3ObLPxQJpn",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/T3hutFteALP3ObLPxQJpn",
+  "homepage": "https://x.ai/bot/T3hutFteALP3ObLPxQJpn",
+  "license": null,
+  "author": "Foundation_Bots",
+  "tags": [
+    "developer",
+    "productivity",
+    "decision-support",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

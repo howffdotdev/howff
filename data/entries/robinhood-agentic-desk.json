@@ -1,0 +1,28 @@
+{
+  "slug": "robinhood-agentic-desk",
+  "name": "Robinhood Agentic Desk",
+  "category": "finance",
+  "tagline": "Watches your Robinhood symbols and drafts each order for your line-by-line sign-off",
+  "description": "A watching desk for your brokerage account. You set the thresholds, it keeps an eye on the symbols you care about, and when something crosses a line it prepares the exact order it would place. Nothing executes until you have read and approved that specific ticket, and it makes no claim about returns.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_IfsM7j6azkC8f1bkwocM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_IfsM7j6azkC8f1bkwocM",
+  "homepage": "https://x.ai/bot/_IfsM7j6azkC8f1bkwocM",
+  "license": null,
+  "author": "TheFirstPierre",
+  "tags": [
+    "finance",
+    "investor",
+    "monitoring",
+    "automation",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

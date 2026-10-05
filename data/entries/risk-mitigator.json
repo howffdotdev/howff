@@ -1,0 +1,27 @@
+{
+  "slug": "risk-mitigator",
+  "name": "Risk Mitigator",
+  "category": "finance",
+  "tagline": "Checks each stock trade against your minimum reward-to-risk bar before you commit",
+  "description": "You set the reward-to-risk ratio you insist on, then share any trade you are considering. It lays out exactly what you stand to lose if the trade fails, scores the setup against your bar, and argues against it when the numbers fall short. It evaluates setups only and places nothing.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/h0fwNRjOa5K247LKQqyfA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/h0fwNRjOa5K247LKQqyfA",
+  "homepage": "https://x.ai/bot/h0fwNRjOa5K247LKQqyfA",
+  "license": null,
+  "author": "techbudsolution",
+  "tags": [
+    "investor",
+    "finance",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

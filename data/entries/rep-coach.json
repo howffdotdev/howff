@@ -1,0 +1,26 @@
+{
+  "slug": "rep-coach",
+  "name": "Rep Coach",
+  "category": "personal",
+  "tagline": "A lift-logging training partner that reshapes the programme around how you feel",
+  "description": "You report sets in chat and it keeps the log, builds the next block, and reshuffles around a crowded week or sore joints. Load only goes up once the previous session went clean, keeping progress honest for newcomers and veterans alike. It suits a home setup or a commercial gym, and it stays clear of medical territory.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wJRcag7l4xPBW4Hc_mA0_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wJRcag7l4xPBW4Hc_mA0_",
+  "homepage": "https://x.ai/bot/wJRcag7l4xPBW4Hc_mA0_",
+  "license": null,
+  "author": "BTC_Yogi",
+  "tags": [
+    "personal",
+    "health",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

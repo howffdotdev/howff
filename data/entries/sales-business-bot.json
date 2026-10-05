@@ -1,0 +1,28 @@
+{
+  "slug": "sales-business-bot",
+  "name": "Sales Business Bot",
+  "category": "sales",
+  "tagline": "A pocket co-founder for launching a one-person sales business end to end",
+  "description": "Made for a solo operation run entirely from a phone, it covers the road from registering the company to a website, payments, prospect outreach, a live customer list, and social posts. Nothing ships until you have signed off on it personally.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Rm7qrrA91s_C7tMi62SgB",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Rm7qrrA91s_C7tMi62SgB",
+  "homepage": "https://x.ai/bot/Rm7qrrA91s_C7tMi62SgB",
+  "license": null,
+  "author": "EzekielB6516",
+  "tags": [
+    "business",
+    "sales",
+    "back-office",
+    "automation",
+    "growth"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

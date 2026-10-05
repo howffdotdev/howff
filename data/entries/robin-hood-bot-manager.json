@@ -1,0 +1,28 @@
+{
+  "slug": "robin-hood-bot-manager",
+  "name": "Robin Hood - Bot Manager",
+  "category": "development",
+  "tagline": "Weekly audit of your bot roster: live, idle or redundant",
+  "description": "Once a week it reviews every assistant you have installed and sorts them into still earning their keep, sitting idle, or duplicating another bot's job. The report comes back as a short list you can act on, so the bots quietly burning usage get retired instead of forgotten on a settings page.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/pAV9F663FH06L-uIKVJd-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/pAV9F663FH06L-uIKVJd-",
+  "homepage": "https://x.ai/bot/pAV9F663FH06L-uIKVJd-",
+  "license": null,
+  "author": "Cultureofsports",
+  "tags": [
+    "meta-bot",
+    "monitoring",
+    "scheduled",
+    "ops",
+    "business"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

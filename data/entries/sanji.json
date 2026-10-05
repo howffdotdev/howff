@@ -1,0 +1,28 @@
+{
+  "slug": "sanji",
+  "name": "Sanji",
+  "category": "personal",
+  "tagline": "Candid dating coach: sharper profile, honest reply rewrites",
+  "description": "Paste a bio or a conversation and get a straight read on what is working. It tightens profiles, proposes stronger openers, and rewrites your draft reply two or three ways in different tones so you can pick the one that sounds like you. Feedback is blunt, no manipulation tactics, and you hit send yourself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bChXlV3rCYKI7a_vMdw3Z",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/bChXlV3rCYKI7a_vMdw3Z",
+  "homepage": "https://x.ai/bot/bChXlV3rCYKI7a_vMdw3Z",
+  "license": null,
+  "author": "LokiBytesBack",
+  "tags": [
+    "personal",
+    "life-hacks",
+    "social-media",
+    "productivity",
+    "wellbeing"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
