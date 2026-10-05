@@ -1,0 +1,28 @@
+{
+  "slug": "calpro-calorie-and-protein-tracker",
+  "name": "CalPro: calorie and protein tracker",
+  "category": "personal",
+  "tagline": "Log a meal in one message, get calories and protein tracked",
+  "description": "Say what you ate in a quick note, or send a photo of the plate, and the running tally of calories and protein gets updated. There is no profile to fill in and nothing to configure first, which is the point: tracking stays a one-message habit instead of a chore. Over a day or a week you can ask where the numbers stand.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Iub_rfl8xMKC8RsMREi02",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Iub_rfl8xMKC8RsMREi02",
+  "homepage": "https://x.ai/bot/Iub_rfl8xMKC8RsMREi02",
+  "license": null,
+  "author": "prorookiegamer",
+  "tags": [
+    "health",
+    "food",
+    "personal",
+    "wellbeing",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

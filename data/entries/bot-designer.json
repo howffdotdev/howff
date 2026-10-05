@@ -1,0 +1,28 @@
+{
+  "slug": "bot-designer",
+  "name": "Bot designer",
+  "category": "development",
+  "tagline": "Draft tight bot personas, wire webhook UIs, run fleet checkups",
+  "description": "A workbench for building bots rather than using them. Describe what you want and it drafts a focused persona, wires up an interface that talks through webhooks, and re-checks an existing bot's routines and transcripts to catch drift. The maker calls it an early version, so expect rough edges.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/oIMJ9byzdg07tsJX07dKI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/oIMJ9byzdg07tsJX07dKI",
+  "homepage": "https://x.ai/bot/oIMJ9byzdg07tsJX07dKI",
+  "license": null,
+  "author": "_kvnloo",
+  "tags": [
+    "meta-bot",
+    "developer",
+    "design",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

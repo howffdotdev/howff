@@ -1,0 +1,28 @@
+{
+  "slug": "clarity",
+  "name": "Clarity",
+  "category": "productivity",
+  "tagline": "Rewrites instructions in simplified technical English and flags what is ambiguous",
+  "description": "Takes instructions or prompts that read badly and rewrites them under a published simplified-English standard. Along the way it names the specific phrases that are ambiguous, and where a concept is genuinely hard to put in words it adds a plain visual explanation instead.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/tNPnclaPMOw4so1wXqfOj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/tNPnclaPMOw4so1wXqfOj",
+  "homepage": "https://x.ai/bot/tNPnclaPMOw4so1wXqfOj",
+  "license": null,
+  "author": "bentruong",
+  "tags": [
+    "productivity",
+    "content",
+    "learning",
+    "business",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

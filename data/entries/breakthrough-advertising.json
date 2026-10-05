@@ -1,0 +1,27 @@
+{
+  "slug": "breakthrough-advertising",
+  "name": "Breakthrough Advertising",
+  "category": "marketing",
+  "tagline": "Work through Schwartz's advertising classic and leave with angles and drafts",
+  "description": "Describe what you are selling, who it is for, and where the ad will run, and it answers with angles worth testing, headline options, and first-draft copy to react to. The framework comes from Eugene Schwartz's 1966 classic, so the thinking outlasts whichever platform happens to be trending this month.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/NZkRCKrLi2JqqjKKjaJ2O",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/NZkRCKrLi2JqqjKKjaJ2O",
+  "homepage": "https://x.ai/bot/NZkRCKrLi2JqqjKKjaJ2O",
+  "license": null,
+  "author": "CardCaptain",
+  "tags": [
+    "business",
+    "marketer",
+    "content",
+    "learning"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "catalog-migrator",
+  "name": "Catalog Migrator",
+  "category": "ops",
+  "tagline": "Relocates a full Shopify or CSV product catalogue, with a dry-run mapping first",
+  "description": "Bring a product list from Shopify or a CSV and it maps the whole thing onto the shop you are moving to, products and images included. The mapping lands as a dry run you review and approve before anything goes live. Then it wires up purchase links and a redirect plan, so customers never hit dead ends mid-move.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Vg-6U_xdHUadEE20V6R2B",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Vg-6U_xdHUadEE20V6R2B",
+  "homepage": "https://x.ai/bot/Vg-6U_xdHUadEE20V6R2B",
+  "license": null,
+  "author": "ColinMcDermott",
+  "tags": [
+    "business",
+    "shopping",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

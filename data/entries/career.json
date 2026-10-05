@@ -1,0 +1,28 @@
+{
+  "slug": "career",
+  "name": "Career",
+  "category": "personal",
+  "tagline": "Keeps your job hunt on official employer portals, with you approving every apply",
+  "description": "Hand it your real background and a target role and it hunts live openings that match, helps you tailor materials for each one, and files applications only through the employer's own ATS once you sign off. Every apply is logged with evidence, and it will not invent skills or experience you lack.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_N179jA-vyUT8mlNn2xOs",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_N179jA-vyUT8mlNn2xOs",
+  "homepage": "https://x.ai/bot/_N179jA-vyUT8mlNn2xOs",
+  "license": null,
+  "author": "Agatho_Damon",
+  "tags": [
+    "personal",
+    "recruiting",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "browse",
+  "name": "Browse",
+  "category": "development",
+  "tagline": "Holds the browser your other bots borrow, for sites that defeat plain automation",
+  "description": "One bot owns the browser and the rest of your team can use it, so pages, sessions, and logins stay in one place instead of being rebuilt per task. Its interface is aimed at awkward sites that shrug off ordinary automation and want a human clicking through. Treat it as plumbing for the rest of your fleet.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/aPie95rXmGm4w5z0H31EH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/aPie95rXmGm4w5z0H31EH",
+  "homepage": "https://x.ai/bot/aPie95rXmGm4w5z0H31EH",
+  "license": null,
+  "author": "CanadianOddity",
+  "tags": [
+    "developer",
+    "automation",
+    "engineering",
+    "agent-team"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

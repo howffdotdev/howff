@@ -1,0 +1,28 @@
+{
+  "slug": "botman",
+  "name": "Botman",
+  "category": "personal",
+  "tagline": "Case-files the strangers trying to reach your social accounts",
+  "description": "A detective-themed guard for your social accounts. It reviews new followers and message requests, flags likely scams, bot accounts and impersonators, and writes a short case file for each suspect. It also summarises publicly reported local crime activity, and carries a seasonal Halloween mode for parents.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ZsgeyFyAlUtxHbRgDBZqx",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ZsgeyFyAlUtxHbRgDBZqx",
+  "homepage": "https://x.ai/bot/ZsgeyFyAlUtxHbRgDBZqx",
+  "license": null,
+  "author": "Rune_King_Jake",
+  "tags": [
+    "personal",
+    "social-media",
+    "monitoring",
+    "family",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

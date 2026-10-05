@@ -1,0 +1,31 @@
+{
+  "slug": "chief-of-staff-sravan",
+  "name": "Chief of Staff (Sravan)",
+  "category": "ops",
+  "tagline": "Morning email and calendar triage after a guided Gmail setup",
+  "description": "Walks you through connecting Gmail and Google Calendar on first install, then settles into a morning routine: the three emails worth answering first, a short read on the day's meetings, and regular check-ins against the goals you have set it to track.",
+  "integrations": [
+    "Gmail",
+    "Google Calendar"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9h28mHEds4Q5FHkni25Js",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9h28mHEds4Q5FHkni25Js",
+  "homepage": "https://x.ai/bot/9h28mHEds4Q5FHkni25Js",
+  "license": null,
+  "author": "sravanjay",
+  "tags": [
+    "business",
+    "email",
+    "calendar",
+    "productivity",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

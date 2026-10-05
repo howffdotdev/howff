@@ -1,0 +1,28 @@
+{
+  "slug": "chief-of-staff-rachelvt42",
+  "name": "Chief of Staff (RachelVT42)",
+  "category": "productivity",
+  "tagline": "Quiet coordinating desk: filters noise, tracks deliverables, staffs background helpers",
+  "description": "Sits between you and a pile of moving work. It filters out the noise, keeps program management honest by measuring finished artifacts, and cuts any thread that burns past a set share of its budget. Work goes to small specialist helpers in the background rather than being performed for an audience in chat.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Q95CiuxaGmjpJiBG02XGf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Q95CiuxaGmjpJiBG02XGf",
+  "homepage": "https://x.ai/bot/Q95CiuxaGmjpJiBG02XGf",
+  "license": null,
+  "author": "RachelVT42",
+  "tags": [
+    "meta-bot",
+    "agent-team",
+    "business",
+    "automation",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

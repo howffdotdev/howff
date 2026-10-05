@@ -1,0 +1,27 @@
+{
+  "slug": "chief-francisco",
+  "name": "Chief (Francisco)",
+  "category": "ops",
+  "tagline": "A first-stop chief of staff that routes work across your other bots",
+  "description": "Made for founders running several projects at once. You bring it whatever lands first, and it either handles the item, sends it to one of your other bots, or keeps both sides moving until the job is done. The point is one starting place each day instead of five separate chats.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8XD1HkmamSpzjZdBZKFSG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8XD1HkmamSpzjZdBZKFSG",
+  "homepage": "https://x.ai/bot/8XD1HkmamSpzjZdBZKFSG",
+  "license": null,
+  "author": "franperez_fp",
+  "tags": [
+    "business",
+    "meta-bot",
+    "automation",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

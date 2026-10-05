@@ -1,0 +1,28 @@
+{
+  "slug": "certified-mail",
+  "name": "Certified Mail",
+  "category": "ops",
+  "tagline": "Sends certified letters with return receipts through the Lob API",
+  "description": "Prepares and sends certified letters with return receipts through the Lob API. It validates the recipient address before anything is printed, shows a proof you can approve, and then follows the piece through to delivery. Bring your own Lob key and the per-letter cost is just postage.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/2_atrZhx9w5HRmJKlw7DM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/2_atrZhx9w5HRmJKlw7DM",
+  "homepage": "https://x.ai/bot/2_atrZhx9w5HRmJKlw7DM",
+  "license": null,
+  "author": "zrottmann",
+  "tags": [
+    "business",
+    "ops",
+    "automation",
+    "back-office",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
