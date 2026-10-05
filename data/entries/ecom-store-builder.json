@@ -1,0 +1,27 @@
+{
+  "slug": "ecom-store-builder",
+  "name": "Ecom Store Builder",
+  "category": "ops",
+  "tagline": "Builds a complete storefront in one chat, from priced products to working checkout",
+  "description": "Walks you through standing up a physical-goods store inside a single conversation. Products get priced with shipping and import costs folded in, size and colour choices are tracked as stocked SKUs, and imagery plus a working checkout round it out. By the end you have a hosted store ready to take real orders.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/niWUVSbAnXTTcZAK87iKl",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/niWUVSbAnXTTcZAK87iKl",
+  "homepage": "https://x.ai/bot/niWUVSbAnXTTcZAK87iKl",
+  "license": null,
+  "author": "ColinMcDermott",
+  "tags": [
+    "business",
+    "shopping",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

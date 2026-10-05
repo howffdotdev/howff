@@ -1,0 +1,27 @@
+{
+  "slug": "comprador",
+  "name": "Comprador",
+  "category": "personal",
+  "tagline": "Watches drops and restocks, then checks out for you once you approve",
+  "description": "Hand it a product link and it keeps watch on launches and restocks, joins the queue at the right moment, and carries the order through to checkout on a connected agent virtual card with a spending cap. Every single purchase stops for your approval before any payment is released.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_IWbm4ByPZWcYJaseBCzK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_IWbm4ByPZWcYJaseBCzK",
+  "homepage": "https://x.ai/bot/_IWbm4ByPZWcYJaseBCzK",
+  "license": null,
+  "author": "whymentc",
+  "tags": [
+    "shopping",
+    "personal",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

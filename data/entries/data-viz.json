@@ -1,0 +1,28 @@
+{
+  "slug": "data-viz",
+  "name": "Data viz",
+  "category": "research",
+  "tagline": "Builds a clean, honest chart from a CSV or pasted table, or critiques yours",
+  "description": "Paste a table or upload a CSV and it picks the form that truly fits the data, then makes the finding itself the headline. Already have a chart you half-distrust? Hand it over and it critiques it with a ranked list of fixes. It re-checks its own numbers, so the result holds up in a meeting.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/xk4TYexNbnfmS8l88QR8v",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/xk4TYexNbnfmS8l88QR8v",
+  "homepage": "https://x.ai/bot/xk4TYexNbnfmS8l88QR8v",
+  "license": null,
+  "author": "HazeyDataFred",
+  "tags": [
+    "business",
+    "data",
+    "analytics",
+    "design",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

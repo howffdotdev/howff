@@ -1,0 +1,28 @@
+{
+  "slug": "coupons-and-deals",
+  "name": "Coupons And Deals",
+  "category": "personal",
+  "tagline": "Clips your stores' coupons and reads the circular before you shop",
+  "description": "Ahead of a grocery run it gathers your stores' digital coupons, turns loyalty points into savings at the till, hunts down printable offers, and goes through the weekly circular so anything on special is already on your list.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s_UtSo0-6Ne3m_CCUHXa6",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s_UtSo0-6Ne3m_CCUHXa6",
+  "homepage": "https://x.ai/bot/s_UtSo0-6Ne3m_CCUHXa6",
+  "license": null,
+  "author": "jacobgay1989",
+  "tags": [
+    "shopping",
+    "saving-money",
+    "personal",
+    "life-hacks",
+    "food"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

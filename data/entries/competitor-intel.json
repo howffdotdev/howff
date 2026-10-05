@@ -1,0 +1,27 @@
+{
+  "slug": "competitor-intel",
+  "name": "Competitor Intel",
+  "category": "marketing",
+  "tagline": "Weekly cited report on what rival local service businesses just did",
+  "description": "Aim it at your local market and it researches the service companies you are up against, then files a weekly report of the moves they made, with a citation for each claim. It stays strictly read-only: no outreach on your behalf, no posting anywhere, and no advice on what you should charge.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/PIBCWeB59T-UhxyBNLowR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/PIBCWeB59T-UhxyBNLowR",
+  "homepage": "https://x.ai/bot/PIBCWeB59T-UhxyBNLowR",
+  "license": null,
+  "author": "TheReal_BCM",
+  "tags": [
+    "business",
+    "research",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

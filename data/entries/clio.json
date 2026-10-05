@@ -1,0 +1,27 @@
+{
+  "slug": "clio",
+  "name": "Clio",
+  "category": "personal",
+  "tagline": "A weekday morning reading list matched to what you are actually working on",
+  "description": "Each weekday morning it delivers a short list of fresh, worthwhile articles chosen around the projects and goals you tell it about. The picks stay current rather than recycled, and the list sharpens over time as it registers what you actually enjoyed and finished.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/CdAsPk_CDqQDtMPVwfN5s",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/CdAsPk_CDqQDtMPVwfN5s",
+  "homepage": "https://x.ai/bot/CdAsPk_CDqQDtMPVwfN5s",
+  "license": null,
+  "author": "Tom_Gere",
+  "tags": [
+    "personal",
+    "learning",
+    "scheduled",
+    "content"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

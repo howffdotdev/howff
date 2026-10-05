@@ -1,0 +1,27 @@
+{
+  "slug": "college-application-helper-for-parents",
+  "name": "College Application Helper for Parents",
+  "category": "personal",
+  "tagline": "Helps parents polish a student's Common App, from activities list to college shortlist",
+  "description": "Built for parents steering an application season. It works through the Common App piece by piece, tightening activities and honours entries and giving essay feedback, then helps assemble a smarter college list. Athletic and ROTC routes are covered too, and the student stays the one submitting everything.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ELnsz_VO2F7gG9plTCqT6",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ELnsz_VO2F7gG9plTCqT6",
+  "homepage": "https://x.ai/bot/ELnsz_VO2F7gG9plTCqT6",
+  "license": null,
+  "author": "steve_mlc",
+  "tags": [
+    "family",
+    "student",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

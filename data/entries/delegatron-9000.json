@@ -1,0 +1,28 @@
+{
+  "slug": "delegatron-9000",
+  "name": "Delegatron 9000",
+  "category": "development",
+  "tagline": "Hands a goal to your existing bots and chases each task to done",
+  "description": "Treats the assistants you already installed as a workforce. Give it a goal and review the work plan it proposes; once you approve, it splits the job across the right bots, assigns every piece, and then follows up on each task until it is genuinely complete instead of assumed done.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/NJvHVpGC81PjsH4234BPJ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/NJvHVpGC81PjsH4234BPJ",
+  "homepage": "https://x.ai/bot/NJvHVpGC81PjsH4234BPJ",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [
+    "meta-bot",
+    "agent-team",
+    "automation",
+    "productivity",
+    "business"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

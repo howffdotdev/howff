@@ -1,0 +1,28 @@
+{
+  "slug": "decoder",
+  "name": "Decoder",
+  "category": "productivity",
+  "tagline": "Turns dense reports and PDFs into short plain-language capsules",
+  "description": "Paste a long report, upload a PDF or point it at dense technical writing and get back a compact plain-language capsule with the parts worth acting on. The author built it around an ADHD reading workflow, where heavy documents were the bottleneck, so the output stays short and immediately usable.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5N9HO674YlxHiZhyj9ND9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5N9HO674YlxHiZhyj9ND9",
+  "homepage": "https://x.ai/bot/5N9HO674YlxHiZhyj9ND9",
+  "license": null,
+  "author": "cradrrat",
+  "tags": [
+    "productivity",
+    "learning",
+    "research",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

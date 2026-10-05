@@ -1,0 +1,27 @@
+{
+  "slug": "crypto",
+  "name": "Crypto",
+  "category": "finance",
+  "tagline": "A read-only coin watcher: prices, move alerts, unlock calendar, wallet lookups",
+  "description": "Covers the useful side of following coins: a morning price summary, alerts when something significant moves, periodic digest roundups, and a calendar of upcoming token unlocks. Wallet checks are look-only, and everything is reported inside the chat. It never trades, holds funds, or asks for access to anything.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7wv5WYGOnMMImpWdicU3E",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7wv5WYGOnMMImpWdicU3E",
+  "homepage": "https://x.ai/bot/7wv5WYGOnMMImpWdicU3E",
+  "license": null,
+  "author": "Robert1",
+  "tags": [
+    "crypto",
+    "news",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

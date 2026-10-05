@@ -1,0 +1,27 @@
+{
+  "slug": "customer-care",
+  "name": "Customer Care",
+  "category": "ops",
+  "tagline": "Handles refunds and disputes against your policy, drafting every reply for approval",
+  "description": "Handles the awkward end of retail against the written policy you give it. Disputes get responses built on delivery evidence, and refunds are prepared as drafts that wait for your approval before anything reaches a buyer. A weekly summary tracks refund and dispute rates so you can see the trend.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/NIjIeUSpzESYUiJTmrAvm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/NIjIeUSpzESYUiJTmrAvm",
+  "homepage": "https://x.ai/bot/NIjIeUSpzESYUiJTmrAvm",
+  "license": null,
+  "author": "ColinMcDermott",
+  "tags": [
+    "business",
+    "support",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

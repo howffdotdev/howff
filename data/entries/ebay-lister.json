@@ -1,0 +1,28 @@
+{
+  "slug": "ebay-lister",
+  "name": "eBay Lister",
+  "category": "personal",
+  "tagline": "Photo to eBay draft: sold comps, title, price, your approval",
+  "description": "Photograph a collectible such as comics, trading cards, toys or a thrift-store find and it builds a complete eBay draft: a researched title, a written description, and pricing grounded in what comparable items have actually sold for. Nothing goes live until you have confirmed the listing yourself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/q9Q8EPKFx45CmVwjUAFY5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/q9Q8EPKFx45CmVwjUAFY5",
+  "homepage": "https://x.ai/bot/q9Q8EPKFx45CmVwjUAFY5",
+  "license": null,
+  "author": "Gabi_Valerio3",
+  "tags": [
+    "shopping",
+    "business",
+    "sales",
+    "saving-money",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-05",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
