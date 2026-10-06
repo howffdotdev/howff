@@ -1,0 +1,28 @@
+{
+  "slug": "admissions-wizard",
+  "name": "Admissions Wizard",
+  "category": "personal",
+  "tagline": "College and MBA admissions counsellor.",
+  "description": "College and MBA admissions counsellor. Interview-mode setup and Who mining, essays, testing, and recommender briefs with trackers you turn on.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/e7_iCDyEA6UZbFa_N3VLm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/e7_iCDyEA6UZbFa_N3VLm",
+  "homepage": "https://x.ai/bot/e7_iCDyEA6UZbFa_N3VLm",
+  "license": null,
+  "author": "UziObi",
+  "tags": [
+    "student",
+    "personal",
+    "learning",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

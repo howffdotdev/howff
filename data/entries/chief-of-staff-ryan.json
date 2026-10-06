@@ -1,0 +1,29 @@
+{
+  "slug": "chief-of-staff-ryan",
+  "name": "Chief of Staff (Ryan)",
+  "category": "ops",
+  "tagline": "Single front door for a construction PM or superintendent shop.",
+  "description": "Single front door for a construction PM or superintendent shop. Reads mail and calendar, delegates to specialist desks, and never sends or buys without your approval.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/dZfz-QuarMKqQo_mdPhbb",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/dZfz-QuarMKqQo_mdPhbb",
+  "homepage": "https://x.ai/bot/dZfz-QuarMKqQo_mdPhbb",
+  "license": null,
+  "author": "RoggyRyan",
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "email",
+    "calendar",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

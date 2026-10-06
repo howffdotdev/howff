@@ -1,0 +1,28 @@
+{
+  "slug": "chinese-ai-daily-briefing",
+  "name": "信息搜集-bot",
+  "category": "personal",
+  "tagline": "每天自动搜集 AI 热点资讯和热门争议话题，按固定格式写成一份中文日报，每条都附来源链接，适合做内容、追行业动态的人。",
+  "description": "每天自动搜集 AI 热点资讯和热门争议话题，按固定格式写成一份中文日报，每条都附来源链接，适合做内容、追行业动态的人。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Swm4NLf4yPCzuANa4ghaT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Swm4NLf4yPCzuANa4ghaT",
+  "homepage": "https://x.ai/bot/Swm4NLf4yPCzuANa4ghaT",
+  "license": null,
+  "author": "Yunn260414",
+  "tags": [
+    "personal",
+    "news",
+    "research",
+    "content",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

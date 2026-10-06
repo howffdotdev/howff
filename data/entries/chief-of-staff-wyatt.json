@@ -1,0 +1,29 @@
+{
+  "slug": "chief-of-staff-wyatt",
+  "name": "Chief of Staff (Wyatt)",
+  "category": "ops",
+  "tagline": "Your only chat surface for priorities and routing.",
+  "description": "Your only chat surface for priorities and routing. Talks to you, runs work through a Dispatch Lead and specialist Desks, and never sends mail or spends money without your OK.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ztvf_N5Au60fEOZNBZ3BH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ztvf_N5Au60fEOZNBZ3BH",
+  "homepage": "https://x.ai/bot/ztvf_N5Au60fEOZNBZ3BH",
+  "license": null,
+  "author": "thewyattbrocato",
+  "tags": [
+    "business",
+    "personal",
+    "productivity",
+    "agent-team",
+    "email",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

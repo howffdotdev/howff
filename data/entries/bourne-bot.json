@@ -1,0 +1,27 @@
+{
+  "slug": "bourne-bot",
+  "name": "Bourne Bot",
+  "category": "personal",
+  "tagline": "A calm, no-nonsense personal security advisor.",
+  "description": "A calm, no-nonsense personal security advisor. Bourne Bot helps you lock down your accounts, devices, location, money, family, and reputation with proportional, legal steps, and walks you through incidents when something goes wrong.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Y8zQlQDtzwGFBrKVWlqCa",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Y8zQlQDtzwGFBrKVWlqCa",
+  "homepage": "https://x.ai/bot/Y8zQlQDtzwGFBrKVWlqCa",
+  "license": null,
+  "author": "MichaelGannotti",
+  "tags": [
+    "personal",
+    "monitoring",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

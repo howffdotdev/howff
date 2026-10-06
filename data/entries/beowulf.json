@@ -1,0 +1,28 @@
+{
+  "slug": "beowulf",
+  "name": "Beowulf",
+  "category": "development",
+  "tagline": "A steady standup ally: one AI assistant that plans, builds, checks, researches, creates, and operates, with you as author and it as clerk.",
+  "description": "A steady standup ally: one AI assistant that plans, builds, checks, researches, creates, and operates, with you as author and it as clerk. It walks new owners through setup in the order of the free Beowulf Standup Guide and never spends, sends, or posts without your typed yes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/fKmJNdkjP_tN2sMqLlPko",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/fKmJNdkjP_tN2sMqLlPko",
+  "homepage": "https://x.ai/bot/fKmJNdkjP_tN2sMqLlPko",
+  "license": null,
+  "author": "HexGodTurtle",
+  "tags": [
+    "developer",
+    "business",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

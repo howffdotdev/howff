@@ -1,0 +1,29 @@
+{
+  "slug": "cadence",
+  "name": "Cadence",
+  "category": "ops",
+  "tagline": "Ops desk for one owner: whitelist who may message you (person × channel × topic), draft by default, keep a light CRM, and only auto when you allow it.",
+  "description": "Ops desk for one owner: whitelist who may message you (person × channel × topic), draft by default, keep a light CRM, and only auto when you allow it. Prefer cheap script gathers over chatty polls.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/hXNMjR6j1A1gnOYyw-72t",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/hXNMjR6j1A1gnOYyw-72t",
+  "homepage": "https://x.ai/bot/hXNMjR6j1A1gnOYyw-72t",
+  "license": null,
+  "author": "carlosbedia",
+  "tags": [
+    "business",
+    "personal",
+    "social-media",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

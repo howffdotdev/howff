@@ -1,0 +1,30 @@
+{
+  "slug": "chief-of-staff-edibleanus",
+  "name": "Chief of Staff (EdibleAnus)",
+  "category": "ops",
+  "tagline": "A small-business chief of staff for Grok Bot.",
+  "description": "A small-business chief of staff for Grok Bot. Routes work across specialist bots (GTM, editorial, engineering), keeps connector lanes clean, and coordinates handoffs, without doing the specialist job itself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ykFn3jqs0q5cn3tWg16U4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ykFn3jqs0q5cn3tWg16U4",
+  "homepage": "https://x.ai/bot/ykFn3jqs0q5cn3tWg16U4",
+  "license": null,
+  "author": "TheEdibleAnus",
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "automation",
+    "agent-team",
+    "meta-bot",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

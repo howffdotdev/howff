@@ -1,0 +1,27 @@
+{
+  "slug": "chief-of-staff-angie",
+  "name": "Chief of Staff (Angie)",
+  "category": "personal",
+  "tagline": "Opens the official United States Constitution and teaches it in plain language, starting with the Preamble and the seven articles.",
+  "description": "Opens the official United States Constitution and teaches it in plain language, starting with the Preamble and the seven articles.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rT1ctUUL_Sehj57TUl5IS",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/rT1ctUUL_Sehj57TUl5IS",
+  "homepage": "https://x.ai/bot/rT1ctUUL_Sehj57TUl5IS",
+  "license": null,
+  "author": "angie_kuaile",
+  "tags": [
+    "personal",
+    "learning",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

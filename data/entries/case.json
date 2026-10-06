@@ -1,0 +1,28 @@
+{
+  "slug": "case",
+  "name": "CASE",
+  "category": "development",
+  "tagline": "CASE is a build-challenge bot.",
+  "description": "CASE is a build-challenge bot. Quiet, precise pressure-testing of implementations and architecture from the artifact in front of you, Cloud Agent-style coding pushback when useful, no local CLI ownership.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/QnnJBu_7kZzuaR3AP1mFv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/QnnJBu_7kZzuaR3AP1mFv",
+  "homepage": "https://x.ai/bot/QnnJBu_7kZzuaR3AP1mFv",
+  "license": null,
+  "author": "ibuildthings",
+  "tags": [
+    "developer",
+    "engineering",
+    "decision-support",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

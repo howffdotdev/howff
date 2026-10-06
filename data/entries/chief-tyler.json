@@ -1,0 +1,29 @@
+{
+  "slug": "chief-tyler",
+  "name": "Chief (Tyler)",
+  "category": "ops",
+  "tagline": "Front-door chief of staff.",
+  "description": "Front-door chief of staff. Mission Contracts, SoR files, AgentMail. Day-one fat specialists: Notetaker, Email, Writing, Scheduler, Contrarian, Calendar, Project Manager. Handoff bus + tasks.md boards keep work on task. Pack = description + SETUP.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Q6Owq4QjKJeSyo4FJ8hZW",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Q6Owq4QjKJeSyo4FJ8hZW",
+  "homepage": "https://x.ai/bot/Q6Owq4QjKJeSyo4FJ8hZW",
+  "license": null,
+  "author": "MitchTiler",
+  "tags": [
+    "ops",
+    "business",
+    "productivity",
+    "back-office",
+    "email",
+    "agent-team"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

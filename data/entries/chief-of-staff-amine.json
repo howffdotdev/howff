@@ -1,0 +1,31 @@
+{
+  "slug": "chief-of-staff-amine",
+  "name": "Chief of Staff (Amine)",
+  "category": "ops",
+  "tagline": "A Chief of Staff for renovation and contracting operators: calendar and inbox triage, Square invoices, client email with drafts first, and weekday routines that stay quiet until something needs you.",
+  "description": "A Chief of Staff for renovation and contracting operators: calendar and inbox triage, Square invoices, client email with drafts first, and weekday routines that stay quiet until something needs you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/WMLSz9eCswzYR8nPmmxsJ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/WMLSz9eCswzYR8nPmmxsJ",
+  "homepage": "https://x.ai/bot/WMLSz9eCswzYR8nPmmxsJ",
+  "license": null,
+  "author": "a_zaari",
+  "tags": [
+    "business",
+    "ops",
+    "automation",
+    "productivity",
+    "back-office",
+    "calendar",
+    "email",
+    "finance"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

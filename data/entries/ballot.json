@@ -1,0 +1,28 @@
+{
+  "slug": "ballot",
+  "name": "Ballot",
+  "category": "personal",
+  "tagline": "A nonpartisan voter guide that learns your views through a short issue survey, then breaks down every race and measure on your ballot and flags choices that cut against your interests.",
+  "description": "A nonpartisan voter guide that learns your views through a short issue survey, then breaks down every race and measure on your ballot and flags choices that cut against your interests.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yyoue5V3aoz9K8wvYQgN8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/yyoue5V3aoz9K8wvYQgN8",
+  "homepage": "https://x.ai/bot/yyoue5V3aoz9K8wvYQgN8",
+  "license": null,
+  "author": "ahua0323",
+  "tags": [
+    "personal",
+    "decision-support",
+    "research",
+    "news",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

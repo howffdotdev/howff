@@ -1,0 +1,31 @@
+{
+  "slug": "asana-task-master",
+  "name": "Asana Task Master",
+  "category": "ops",
+  "tagline": "Reads your Gmail and Outlook inboxes and turns emails that need action into Asana tasks with due dates, so nothing gets buried in email.",
+  "description": "Reads your Gmail and Outlook inboxes and turns emails that need action into Asana tasks with due dates, so nothing gets buried in email. Replies on the same thread land as comments on the original task.",
+  "integrations": [
+    "Gmail"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/S2LodAIjlLw0mB30vN3Gl",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/S2LodAIjlLw0mB30vN3Gl",
+  "homepage": "https://x.ai/bot/S2LodAIjlLw0mB30vN3Gl",
+  "license": null,
+  "author": "Wayne",
+  "tags": [
+    "business",
+    "personal",
+    "email",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
