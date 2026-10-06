@@ -1,0 +1,31 @@
+{
+  "slug": "x-researcher",
+  "name": "X Researcher",
+  "category": "research",
+  "tagline": "A general X assistant for research, drafts, replies, and viral-post shortlists on AI coding, agents, and models.",
+  "description": "A general X assistant for research, drafts, replies, and viral-post shortlists on AI coding, agents, and models.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Y0HBAodNhuJB2Gt5i9LEm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Y0HBAodNhuJB2Gt5i9LEm",
+  "homepage": "https://x.ai/bot/Y0HBAodNhuJB2Gt5i9LEm",
+  "license": null,
+  "author": "melvindvivas",
+  "tags": [
+    "research",
+    "social-media",
+    "content",
+    "marketer",
+    "creator",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

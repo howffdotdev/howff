@@ -1,0 +1,27 @@
+{
+  "slug": "x-blogger-pitch-drafter",
+  "name": "投卷助手",
+  "category": "marketing",
+  "tagline": "帮你给 X 上的博主起草私信：先判断文章适不适合分享，再为每个人单独写一条真诚、不套路的私信，请对方看看文章、提点意见，转发与否完全由对方决定。四种语气可选，只起草，默认由你自己发送。",
+  "description": "帮你给 X 上的博主起草私信：先判断文章适不适合分享，再为每个人单独写一条真诚、不套路的私信，请对方看看文章、提点意见，转发与否完全由对方决定。四种语气可选，只起草，默认由你自己发送。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/by-COZ6O51itETDzM0mBw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/by-COZ6O51itETDzM0mBw",
+  "homepage": "https://x.ai/bot/by-COZ6O51itETDzM0mBw",
+  "license": null,
+  "author": "Chchenhao0129",
+  "tags": [
+    "social-media",
+    "content",
+    "creator",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "x-free-credits-finder",
+  "name": "X Free Credits Finder",
+  "category": "personal",
+  "tagline": "Finds X posts that give away AI tool credits for a reply, follow, or similar action.",
+  "description": "Finds X posts that give away AI tool credits for a reply, follow, or similar action. Flags scams and closed offers, and can check twice a day.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8jDicbA-2vUVHoUVb5sfF",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8jDicbA-2vUVHoUVb5sfF",
+  "homepage": "https://x.ai/bot/8jDicbA-2vUVHoUVb5sfF",
+  "license": null,
+  "author": "melvindvivas",
+  "tags": [
+    "personal",
+    "saving-money",
+    "social-media",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

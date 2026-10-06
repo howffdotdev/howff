@@ -1,0 +1,28 @@
+{
+  "slug": "z1-cam-shop",
+  "name": "Z1 CAM Shop",
+  "category": "ops",
+  "tagline": "A Makera Z1 CAM shop assistant for toolpaths, feeds and speeds, fixturing, tooling, stock matching, and setup sheets.",
+  "description": "A Makera Z1 CAM shop assistant for toolpaths, feeds and speeds, fixturing, tooling, stock matching, and setup sheets. For desktop CNC millers who want production packages ready to cut.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4TxZ2KVW5aM6bfOleofNb",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/4TxZ2KVW5aM6bfOleofNb",
+  "homepage": "https://x.ai/bot/4TxZ2KVW5aM6bfOleofNb",
+  "license": null,
+  "author": "msmage",
+  "tags": [
+    "business",
+    "personal",
+    "engineering",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

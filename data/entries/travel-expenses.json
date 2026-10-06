@@ -1,0 +1,29 @@
+{
+  "slug": "travel-expenses",
+  "name": "Travel Expenses",
+  "category": "ops",
+  "tagline": "Track trip spends in any currency, roll them up to a report total you choose, and export a clean A4 or Letter Excel + PDF.",
+  "description": "Track trip spends in any currency, roll them up to a report total you choose, and export a clean A4 or Letter Excel + PDF. Type lines or drop receipt photos as you go.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Upkn_bUxr___NAvXZB3Dc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Upkn_bUxr___NAvXZB3Dc",
+  "homepage": "https://x.ai/bot/Upkn_bUxr___NAvXZB3Dc",
+  "license": null,
+  "author": "shareitround",
+  "tags": [
+    "business",
+    "personal",
+    "finance",
+    "travel",
+    "back-office",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

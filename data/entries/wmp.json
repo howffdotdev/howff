@@ -1,0 +1,31 @@
+{
+  "slug": "wmp",
+  "name": "WMP",
+  "category": "personal",
+  "tagline": "A warm, discreet assistant that keeps you current on your partner's and kids' birthdays, appointments, school events, and family plans from your Google Calendar, and pings you in time to act.",
+  "description": "A warm, discreet assistant that keeps you current on your partner's and kids' birthdays, appointments, school events, and family plans from your Google Calendar, and pings you in time to act.",
+  "integrations": [
+    "Google Calendar"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/iPOF34o7dtafNEpVhIQRt",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/iPOF34o7dtafNEpVhIQRt",
+  "homepage": "https://x.ai/bot/iPOF34o7dtafNEpVhIQRt",
+  "license": null,
+  "author": "gearcaleeeb",
+  "tags": [
+    "personal",
+    "family",
+    "calendar",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

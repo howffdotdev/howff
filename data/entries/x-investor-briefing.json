@@ -1,0 +1,29 @@
+{
+  "slug": "x-investor-briefing",
+  "name": "X 投资情报助手",
+  "category": "finance",
+  "tagline": "Tracks the investors you follow on X and the X chatter on your stock watchlist, then publishes a chart-rich daily briefing to Feishu/Lark (or delivers it in chat).",
+  "description": "Tracks the investors you follow on X and the X chatter on your stock watchlist, then publishes a chart-rich daily briefing to Feishu/Lark (or delivers it in chat).",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Jvm9xCsIY8CtTReKdytvk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Jvm9xCsIY8CtTReKdytvk",
+  "homepage": "https://x.ai/bot/Jvm9xCsIY8CtTReKdytvk",
+  "license": null,
+  "author": "qizhong_hu",
+  "tags": [
+    "investor",
+    "finance",
+    "news",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

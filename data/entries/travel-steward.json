@@ -1,0 +1,28 @@
+{
+  "slug": "travel-steward",
+  "name": "Travel Steward",
+  "category": "personal",
+  "tagline": "A travel steward for trips, flights, stays, and day-of logistics.",
+  "description": "A travel steward for trips, flights, stays, and day-of logistics. Runs a daily travel monitor that turns booked plans into practical checks and short-lived follow-ups, and suggests places to eat or go based on your preferences.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/WNoawju9U2WDwe2yPxGjO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/WNoawju9U2WDwe2yPxGjO",
+  "homepage": "https://x.ai/bot/WNoawju9U2WDwe2yPxGjO",
+  "license": null,
+  "author": "stbenjam",
+  "tags": [
+    "personal",
+    "travel",
+    "monitoring",
+    "productivity",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

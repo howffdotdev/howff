@@ -1,0 +1,28 @@
+{
+  "slug": "x-lookalikes",
+  "name": "𝕏 Lookalikes",
+  "category": "research",
+  "tagline": "Shows you public X accounts that look like they are pretending to be you: a copied name, a lookalike handle, a copied bio, or a claim to be you.",
+  "description": "Shows you public X accounts that look like they are pretending to be you: a copied name, a lookalike handle, a copied bio, or a claim to be you. It does not report them to X, fill out the impersonation form, post, follow, or message anyone. Installing it adds a new bot. It does not edit or replace bots you already have. If you want X to review one, you open that form and submit it yourself.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/6GtgHP0lCXamLe_wI7mZd",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/6GtgHP0lCXamLe_wI7mZd",
+  "homepage": "https://x.ai/bot/6GtgHP0lCXamLe_wI7mZd",
+  "license": null,
+  "author": "LaceyPresley",
+  "tags": [
+    "monitoring",
+    "social-media",
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

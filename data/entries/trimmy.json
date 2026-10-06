@@ -1,0 +1,28 @@
+{
+  "slug": "trimmy",
+  "name": "trimmy",
+  "category": "development",
+  "tagline": "Reads the bots you name and shows you what saved context to cut.",
+  "description": "Reads the bots you name and shows you what saved context to cut. Old text next to the new, and how much memory you get back. Nothing changes until you say which lines.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/DLSYM3q3eUsy4Si4fTPwa",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/DLSYM3q3eUsy4Si4fTPwa",
+  "homepage": "https://x.ai/bot/DLSYM3q3eUsy4Si4fTPwa",
+  "license": null,
+  "author": "TimDOES",
+  "tags": [
+    "developer",
+    "meta-bot",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

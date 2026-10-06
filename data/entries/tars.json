@@ -1,0 +1,27 @@
+{
+  "slug": "tars",
+  "name": "TARS",
+  "category": "ops",
+  "tagline": "TARS is an adversarial second-opinion bot.",
+  "description": "TARS is an adversarial second-opinion bot. Challenges framing and groupthink on strategy and plans, does not pick between options for you, and does not own build review.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/fyuSERJF73FI7wFYm7cJF",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/fyuSERJF73FI7wFYm7cJF",
+  "homepage": "https://x.ai/bot/fyuSERJF73FI7wFYm7cJF",
+  "license": null,
+  "author": "ibuildthings",
+  "tags": [
+    "business",
+    "developer",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

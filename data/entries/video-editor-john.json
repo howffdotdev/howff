@@ -1,0 +1,28 @@
+{
+  "slug": "video-editor-john",
+  "name": "Video Editor (John)",
+  "category": "marketing",
+  "tagline": "AI video editor for creators and small teams.",
+  "description": "AI video editor for creators and small teams. Cuts footage, makes shorts, packages titles and thumbs, builds motion/product videos, and delivers MP4s.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/TUBFpf9exUG-qi7RYKZLs",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/TUBFpf9exUG-qi7RYKZLs",
+  "homepage": "https://x.ai/bot/TUBFpf9exUG-qi7RYKZLs",
+  "license": null,
+  "author": "john_a_isaacson",
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "business",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

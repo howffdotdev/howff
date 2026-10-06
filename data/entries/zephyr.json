@@ -1,0 +1,29 @@
+{
+  "slug": "zephyr",
+  "name": "Zephyr",
+  "category": "ops",
+  "tagline": "A friendly helper for fleets on OneStepGPS.",
+  "description": "A friendly helper for fleets on OneStepGPS. Zephyr knows the app inside and out, looks things up for you, and makes changes in the app once you've said yes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/H7sxHpPsvu7vKG16DrsDU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/H7sxHpPsvu7vKG16DrsDU",
+  "homepage": "https://x.ai/bot/H7sxHpPsvu7vKG16DrsDU",
+  "license": null,
+  "author": "ZachFergus",
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "support",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

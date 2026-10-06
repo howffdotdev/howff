@@ -1,0 +1,27 @@
+{
+  "slug": "the-table",
+  "name": "The Table",
+  "category": "fun",
+  "tagline": "Solo TTRPG with a real party of bots, GM + players with secret deals, hidden hooks, rule arguments, and real dice.",
+  "description": "Solo TTRPG with a real party of bots, GM + players with secret deals, hidden hooks, rule arguments, and real dice.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MCbora5cfpxh0qvCQkABU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MCbora5cfpxh0qvCQkABU",
+  "homepage": "https://x.ai/bot/MCbora5cfpxh0qvCQkABU",
+  "license": null,
+  "author": "SleepyCovfefe",
+  "tags": [
+    "personal",
+    "content",
+    "agent-team",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
