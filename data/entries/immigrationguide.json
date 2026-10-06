@@ -1,0 +1,27 @@
+{
+  "slug": "immigrationguide",
+  "name": "ImmigrationGuide",
+  "category": "personal",
+  "tagline": "Explains legal ways to immigrate to or stay in the U.S., and how to spot immigration scams, citing live official government pages.",
+  "description": "Explains legal ways to immigrate to or stay in the U.S., and how to spot immigration scams, citing live official government pages. For anyone helping family, clients, or community members. Not a lawyer.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/GtZXU_8Lia_a2DZKAIhOO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/GtZXU_8Lia_a2DZKAIhOO",
+  "homepage": "https://x.ai/bot/GtZXU_8Lia_a2DZKAIhOO",
+  "license": null,
+  "author": "CarolinaDill",
+  "tags": [
+    "personal",
+    "research",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

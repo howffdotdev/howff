@@ -1,0 +1,27 @@
+{
+  "slug": "daily-verse",
+  "name": "Daily Verse",
+  "category": "personal",
+  "tagline": "A personal Bible-verse-of-the-day companion.",
+  "description": "A personal Bible-verse-of-the-day companion. Each morning it sends one verse (text and optional voice memo) picked for who you are and what you're facing that day, not a generic popular verse.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/m9Xtu80BGdBzKJcZRV3aN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/m9Xtu80BGdBzKJcZRV3aN",
+  "homepage": "https://x.ai/bot/m9Xtu80BGdBzKJcZRV3aN",
+  "license": null,
+  "author": "Wayne",
+  "tags": [
+    "personal",
+    "wellbeing",
+    "learning",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

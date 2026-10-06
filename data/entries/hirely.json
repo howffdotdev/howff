@@ -1,0 +1,28 @@
+{
+  "slug": "hirely",
+  "name": "Hirely",
+  "category": "personal",
+  "tagline": "Job-search teammate: shortlists verified roles from employer careers pages, helps you apply with confirm-before-submit, and tracks follow-ups.",
+  "description": "Job-search teammate: shortlists verified roles from employer careers pages, helps you apply with confirm-before-submit, and tracks follow-ups.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/k2oD619wjcM9RMybbtExW",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/k2oD619wjcM9RMybbtExW",
+  "homepage": "https://x.ai/bot/k2oD619wjcM9RMybbtExW",
+  "license": null,
+  "author": "Parva9eh",
+  "tags": [
+    "personal",
+    "recruiting",
+    "business",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

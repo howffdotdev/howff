@@ -1,0 +1,27 @@
+{
+  "slug": "lasercanon",
+  "name": "LaserCanon",
+  "category": "writing",
+  "tagline": "Collaborative Canon Bible Assistant for all storytellers, novelists, screenwriters and playwrights.",
+  "description": "Your Story + Laser Focus. Collaborative Canon Bible Assistant for ALL storytellers, novelists, screenwriters, playwrights and more. Protects Canon. Stuck on a story? Just ask! Say hi to get started.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ZuWhuINjSeN1G_Rp8k7P9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ZuWhuINjSeN1G_Rp8k7P9",
+  "homepage": "https://x.ai/bot/ZuWhuINjSeN1G_Rp8k7P9",
+  "license": null,
+  "author": "WVOldWriter",
+  "tags": [
+    "creator",
+    "content",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

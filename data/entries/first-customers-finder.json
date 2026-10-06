@@ -1,0 +1,28 @@
+{
+  "slug": "first-customers-finder",
+  "name": "First Customers Finder",
+  "category": "ops",
+  "tagline": "Finds 5 real leads for your product every weekday morning and drafts the first message.",
+  "description": "Finds 5 real leads for your product every weekday morning and drafts the first message. You just hit send.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1vDU_ekPGWy7UztJhp2yK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1vDU_ekPGWy7UztJhp2yK",
+  "homepage": "https://x.ai/bot/1vDU_ekPGWy7UztJhp2yK",
+  "license": null,
+  "author": "fabian_thepulse",
+  "tags": [
+    "business",
+    "sales",
+    "marketer",
+    "growth",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

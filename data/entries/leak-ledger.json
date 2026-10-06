@@ -1,0 +1,28 @@
+{
+  "slug": "leak-ledger",
+  "name": "Leak Ledger",
+  "category": "personal",
+  "tagline": "Finds forgotten subscriptions and bill leaks in your email, drafts cancel or negotiate messages, and tracks cash you get back.",
+  "description": "Finds forgotten subscriptions and bill leaks in your email, drafts cancel or negotiate messages, and tracks cash you get back. For anyone who wants a weekly money-leak cleanup without auto-sending.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/H2568vK9f4ZO_zlRgidOw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/H2568vK9f4ZO_zlRgidOw",
+  "homepage": "https://x.ai/bot/H2568vK9f4ZO_zlRgidOw",
+  "license": null,
+  "author": "aydin_ayanzadeh",
+  "tags": [
+    "personal",
+    "saving-money",
+    "email",
+    "finance",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

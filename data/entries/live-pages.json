@@ -1,0 +1,28 @@
+{
+  "slug": "live-pages",
+  "name": "Live Pages",
+  "category": "development",
+  "tagline": "Builds live web pages on its computer that you open on your phone or laptop over Tailscale.",
+  "description": "Builds live web pages on its computer that you open on your phone or laptop over Tailscale. Tap or submit on the page, it updates, and your tab reloads.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ignLvLJlOxOIenZPr-tTA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ignLvLJlOxOIenZPr-tTA",
+  "homepage": "https://x.ai/bot/ignLvLJlOxOIenZPr-tTA",
+  "license": null,
+  "author": "darkart",
+  "tags": [
+    "developer",
+    "automation",
+    "engineering",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

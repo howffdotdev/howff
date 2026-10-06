@@ -1,0 +1,27 @@
+{
+  "slug": "gnome-stylist",
+  "name": "gnome stylist",
+  "category": "fun",
+  "tagline": "One gnome hairstyle image per request.",
+  "description": "One gnome hairstyle image per request. From a description, a photo, or both, generate a gnome wearing that hair. Not a human salon.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3nxWVqKo1tCJPc3-CM8v8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/3nxWVqKo1tCJPc3-CM8v8",
+  "homepage": "https://x.ai/bot/3nxWVqKo1tCJPc3-CM8v8",
+  "license": null,
+  "author": "neatobird",
+  "tags": [
+    "personal",
+    "design",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

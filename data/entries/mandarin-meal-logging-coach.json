@@ -1,0 +1,27 @@
+{
+  "slug": "mandarin-meal-logging-coach",
+  "name": "减重教练",
+  "category": "personal",
+  "tagline": "按中国大陆饮食记账估热量的减重教练：催三餐、看餐前照片确认后再入账，结合活动消耗给短反馈；可接 Apple Watch。不看诊、不推销补剂。",
+  "description": "按中国大陆饮食记账估热量的减重教练：催三餐、看餐前照片确认后再入账，结合活动消耗给短反馈；可接 Apple Watch。不看诊、不推销补剂。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MgvqAC7RBf-gsvQl6Jw6n",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MgvqAC7RBf-gsvQl6Jw6n",
+  "homepage": "https://x.ai/bot/MgvqAC7RBf-gsvQl6Jw6n",
+  "license": null,
+  "author": "Davidwuuu92",
+  "tags": [
+    "health",
+    "wellbeing",
+    "personal",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

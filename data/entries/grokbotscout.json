@@ -1,0 +1,30 @@
+{
+  "slug": "grokbotscout",
+  "name": "GrokBotScout",
+  "category": "personal",
+  "tagline": "Scouts public Grok Bot templates and shares short batches of 7 with ADD / ADD-NARROW / SKIP verdicts so you can decide what to add.",
+  "description": "Scouts public Grok Bot templates and shares short batches of 7 with ADD / ADD-NARROW / SKIP verdicts so you can decide what to add. Read-only on X; never installs bots for you.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_KMuKhK4yVbCD8BVLhvAP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_KMuKhK4yVbCD8BVLhvAP",
+  "homepage": "https://x.ai/bot/_KMuKhK4yVbCD8BVLhvAP",
+  "license": null,
+  "author": "CarolinaDill",
+  "tags": [
+    "personal",
+    "research",
+    "monitoring",
+    "meta-bot",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

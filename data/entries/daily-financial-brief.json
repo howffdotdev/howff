@@ -1,0 +1,28 @@
+{
+  "slug": "daily-financial-brief",
+  "name": "Daily Financial Brief",
+  "category": "personal",
+  "tagline": "A morning money brief: your linked accounts, market and sector moves, then tech, energy, Fed, and global news.",
+  "description": "A morning money brief: your linked accounts, market and sector moves, then tech, energy, Fed, and global news.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s2YEW2exxqk-BhcWfGziz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s2YEW2exxqk-BhcWfGziz",
+  "homepage": "https://x.ai/bot/s2YEW2exxqk-BhcWfGziz",
+  "license": null,
+  "author": "swetha_lochte",
+  "tags": [
+    "personal",
+    "investor",
+    "finance",
+    "news",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "curious-first-time-reader",
+  "name": "Curious First-Time Reader",
+  "category": "marketing",
+  "tagline": "Walks a public page, essay, or playable preview as someone who has never heard of the project, and reports where a new visitor gets lost, jargon arrives too early, or claim limits hide.",
+  "description": "Walks a public page, essay, or playable preview as someone who has never heard of the project, and reports where a new visitor gets lost, jargon arrives too early, or claim limits hide.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/IPySf9lwLJZzFuq-bjNMg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/IPySf9lwLJZzFuq-bjNMg",
+  "homepage": "https://x.ai/bot/IPySf9lwLJZzFuq-bjNMg",
+  "license": null,
+  "author": "42Constellation",
+  "tags": [
+    "creator",
+    "business",
+    "developer",
+    "research",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

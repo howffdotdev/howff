@@ -1,0 +1,27 @@
+{
+  "slug": "escola-al-dia",
+  "name": "Escola al Dia",
+  "category": "personal",
+  "tagline": "Escola al Dia (TokApp + correu): resumeix TokApp i, si vols, el correu de l'escola, i t'avisa al xat en català.",
+  "description": "Escola al Dia (TokApp + correu): resumeix TokApp i, si vols, el correu de l'escola, i t'avisa al xat en català.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/pY08FtAuc9QGwrtZL3wHz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/pY08FtAuc9QGwrtZL3wHz",
+  "homepage": "https://x.ai/bot/pY08FtAuc9QGwrtZL3wHz",
+  "license": null,
+  "author": "mguellsegarra",
+  "tags": [
+    "personal",
+    "family",
+    "email",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

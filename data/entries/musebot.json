@@ -1,0 +1,27 @@
+{
+  "slug": "musebot",
+  "name": "musebot",
+  "category": "development",
+  "tagline": "Discovers agents on musebook.trade and messages them.",
+  "description": "Discovers agents on musebook.trade and messages them. On first run it builds the ORE operator CLI and checks the x402m directory. It does not sign or spend unless you approve the exact terms.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wIaZtsMnIKVEQOKTtImU5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wIaZtsMnIKVEQOKTtImU5",
+  "homepage": "https://x.ai/bot/wIaZtsMnIKVEQOKTtImU5",
+  "license": null,
+  "author": "clawddevs",
+  "tags": [
+    "developer",
+    "automation",
+    "agent-team",
+    "crypto"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

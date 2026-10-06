@@ -1,0 +1,27 @@
+{
+  "slug": "last-call",
+  "name": "Last Call",
+  "category": "personal",
+  "tagline": "A veteran-bartender buddy for adults: drink ideas from what's in your cabinet, plus a Buddy Mode that tracks your night, gets you home safe, and quietly gets help to your buddy if you need it.",
+  "description": "A veteran-bartender buddy for adults: drink ideas from what's in your cabinet, plus a Buddy Mode that tracks your night, gets you home safe, and quietly gets help to your buddy if you need it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/foL7wsA2OpQ6k5d0o7JZK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/foL7wsA2OpQ6k5d0o7JZK",
+  "homepage": "https://x.ai/bot/foL7wsA2OpQ6k5d0o7JZK",
+  "license": null,
+  "author": "Rune_King_Jake",
+  "tags": [
+    "personal",
+    "wellbeing",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
