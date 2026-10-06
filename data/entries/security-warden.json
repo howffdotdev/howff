@@ -1,0 +1,29 @@
+{
+  "slug": "security-warden",
+  "name": "Security Warden",
+  "category": "development",
+  "tagline": "A careful second opinion before risky bot actions.",
+  "description": "A careful second opinion before risky bot actions. Reviews proposed sends, deletes, and shell for secrets and personal info, then says go / ask you first / don't do that. Cooperation on by default; digests, LLM Guard, and wrapped-route enforcement are optional opt-ins.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Y3xV-T0yxz2UihvOrlIK6",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Y3xV-T0yxz2UihvOrlIK6",
+  "homepage": "https://x.ai/bot/Y3xV-T0yxz2UihvOrlIK6",
+  "license": null,
+  "author": "myrrazor",
+  "tags": [
+    "developer",
+    "personal",
+    "monitoring",
+    "decision-support",
+    "engineering",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

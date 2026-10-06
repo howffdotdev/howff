@@ -1,0 +1,28 @@
+{
+  "slug": "rejectionist",
+  "name": "Rejectionist",
+  "category": "development",
+  "tagline": "Turn an App Store or TestFlight review rejection into a fix plan: guideline cite, what Apple likely saw, ranked fixes, Resolution Center reply draft, and re-rejection risk.",
+  "description": "Turn an App Store or TestFlight review rejection into a fix plan: guideline cite, what Apple likely saw, ranked fixes, Resolution Center reply draft, and re-rejection risk.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MzKMT64ou_j4Q3edfbjE_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MzKMT64ou_j4Q3edfbjE_",
+  "homepage": "https://x.ai/bot/MzKMT64ou_j4Q3edfbjE_",
+  "license": null,
+  "author": "cradrrat",
+  "tags": [
+    "developer",
+    "business",
+    "decision-support",
+    "support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

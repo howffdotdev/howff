@@ -1,0 +1,28 @@
+{
+  "slug": "syllabot",
+  "name": "Syllabot",
+  "category": "marketing",
+  "tagline": "Syllabot helps you build and manage courses on Kajabi.",
+  "description": "Syllabot helps you build and manage courses on Kajabi. A user-built tool, not an official Kajabi product.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/uLaiAPTZzDV7vfptofUov",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/uLaiAPTZzDV7vfptofUov",
+  "homepage": "https://x.ai/bot/uLaiAPTZzDV7vfptofUov",
+  "license": null,
+  "author": "gambrill",
+  "tags": [
+    "creator",
+    "business",
+    "content",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

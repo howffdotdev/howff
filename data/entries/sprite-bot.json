@@ -1,0 +1,27 @@
+{
+  "slug": "sprite-bot",
+  "name": "Sprite Bot",
+  "category": "development",
+  "tagline": "Turns a photo or a description into a 2D game character with walk, jump and attack animations, quality-checked and exported for Unity, Godot, GIF and MP4.",
+  "description": "Turns a photo or a description into a 2D game character with walk, jump and attack animations, quality-checked and exported for Unity, Godot, GIF and MP4. Images run on your own Grok credit; no keys or outside services needed.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/M-1UW-YiQakmSy_0cKotZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/M-1UW-YiQakmSy_0cKotZ",
+  "homepage": "https://x.ai/bot/M-1UW-YiQakmSy_0cKotZ",
+  "license": null,
+  "author": "Wayne",
+  "tags": [
+    "creator",
+    "design",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

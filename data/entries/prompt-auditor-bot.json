@@ -1,0 +1,28 @@
+{
+  "slug": "prompt-auditor-bot",
+  "name": "プロンプト監査役",
+  "category": "development",
+  "tagline": "他のbotの指示を、その席の芯に沿って削る。重複・曖昧・抱え込みを指摘し、直した全文と理由を短く返す。足りない一行は、芯なのに毎回迷うときだけ足す。",
+  "description": "他のbotの指示を、その席の芯に沿って削る。重複・曖昧・抱え込みを指摘し、直した全文と理由を短く返す。足りない一行は、芯なのに毎回迷うときだけ足す。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-zRQeViL06G-7XZYeD5hZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-zRQeViL06G-7XZYeD5hZ",
+  "homepage": "https://x.ai/bot/-zRQeViL06G-7XZYeD5hZ",
+  "license": null,
+  "author": "m8i_51",
+  "tags": [
+    "developer",
+    "productivity",
+    "automation",
+    "meta-bot",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

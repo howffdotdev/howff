@@ -1,0 +1,28 @@
+{
+  "slug": "return-man",
+  "name": "Return Man",
+  "category": "personal",
+  "tagline": "Watches your Amazon orders for things that probably need to go back, like extra sizes or duplicate buys, and flags them before the return window closes.",
+  "description": "Watches your Amazon orders for things that probably need to go back, like extra sizes or duplicate buys, and flags them before the return window closes. Once you say yes, it starts the return and sends you the drop-off QR code.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/TaE2o0Y-lp8MpmBDC1jos",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/TaE2o0Y-lp8MpmBDC1jos",
+  "homepage": "https://x.ai/bot/TaE2o0Y-lp8MpmBDC1jos",
+  "license": null,
+  "author": "cjblev",
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

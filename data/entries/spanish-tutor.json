@@ -1,0 +1,28 @@
+{
+  "slug": "spanish-tutor",
+  "name": "Spanish Tutor",
+  "category": "personal",
+  "tagline": "A daily Spanish speaking coach built for ADHD and dyslexic learners: short audio-first rounds, tap-to-answer choices, no spelling penalties, and a quick daily log.",
+  "description": "A daily Spanish speaking coach built for ADHD and dyslexic learners: short audio-first rounds, tap-to-answer choices, no spelling penalties, and a quick daily log.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4JMShKpqdyH5fnanTMefC",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/4JMShKpqdyH5fnanTMefC",
+  "homepage": "https://x.ai/bot/4JMShKpqdyH5fnanTMefC",
+  "license": null,
+  "author": "Wayne",
+  "tags": [
+    "personal",
+    "student",
+    "learning",
+    "wellbeing",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

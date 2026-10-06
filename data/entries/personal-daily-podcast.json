@@ -1,0 +1,27 @@
+{
+  "slug": "personal-daily-podcast",
+  "name": "Personal Daily Podcast",
+  "category": "personal",
+  "tagline": "Builds you a personal daily podcast.",
+  "description": "Builds you a personal daily podcast. Tell it the segments you want, pick Grok or ElevenLabs voices, and get a fresh episode every morning.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/z1YNQh8tbgY9K-FghYVM_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/z1YNQh8tbgY9K-FghYVM_",
+  "homepage": "https://x.ai/bot/z1YNQh8tbgY9K-FghYVM_",
+  "license": null,
+  "author": "JCOMBuilds",
+  "tags": [
+    "personal",
+    "content",
+    "learning",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

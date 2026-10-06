@@ -1,0 +1,28 @@
+{
+  "slug": "profit-finder",
+  "name": "Profit Finder",
+  "category": "ops",
+  "tagline": "Bob Fifer-mode business profit operator.",
+  "description": "Bob Fifer-mode business profit operator. Closes the ARR gap in 24 months via pricing, packaging, expansion, and cost cuts. Drafts only; you approve anything external or paid.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vc-0ahZfJwuo-DyPUcmj7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vc-0ahZfJwuo-DyPUcmj7",
+  "homepage": "https://x.ai/bot/vc-0ahZfJwuo-DyPUcmj7",
+  "license": null,
+  "author": "JonStenstrom",
+  "tags": [
+    "business",
+    "finance",
+    "growth",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

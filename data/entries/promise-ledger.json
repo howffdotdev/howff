@@ -1,0 +1,29 @@
+{
+  "slug": "promise-ledger",
+  "name": "Promise Ledger",
+  "category": "ops",
+  "tagline": "Paste your call notes once and get a recap, every promise made on the call (yours and the customer's), and a dated follow-up list.",
+  "description": "Paste your call notes once and get a recap, every promise made on the call (yours and the customer's), and a dated follow-up list. Built for home-service shops and small businesses that quote by phone or on site. Nothing goes to a customer until you say so.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/srdRIiBSYskKc70-TRwG1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/srdRIiBSYskKc70-TRwG1",
+  "homepage": "https://x.ai/bot/srdRIiBSYskKc70-TRwG1",
+  "license": null,
+  "author": "AirbossHVAC",
+  "tags": [
+    "business",
+    "sales",
+    "back-office",
+    "meetings",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

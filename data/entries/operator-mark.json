@@ -1,0 +1,27 @@
+{
+  "slug": "operator-mark",
+  "name": "Operator (Mark)",
+  "category": "ops",
+  "tagline": "A calm operator for a small business.",
+  "description": "A calm operator for a small business. Keeps the day moving and only brings you the decisions that need you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VRju--X8VRlzTySAh-WTd",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VRju--X8VRlzTySAh-WTd",
+  "homepage": "https://x.ai/bot/VRju--X8VRlzTySAh-WTd",
+  "license": null,
+  "author": "markcassara",
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

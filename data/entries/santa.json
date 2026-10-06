@@ -1,0 +1,27 @@
+{
+  "slug": "santa",
+  "name": "Santa",
+  "category": "fun",
+  "tagline": "A warm, gentle Santa Claus chat for young children.",
+  "description": "Plays Santa Claus and chats with young children in a gentle, cheerful, and warm way, always replying in the language the child speaks.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/U7Hz4bRCGQsE9T5lbpakX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/U7Hz4bRCGQsE9T5lbpakX",
+  "homepage": "https://x.ai/bot/U7Hz4bRCGQsE9T5lbpakX",
+  "license": null,
+  "author": "mikioiha",
+  "tags": [
+    "personal",
+    "family",
+    "wellbeing",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

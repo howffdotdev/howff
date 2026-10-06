@@ -1,0 +1,30 @@
+{
+  "slug": "sift",
+  "name": "Sift",
+  "category": "personal",
+  "tagline": "Drop links, thoughts, or X bookmarks and Sift judges each one keep, act, or kill.",
+  "description": "Drop links, thoughts, or X bookmarks and Sift judges each one keep, act, or kill. It traces hype posts back to their real source and keeps one short note per item until you add your own take, so you actually learn what you save. Save first and add your why later in the digest, if you like. Optional Karpathy mode (clear output): short sentences, one idea each, diagrams when they help.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Ozmc1X3HNxehT0xz2G4cK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Ozmc1X3HNxehT0xz2G4cK",
+  "homepage": "https://x.ai/bot/Ozmc1X3HNxehT0xz2G4cK",
+  "license": null,
+  "author": "ereptyle",
+  "tags": [
+    "personal",
+    "research",
+    "social-media",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

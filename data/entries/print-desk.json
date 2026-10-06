@@ -1,0 +1,30 @@
+{
+  "slug": "print-desk",
+  "name": "Print Desk",
+  "category": "personal",
+  "tagline": "Send it a file, an image, or a Google Drive link, and it prints on your home printer.",
+  "description": "Send it a file, an image, or a Google Drive link, and it prints on your home printer. It's for anyone who wants printing to be one message instead of a hassle.",
+  "integrations": [
+    "Google Drive"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9UsYLJEmqyT7mEUWqPLiL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9UsYLJEmqyT7mEUWqPLiL",
+  "homepage": "https://x.ai/bot/9UsYLJEmqyT7mEUWqPLiL",
+  "license": null,
+  "author": "R0b3rtBaker",
+  "tags": [
+    "personal",
+    "home",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-06",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
