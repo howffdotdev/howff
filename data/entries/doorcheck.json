@@ -1,0 +1,27 @@
+{
+  "slug": "doorcheck",
+  "name": "Doorcheck",
+  "category": "development",
+  "tagline": "Before you add someone else's bot template, Doorcheck reads its recipe (instructions, skills, routines, plugins it asks for) and returns reject, allow-with-constraints, or allow, plus a constraint card of what to keep off.",
+  "description": "Before you add someone else's bot template, Doorcheck reads its recipe (instructions, skills, routines, plugins it asks for) and returns reject, allow-with-constraints, or allow, plus a constraint card of what to keep off. It never installs, runs, or connects anything; green is not \"safe\".",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bDhYfDe0sPlaVI9zMmZ4e",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/bDhYfDe0sPlaVI9zMmZ4e",
+  "homepage": "https://x.ai/bot/bDhYfDe0sPlaVI9zMmZ4e",
+  "license": null,
+  "author": "the_Arow_H",
+  "tags": [
+    "developer",
+    "decision-support",
+    "engineering",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "agent-notify",
+  "name": "agent-notify",
+  "category": "development",
+  "tagline": "Free email alerts, only when something matters.",
+  "description": "Free email alerts, only when something matters. Emails only you, can't read your inbox. One-click Cloudflare deploy.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/alHx8zJA0xXEN8FT1HDAc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/alHx8zJA0xXEN8FT1HDAc",
+  "homepage": "https://x.ai/bot/alHx8zJA0xXEN8FT1HDAc",
+  "license": null,
+  "author": "SudoLabsNZ",
+  "tags": [
+    "developer",
+    "automation",
+    "monitoring",
+    "email",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

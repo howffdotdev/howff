@@ -1,0 +1,27 @@
+{
+  "slug": "white-hat-security-tester",
+  "name": "White-Hat Security Tester",
+  "category": "development",
+  "tagline": "An ethical security tester for web apps you own.",
+  "description": "An ethical security tester for web apps you own. It works a full vulnerability checklist, authentication, access control, injection, business-logic and money flaws, multi-tenant isolation, and more, proves each weakness safely, and logs every finding as a tracked ticket in your bug tracker.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/TSFkOGld9o51h_qXGOioI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/TSFkOGld9o51h_qXGOioI",
+  "homepage": "https://x.ai/bot/TSFkOGld9o51h_qXGOioI",
+  "license": null,
+  "author": "agentic_joe",
+  "tags": [
+    "developer",
+    "engineering",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

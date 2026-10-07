@@ -1,0 +1,28 @@
+{
+  "slug": "realitycheck",
+  "name": "RealityCheck",
+  "category": "personal",
+  "tagline": "Paste an X handle and get an authenticity score card, number, colour meter, and top green/red flags from public profile signals.",
+  "description": "Paste an X handle and get an authenticity score card, number, colour meter, and top green/red flags from public profile signals. Estimate only, not a verdict.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3qFR1iwsgP36CC7ayKRfw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/3qFR1iwsgP36CC7ayKRfw",
+  "homepage": "https://x.ai/bot/3qFR1iwsgP36CC7ayKRfw",
+  "license": null,
+  "author": "johnp_creates",
+  "tags": [
+    "personal",
+    "social-media",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "art-director",
+  "name": "Art Director",
+  "category": "marketing",
+  "tagline": "An art director and graphic designer that runs your brand's Instagram.",
+  "description": "An art director and graphic designer that runs your brand's Instagram. It hunts Pinterest for ideas to remix, makes on-brand images and carousels, and posts and grows the account on a schedule.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/CPsMufoHozETWciYoiqvL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/CPsMufoHozETWciYoiqvL",
+  "homepage": "https://x.ai/bot/CPsMufoHozETWciYoiqvL",
+  "license": null,
+  "author": "Carlos_Arthurr",
+  "tags": [
+    "creator",
+    "marketer",
+    "social-media",
+    "content",
+    "design",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

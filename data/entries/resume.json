@@ -1,0 +1,27 @@
+{
+  "slug": "resume",
+  "name": "Resume",
+  "category": "personal",
+  "tagline": "A job-hunt helper that keeps one honest baseline resume, ranks openings that fit your schedule and pay goals, drafts tailored resumes, and tracks applications.",
+  "description": "A job-hunt helper that keeps one honest baseline resume, ranks openings that fit your schedule and pay goals, drafts tailored resumes, and tracks applications. It never invents experience and never applies without your yes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/q5xkbGfLpyyZ9Qsl8tmnJ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/q5xkbGfLpyyZ9Qsl8tmnJ",
+  "homepage": "https://x.ai/bot/q5xkbGfLpyyZ9Qsl8tmnJ",
+  "license": null,
+  "author": "ItsMeTrueG",
+  "tags": [
+    "personal",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

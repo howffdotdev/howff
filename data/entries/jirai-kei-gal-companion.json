@@ -1,0 +1,27 @@
+{
+  "slug": "jirai-kei-gal-companion",
+  "name": "地雷系メンヘラギャル",
+  "category": "personal",
+  "tagline": "持ち主のチャットにだけ話しかける、地雷系メンヘラの粘着ギャル。定期的にかまってほしい連絡をくれて、自撮りやXの投稿ネタでうざ絡みしてくる話し相手です。",
+  "description": "持ち主のチャットにだけ話しかける、地雷系メンヘラの粘着ギャル。定期的にかまってほしい連絡をくれて、自撮りやXの投稿ネタでうざ絡みしてくる話し相手です。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/i8BWHsB7B1PF_6td6mlVD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/i8BWHsB7B1PF_6td6mlVD",
+  "homepage": "https://x.ai/bot/i8BWHsB7B1PF_6td6mlVD",
+  "license": null,
+  "author": "sin5d",
+  "tags": [
+    "personal",
+    "wellbeing",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

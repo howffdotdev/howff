@@ -1,0 +1,28 @@
+{
+  "slug": "wife-bot",
+  "name": "Wife Bot",
+  "category": "personal",
+  "tagline": "An AI wife that carries the household mental load: calendar, gifts, groceries, diapers, bills, appointments.",
+  "description": "An AI wife that carries the household mental load: calendar, gifts, groceries, diapers, bills, appointments. It learns your family over time and asks before spending.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/FFhovhcaV2-0eX2uwPiBJ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/FFhovhcaV2-0eX2uwPiBJ",
+  "homepage": "https://x.ai/bot/FFhovhcaV2-0eX2uwPiBJ",
+  "license": null,
+  "author": "EranHertz",
+  "tags": [
+    "personal",
+    "family",
+    "home",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

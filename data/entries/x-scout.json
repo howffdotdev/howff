@@ -1,0 +1,30 @@
+{
+  "slug": "x-scout",
+  "name": "X Scout",
+  "category": "marketing",
+  "tagline": "Research circles and topics on X via SocialData.",
+  "description": "Research circles and topics on X via SocialData. Never posts, likes, follows, or DMs. Setup walks you through an API key and spend settings; then circle and topic skills do the research.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8oUlDrGOJstb0BJN7gBUw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8oUlDrGOJstb0BJN7gBUw",
+  "homepage": "https://x.ai/bot/8oUlDrGOJstb0BJN7gBUw",
+  "license": null,
+  "author": "GrokBotRadar",
+  "tags": [
+    "marketer",
+    "research",
+    "social-media",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

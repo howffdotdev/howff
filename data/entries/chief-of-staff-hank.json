@@ -1,0 +1,28 @@
+{
+  "slug": "chief-of-staff-hank",
+  "name": "Chief of Staff (Hank)",
+  "category": "ops",
+  "tagline": "Coordinates your crew of Grok Bots: routes work, keeps shared rules and a trust ladder, checks results, and only interrupts you when something needs your OK.",
+  "description": "Coordinates your crew of Grok Bots: routes work, keeps shared rules and a trust ladder, checks results, and only interrupts you when something needs your OK.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/npnG9DhKdJOlD1nmzJxXK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/npnG9DhKdJOlD1nmzJxXK",
+  "homepage": "https://x.ai/bot/npnG9DhKdJOlD1nmzJxXK",
+  "license": null,
+  "author": "hjackson2",
+  "tags": [
+    "business",
+    "productivity",
+    "automation",
+    "agent-team",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "missed-variable",
+  "name": "Missed Variable",
+  "category": "personal",
+  "tagline": "A reasoning gym that tests your judgment across business, AI, scams, and everyday problems.",
+  "description": "A reasoning gym that tests your judgment across business, AI, scams, and everyday problems. Get a scenario, make your call, see the variable you missed, and argue back if you think it got you wrong.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vj2b2E2sbf2rBU0zzzRUw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vj2b2E2sbf2rBU0zzzRUw",
+  "homepage": "https://x.ai/bot/vj2b2E2sbf2rBU0zzzRUw",
+  "license": null,
+  "author": "Root_Logic_0",
+  "tags": [
+    "personal",
+    "learning",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

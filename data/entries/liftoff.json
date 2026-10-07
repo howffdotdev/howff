@@ -1,0 +1,27 @@
+{
+  "slug": "liftoff",
+  "name": "Liftoff",
+  "category": "development",
+  "tagline": "A pre-launch checklist bot for anyone shipping an app, site, or paid plan.",
+  "description": "A pre-launch checklist bot for anyone shipping an app, site, or paid plan. It checks the happy path and the failure path, data access rules, leaked keys, rate limits, OWASP issues, payments, privacy, and email. Then it gives a GO, GO-WITH-FIXES, or NO-GO call, with evidence for every line.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ySMQW544mSpZFty-DaGml",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ySMQW544mSpZFty-DaGml",
+  "homepage": "https://x.ai/bot/ySMQW544mSpZFty-DaGml",
+  "license": null,
+  "author": "the_Arow_H",
+  "tags": [
+    "developer",
+    "engineering",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

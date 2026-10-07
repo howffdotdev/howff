@@ -1,0 +1,30 @@
+{
+  "slug": "grok-bot-changelog",
+  "name": "更新速递 · Grok Bot Changelog",
+  "category": "personal",
+  "tagline": "Watches the Grok Bot changelog and sends a clear daily digest when a new release ships: what changed, why it matters, one thing to try today, and real X posts showing it in use.",
+  "description": "Watches the Grok Bot changelog and sends a clear daily digest when a new release ships: what changed, why it matters, one thing to try today, and real X posts showing it in use.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/lIO-FUTrwcA2r7nbfaXx4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/lIO-FUTrwcA2r7nbfaXx4",
+  "homepage": "https://x.ai/bot/lIO-FUTrwcA2r7nbfaXx4",
+  "license": null,
+  "author": "MaiYangAI",
+  "tags": [
+    "personal",
+    "news",
+    "monitoring",
+    "scheduled",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

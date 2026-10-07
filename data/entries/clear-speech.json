@@ -1,0 +1,27 @@
+{
+  "slug": "clear-speech",
+  "name": "Clear Speech",
+  "category": "personal",
+  "tagline": "English speaking coach.",
+  "description": "English speaking coach. It makes you clear, not ornate: short sentences, one correction, then you say it again.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/85J64XeyKMaYXQrMhQWpl",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/85J64XeyKMaYXQrMhQWpl",
+  "homepage": "https://x.ai/bot/85J64XeyKMaYXQrMhQWpl",
+  "license": null,
+  "author": "JideLambo",
+  "tags": [
+    "personal",
+    "learning",
+    "student",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

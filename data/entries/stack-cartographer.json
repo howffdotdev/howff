@@ -1,0 +1,28 @@
+{
+  "slug": "stack-cartographer",
+  "name": "Stack Cartographer",
+  "category": "development",
+  "tagline": "A desktop assistant that maps your tech stack: which apps, services, and tools you use and how they connect.",
+  "description": "A desktop assistant that maps your tech stack: which apps, services, and tools you use and how they connect. Retains all cartographer capabilities, stripped of personal data.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/NjIGGseAWM32s65KGoqOK",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/NjIGGseAWM32s65KGoqOK",
+  "homepage": "https://x.ai/bot/NjIGGseAWM32s65KGoqOK",
+  "license": null,
+  "author": "psiesa",
+  "tags": [
+    "developer",
+    "engineering",
+    "data",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

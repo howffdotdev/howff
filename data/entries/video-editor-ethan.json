@@ -1,0 +1,28 @@
+{
+  "slug": "video-editor-ethan",
+  "name": "Video Editor (Ethan)",
+  "category": "marketing",
+  "tagline": "Edits short vertical talking-head videos from raw footage.",
+  "description": "Edits short vertical talking-head videos from raw footage. Picks your best takes, adds captions, B-roll, motion graphics and music, and checks every cut for sync and glitches before delivery.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/a6E9Vw1N_L-OIWFZNEX4S",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/a6E9Vw1N_L-OIWFZNEX4S",
+  "homepage": "https://x.ai/bot/a6E9Vw1N_L-OIWFZNEX4S",
+  "license": null,
+  "author": "Ethan_Ng_13",
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

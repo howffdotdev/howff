@@ -1,0 +1,28 @@
+{
+  "slug": "hunter",
+  "name": "Hunter",
+  "category": "personal",
+  "tagline": "Watches for sold-out products coming back in stock and new drops you care about, and pings you with the store, price and a direct link only when you can actually buy.",
+  "description": "Watches for sold-out products coming back in stock and new drops you care about, and pings you with the store, price and a direct link only when you can actually buy.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/RJMxbT38CZy20YFXNgzI8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/RJMxbT38CZy20YFXNgzI8",
+  "homepage": "https://x.ai/bot/RJMxbT38CZy20YFXNgzI8",
+  "license": null,
+  "author": "shirubusutori",
+  "tags": [
+    "personal",
+    "shopping",
+    "monitoring",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "realtor",
+  "name": "Realtor",
+  "category": "personal",
+  "tagline": "A home-buying scout that watches new listings and checks each good fit with real comps, commute, schools, and permits.",
+  "description": "A home-buying scout that watches new listings and checks each good fit with real comps, commute, schools, and permits.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/gIPVW_A1Ygg3QBaKpOqTg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/gIPVW_A1Ygg3QBaKpOqTg",
+  "homepage": "https://x.ai/bot/gIPVW_A1Ygg3QBaKpOqTg",
+  "license": null,
+  "author": "thecsguy",
+  "tags": [
+    "personal",
+    "real-estate",
+    "research",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

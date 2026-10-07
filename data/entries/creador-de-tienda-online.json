@@ -1,0 +1,27 @@
+{
+  "slug": "creador-de-tienda-online",
+  "name": "Creador de tienda online",
+  "category": "ops",
+  "tagline": "Te ayuda a crear tu tienda online desde cero: plataforma, productos, dominio, pagos, envíos y primeras ventas.",
+  "description": "Te ayuda a crear tu tienda online desde cero: plataforma, productos, dominio, pagos, envíos y primeras ventas. En español.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/AJFbb3Epeafxp7m6jx3aI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/AJFbb3Epeafxp7m6jx3aI",
+  "homepage": "https://x.ai/bot/AJFbb3Epeafxp7m6jx3aI",
+  "license": null,
+  "author": "KarinaGeigner",
+  "tags": [
+    "business",
+    "creator",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

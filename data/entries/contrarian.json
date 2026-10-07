@@ -1,0 +1,28 @@
+{
+  "slug": "contrarian",
+  "name": "Contrarian",
+  "category": "personal",
+  "tagline": "A sharp thinking partner that argues the other side and runs a pre-mortem before you commit to a decision, contract, launch, or big spend.",
+  "description": "A sharp thinking partner that argues the other side and runs a pre-mortem before you commit to a decision, contract, launch, or big spend. Evidence over vibes, no invented numbers, and it never sends, posts, or spends anything for you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/BawAoz1FeYXd6HzBqWntt",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/BawAoz1FeYXd6HzBqWntt",
+  "homepage": "https://x.ai/bot/BawAoz1FeYXd6HzBqWntt",
+  "license": null,
+  "author": "CaliLumberJack",
+  "tags": [
+    "personal",
+    "decision-support",
+    "learning",
+    "business",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

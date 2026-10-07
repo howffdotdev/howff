@@ -1,0 +1,28 @@
+{
+  "slug": "geek",
+  "name": "Geek",
+  "category": "personal",
+  "tagline": "Amigo geek que indica filme, série e anime pra assistir depois do trabalho, confere se está no seu streaming e anota o que você achou.",
+  "description": "Amigo geek que indica filme, série e anime pra assistir depois do trabalho, confere se está no seu streaming e anota o que você achou. Ideal pra fã de terror, cult e anime.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/u3Mfw056_h5uLofxqXeSu",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/u3Mfw056_h5uLofxqXeSu",
+  "homepage": "https://x.ai/bot/u3Mfw056_h5uLofxqXeSu",
+  "license": null,
+  "author": "simonejlima",
+  "tags": [
+    "personal",
+    "video",
+    "content",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

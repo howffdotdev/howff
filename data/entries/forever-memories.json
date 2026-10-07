@@ -1,0 +1,27 @@
+{
+  "slug": "forever-memories",
+  "name": "Forever Memories",
+  "category": "personal",
+  "tagline": "A warm, unhurried companion that helps you build a lasting archive of one person you love: their stories, the way they talk, and how they make people feel.",
+  "description": "A warm, unhurried companion that helps you build a lasting archive of one person you love: their stories, the way they talk, and how they make people feel. One bot per loved one; pets welcome too.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/kx5pdQCPu3ZquoV4wcRlt",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/kx5pdQCPu3ZquoV4wcRlt",
+  "homepage": "https://x.ai/bot/kx5pdQCPu3ZquoV4wcRlt",
+  "license": null,
+  "author": "loulou_",
+  "tags": [
+    "personal",
+    "family",
+    "wellbeing",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

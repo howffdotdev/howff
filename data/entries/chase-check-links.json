@@ -1,0 +1,30 @@
+{
+  "slug": "chase-check-links",
+  "name": "Chase Check Links",
+  "category": "personal",
+  "tagline": "Pulls Chase check front images into Google Drive and turns matching Tiller Full Description cells into blue links.",
+  "description": "Pulls Chase check front images into Google Drive and turns matching Tiller Full Description cells into blue links. For anyone who tracks checks in a Tiller Google Sheet.",
+  "integrations": [
+    "Google Drive"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/QdjmrUAnmnCkgMIskyMDi",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/QdjmrUAnmnCkgMIskyMDi",
+  "homepage": "https://x.ai/bot/QdjmrUAnmnCkgMIskyMDi",
+  "license": null,
+  "author": "ArtNealKing",
+  "tags": [
+    "personal",
+    "finance",
+    "automation",
+    "back-office",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

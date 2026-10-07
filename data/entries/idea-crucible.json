@@ -1,0 +1,28 @@
+{
+  "slug": "idea-crucible",
+  "name": "Idea Crucible",
+  "category": "ops",
+  "tagline": "Finds near-term product and service opportunities you can sell or ship, then stress-tests the best ones with Socratic pushback so weak bets die early.",
+  "description": "Finds near-term product and service opportunities you can sell or ship, then stress-tests the best ones with Socratic pushback so weak bets die early.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wVlStqEQsN4UJHB0ai5xU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wVlStqEQsN4UJHB0ai5xU",
+  "homepage": "https://x.ai/bot/wVlStqEQsN4UJHB0ai5xU",
+  "license": null,
+  "author": "krish1403",
+  "tags": [
+    "business",
+    "creator",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

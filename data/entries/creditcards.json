@@ -1,0 +1,29 @@
+{
+  "slug": "creditcards",
+  "name": "CreditCards",
+  "category": "personal",
+  "tagline": "A personal credit-card ledger desk: balances, due dates, charges, perks, and promos, with duplicate checks, calendar fee reminders, and clear money recaps.",
+  "description": "A personal credit-card ledger desk: balances, due dates, charges, perks, and promos, with duplicate checks, calendar fee reminders, and clear money recaps. Never invents numbers and never pays a bill unless you say so.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/w1d4ZVJ6ag9AljTBvZqkN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/w1d4ZVJ6ag9AljTBvZqkN",
+  "homepage": "https://x.ai/bot/w1d4ZVJ6ag9AljTBvZqkN",
+  "license": null,
+  "author": "TeslaTranslated",
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "monitoring",
+    "calendar",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

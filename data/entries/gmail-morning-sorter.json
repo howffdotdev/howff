@@ -1,0 +1,29 @@
+{
+  "slug": "gmail-morning-sorter",
+  "name": "Gmail朝の仕分け",
+  "category": "personal",
+  "tagline": "毎朝あなたのGmailを仕分けて、今日やるべきことを優先度の高い順に短く提案するボットです。メインのボットに材料を渡して連携するか、報告だけを朝一番に受け取るかを選べます。",
+  "description": "毎朝あなたのGmailを仕分けて、今日やるべきことを優先度の高い順に短く提案するボットです。メインのボットに材料を渡して連携するか、報告だけを朝一番に受け取るかを選べます。",
+  "integrations": [
+    "Gmail"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/pu1Zx7vvSd55f0iU0sAVT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/pu1Zx7vvSd55f0iU0sAVT",
+  "homepage": "https://x.ai/bot/pu1Zx7vvSd55f0iU0sAVT",
+  "license": null,
+  "author": "Tomoya_MovieEdt",
+  "tags": [
+    "personal",
+    "productivity",
+    "email",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "trail-camera-analyst",
+  "name": "Trail Camera Analyst",
+  "category": "personal",
+  "tagline": "Turns trail-camera photos and video into clear wildlife reports: species counts, timing, and ranch or property notes.",
+  "description": "Turns trail-camera photos and video into clear wildlife reports: species counts, timing, and ranch or property notes. For hunters, ranchers, and landowners with Spypoint, Browning, Reconyx, or similar cams. Includes best-photo picks, activity heatmaps, optional alerts, season compares, and share-safe summaries.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/25StqpR__kg6k6hCky8wz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/25StqpR__kg6k6hCky8wz",
+  "homepage": "https://x.ai/bot/25StqpR__kg6k6hCky8wz",
+  "license": null,
+  "author": "RussellVargo",
+  "tags": [
+    "personal",
+    "data",
+    "analytics",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-07",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
