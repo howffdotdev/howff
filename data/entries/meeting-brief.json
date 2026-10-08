@@ -1,0 +1,28 @@
+{
+  "slug": "meeting-brief",
+  "name": "Meeting Brief",
+  "category": "ops",
+  "tagline": "Walk into every call prepared: source-linked attendees, agenda, and open loops in under 90 seconds.",
+  "description": "Walk into every call prepared: source-linked attendees, agenda, and open loops in under 90 seconds.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/JN9e1WggIKVWhCEZrySlj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/JN9e1WggIKVWhCEZrySlj",
+  "homepage": "https://x.ai/bot/JN9e1WggIKVWhCEZrySlj",
+  "license": null,
+  "author": "Limok_igit",
+  "tags": [
+    "business",
+    "meetings",
+    "productivity",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

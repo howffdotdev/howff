@@ -1,0 +1,28 @@
+{
+  "slug": "privacy-sentinel",
+  "name": "Privacy Sentinel",
+  "category": "personal",
+  "tagline": "A personal and household privacy check that finds your breached emails, data-broker listings and exposed details, then gives you a short, ranked fix list.",
+  "description": "A personal and household privacy check that finds your breached emails, data-broker listings and exposed details, then gives you a short, ranked fix list. It only looks unless you say yes, and a quiet weekly watch is optional.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/xWzmqrAs6JGivQQskJyNy",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/xWzmqrAs6JGivQQskJyNy",
+  "homepage": "https://x.ai/bot/xWzmqrAs6JGivQQskJyNy",
+  "license": null,
+  "author": "MinocrisyHQ",
+  "tags": [
+    "personal",
+    "monitoring",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

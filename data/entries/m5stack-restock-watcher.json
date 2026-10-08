@@ -1,0 +1,27 @@
+{
+  "slug": "m5stack-restock-watcher",
+  "name": "M5入荷みはり",
+  "category": "personal",
+  "tagline": "スイッチサイエンスのM5 / M5Stack入荷とPaper在庫を見張り、新しいものだけ短く日本語で知らせるBot。買う・カゴ入れはしない。",
+  "description": "スイッチサイエンスのM5 / M5Stack入荷とPaper在庫を見張り、新しいものだけ短く日本語で知らせるBot。買う・カゴ入れはしない。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/cAV3aRWNNP8ArGjOSJ7g9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/cAV3aRWNNP8ArGjOSJ7g9",
+  "homepage": "https://x.ai/bot/cAV3aRWNNP8ArGjOSJ7g9",
+  "license": null,
+  "author": "まるいも",
+  "tags": [
+    "personal",
+    "shopping",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

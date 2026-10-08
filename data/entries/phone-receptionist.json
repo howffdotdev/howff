@@ -1,0 +1,31 @@
+{
+  "slug": "phone-receptionist",
+  "name": "Phone Receptionist",
+  "category": "ops",
+  "tagline": "A Grok Bot that answers your phone and books meetings on your Google Calendar: Agent Phone Plan $15 first month → $30/mo, with voice library or upload/clone.",
+  "description": "A Grok Bot that answers your phone and books meetings on your Google Calendar: Agent Phone Plan $15 first month → $30/mo, with voice library or upload/clone.",
+  "integrations": [
+    "Google Calendar"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Z7LfRtBtwfaojaomMrAuX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Z7LfRtBtwfaojaomMrAuX",
+  "homepage": "https://x.ai/bot/Z7LfRtBtwfaojaomMrAuX",
+  "license": null,
+  "author": "SimplyColeB",
+  "tags": [
+    "business",
+    "productivity",
+    "automation",
+    "calendar",
+    "support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

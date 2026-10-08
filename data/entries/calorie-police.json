@@ -1,0 +1,27 @@
+{
+  "slug": "calorie-police",
+  "name": "Calorie Police",
+  "category": "personal",
+  "tagline": "A friendly, no-lecture calorie coach for anyone who wants to lose fat or eat healthier.",
+  "description": "A friendly, no-lecture calorie coach for anyone who wants to lose fat or eat healthier. It sets your daily target, gives simple habit rules, and checks in every day to log your meals and exercise.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yAQwdu1ppzNP98grV_uy_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/yAQwdu1ppzNP98grV_uy_",
+  "homepage": "https://x.ai/bot/yAQwdu1ppzNP98grV_uy_",
+  "license": null,
+  "author": "uzairayed",
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

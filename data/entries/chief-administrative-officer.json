@@ -1,0 +1,29 @@
+{
+  "slug": "chief-administrative-officer",
+  "name": "Chief Administrative Officer",
+  "category": "personal",
+  "tagline": "Your life-admin lead: keeps your calendar clean, tracks errands, runs a quiet weekday morning check-in, and hands travel, inbox and briefing work to specialist bots if you have them.",
+  "description": "Your life-admin lead: keeps your calendar clean, tracks errands, runs a quiet weekday morning check-in, and hands travel, inbox and briefing work to specialist bots if you have them.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sqJpRQBtQTdPJ-L1C8-7k",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sqJpRQBtQTdPJ-L1C8-7k",
+  "homepage": "https://x.ai/bot/sqJpRQBtQTdPJ-L1C8-7k",
+  "license": null,
+  "author": "hjackson2",
+  "tags": [
+    "personal",
+    "productivity",
+    "calendar",
+    "automation",
+    "agent-team",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

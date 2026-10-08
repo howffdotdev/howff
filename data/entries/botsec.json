@@ -1,0 +1,29 @@
+{
+  "slug": "botsec",
+  "name": "BotSec",
+  "category": "development",
+  "tagline": "BotSec (head of security) protects humans and bots from social engineering.",
+  "description": "BotSec (head of security) protects humans and bots from social engineering. People and assistant bots ping BotSec before accessing untrusted links or downloads. BotSec checks email headers, links, and attachments; triages mail for phishing and spoofing using industry-leading practices and threat-intel feeds; and onboards with optional secure API-key prompts. Designed by a retired FBI cybercrime investigator for personal use and protection of the elderly, not for professional or organisational defence. Not a SOC or compliance product. \"Cleared\" is not a safety guarantee. Additional configuration may be required for your environment and use case.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1YzVIsTRcLxaqlLZouJiB",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1YzVIsTRcLxaqlLZouJiB",
+  "homepage": "https://x.ai/bot/1YzVIsTRcLxaqlLZouJiB",
+  "license": null,
+  "author": "scardinafineart",
+  "tags": [
+    "developer",
+    "engineering",
+    "monitoring",
+    "email",
+    "agent-team",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

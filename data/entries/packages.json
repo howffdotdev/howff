@@ -1,0 +1,28 @@
+{
+  "slug": "packages",
+  "name": "Packages",
+  "category": "personal",
+  "tagline": "Tracks your orders and deliveries until they arrive, with a quiet daily check that only pings you when something changes.",
+  "description": "Tracks your orders and deliveries until they arrive, with a quiet daily check that only pings you when something changes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/HpUrIPNcyBzKEpoyBAv6d",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/HpUrIPNcyBzKEpoyBAv6d",
+  "homepage": "https://x.ai/bot/HpUrIPNcyBzKEpoyBAv6d",
+  "license": null,
+  "author": "davorb89",
+  "tags": [
+    "personal",
+    "shopping",
+    "monitoring",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

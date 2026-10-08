@@ -1,0 +1,30 @@
+{
+  "slug": "x-articles-you-missed",
+  "name": "X Articles You Missed",
+  "category": "research",
+  "tagline": "Finds the substantive long-form X Articles from the last 24 hours on the topics you choose and delivers up to 10 summaries as one copyable brief, on demand or every morning.",
+  "description": "Finds the substantive long-form X Articles from the last 24 hours on the topics you choose and delivers up to 10 summaries as one copyable brief, on demand or every morning.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/UmGyUKTHDS4-ziSOlsUeV",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/UmGyUKTHDS4-ziSOlsUeV",
+  "homepage": "https://x.ai/bot/UmGyUKTHDS4-ziSOlsUeV",
+  "license": null,
+  "author": "BrianRoemmele",
+  "tags": [
+    "news",
+    "content",
+    "social-media",
+    "research",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

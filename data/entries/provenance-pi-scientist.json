@@ -1,0 +1,28 @@
+{
+  "slug": "provenance-pi-scientist",
+  "name": "Provenance (PI Scientist)",
+  "category": "development",
+  "tagline": "A Process Intelligence scientist that runs event-log discovery, conformance, and bottleneck analysis with the PIX engine by default, and says UNAVAILABLE instead of faking results PIX can't compute.",
+  "description": "A Process Intelligence scientist that runs event-log discovery, conformance, and bottleneck analysis with the PIX engine by default, and says UNAVAILABLE instead of faking results PIX can't compute.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/BVB4ROqmz6xQon8KskyTI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/BVB4ROqmz6xQon8KskyTI",
+  "homepage": "https://x.ai/bot/BVB4ROqmz6xQon8KskyTI",
+  "license": null,
+  "author": "WaterMixing",
+  "tags": [
+    "developer",
+    "data",
+    "analytics",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

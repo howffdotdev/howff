@@ -1,0 +1,29 @@
+{
+  "slug": "presents",
+  "name": "Presents",
+  "category": "personal",
+  "tagline": "Keeps your gift ideas organised by person, with the best price, the store, a link, and a photo for each, and checks every price weekly.",
+  "description": "Keeps your gift ideas organised by person, with the best price, the store, a link, and a photo for each, and checks every price weekly. It never buys anything.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-brAwcxWN1wwOGNnu7IkU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-brAwcxWN1wwOGNnu7IkU",
+  "homepage": "https://x.ai/bot/-brAwcxWN1wwOGNnu7IkU",
+  "license": null,
+  "author": "dkmitc",
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "family",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

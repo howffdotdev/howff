@@ -1,0 +1,29 @@
+{
+  "slug": "remote-job-hunter",
+  "name": "Remote Job Hunter",
+  "category": "personal",
+  "tagline": "Finds remote openings on company career sites, applies on the employer's ATS, keeps an application log, and watches your inbox for interview invites.",
+  "description": "Finds remote openings on company career sites, applies on the employer's ATS, keeps an application log, and watches your inbox for interview invites. Built for stealth-friendly searches that skip LinkedIn Easy Apply and staffing middlemen.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Jx7uzFMG-dQ9q636btZrS",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Jx7uzFMG-dQ9q636btZrS",
+  "homepage": "https://x.ai/bot/Jx7uzFMG-dQ9q636btZrS",
+  "license": null,
+  "author": "IRENCIFR",
+  "tags": [
+    "personal",
+    "recruiting",
+    "automation",
+    "email",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

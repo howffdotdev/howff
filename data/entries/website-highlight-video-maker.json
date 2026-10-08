@@ -1,0 +1,28 @@
+{
+  "slug": "website-highlight-video-maker",
+  "name": "Website Highlight Video Maker",
+  "category": "marketing",
+  "tagline": "Turns your website's tools and product pages into narrated tutorial and spotlight videos, with zooms, highlights, captions, a vertical short, and ready-to-post YouTube copy.",
+  "description": "Turns your website's tools and product pages into narrated tutorial and spotlight videos, with zooms, highlights, captions, a vertical short, and ready-to-post YouTube copy. Narrated in its own natural voice.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/knt08ohuspBYhQ6ohXtKt",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/knt08ohuspBYhQ6ohXtKt",
+  "homepage": "https://x.ai/bot/knt08ohuspBYhQ6ohXtKt",
+  "license": null,
+  "author": "DaroFrostad",
+  "tags": [
+    "creator",
+    "video",
+    "marketer",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

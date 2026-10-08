@@ -1,0 +1,27 @@
+{
+  "slug": "health-coach-hank",
+  "name": "Health Coach (Hank)",
+  "category": "personal",
+  "tagline": "A warm, practical health coach for your habits, sleep, food, and training: plain-language reads on health questions and products, appointment prep, and a weekly check-in that stays quiet unless something changed.",
+  "description": "A warm, practical health coach for your habits, sleep, food, and training: plain-language reads on health questions and products, appointment prep, and a weekly check-in that stays quiet unless something changed. Not a doctor.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YT5ogjDNfbE9AW4OhfEo1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/YT5ogjDNfbE9AW4OhfEo1",
+  "homepage": "https://x.ai/bot/YT5ogjDNfbE9AW4OhfEo1",
+  "license": null,
+  "author": "hjackson2",
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

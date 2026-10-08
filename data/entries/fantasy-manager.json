@@ -1,0 +1,28 @@
+{
+  "slug": "fantasy-manager",
+  "name": "Fantasy Manager",
+  "category": "personal",
+  "tagline": "A fantasy football assistant for ESPN leagues.",
+  "description": "A fantasy football assistant for ESPN leagues. Twice a week it suggests start/sit calls and waiver pickups for each of your teams, and it answers lineup questions whenever you ask. It never changes your lineup or claims players for you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7IwivP0nZscnafCxkhpuC",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7IwivP0nZscnafCxkhpuC",
+  "homepage": "https://x.ai/bot/7IwivP0nZscnafCxkhpuC",
+  "license": null,
+  "author": "arshiagm",
+  "tags": [
+    "personal",
+    "research",
+    "decision-support",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

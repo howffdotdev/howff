@@ -1,0 +1,30 @@
+{
+  "slug": "x-academy",
+  "name": "X Academy",
+  "category": "personal",
+  "tagline": "Finds genuinely free courses, workshops and teaching threads on X, flags scams and hidden paywalls, and turns X posts on any topic into a 6-12 lesson course with quizzes and a final test.",
+  "description": "Finds genuinely free courses, workshops and teaching threads on X, flags scams and hidden paywalls, and turns X posts on any topic into a 6-12 lesson course with quizzes and a final test.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-RqJTM0pNj5ngTnbKaCT2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-RqJTM0pNj5ngTnbKaCT2",
+  "homepage": "https://x.ai/bot/-RqJTM0pNj5ngTnbKaCT2",
+  "license": null,
+  "author": "cradrrat",
+  "tags": [
+    "student",
+    "learning",
+    "research",
+    "social-media",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

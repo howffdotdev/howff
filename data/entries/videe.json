@@ -1,0 +1,28 @@
+{
+  "slug": "videe",
+  "name": "Videe",
+  "category": "marketing",
+  "tagline": "A video editor bot for podcasts, YouTube long-form and short-form clips.",
+  "description": "A video editor bot for podcasts, YouTube long-form and short-form clips. It syncs multicam footage, directs the cameras, proposes cleanup, adds captions and branding, and runs QC, with everything kept as a draft until you approve it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-dB6UXKIRjKSnCiJkv_zT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-dB6UXKIRjKSnCiJkv_zT",
+  "homepage": "https://x.ai/bot/-dB6UXKIRjKSnCiJkv_zT",
+  "license": null,
+  "author": "nickgaiski",
+  "tags": [
+    "creator",
+    "video",
+    "youtube",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

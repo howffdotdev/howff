@@ -1,0 +1,28 @@
+{
+  "slug": "bland-agent",
+  "name": "Bland Agent",
+  "category": "personal",
+  "tagline": "Helps you set up a free phone agent with your Grok Bot for errand calls and texts.",
+  "description": "Helps you set up a free phone agent with your Grok Bot for errand calls and texts. Non-technical onboarding with a demo call.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/kTIbHezzQ-FNbcJ85zBBc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/kTIbHezzQ-FNbcJ85zBBc",
+  "homepage": "https://x.ai/bot/kTIbHezzQ-FNbcJ85zBBc",
+  "license": null,
+  "author": "SimplyColeB",
+  "tags": [
+    "personal",
+    "productivity",
+    "automation",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "entrepreneur",
+  "name": "Entrepreneur",
+  "category": "ops",
+  "tagline": "Your opportunity scout: give it a short hunt brief and it finds and vets side ventures with sources, risks and a next step, then keeps an honest weekly scorecard.",
+  "description": "Your opportunity scout: give it a short hunt brief and it finds and vets side ventures with sources, risks and a next step, then keeps an honest weekly scorecard. It never spends, publishes or goes live without your OK, and isn't financial or legal advice.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/scvcDPnSH2_sj3pH6ONCR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/scvcDPnSH2_sj3pH6ONCR",
+  "homepage": "https://x.ai/bot/scvcDPnSH2_sj3pH6ONCR",
+  "license": null,
+  "author": "hjackson2",
+  "tags": [
+    "business",
+    "research",
+    "decision-support",
+    "growth",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-08",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
