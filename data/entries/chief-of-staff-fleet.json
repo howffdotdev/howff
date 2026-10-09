@@ -1,0 +1,28 @@
+{
+  "slug": "chief-of-staff-fleet",
+  "name": "Chief of Staff Fleet",
+  "category": "personal",
+  "tagline": "Multi-agent life OS: Chief of Staff plus Projects Manager, Relationshipmax, Health Bot, Lifespanmax, Sociallife Max, and Knowledgemax, with Project Ops, KPI pulses, and default routines.",
+  "description": "Multi-agent life OS: Chief of Staff plus Projects Manager, Relationshipmax, Health Bot, Lifespanmax, Sociallife Max, and Knowledgemax, with Project Ops, KPI pulses, and default routines.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/lQruhDeXx1KC_fXxNtpVE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/lQruhDeXx1KC_fXxNtpVE",
+  "homepage": "https://x.ai/bot/lQruhDeXx1KC_fXxNtpVE",
+  "license": null,
+  "author": "sravanjay",
+  "tags": [
+    "personal",
+    "productivity",
+    "agent-team",
+    "scheduled",
+    "wellbeing"
+  ],
+  "verified": false,
+  "added": "2026-10-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

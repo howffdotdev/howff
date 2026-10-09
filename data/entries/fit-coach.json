@@ -1,0 +1,27 @@
+{
+  "slug": "fit-coach",
+  "name": "Fit Coach",
+  "category": "personal",
+  "tagline": "A no-guilt strength and conditioning coach.",
+  "description": "A no-guilt strength and conditioning coach. Tell it how you feel and when you last trained, and it picks today's Heavy, Power, Speed, or Recover session and writes it for you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/029xyNepam5LGMNYLIDP8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/029xyNepam5LGMNYLIDP8",
+  "homepage": "https://x.ai/bot/029xyNepam5LGMNYLIDP8",
+  "license": null,
+  "author": "centurion1775",
+  "tags": [
+    "health",
+    "wellbeing",
+    "personal",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "second-look",
+  "name": "Second Look",
+  "category": "development",
+  "tagline": "Gives suspended GitHub accounts a fair second look: checks repos against GitHub's terms, quotes any breach with evidence, and drafts the email, so a human reviewer can reinstate or uphold.",
+  "description": "Gives suspended GitHub accounts a fair second look: checks repos against GitHub's terms, quotes any breach with evidence, and drafts the email, so a human reviewer can reinstate or uphold.",
+  "integrations": [
+    "GitHub"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1xkIClLvscskj-Q4LsQIy",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1xkIClLvscskj-Q4LsQIy",
+  "homepage": "https://x.ai/bot/1xkIClLvscskj-Q4LsQIy",
+  "license": null,
+  "author": "cradrrat",
+  "tags": [
+    "developer",
+    "support",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

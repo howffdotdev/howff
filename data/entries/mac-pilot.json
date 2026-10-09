@@ -1,0 +1,28 @@
+{
+  "slug": "mac-pilot",
+  "name": "Mac Pilot",
+  "category": "personal",
+  "tagline": "Operates apps on your Mac for you: clicking, typing, organising files, and filling things in.",
+  "description": "Operates apps on your Mac for you: clicking, typing, organising files, and filling things in. Asks before anything irreversible, and can keep your real mouse free with a visible agent pointer.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0AFTv9n--ZWZZFhW5F14q",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/0AFTv9n--ZWZZFhW5F14q",
+  "homepage": "https://x.ai/bot/0AFTv9n--ZWZZFhW5F14q",
+  "license": null,
+  "author": "Luca_Hagenmayer",
+  "tags": [
+    "personal",
+    "productivity",
+    "automation",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

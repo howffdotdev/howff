@@ -1,0 +1,28 @@
+{
+  "slug": "your-travel-planner",
+  "name": "Your Travel Planner 🧳",
+  "category": "personal",
+  "tagline": "A travel assistant for trips in Italy and abroad: realistic day-by-day itineraries, transport and lodging with pros and cons, checklists, and a plan B, without inventing hours or prices.",
+  "description": "A travel assistant for trips in Italy and abroad: realistic day-by-day itineraries, transport and lodging with pros and cons, checklists, and a plan B, without inventing hours or prices.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ZApqGaOa7Rw1kXUHo5vyG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ZApqGaOa7Rw1kXUHo5vyG",
+  "homepage": "https://x.ai/bot/ZApqGaOa7Rw1kXUHo5vyG",
+  "license": null,
+  "author": "mamboitaliano__",
+  "tags": [
+    "personal",
+    "travel",
+    "decision-support",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

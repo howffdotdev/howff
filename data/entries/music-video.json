@@ -1,0 +1,28 @@
+{
+  "slug": "music-video",
+  "name": "Music Video",
+  "category": "marketing",
+  "tagline": "Turns your lyrics into a draft lyric-synced music video: it generates the track, times every line to the beat, and renders kinetic-type motion graphics with Claude Code.",
+  "description": "Turns your lyrics into a draft lyric-synced music video: it generates the track, times every line to the beat, and renders kinetic-type motion graphics with Claude Code. You get an MP4 plus notes, and it never posts anything.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1Et06G_Q820_RNat-_0tQ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1Et06G_Q820_RNat-_0tQ",
+  "homepage": "https://x.ai/bot/1Et06G_Q820_RNat-_0tQ",
+  "license": null,
+  "author": "bossriceshark",
+  "tags": [
+    "video",
+    "content",
+    "creator",
+    "design",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

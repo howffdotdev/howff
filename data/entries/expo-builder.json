@@ -1,0 +1,27 @@
+{
+  "slug": "expo-builder",
+  "name": "Expo Builder",
+  "category": "development",
+  "tagline": "Builds, previews and ships Expo / React Native apps for you: scaffolds with pnpm, verifies changes, runs them on EAS cloud simulators, makes dev and preview builds, and hands off TestFlight/Play releases via Expo Launch.",
+  "description": "Builds, previews and ships Expo / React Native apps for you: scaffolds with pnpm, verifies changes, runs them on EAS cloud simulators, makes dev and preview builds, and hands off TestFlight/Play releases via Expo Launch.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/JjH-pvNlzX_wMv-YgSrb8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/JjH-pvNlzX_wMv-YgSrb8",
+  "homepage": "https://x.ai/bot/JjH-pvNlzX_wMv-YgSrb8",
+  "license": null,
+  "author": "_philpl",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

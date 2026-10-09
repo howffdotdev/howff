@@ -1,0 +1,28 @@
+{
+  "slug": "phone-call-bot",
+  "name": "Phone Call Bot",
+  "category": "personal",
+  "tagline": "Lets Grok make real phone calls for you, just about any call.",
+  "description": "Lets Grok make real phone calls for you, just about any call. Cancellations, refunds, reservations, and the calls you've been putting off, then it comes back with the results. Approve each call, or turn on YOLO mode and let it call all on its own.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5VOzTZvBuUv2bhQUqIXjj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5VOzTZvBuUv2bhQUqIXjj",
+  "homepage": "https://x.ai/bot/5VOzTZvBuUv2bhQUqIXjj",
+  "license": null,
+  "author": "JooVoice",
+  "tags": [
+    "personal",
+    "productivity",
+    "automation",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

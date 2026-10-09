@@ -1,0 +1,28 @@
+{
+  "slug": "devin-manager",
+  "name": "Devin Manager",
+  "category": "development",
+  "tagline": "Ops teammate for Devin coding agents: spawn and track sessions, steer them, pull recordings and screenshots into chat, and keep playbooks tidy.",
+  "description": "Ops teammate for Devin coding agents: spawn and track sessions, steer them, pull recordings and screenshots into chat, and keep playbooks tidy.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/p6mYbkrvmKcJ5THLVz-EH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/p6mYbkrvmKcJ5THLVz-EH",
+  "homepage": "https://x.ai/bot/p6mYbkrvmKcJ5THLVz-EH",
+  "license": null,
+  "author": "kr0der",
+  "tags": [
+    "developer",
+    "engineering",
+    "agent-team",
+    "automation",
+    "ops"
+  ],
+  "verified": false,
+  "added": "2026-10-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

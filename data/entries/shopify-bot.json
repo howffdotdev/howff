@@ -1,0 +1,28 @@
+{
+  "slug": "shopify-bot",
+  "name": "Shopify Bot",
+  "category": "ops",
+  "tagline": "Runs your Shopify store through the official Shopify plugin: catalogue, inventory, growth, conversion, and customer service, solo or as manager of a specialist bot team.",
+  "description": "Runs your Shopify store through the official Shopify plugin: catalogue, inventory, growth, conversion, and customer service, solo or as manager of a specialist bot team. Also spins up brand-new store previews with claim links.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/jhd6Cb9XEPI6b-hs-WCQE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/jhd6Cb9XEPI6b-hs-WCQE",
+  "homepage": "https://x.ai/bot/jhd6Cb9XEPI6b-hs-WCQE",
+  "license": null,
+  "author": "nick_nehaul",
+  "tags": [
+    "business",
+    "sales",
+    "ops",
+    "support",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-10-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

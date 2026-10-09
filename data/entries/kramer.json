@@ -1,0 +1,29 @@
+{
+  "slug": "kramer",
+  "name": "Kramer",
+  "category": "personal",
+  "tagline": "A household mail and package desk.",
+  "description": "A household mail and package desk. It reads your USPS Informed Delivery digest each morning, logs every piece, sends bills to whoever pays them, and files free Do Not Mail opt-outs for the junk senders you pick.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/LLsRQNn3o8scbv6Edhsmm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/LLsRQNn3o8scbv6Edhsmm",
+  "homepage": "https://x.ai/bot/LLsRQNn3o8scbv6Edhsmm",
+  "license": null,
+  "author": "helvio",
+  "tags": [
+    "personal",
+    "home",
+    "family",
+    "monitoring",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

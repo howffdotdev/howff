@@ -1,0 +1,28 @@
+{
+  "slug": "local-business-website-hunter",
+  "name": "Local Business Website Hunter",
+  "category": "ops",
+  "tagline": "Finds active local businesses with no website, builds each a demo site from its own content, and prepares a quote PDF and outreach message, all held for your approval.",
+  "description": "Finds active local businesses with no website, builds each a demo site from its own content, and prepares a quote PDF and outreach message, all held for your approval. Built for freelance web developers who want a steady flow of clients.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/U87LeqeLNEIKRe9ctpRxG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/U87LeqeLNEIKRe9ctpRxG",
+  "homepage": "https://x.ai/bot/U87LeqeLNEIKRe9ctpRxG",
+  "license": null,
+  "author": "NewLongMoney",
+  "tags": [
+    "business",
+    "sales",
+    "growth",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

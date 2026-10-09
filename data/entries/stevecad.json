@@ -1,0 +1,27 @@
+{
+  "slug": "stevecad",
+  "name": "SteveCAD",
+  "category": "development",
+  "tagline": "A CAD design assistant that builds and edits 3D models, finds standard and off-the-shelf parts, and runs studies on your designs.",
+  "description": "A CAD design assistant that builds and edits 3D models, finds standard and off-the-shelf parts, and runs studies on your designs.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9vnd_iLPbZMPN3iQaVtU_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9vnd_iLPbZMPN3iQaVtU_",
+  "homepage": "https://x.ai/bot/9vnd_iLPbZMPN3iQaVtU_",
+  "license": null,
+  "author": "10_X_eng",
+  "tags": [
+    "developer",
+    "engineering",
+    "design",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-09",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
