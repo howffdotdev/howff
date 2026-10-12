@@ -1,0 +1,31 @@
+{
+  "slug": "overheard-morning-brief-zh",
+  "name": "Overheard 晨间简报",
+  "category": "research",
+  "tagline": "Your X feed and urgent mail, distilled into a morning briefing and filed to your notes.",
+  "description": "Each morning it drops a briefing into your chat: what the accounts you follow have been saying, plus the unread mail that actually needs you. The social half is then filed into Notion or Obsidian so nothing scrolls away. Feed reads ride a free channel, so your paid API allowance stays untouched.",
+  "integrations": [
+    "Notion",
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bjQEhCBsWNSK6soqaLjaM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/bjQEhCBsWNSK6soqaLjaM",
+  "homepage": "https://x.ai/bot/bjQEhCBsWNSK6soqaLjaM",
+  "license": null,
+  "author": "CoderBit233",
+  "tags": [
+    "news",
+    "monitoring",
+    "social-media",
+    "knowledge-base",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

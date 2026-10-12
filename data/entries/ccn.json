@@ -1,0 +1,28 @@
+{
+  "slug": "ccn",
+  "name": "CCN",
+  "category": "finance",
+  "tagline": "Ask what is moving in crypto and get the freshest headlines",
+  "description": "Ask what is moving in crypto and it fetches current CCN headlines instead of answering from memory. Coverage runs from Bitcoin and the wider markets to DeFi, the x402 protocol and stories about AI agents earning and spending. Nothing to configure first, since it needs no keys or feeds of your own.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/nxJpEb_kwY2NqXnGA0krW",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/nxJpEb_kwY2NqXnGA0krW",
+  "homepage": "https://x.ai/bot/nxJpEb_kwY2NqXnGA0krW",
+  "license": null,
+  "author": "MagaShawn",
+  "tags": [
+    "crypto",
+    "news",
+    "investor",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

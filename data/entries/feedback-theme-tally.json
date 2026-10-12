@@ -1,0 +1,28 @@
+{
+  "slug": "feedback-theme-tally",
+  "name": "Feedback Theme Tally",
+  "category": "ops",
+  "tagline": "Sorts customer feedback under a theme list you sign off, totals traceable",
+  "description": "Point it at a batch of customer feedback and it sorts every message against a theme list that you approve first. Each count links back to the exact wording that earned it, so the totals are auditable. Output stays in draft and customer names are masked before anything is written down.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ETwbAVBi1bweFPvBqWC2E",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ETwbAVBi1bweFPvBqWC2E",
+  "homepage": "https://x.ai/bot/ETwbAVBi1bweFPvBqWC2E",
+  "license": null,
+  "author": "HJGameStudios",
+  "tags": [
+    "support",
+    "analytics",
+    "data",
+    "back-office",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

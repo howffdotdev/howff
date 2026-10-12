@@ -1,0 +1,28 @@
+{
+  "slug": "chatgpt-importer",
+  "name": "ChatGPT Importer",
+  "category": "personal",
+  "tagline": "Brings your ChatGPT chat history into Grok Bot through the official export file",
+  "description": "Uses the data export that ChatGPT itself provides to carry your old conversations over. Past chats, images and files show up searchable inside Grok Bot, so nothing from your previous assistant is stranded. The author reports moving hundreds of conversations across in a single night.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/K16DF_U-uqR5EcGijyDuv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/K16DF_U-uqR5EcGijyDuv",
+  "homepage": "https://x.ai/bot/K16DF_U-uqR5EcGijyDuv",
+  "license": null,
+  "author": "orangetraveller",
+  "tags": [
+    "personal",
+    "productivity",
+    "automation",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "ai-account-radar-zh",
+  "name": "AI 官号雷达",
+  "category": "research",
+  "tagline": "Chinese-language alerts when AI companies change models or prices",
+  "description": "A Chinese-language watcher for the AI industry. It keeps an eye on the X feeds that AI labs, agent builders and product leads run, and pings you when something changes: a model release, a new product, a free tier, or a price or policy move. Morning and evening it files a longer Chinese-language digest too.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sGX1MPOtVLAMzSUScPaxi",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sGX1MPOtVLAMzSUScPaxi",
+  "homepage": "https://x.ai/bot/sGX1MPOtVLAMzSUScPaxi",
+  "license": null,
+  "author": "Chaosai0",
+  "tags": [
+    "news",
+    "monitoring",
+    "social-media",
+    "scheduled",
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "feishu-lark-bot-bridge",
+  "name": "飞书BOT",
+  "category": "personal",
+  "tagline": "Puts your assistant inside Feishu (Lark) as a DM-able contact.",
+  "description": "Links an assistant into Feishu, the chat app also called Lark, so it sits in your contacts like a colleague. Send it a private message to research something, draft a document, or kick off a job; the reply lands in that same thread. Setup walks you through registering your own app in Feishu's developer console.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/JcuatE94VVR3njSPDBulv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/JcuatE94VVR3njSPDBulv",
+  "homepage": "https://x.ai/bot/JcuatE94VVR3njSPDBulv",
+  "license": null,
+  "author": "tuboshu321",
+  "tags": [
+    "personal",
+    "business",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

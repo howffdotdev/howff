@@ -1,0 +1,28 @@
+{
+  "slug": "night-shift",
+  "name": "Night Shift",
+  "category": "development",
+  "tagline": "A nightly tidy-up pass that keeps your whole bot fleet lean",
+  "description": "While you sleep it works through your other bots one at a time, reminding each to keep its usage lean and to close out stray browser tabs and scratch files from the day. It stays quiet unless something genuinely needs a human, and because the pass runs on a nightly schedule there is nothing to remember.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/SLLBNwseegBForG62KVRC",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/SLLBNwseegBForG62KVRC",
+  "homepage": "https://x.ai/bot/SLLBNwseegBForG62KVRC",
+  "license": null,
+  "author": "MorriganCora",
+  "tags": [
+    "meta-bot",
+    "scheduled",
+    "monitoring",
+    "automation",
+    "back-office"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

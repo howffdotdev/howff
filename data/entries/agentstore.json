@@ -1,0 +1,28 @@
+{
+  "slug": "agentstore",
+  "name": "AgentStore",
+  "category": "ops",
+  "tagline": "Search and compare paid AI agents, prices lined up side by side",
+  "description": "Describe the job you want done and it searches the AgentPayStore catalogue for agents that offer it, laying the candidates out with their prices side by side. Where a listing provides sample replies, it shows those too so you can judge quality before spending. You stay the one who decides what to buy.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4PhRfCEk25OlY9hwAkXj4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/4PhRfCEk25OlY9hwAkXj4",
+  "homepage": "https://x.ai/bot/4PhRfCEk25OlY9hwAkXj4",
+  "license": null,
+  "author": "MagaShawn",
+  "tags": [
+    "business",
+    "shopping",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

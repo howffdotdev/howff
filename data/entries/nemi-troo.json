@@ -1,0 +1,27 @@
+{
+  "slug": "nemi-troo",
+  "name": "Nemi-TROO",
+  "category": "ops",
+  "tagline": "Sweeps your bot fleet for assistants still running outdated instructions",
+  "description": "Run this after a plan change and it sweeps your whole bot fleet for assistants still working from the previous version. Each one it finds gets flagged, with the outdated line quoted right beside the decision it now breaks. It also drafts a corrected single-job instruction for every bot that needs rewriting.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_fIQxxNowoMaubTPzBnrf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_fIQxxNowoMaubTPzBnrf",
+  "homepage": "https://x.ai/bot/_fIQxxNowoMaubTPzBnrf",
+  "license": null,
+  "author": "GreenTechWizard",
+  "tags": [
+    "business",
+    "monitoring",
+    "automation",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

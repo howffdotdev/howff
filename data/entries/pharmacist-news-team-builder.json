@@ -1,0 +1,29 @@
+{
+  "slug": "pharmacist-news-team-builder",
+  "name": "薬剤師ニュースチーム立ち上げbot",
+  "category": "research",
+  "tagline": "Sets up a six-bot morning news desk for Japanese pharmacists",
+  "description": "It builds you a team of six bots that collect Japanese pharmacy industry news each morning, from regulator moves to drug shortages, verify it against primary sources, and deliver cited articles as text plus audio MP3s for a commute. Afterwards it stays on as the desk you ask about schedule or coverage changes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/h2c1pK5fFqKPvzfm-rvQV",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/h2c1pK5fFqKPvzfm-rvQV",
+  "homepage": "https://x.ai/bot/h2c1pK5fFqKPvzfm-rvQV",
+  "license": null,
+  "author": "tadayaku_Pha",
+  "tags": [
+    "news",
+    "health",
+    "research",
+    "automation",
+    "agent-team",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "ai-news-video",
+  "name": "AI News Video",
+  "category": "research",
+  "tagline": "Builds a two-minute narrated explainer video from your AI news brief, figures checked",
+  "description": "Feed it your AI news brief and it comes back as a narrated explainer of about two minutes. Every number in the script is checked against the original source before the voiceover is recorded. The result is ready to publish as a short video without a production team.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8mi67EcgDUS2FDtOAIKcJ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8mi67EcgDUS2FDtOAIKcJ",
+  "homepage": "https://x.ai/bot/8mi67EcgDUS2FDtOAIKcJ",
+  "license": null,
+  "author": "op7418",
+  "tags": [
+    "news",
+    "video",
+    "content",
+    "creator",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

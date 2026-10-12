@@ -1,0 +1,28 @@
+{
+  "slug": "x-posting-curator",
+  "name": "X Posting Curator",
+  "category": "marketing",
+  "tagline": "One template that runs your whole X growth pipeline from sources to receipts",
+  "description": "Replaces a four-bot X workflow with a single template that plays every role itself. It scouts real sources for material, drafts a few opening hooks that sound like you, and attaches fact-check notes before anything goes out. Reference material on the algorithm and direct-message handling round out the kit.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/fJoloWNDTl7ee9VwxNJxH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/fJoloWNDTl7ee9VwxNJxH",
+  "homepage": "https://x.ai/bot/fJoloWNDTl7ee9VwxNJxH",
+  "license": null,
+  "author": "PixelRainbowNFT",
+  "tags": [
+    "creator",
+    "social-media",
+    "growth",
+    "agent-team",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

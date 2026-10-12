@@ -1,0 +1,29 @@
+{
+  "slug": "mood-security",
+  "name": "Mood Security",
+  "category": "development",
+  "tagline": "Weekly read-only security sweep across your GitHub repositories, repairs ranked.",
+  "description": "Once a week this one walks through your GitHub repositories hunting for trouble it can see without touching anything: credentials left in code or in past commits, dependency advisories, alerts nobody closed, and branch rules too loose to catch mistakes. You get back a short prioritised repair list, not scanner noise.",
+  "integrations": [
+    "GitHub"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/CJvgkBx_INfugO8TtH7gp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/CJvgkBx_INfugO8TtH7gp",
+  "homepage": "https://x.ai/bot/CJvgkBx_INfugO8TtH7gp",
+  "license": null,
+  "author": "bdvd_25",
+  "tags": [
+    "developer",
+    "engineering",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

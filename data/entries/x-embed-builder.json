@@ -1,0 +1,30 @@
+{
+  "slug": "x-embed-builder",
+  "name": "X Embed Builder",
+  "category": "development",
+  "tagline": "Turns a link or a rough idea into an interactive card that runs in your X post.",
+  "description": "Hand it a URL or a rough concept and you get back a working player card: a small interactive page that expands and runs inside the post itself instead of sending readers elsewhere. The bot writes the page, ships it to your Vercel or Cloudflare account, and hands back what you need to point at it from your next post.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/IETRUCsQCcnketUmBizdo",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/IETRUCsQCcnketUmBizdo",
+  "homepage": "https://x.ai/bot/IETRUCsQCcnketUmBizdo",
+  "license": null,
+  "author": "XHabib",
+  "tags": [
+    "developer",
+    "social-media",
+    "content",
+    "engineering",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

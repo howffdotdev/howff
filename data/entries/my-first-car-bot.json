@@ -1,0 +1,28 @@
+{
+  "slug": "my-first-car-bot",
+  "name": "My First Car Bot",
+  "category": "personal",
+  "tagline": "Keeps a first car legal, serviced and understood",
+  "description": "Tracks the dates a new owner tends to lose: maintenance intervals, registration renewals, inspections and insurance, all visible in one list. When a shop hands over a quote, it explains the line items in plain words so you can tell necessary work from optional. It also covers moving a car to a different state.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/n3Q4lG3lEtIgK2ZfBluGw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/n3Q4lG3lEtIgK2ZfBluGw",
+  "homepage": "https://x.ai/bot/n3Q4lG3lEtIgK2ZfBluGw",
+  "license": null,
+  "author": "gilman_trevor",
+  "tags": [
+    "personal",
+    "life-hacks",
+    "saving-money",
+    "calendar",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "peshmina",
+  "name": "Peshmina",
+  "category": "marketing",
+  "tagline": "Watches for wall-art commissions and show calls, and preps your pitch pack.",
+  "description": "Built for painters who work at wall scale. It keeps an eye out for commission opportunities and exhibition deadlines that suit your practice, then helps you shape the pitch and paperwork each application expects. Everything sits staged and ready, so submitting becomes a review-and-send job, not a scramble.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/eek4uG25FOg09aPfKPmsH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/eek4uG25FOg09aPfKPmsH",
+  "homepage": "https://x.ai/bot/eek4uG25FOg09aPfKPmsH",
+  "license": null,
+  "author": "Shaesta92365",
+  "tags": [
+    "creator",
+    "business",
+    "growth",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

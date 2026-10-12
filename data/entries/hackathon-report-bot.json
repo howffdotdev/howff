@@ -1,0 +1,27 @@
+{
+  "slug": "hackathon-report-bot",
+  "name": "ハッカソン報告ボット",
+  "category": "personal",
+  "tagline": "Auto-posts a running X thread recapping a hackathon hashtag",
+  "description": "Point it at an event hashtag and it watches new posts while the hackathon runs, condensing each into a one-line summary on a growing thread, with a link back to the original post. When the end time you set arrives it stops posting by itself. Built for organizers and teams who want the day recounted automatically.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/HJwxtDXTD2HKFgF5T2jag",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/HJwxtDXTD2HKFgF5T2jag",
+  "homepage": "https://x.ai/bot/HJwxtDXTD2HKFgF5T2jag",
+  "license": null,
+  "author": "sat0xshi",
+  "tags": [
+    "events",
+    "social-media",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "changelog-scout",
+  "name": "Changelog Scout",
+  "category": "development",
+  "tagline": "A weekly digest of what shipped in Grok Bot, tuned to you",
+  "description": "Reads the platform's official changelog through the week and rolls the changes into one weekly digest, so updates stop scrolling past unnoticed. Beside the list it adds feature suggestions matched to how you actually use your bots, pointing out tools you have not tried yet. A meta-template that watches Grok Bot itself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_VfbyLY4aGU8KJD46l5Mk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_VfbyLY4aGU8KJD46l5Mk",
+  "homepage": "https://x.ai/bot/_VfbyLY4aGU8KJD46l5Mk",
+  "license": null,
+  "author": "theaaron",
+  "tags": [
+    "developer",
+    "monitoring",
+    "news",
+    "meta-bot",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "ancestry-bot",
+  "name": "Ancestry Bot",
+  "category": "personal",
+  "tagline": "Grows your family tree from records and DNA, sources on every claim",
+  "description": "Treat it as a cautious researcher rather than a name generator. It works from historical records and your DNA match lists to extend the tree, checking each new relative before the tree grows. Every fact carries the source behind it so you can audit the reasoning, and nothing lands in the tree until you are satisfied.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/AINP9mLXBIt__NMVeFXGO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/AINP9mLXBIt__NMVeFXGO",
+  "homepage": "https://x.ai/bot/AINP9mLXBIt__NMVeFXGO",
+  "license": null,
+  "author": "mcdanderson",
+  "tags": [
+    "personal",
+    "family",
+    "research",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "ai-official-account-radar",
+  "name": "AI Official Account Radar",
+  "category": "research",
+  "tagline": "English alerts when AI labs ship models, credits or price changes",
+  "description": "Follows what the big AI labs and coding-agent teams post on their own accounts so you do not have to. When a new model lands, free credits appear, or API pricing and terms shift, it flags the change soon after it happens. A written recap lands twice a day as well, so the day's product news arrives in one readable pass.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/zXPuJgqq5fxIsqCmPHAsF",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/zXPuJgqq5fxIsqCmPHAsF",
+  "homepage": "https://x.ai/bot/zXPuJgqq5fxIsqCmPHAsF",
+  "license": null,
+  "author": "Chaosai0",
+  "tags": [
+    "news",
+    "monitoring",
+    "social-media",
+    "scheduled",
+    "developer"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "verifier",
+  "name": "Verifier",
+  "category": "marketing",
+  "tagline": "Grades every factual claim in a draft before you let it publish.",
+  "description": "Give it nearly finished writing and it pulls out each checkable statement, then labels it: backed up, stretched past what the sources say, plainly wrong, or unverifiable from what it can reach. Nothing to install or connect - no plug-ins, no keys - so a last pass can run in the seconds before you hit publish.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/lOfc_4h-mDH-EB0PSSOxa",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/lOfc_4h-mDH-EB0PSSOxa",
+  "homepage": "https://x.ai/bot/lOfc_4h-mDH-EB0PSSOxa",
+  "license": null,
+  "author": "GrokBotRadar",
+  "tags": [
+    "creator",
+    "content",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

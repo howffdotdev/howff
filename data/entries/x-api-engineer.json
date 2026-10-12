@@ -1,0 +1,27 @@
+{
+  "slug": "x-api-engineer",
+  "name": "X API Engineer",
+  "category": "development",
+  "tagline": "Guides an app from docs to demo on the X API",
+  "description": "Takes a developer from zero to a working demo on the X API. It surveys the Developer Exhibit, works through the documentation, then builds whichever app you choose and gets you through setting up console keys along the way. Once the build is done it shows the result running, so the whole path stays visible end to end.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ay0PGygsBxYONJRITWABE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ay0PGygsBxYONJRITWABE",
+  "homepage": "https://x.ai/bot/ay0PGygsBxYONJRITWABE",
+  "license": null,
+  "author": "sat0xshi",
+  "tags": [
+    "developer",
+    "engineering",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "next-mission",
+  "name": "Next Mission",
+  "category": "personal",
+  "tagline": "Interviews service members and maps every rule and deadline before their out-date",
+  "description": "Built for troops approaching retirement or separation from the military. It starts by interviewing you about your situation, then turns the answers into a dated checklist that works backward from your out-date. Each entry names the rule behind it, and the author has published the full playbook openly.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/pfhAjpJ4AZTTE2yfpZggS",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/pfhAjpJ4AZTTE2yfpZggS",
+  "homepage": "https://x.ai/bot/pfhAjpJ4AZTTE2yfpZggS",
+  "license": null,
+  "author": "GabeHernandezOK",
+  "tags": [
+    "personal",
+    "decision-support",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

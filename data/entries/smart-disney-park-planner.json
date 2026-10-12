@@ -1,0 +1,30 @@
+{
+  "slug": "smart-disney-park-planner",
+  "name": "かしこくディズニー：パークの段取り名人",
+  "category": "personal",
+  "tagline": "Plans a smarter park day, from date pick to day-of changes",
+  "description": "A planning companion for a theme-park day that starts before tickets are bought: it helps you choose which date to go, read how crowded each option looks, and sketch a route that wastes less time in queues. On the day itself it adjusts the plan with you as conditions shift, folding in live chatter from X.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/w_ZtwODCJMhKuq6k0Nz4k",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/w_ZtwODCJMhKuq6k0Nz4k",
+  "homepage": "https://x.ai/bot/w_ZtwODCJMhKuq6k0Nz4k",
+  "license": null,
+  "author": "musicianmayo",
+  "tags": [
+    "travel",
+    "personal",
+    "life-hacks",
+    "events",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

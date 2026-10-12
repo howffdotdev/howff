@@ -1,0 +1,27 @@
+{
+  "slug": "cline",
+  "name": "cline",
+  "category": "development",
+  "tagline": "Hands your briefs to a self-hosted Cline agent and reports back",
+  "description": "Keeps the open-source Cline agent installed and running on its own Linux machine, CLI and desktop app alike. Brief it in plain language, a bug to fix, a feature to build, and it drives Cline through the task, then reports what came of it. Handy when you want Cline's workflow without running the environment yourself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/gL7FcTFcs1SHMCD3pozTM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/gL7FcTFcs1SHMCD3pozTM",
+  "homepage": "https://x.ai/bot/gL7FcTFcs1SHMCD3pozTM",
+  "license": null,
+  "author": "weeb3dev",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

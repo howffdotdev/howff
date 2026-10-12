@@ -1,0 +1,27 @@
+{
+  "slug": "my-first-career-bot",
+  "name": "My First Career Bot",
+  "category": "personal",
+  "tagline": "Job hunts, resumes and interview practice for a first job",
+  "description": "Covers the whole first-job scramble: hunting openings, drafting resumes and cover letters, rehearsing interviews, and fitting work shifts around classes. Every draft is written for your review and nothing goes out until you approve it, so your applications stay in your hands.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/poe-4nHrrlPmCZUlVB7tX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/poe-4nHrrlPmCZUlVB7tX",
+  "homepage": "https://x.ai/bot/poe-4nHrrlPmCZUlVB7tX",
+  "license": null,
+  "author": "gilman_trevor",
+  "tags": [
+    "personal",
+    "recruiting",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

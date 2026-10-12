@@ -1,0 +1,29 @@
+{
+  "slug": "x-assistant",
+  "name": "X assistant",
+  "category": "marketing",
+  "tagline": "Each weekday morning it rounds up the X posts worth answering, read-only.",
+  "description": "Before your workday starts, this one catches up on your X activity: fresh mentions, conversation around the products you ship, and movement on the subjects you follow. What comes back is a compact, ranked list of the posts actually worth answering. It never posts, likes or follows on its own, looking is all it does.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/J7OPBxlsIUZB7IoXoB5wE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/J7OPBxlsIUZB7IoXoB5wE",
+  "homepage": "https://x.ai/bot/J7OPBxlsIUZB7IoXoB5wE",
+  "license": null,
+  "author": "dragosroua",
+  "tags": [
+    "social-media",
+    "monitoring",
+    "scheduled",
+    "business"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

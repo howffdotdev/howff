@@ -1,0 +1,28 @@
+{
+  "slug": "my-first-ceo-bot",
+  "name": "My First CEO Bot",
+  "category": "personal",
+  "tagline": "A personal chief of staff for your first years on your own",
+  "description": "Holds your task list, dates and appointments together in a single spot, then sends a short rundown each day or each week of what is coming next. Anything outside its lane gets pointed to a bot better suited to it, so life admin stops piling up in one inbox. The cadence is your choice and the setup stays plain.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YwN_z6dgUUXP5Y9qOTbTN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/YwN_z6dgUUXP5Y9qOTbTN",
+  "homepage": "https://x.ai/bot/YwN_z6dgUUXP5Y9qOTbTN",
+  "license": null,
+  "author": "gilman_trevor",
+  "tags": [
+    "personal",
+    "productivity",
+    "life-hacks",
+    "scheduled",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

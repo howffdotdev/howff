@@ -1,0 +1,28 @@
+{
+  "slug": "concierge",
+  "name": "Concierge",
+  "category": "personal",
+  "tagline": "Name a city and a craving; get a short, priced shortlist and a booking note.",
+  "description": "Tell it the city and what you fancy - a table for dinner, an activity, somewhere locals actually go - and it returns a tight shortlist with ratings and ballpark costs attached. Settle on one and it writes the reservation message, leaving the sending to you. It never spends or books anything without your go-ahead.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/x1wDYeHIolh269nhPMxY8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/x1wDYeHIolh269nhPMxY8",
+  "homepage": "https://x.ai/bot/x1wDYeHIolh269nhPMxY8",
+  "license": null,
+  "author": "TedSkeen",
+  "tags": [
+    "personal",
+    "travel",
+    "food",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

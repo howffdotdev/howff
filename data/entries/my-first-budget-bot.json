@@ -1,0 +1,28 @@
+{
+  "slug": "my-first-budget-bot",
+  "name": "My First Budget Bot",
+  "category": "personal",
+  "tagline": "A first money coach: one simple monthly budget, no jargon",
+  "description": "Turns rent, bills, groceries, debt payments and savings goals into a single monthly budget you can realistically keep, then flags what is due before it bites. Money basics get explained in ordinary language rather than finance jargon. It never moves money and never takes card numbers.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/zIYlNQf-bZphORYjo8oEp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/zIYlNQf-bZphORYjo8oEp",
+  "homepage": "https://x.ai/bot/zIYlNQf-bZphORYjo8oEp",
+  "license": null,
+  "author": "gilman_trevor",
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

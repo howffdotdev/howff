@@ -1,0 +1,27 @@
+{
+  "slug": "beat-cut",
+  "name": "Beat Cut",
+  "category": "marketing",
+  "tagline": "Cuts a music video to your track's beat, frame by frame, on the cheap",
+  "description": "Hand it an audio file and it produces a video whose cuts land exactly on the beat. If you have no track ready, it can compose a beat first and edit to its own rhythm instead. The frame-accurate slicing is done in plain code rather than through a model, which keeps token use and API spending low even on longer songs.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9VWen13yCOgJi--kDJtcW",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9VWen13yCOgJi--kDJtcW",
+  "homepage": "https://x.ai/bot/9VWen13yCOgJi--kDJtcW",
+  "license": null,
+  "author": "DisruptionUp",
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

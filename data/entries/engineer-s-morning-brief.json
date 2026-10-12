@@ -1,0 +1,28 @@
+{
+  "slug": "engineer-s-morning-brief",
+  "name": "Engineer's Morning Brief",
+  "category": "development",
+  "tagline": "One pre-standup read: meetings, stalled reviews, red builds, messages that matter.",
+  "description": "A sixty-second catch-up delivered before standup: which meetings you are walking into, which pull requests are stalled waiting on your review, where builds went red overnight, and the two or three messages that cannot wait until lunch. It reads across your calendar, repos and chat but changes nothing.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9b4DUFqQnCtrclcyzWs5x",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9b4DUFqQnCtrclcyzWs5x",
+  "homepage": "https://x.ai/bot/9b4DUFqQnCtrclcyzWs5x",
+  "license": null,
+  "author": "mahdi",
+  "tags": [
+    "developer",
+    "engineering",
+    "monitoring",
+    "scheduled",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

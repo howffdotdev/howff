@@ -1,0 +1,27 @@
+{
+  "slug": "fig-mail",
+  "name": "Fig Mail",
+  "category": "productivity",
+  "tagline": "Gives your bot's email a proper webmail interface instead of a chat window.",
+  "description": "Mail a bot receives usually ends up buried in a conversation, which is no way to run an inbox. Ask this one to set things up and it builds a tidy webmail interface in the style of a classic desktop mail app, points it at your bot's own address, and hosts the result, so bot mail gets read and filed like real mail.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/L_exyeIDAv-BkthWrjnJU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/L_exyeIDAv-BkthWrjnJU",
+  "homepage": "https://x.ai/bot/L_exyeIDAv-BkthWrjnJU",
+  "license": null,
+  "author": "krushalkalkani",
+  "tags": [
+    "email",
+    "developer",
+    "on-demand",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

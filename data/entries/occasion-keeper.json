@@ -1,0 +1,27 @@
+{
+  "slug": "occasion-keeper",
+  "name": "Occasion Keeper",
+  "category": "personal",
+  "tagline": "Tracks birthdays and anniversaries with a weekly look-ahead for gifts and cards",
+  "description": "Keeps a running list of the birthdays and anniversaries you care about and checks it on a weekly sweep. Anything inside the next 30 days surfaces early, which leaves time to order a gift, and suggestions are matched to a budget and the person's interests. When a date arrives it can draft the card message too.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ljvkTtXU7Qd20efplT1KN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ljvkTtXU7Qd20efplT1KN",
+  "homepage": "https://x.ai/bot/ljvkTtXU7Qd20efplT1KN",
+  "license": null,
+  "author": "BTC_Yogi",
+  "tags": [
+    "family",
+    "events",
+    "personal",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

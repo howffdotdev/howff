@@ -1,0 +1,29 @@
+{
+  "slug": "sg-cards-guide",
+  "name": "SG Cards Guide",
+  "category": "personal",
+  "tagline": "Singapore card choices, answered from the wallet you already carry",
+  "description": "Answer a few questions about how you spend and it builds a picture of the cards you already hold, with no card numbers, income figures or identity documents involved. From there it settles which card to tap for flights, overseas purchases or hotel stays. Advice only, so it never applies for anything on your behalf.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/UXBrZP3ZZJYUIFJLf1SkV",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/UXBrZP3ZZJYUIFJLf1SkV",
+  "homepage": "https://x.ai/bot/UXBrZP3ZZJYUIFJLf1SkV",
+  "license": null,
+  "author": "varunparakh",
+  "tags": [
+    "personal",
+    "travel",
+    "finance",
+    "decision-support",
+    "saving-money",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "family-organizer",
+  "name": "Family Organizer",
+  "category": "personal",
+  "tagline": "School emails in, per-child digests and calendar entries out",
+  "description": "Forward the school's newsletters and notices and it sorts them into a short digest per child, turning buried dates into calendar entries. Around that it keeps chore reminders moving through the week and drafts the coming week's meals for you to edit. One place for the paperwork that usually scatters across an inbox.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ZXZJKvToI4zz1t935mr7q",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ZXZJKvToI4zz1t935mr7q",
+  "homepage": "https://x.ai/bot/ZXZJKvToI4zz1t935mr7q",
+  "license": null,
+  "author": "PrairieWatcher",
+  "tags": [
+    "family",
+    "calendar",
+    "email",
+    "productivity",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

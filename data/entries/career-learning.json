@@ -1,0 +1,28 @@
+{
+  "slug": "career-learning",
+  "name": "Career & Learning",
+  "category": "personal",
+  "tagline": "Keeps a career goal moving: maps the abilities you lack, then walks the plan with you.",
+  "description": "Choose the move you want - a bigger title, a jump to another field, or more depth in the seat you already hold - and it works out which abilities stand between you and it. Then it stays on the case: regular check-ins on what you have practised, what comes next, and a nudge when you let the plan drift.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/M_k1dhG2zdnLZd6ZAeNS2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/M_k1dhG2zdnLZd6ZAeNS2",
+  "homepage": "https://x.ai/bot/M_k1dhG2zdnLZd6ZAeNS2",
+  "license": null,
+  "author": "mjplaskett",
+  "tags": [
+    "personal",
+    "business",
+    "learning",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

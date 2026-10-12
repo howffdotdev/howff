@@ -1,0 +1,27 @@
+{
+  "slug": "bob",
+  "name": "Bob",
+  "category": "personal",
+  "tagline": "Keeps a spare-hours build project moving along its critical path",
+  "description": "Built for people constructing or renovating a home in evenings and weekends. It tracks what must happen next and keeps the critical path visible, so one delayed decision does not stall everything behind it. Where you run trade-specialist bots it hands them their slice of the job, with progress notes as work advances.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/m9Cywb2QyPGZnl4l70aR-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/m9Cywb2QyPGZnl4l70aR-",
+  "homepage": "https://x.ai/bot/m9Cywb2QyPGZnl4l70aR-",
+  "license": null,
+  "author": "PrairieWatcher",
+  "tags": [
+    "home",
+    "agent-team",
+    "productivity",
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

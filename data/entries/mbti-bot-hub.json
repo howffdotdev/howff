@@ -1,0 +1,26 @@
+{
+  "slug": "mbti-bot-hub",
+  "name": "MBTI Bot Hub",
+  "category": "personal",
+  "tagline": "Front desk for a team of MBTI-personality bots",
+  "description": "Works as the single front desk for a team of bots built around MBTI personalities. You bring it a request and it relays the work to whichever typed persona fits, standing in for you so you never juggle the team directly. It surfaced through a Tokyo hackathon circle as the hub of that bot set.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Fwf_OUvMYPcvVkKsy9jNd",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Fwf_OUvMYPcvVkKsy9jNd",
+  "homepage": "https://x.ai/bot/Fwf_OUvMYPcvVkKsy9jNd",
+  "license": null,
+  "author": "nishiyama_dev",
+  "tags": [
+    "personal",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

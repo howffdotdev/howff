@@ -1,0 +1,29 @@
+{
+  "slug": "x-monitor-digest",
+  "name": "X監視Bot",
+  "category": "marketing",
+  "tagline": "Each morning, the X posts gaining traction plus replies aimed at you",
+  "description": "A Japanese-language morning briefing for X. You pick which accounts, lists and keywords to watch, and each morning it rounds up posts that are starting to take off along with the replies aimed at you. A starter reference account ships pre-loaded, and the bot expects a premium X subscription before it will run.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/h0YtWQyxMfHnedrjMsnOR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/h0YtWQyxMfHnedrjMsnOR",
+  "homepage": "https://x.ai/bot/h0YtWQyxMfHnedrjMsnOR",
+  "license": null,
+  "author": "wad0427",
+  "tags": [
+    "social-media",
+    "monitoring",
+    "personal",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

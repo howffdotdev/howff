@@ -1,0 +1,29 @@
+{
+  "slug": "restaurant-franchise-owner-assistant",
+  "name": "Restaurant Franchise Owner Assistant",
+  "category": "ops",
+  "tagline": "The morning desk for a multi-store restaurant owner: decisions, taxes, numbers.",
+  "description": "For an owner running several restaurant locations. Each morning it rounds up messages waiting on a call - bank notices, supplier updates, payroll items - into one digest. Monthly it works through delivery-platform sales tax per store and turns point-of-sale figures into side-by-side reports.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/W7RKxR9J74ZWJz7qCNHmM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/W7RKxR9J74ZWJz7qCNHmM",
+  "homepage": "https://x.ai/bot/W7RKxR9J74ZWJz7qCNHmM",
+  "license": null,
+  "author": "kheladi",
+  "tags": [
+    "business",
+    "ops",
+    "email",
+    "finance",
+    "back-office",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

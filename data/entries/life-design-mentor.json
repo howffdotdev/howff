@@ -1,0 +1,27 @@
+{
+  "slug": "life-design-mentor",
+  "name": "人生设计师",
+  "category": "personal",
+  "tagline": "A mentor for the long haul: one careful question per exchange, checking back unprompted.",
+  "description": "A quiet mentor for people still deciding what they want life to look like. It asks one reflective question per exchange rather than handing you a plan, then follows up unprompted to hear what changed since you last talked. Guidance stays inside the conversation, no worksheets, no homework dumps, nothing to download.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vnqVHiZauQJwpzWJShUcW",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vnqVHiZauQJwpzWJShUcW",
+  "homepage": "https://x.ai/bot/vnqVHiZauQJwpzWJShUcW",
+  "license": null,
+  "author": "Leechael",
+  "tags": [
+    "personal",
+    "wellbeing",
+    "learning",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

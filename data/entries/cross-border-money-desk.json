@@ -1,0 +1,28 @@
+{
+  "slug": "cross-border-money-desk",
+  "name": "Cross-Border Money Desk",
+  "category": "finance",
+  "tagline": "Explains what happened to a cross-border payment, in plain terms, moving nothing.",
+  "description": "A client abroad paid you and the total arrived short, drop the invoice or the payout note here for a patient walkthrough: which transfer network carried the money, where fees nibble at it, and where the balance likely sits now. Educational by design, it explains payment flows and never touches funds or accounts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/RgivaqZM6x_meep2iaobm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/RgivaqZM6x_meep2iaobm",
+  "homepage": "https://x.ai/bot/RgivaqZM6x_meep2iaobm",
+  "license": null,
+  "author": "BankrolledInc",
+  "tags": [
+    "finance",
+    "business",
+    "saving-money",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

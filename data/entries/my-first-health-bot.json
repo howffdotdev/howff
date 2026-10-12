@@ -1,0 +1,28 @@
+{
+  "slug": "my-first-health-bot",
+  "name": "My First Health Bot",
+  "category": "personal",
+  "tagline": "A starter health coach for young adults living on their own",
+  "description": "Made for people newly handling their own health, it suggests simple workouts and low-cost meal ideas, helps you find a local doctor or dentist, and keeps prescription refills from slipping. It also unpacks insurance basics in plain terms, and it says up front that it is not a doctor and does not diagnose anything.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/31D69UiAib5rf67Ag1_Ba",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/31D69UiAib5rf67Ag1_Ba",
+  "homepage": "https://x.ai/bot/31D69UiAib5rf67Ag1_Ba",
+  "license": null,
+  "author": "gilman_trevor",
+  "tags": [
+    "personal",
+    "health",
+    "life-hacks",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "zambo-receipt-bot",
+  "name": "Zambo Receipt Bot",
+  "category": "ops",
+  "tagline": "Issues a verifiable receipt for every agent job and files it for you.",
+  "description": "When one of your agents finishes a task, this one writes a receipt for it and files it away, recording what ran, when, and on which model or connector stack. Anything that speaks MCP works with it. Each evening it rolls the day up into one short skim, bookkeeping for agent work, not another dashboard to watch.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/AXD8poR15Ozom1w8jJrcm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/AXD8poR15Ozom1w8jJrcm",
+  "homepage": "https://x.ai/bot/AXD8poR15Ozom1w8jJrcm",
+  "license": null,
+  "author": "brennanzambo",
+  "tags": [
+    "ops",
+    "automation",
+    "back-office",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "ship-evidence-auditor",
+  "name": "Ship Evidence Auditor",
+  "category": "development",
+  "tagline": "Holds each agent-made release until it shows proof: green checks and a paper trail.",
+  "description": "Before an automated release goes out the door, this gate demands receipts - a green pipeline, a verification run, how the branch actually merged, and a written account of what shipped. Anything missing and the release lane is held until the evidence exists or a human overrules the block.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5l-uALmS59Wb9hZAMvGpz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5l-uALmS59Wb9hZAMvGpz",
+  "homepage": "https://x.ai/bot/5l-uALmS59Wb9hZAMvGpz",
+  "license": null,
+  "author": "ryanthawks",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-12",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
