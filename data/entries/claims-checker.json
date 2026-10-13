@@ -1,0 +1,28 @@
+{
+  "slug": "claims-checker",
+  "name": "Claims Checker",
+  "category": "marketing",
+  "tagline": "Marks every assertion in a draft as backed, unbacked or false before you publish",
+  "description": "Paste a draft post, title or pitch, and I'll mark each claim as backed, unbacked or false. I remember what you've already proven, so you don't have to paste the same sources again. I never post anything for you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/6ORk8r6auKoPkyGW6q_uN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/6ORk8r6auKoPkyGW6q_uN",
+  "homepage": "https://x.ai/bot/6ORk8r6auKoPkyGW6q_uN",
+  "license": null,
+  "author": "prorookiegamer",
+  "tags": [
+    "creator",
+    "business",
+    "content",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-13",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

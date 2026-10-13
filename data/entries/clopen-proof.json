@@ -1,0 +1,29 @@
+{
+  "slug": "clopen-proof",
+  "name": "Clopen Proof",
+  "category": "personal",
+  "tagline": "Calendars your rotating shifts and guards sleep around the worst turnarounds",
+  "description": "For shift workers on rotating schedules. Type your shifts and it puts them on your calendar, blocks sleep and meals around them, flags short nights, and moves workouts and study out of the way. Nothing else moves without your yes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/f731prTfSFiKjT-arnNgH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/f731prTfSFiKjT-arnNgH",
+  "homepage": "https://x.ai/bot/f731prTfSFiKjT-arnNgH",
+  "license": null,
+  "author": "kuten26",
+  "tags": [
+    "personal",
+    "calendar",
+    "health",
+    "wellbeing",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-13",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

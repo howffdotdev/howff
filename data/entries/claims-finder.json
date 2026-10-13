@@ -1,0 +1,29 @@
+{
+  "slug": "claims-finder",
+  "name": "Claims Finder",
+  "category": "personal",
+  "tagline": "Digs through your inbox receipts for refunds, settlements and unclaimed money",
+  "description": "Matches your email receipts to open settlements, unclaimed property, price adjustments, flight refunds, and rebates, with official links only. You decide and file. Not legal or financial advice.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/6VeOVsZzMkrKElrPi_kOR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/6VeOVsZzMkrKElrPi_kOR",
+  "homepage": "https://x.ai/bot/6VeOVsZzMkrKElrPi_kOR",
+  "license": null,
+  "author": "DanBooneFerden",
+  "tags": [
+    "personal",
+    "email",
+    "finance",
+    "saving-money",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-13",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

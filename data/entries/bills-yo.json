@@ -1,0 +1,28 @@
+{
+  "slug": "bills-yo",
+  "name": "$$ Bills Yo",
+  "category": "finance",
+  "tagline": "Coinbase small-cap watchlist that drafts trade ideas with exits attached",
+  "description": "A Coinbase crypto trade scout that hunts for small-cap setups worth the fees, proposes trades with stop-loss and take-profit, and sends a daily recap. Nothing gets placed without your approval.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/U-ATLBXuCZ5g-aUVZmc5D",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/U-ATLBXuCZ5g-aUVZmc5D",
+  "homepage": "https://x.ai/bot/U-ATLBXuCZ5g-aUVZmc5D",
+  "license": null,
+  "author": "BiGSr",
+  "tags": [
+    "investor",
+    "crypto",
+    "monitoring",
+    "decision-support",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-13",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
