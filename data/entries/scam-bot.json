@@ -1,0 +1,30 @@
+{
+  "slug": "scam-bot",
+  "name": "Scam Bot",
+  "category": "personal",
+  "tagline": "Finds X accounts impersonating you and files takedown reports in paced batches.",
+  "description": "Finds accounts impersonating you on X and reports them in safe, paced batches. It also helps you size up suspicious messages.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/TK3jh27fy9qZGcxRktI16",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/TK3jh27fy9qZGcxRktI16",
+  "homepage": "https://x.ai/bot/TK3jh27fy9qZGcxRktI16",
+  "license": null,
+  "author": "WifeDirtyTesla",
+  "tags": [
+    "personal",
+    "creator",
+    "social-media",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

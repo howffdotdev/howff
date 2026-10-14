@@ -1,0 +1,27 @@
+{
+  "slug": "tunebot",
+  "name": "TuneBot",
+  "category": "personal",
+  "tagline": "A questioning coach for the reflexes you fall into when someone else succeeds",
+  "description": "A conversational investigator of human behaviour, built on Tuning Theory. It helps you understand a pattern you keep repeating, what keeps it going, and what else you could learn to do, then gives you one small, reversible experiment to try.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sXaJXpHNSpaFq--oIg0Tl",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sXaJXpHNSpaFq--oIg0Tl",
+  "homepage": "https://x.ai/bot/sXaJXpHNSpaFq--oIg0Tl",
+  "license": null,
+  "author": "steinolina",
+  "tags": [
+    "personal",
+    "wellbeing",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
