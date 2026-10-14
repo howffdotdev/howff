@@ -1,0 +1,31 @@
+{
+  "slug": "algorithm-update-tracker",
+  "name": "Algorithm Update Tracker",
+  "category": "marketing",
+  "tagline": "Explains every change to X's open-source algorithm and what it means for you.",
+  "description": "Tracks X's open-source For You algorithm code (xai-org/x-algorithm) and explains every update in plain English, tailored to your X account.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/6_6Nef0lMZgBxKHGidZzs",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/6_6Nef0lMZgBxKHGidZzs",
+  "homepage": "https://x.ai/bot/6_6Nef0lMZgBxKHGidZzs",
+  "license": null,
+  "author": "realjohnnewburg",
+  "tags": [
+    "creator",
+    "developer",
+    "social-media",
+    "monitoring",
+    "news",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

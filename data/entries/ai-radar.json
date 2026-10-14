@@ -1,0 +1,31 @@
+{
+  "slug": "ai-radar",
+  "name": "AI Radar",
+  "category": "research",
+  "tagline": "Filters AI news from ~270 hand-picked X accounts so you can stop scrolling",
+  "description": "Always-on AI news radar. Watches AI labs' official X accounts, their staff, researchers and well-known people, plus blogs, changelogs, GitHub, Hugging Face and arXiv, for frontier models, coding agents and more, and tells you only what matters in your language, one line plus the original link. Read-only.",
+  "integrations": [
+    "GitHub",
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/i1xwguSTrplEdPvx96MYh",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/i1xwguSTrplEdPvx96MYh",
+  "homepage": "https://x.ai/bot/i1xwguSTrplEdPvx96MYh",
+  "license": null,
+  "author": "gota_bara",
+  "tags": [
+    "news",
+    "monitoring",
+    "scheduled",
+    "developer",
+    "research"
+  ],
+  "verified": false,
+  "added": "2026-10-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

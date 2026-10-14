@@ -1,0 +1,27 @@
+{
+  "slug": "camera-gear-firmware-watch",
+  "name": "Camera Gear & Firmware Watch",
+  "category": "marketing",
+  "tagline": "Watches your camera kit and wishlist; Fridays bring the firmware news.",
+  "description": "Keeps an eye on the camera bodies, lenses, and drones you own or want. A Friday digest tells you when new firmware lands (with what changed) and when used prices at MPB, KEH, and B&H hit your targets. Web only, and it never buys anything. For photographers, videographers, and gear nerds.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/QAc9K4Ysg7Vlr3ryK5tBG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/QAc9K4Ysg7Vlr3ryK5tBG",
+  "homepage": "https://x.ai/bot/QAc9K4Ysg7Vlr3ryK5tBG",
+  "license": null,
+  "author": "gzikry",
+  "tags": [
+    "creator",
+    "video",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

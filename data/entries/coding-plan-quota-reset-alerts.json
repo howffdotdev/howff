@@ -1,0 +1,28 @@
+{
+  "slug": "coding-plan-quota-reset-alerts",
+  "name": "Agent 重置提醒",
+  "category": "development",
+  "tagline": "Pings you the moment a coding-plan vendor announces a global usage reset",
+  "description": "盯着 X 上的官方公告，Claude、Codex、Grok、Cursor、Antigravity 的编程套餐一宣布全局重置用量，就第一时间提醒你。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/O_ZPyAOXn9yBuAR-4qDo8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/O_ZPyAOXn9yBuAR-4qDo8",
+  "homepage": "https://x.ai/bot/O_ZPyAOXn9yBuAR-4qDo8",
+  "license": null,
+  "author": "bylixing",
+  "tags": [
+    "developer",
+    "monitoring",
+    "scheduled",
+    "automation",
+    "news"
+  ],
+  "verified": false,
+  "added": "2026-10-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
