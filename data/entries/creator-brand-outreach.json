@@ -1,0 +1,29 @@
+{
+  "slug": "creator-brand-outreach",
+  "name": "Creator Brand Outreach",
+  "category": "marketing",
+  "tagline": "Shops your sponsorship pitches to brands and chases replies until a deal moves.",
+  "description": "Pitches brands for paid videos and gifted product for a content creator, watches the inbox for replies, and keeps deals moving.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/h38W2kv34TCuHETc0uu1w",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/h38W2kv34TCuHETc0uu1w",
+  "homepage": "https://x.ai/bot/h38W2kv34TCuHETc0uu1w",
+  "license": null,
+  "author": "_lovablecurves",
+  "tags": [
+    "creator",
+    "sales",
+    "growth",
+    "email",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

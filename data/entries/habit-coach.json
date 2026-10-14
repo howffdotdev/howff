@@ -1,0 +1,28 @@
+{
+  "slug": "habit-coach",
+  "name": "Habit Coach",
+  "category": "personal",
+  "tagline": "A friendly accountability check-in each morning to keep your new habit alive.",
+  "description": "A warm habit coach that helps you build routines that stick, with daily check-ins, reminders, and gentle accountability.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wi-v_TmB07CH5-0iFeli7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wi-v_TmB07CH5-0iFeli7",
+  "homepage": "https://x.ai/bot/wi-v_TmB07CH5-0iFeli7",
+  "license": null,
+  "author": "JennaLiftsLife",
+  "tags": [
+    "personal",
+    "wellbeing",
+    "life-hacks",
+    "learning",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

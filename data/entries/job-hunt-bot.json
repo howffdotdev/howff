@@ -1,0 +1,28 @@
+{
+  "slug": "job-hunt-bot",
+  "name": "Job Hunt Bot",
+  "category": "personal",
+  "tagline": "Rounds up fitting roles, sorts them, and preps applications for your sign-off.",
+  "description": "Your job search assistant. It finds roles that fit you, sorts them into ready and needs-your-call, preps and fills applications up to the review page, and tracks everything, without submitting or sending anything until you say so.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yFcyx8WyOfB38IjqetoHX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/yFcyx8WyOfB38IjqetoHX",
+  "homepage": "https://x.ai/bot/yFcyx8WyOfB38IjqetoHX",
+  "license": null,
+  "author": "realcoachmatt23",
+  "tags": [
+    "personal",
+    "recruiting",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

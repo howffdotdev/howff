@@ -1,0 +1,29 @@
+{
+  "slug": "cpm",
+  "name": "CPM",
+  "category": "marketing",
+  "tagline": "Turns a creator's real view counts into a fair rate and a 90-day deal menu",
+  "description": "Paste an Instagram or TikTok creator link and get a fair fee from their real view counts, a 90-day deal menu with Partnership Ads, and a paste-ready agreement. Also builds creator-side rate cards and brand reply emails.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/GwmXIfLuPPIPf2hGX2Txf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/GwmXIfLuPPIPf2hGX2Txf",
+  "homepage": "https://x.ai/bot/GwmXIfLuPPIPf2hGX2Txf",
+  "license": null,
+  "author": "kostahantzis",
+  "tags": [
+    "marketer",
+    "creator",
+    "business",
+    "social-media",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
