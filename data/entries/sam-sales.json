@@ -1,0 +1,28 @@
+{
+  "slug": "sam-sales",
+  "name": "Sam (Sales)",
+  "category": "personal",
+  "tagline": "Turns item photos into ready-to-review eBay and Marketplace drafts.",
+  "description": "A resale assistant that turns your item photos into eBay and Facebook Marketplace listings, and posts them only after you approve.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ihsZKnZJay7kLayMUfAV1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ihsZKnZJay7kLayMUfAV1",
+  "homepage": "https://x.ai/bot/ihsZKnZJay7kLayMUfAV1",
+  "license": null,
+  "author": "SrCaptainThrawn",
+  "tags": [
+    "personal",
+    "shopping",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "photo-credit-watch",
+  "name": "Photo Credit Watch",
+  "category": "marketing",
+  "tagline": "Weekly reverse-image sweep that flags uncredited uses of your photos.",
+  "description": "Runs a weekly reverse-image search on your portfolio to find where your photos turn up online. Flags uncredited and commercial use, and drafts polite credit requests, license invoices, or takedown notices for you to review and send yourself. It never sends anything. For photographers, illustrators, and visual creators.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/fXV8CXfn8_l4Q1ktMrrF2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/fXV8CXfn8_l4Q1ktMrrF2",
+  "homepage": "https://x.ai/bot/fXV8CXfn8_l4Q1ktMrrF2",
+  "license": null,
+  "author": "gzikry",
+  "tags": [
+    "creator",
+    "design",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

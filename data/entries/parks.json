@@ -1,0 +1,28 @@
+{
+  "slug": "parks",
+  "name": "Parks",
+  "category": "personal",
+  "tagline": "Plans road trips across the US National Parks, down to printable day sheets.",
+  "description": "Parks covers all 63 US National Parks: pick parks, optimise multi-park road trips, build day-by-day plans and printable day sheets, and track the parks you've visited on a passport-style map with where-next trip ideas. Budget/pass guide, tours and excursions (authorised operators first), optional live NPS data, timed entry, lodging, camping, wildlife, trails, and seasons via nps.gov and Recreation.gov. One question at a time, ranked options, no invented fees, availability, or animal guarantees.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/p3AZnkzysvRypGWCAJXVT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/p3AZnkzysvRypGWCAJXVT",
+  "homepage": "https://x.ai/bot/p3AZnkzysvRypGWCAJXVT",
+  "license": null,
+  "author": "bradshannon",
+  "tags": [
+    "personal",
+    "travel",
+    "decision-support",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

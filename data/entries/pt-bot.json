@@ -1,0 +1,28 @@
+{
+  "slug": "pt-bot",
+  "name": "PT Bot",
+  "category": "personal",
+  "tagline": "Turns each day's steps, calories and workout minutes into a share-ready report.",
+  "description": "A personal trainer bot that turns your daily activity numbers (steps, distance, calories, exercise minutes) into short, screenshot-friendly reports with a tip for what to do next.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/QFanuVCMxVH0hJ4CZCMJi",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/QFanuVCMxVH0hJ4CZCMJi",
+  "homepage": "https://x.ai/bot/QFanuVCMxVH0hJ4CZCMJi",
+  "license": null,
+  "author": "mustafaergisi",
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "analytics",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
