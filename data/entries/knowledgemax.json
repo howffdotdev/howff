@@ -1,0 +1,31 @@
+{
+  "slug": "knowledgemax",
+  "name": "Knowledgemax",
+  "category": "personal",
+  "tagline": "Sifts your Notion, Drive and saved links into cited digests on a nightly run.",
+  "description": "A Karpathy-style second brain bot: it indexes your Notion, Drive, Readwise and saved links into cited theme summaries in a git repo, files nightly agent recaps, and quizzes you weekly so the knowledge sticks.",
+  "integrations": [
+    "Notion"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/NN9pHzrAZOhB2WBvOyPwU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/NN9pHzrAZOhB2WBvOyPwU",
+  "homepage": "https://x.ai/bot/NN9pHzrAZOhB2WBvOyPwU",
+  "license": null,
+  "author": "sravanjay",
+  "tags": [
+    "personal",
+    "developer",
+    "knowledge-base",
+    "research",
+    "learning",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

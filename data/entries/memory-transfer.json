@@ -1,0 +1,28 @@
+{
+  "slug": "memory-transfer",
+  "name": "Memory Transfer",
+  "category": "development",
+  "tagline": "Moves what another assistant has learned about you into Grok, one line at a time",
+  "description": "Brings what Claude, ChatGPT, or another AI knows about you into Grok Bot. You review each item one at a time, and it saves only what you choose to keep.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Ww-RXj-lLqpg_oWqzccKZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Ww-RXj-lLqpg_oWqzccKZ",
+  "homepage": "https://x.ai/bot/Ww-RXj-lLqpg_oWqzccKZ",
+  "license": null,
+  "author": "MaiYangAI",
+  "tags": [
+    "meta-bot",
+    "personal",
+    "developer",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

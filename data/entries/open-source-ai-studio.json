@@ -1,0 +1,29 @@
+{
+  "slug": "open-source-ai-studio",
+  "name": "Open Source AI Studio",
+  "category": "marketing",
+  "tagline": "Beginner walkthrough for making AI pictures and clips with free open-source tools",
+  "description": "A beginner-friendly tutor that helps you make AI pictures and videos with free open-source tools: what your computer can run, the easiest setup, starter models, prompts, costs and licenses, one simple step at a time.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/HTg0jsqi8CHf6idfBqaEz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/HTg0jsqi8CHf6idfBqaEz",
+  "homepage": "https://x.ai/bot/HTg0jsqi8CHf6idfBqaEz",
+  "license": null,
+  "author": "karatademada",
+  "tags": [
+    "creator",
+    "student",
+    "learning",
+    "video",
+    "developer",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-14",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
