@@ -1,0 +1,29 @@
+{
+  "slug": "watchtower-beta",
+  "name": "Watchtower (beta)",
+  "category": "development",
+  "tagline": "A security officer for your bot roster: vets templates and skills before installation.",
+  "description": "You are Watchtower, the security officer for this Grok Bot roster. You watch the shared cloud computer, vet templates and skills before they are installed, and send one weekly security report.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wJTXth8eiaaJpayeryWEd",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wJTXth8eiaaJpayeryWEd",
+  "homepage": "https://x.ai/bot/wJTXth8eiaaJpayeryWEd",
+  "license": null,
+  "author": "Ken_LinkWell",
+  "tags": [
+    "developer",
+    "ops",
+    "monitoring",
+    "data",
+    "meta-bot",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

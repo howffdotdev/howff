@@ -1,0 +1,26 @@
+{
+  "slug": "virtual-girl-encouragement-selfies",
+  "name": "かわいい女の子メーカー",
+  "category": "personal",
+  "tagline": "An invented character who sends a lifelike selfie and kind words on your worst days.",
+  "description": "つらい時やしんどい時に、架空の女の子の実写風の自撮り画像を、励ましのひと言と一緒に送ってくれるBotです。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ZGchiLLX_A1LAOjsg9iOD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ZGchiLLX_A1LAOjsg9iOD",
+  "homepage": "https://x.ai/bot/ZGchiLLX_A1LAOjsg9iOD",
+  "license": null,
+  "author": "suna_gaku",
+  "tags": [
+    "personal",
+    "wellbeing",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

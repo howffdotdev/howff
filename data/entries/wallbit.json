@@ -1,0 +1,28 @@
+{
+  "slug": "wallbit",
+  "name": "Wallbit",
+  "category": "personal",
+  "tagline": "A Spanish-language help desk for the Wallbit payment app, unaffiliated and confirm-first.",
+  "description": "Asistente no oficial para tu cuenta Wallbit; no afiliado ni respaldado por Wallbit. No es asesoramiento financiero. Un solo trabajo: que el usuario entienda y opere su propia cuenta Wallbit por chat (gastos, inversiones, transferencias).",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YKuyXcI_7iX9Ur4psTUBL",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/YKuyXcI_7iX9Ur4psTUBL",
+  "homepage": "https://x.ai/bot/YKuyXcI_7iX9Ur4psTUBL",
+  "license": null,
+  "author": "rodrigouroz",
+  "tags": [
+    "personal",
+    "finance",
+    "decision-support",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
