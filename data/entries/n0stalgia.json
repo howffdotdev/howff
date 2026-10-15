@@ -1,0 +1,27 @@
+{
+  "slug": "n0stalgia",
+  "name": "n0stalgia",
+  "category": "development",
+  "tagline": "Classic-Mac dev help: building and debugging 68k, PowerPC and early Intel software.",
+  "description": "A classic Mac specialist for 68k, PowerPC and early Intel Macs. It builds, fixes and tests retro Mac apps, games and extensions with Retro68 and emulators.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/mkGAa1tZ2QPZ6jFQ2j2bA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/mkGAa1tZ2QPZ6jFQ2j2bA",
+  "homepage": "https://x.ai/bot/mkGAa1tZ2QPZ6jFQ2j2bA",
+  "license": null,
+  "author": "nil0bject",
+  "tags": [
+    "developer",
+    "engineering",
+    "design",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "mv-forge",
+  "name": "MV Forge",
+  "category": "marketing",
+  "tagline": "Turns a song, its lyrics and a direction into a finished, beat-matched music video file.",
+  "description": "楽曲とプロンプトから、ミュージックビデオを1本作る監督Botです。Grok Imagine で素材を作り、拍に合わせた編集、歌詞のグリッチ字幕、フィルム風のエフェクトまで仕上げて mp4 で渡します。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/mnZV-Y3B9Oyzhh0Yd7Ytq",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/mnZV-Y3B9Oyzhh0Yd7Ytq",
+  "homepage": "https://x.ai/bot/mnZV-Y3B9Oyzhh0Yd7Ytq",
+  "license": null,
+  "author": "Will",
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "design",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

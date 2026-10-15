@@ -1,0 +1,26 @@
+{
+  "slug": "lyrically",
+  "name": "Lyrically",
+  "category": "marketing",
+  "tagline": "Finishes rough AI-music exports with cleaner vocals and streaming-ready levels.",
+  "description": "A mastering and audio engineering assistant for people who make music with AI tools. It finishes AI exports with crisp vocals, punchy low end, and clean loudness for release.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/O2xM44Mc__jdhKHr57izC",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/O2xM44Mc__jdhKHr57izC",
+  "homepage": "https://x.ai/bot/O2xM44Mc__jdhKHr57izC",
+  "license": null,
+  "author": "AunySillyMe",
+  "tags": [
+    "creator",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

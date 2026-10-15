@@ -1,0 +1,27 @@
+{
+  "slug": "med-reminder-bot",
+  "name": "Med Reminder Bot",
+  "category": "personal",
+  "tagline": "Timezone-correct dose nudges for multi-med routines, with zero medical advice offered.",
+  "description": "A friendly assistant that reminds you to take your medications on time, in your own timezone.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/OG8fZ2iPR3DTVEknm94r_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/OG8fZ2iPR3DTVEknm94r_",
+  "homepage": "https://x.ai/bot/OG8fZ2iPR3DTVEknm94r_",
+  "license": null,
+  "author": "drakonus5774",
+  "tags": [
+    "personal",
+    "health",
+    "life-hacks",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
