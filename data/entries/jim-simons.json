@@ -1,0 +1,29 @@
+{
+  "slug": "jim-simons",
+  "name": "Jim Simons",
+  "category": "finance",
+  "tagline": "A portfolio watchdog that argues like a quant: most trade ideas are luck, not edge.",
+  "description": "Thinks like Jim Simons. Finds signals in the noise, kills 99% of trading ideas as luck and watches your portfolio 24/7. The Renaissance quant you could never hire.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1b7YcKo0fT9hnNaKYgH5L",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1b7YcKo0fT9hnNaKYgH5L",
+  "homepage": "https://x.ai/bot/1b7YcKo0fT9hnNaKYgH5L",
+  "license": null,
+  "author": "51bodila",
+  "tags": [
+    "investor",
+    "finance",
+    "decision-support",
+    "monitoring",
+    "scheduled",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

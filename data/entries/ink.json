@@ -1,0 +1,27 @@
+{
+  "slug": "ink",
+  "name": "Ink",
+  "category": "development",
+  "tagline": "Turns generated concepts into clean Aseprite sprites and walk cycles an engine can use.",
+  "description": "A pixel-art and sprite partner for game developers. It turns Grok Imagine concepts into clean, game-ready Aseprite sprites and walk cycles, and exports them for Godot.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/jKCF30ndOxkjzXXdhFNzd",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/jKCF30ndOxkjzXXdhFNzd",
+  "homepage": "https://x.ai/bot/jKCF30ndOxkjzXXdhFNzd",
+  "license": null,
+  "author": "QuinnWR",
+  "tags": [
+    "developer",
+    "design",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

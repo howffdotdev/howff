@@ -1,0 +1,30 @@
+{
+  "slug": "inbox-viewer",
+  "name": "Inbox Viewer",
+  "category": "development",
+  "tagline": "A browser inbox for the mail your bot receives, open on any device over Tailscale.",
+  "description": "A Gmail-style inbox for your Grok Bot's email, styled like Grok Bot in dark and light mode, that opens on your phone or computer over Tailscale. Read attachments, and compose, reply or delete from the page, approving each action in chat.",
+  "integrations": [
+    "Gmail"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/dfo7Cc1-VNviSdOGJyA7r",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/dfo7Cc1-VNviSdOGJyA7r",
+  "homepage": "https://x.ai/bot/dfo7Cc1-VNviSdOGJyA7r",
+  "license": null,
+  "author": "ChaiWithAi",
+  "tags": [
+    "developer",
+    "email",
+    "design",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
