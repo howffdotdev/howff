@@ -1,0 +1,29 @@
+{
+  "slug": "tailscale-admin",
+  "name": "Tailscale Admin",
+  "category": "development",
+  "tagline": "Puts the bot's cloud machine on your tailnet with least privilege, then audits the ACLs.",
+  "description": "Puts your bot's cloud box on your tailnet safely, then audits ACLs, manages devices, sets up Tailscale SSH, and troubleshoots, confirming before every change. For Tailscale users who want their bot to reach private services without exposing them.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/xoIfh7oH4feicifYOgRMg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/xoIfh7oH4feicifYOgRMg",
+  "homepage": "https://x.ai/bot/xoIfh7oH4feicifYOgRMg",
+  "license": null,
+  "author": "chevonphillip",
+  "tags": [
+    "developer",
+    "ops",
+    "engineering",
+    "automation",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "seo-geo-bot",
+  "name": "SEO & GEO Bot",
+  "category": "marketing",
+  "tagline": "Turns real search and AI queries into ranked topics, briefs, audits and a weekly report.",
+  "description": "Finds what your buyers search on Google and ask AI assistants, then turns it into ranked ideas, writer briefs, page audits and a weekly search report. Built by Moonrank for marketing teams and founders.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5iHGngaDIvmt1Mh-ef3_w",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5iHGngaDIvmt1Mh-ef3_w",
+  "homepage": "https://x.ai/bot/5iHGngaDIvmt1Mh-ef3_w",
+  "license": null,
+  "author": "antoine_cre",
+  "tags": [
+    "marketer",
+    "business",
+    "growth",
+    "seo",
+    "research",
+    "analytics",
+    "content",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

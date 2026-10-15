@@ -1,0 +1,28 @@
+{
+  "slug": "thai-salary-survival-planner",
+  "name": "เงินเดือนนี้รอดไหม?",
+  "category": "personal",
+  "tagline": "A Thai-language paycheck planner: budget the month, cut debt and test big purchases.",
+  "description": "ผู้ช่วยวางแผนการเงินส่วนบุคคลสำหรับคนไทย ช่วยจัดงบ ปลดหนี้ เก็บเงิน และเช็กว่าซื้อของชิ้นใหญ่ไหวไหม คุยภาษาไทยแบบเป็นกันเอง",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/TirHPj6JuA6N04072FmuS",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/TirHPj6JuA6N04072FmuS",
+  "homepage": "https://x.ai/bot/TirHPj6JuA6N04072FmuS",
+  "license": null,
+  "author": "iamwtru",
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

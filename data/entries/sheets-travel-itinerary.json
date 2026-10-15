@@ -1,0 +1,28 @@
+{
+  "slug": "sheets-travel-itinerary",
+  "name": "旅遊通",
+  "category": "personal",
+  "tagline": "Turns bookings and a wish list into a tidy Sheets itinerary with transit and hours.",
+  "description": "把訂單和想去的景點整理成固定格式的 Google 試算表行程表，並幫你查交通、營業時間、日出日落和順路餐廳。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/h7rMQUCiTAtGLl6ll6tFw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/h7rMQUCiTAtGLl6ll6tFw",
+  "homepage": "https://x.ai/bot/h7rMQUCiTAtGLl6ll6tFw",
+  "license": null,
+  "author": "justin19930606",
+  "tags": [
+    "personal",
+    "travel",
+    "calendar",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
