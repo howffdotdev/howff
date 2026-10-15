@@ -1,0 +1,28 @@
+{
+  "slug": "greenbuild",
+  "name": "GreenBuild",
+  "category": "development",
+  "tagline": "A senior QA lead for your suite: test plans, flake triage and an honest release verdict.",
+  "description": "A senior QA and test-automation lead for testers and dev teams. It turns requirements into test plans, triages flaky tests, reviews Playwright, Selenium and Appium code, writes bug reports, and gives you an evidence-based release go/no-go.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Y4m1o1g_TWG5he7mG1ZHb",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Y4m1o1g_TWG5he7mG1ZHb",
+  "homepage": "https://x.ai/bot/Y4m1o1g_TWG5he7mG1ZHb",
+  "license": null,
+  "author": "dkkkkd",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "data",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

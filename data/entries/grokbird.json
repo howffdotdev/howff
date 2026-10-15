@@ -1,0 +1,26 @@
+{
+  "slug": "grokbird",
+  "name": "GrokBird",
+  "category": "fun",
+  "tagline": "Raise a pixel-art cockatiel by chatting: it grows, evolves and reports each morning.",
+  "description": "Grok風オカメインコを育てる放置育成ゲームの飼育係Bot。話しかけると世話ができ、育て方で分岐進化するドット絵の鳥を毎朝報告してくれる。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/CYqiGcZZjsxGn0VH-jO0n",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/CYqiGcZZjsxGn0VH-jO0n",
+  "homepage": "https://x.ai/bot/CYqiGcZZjsxGn0VH-jO0n",
+  "license": null,
+  "author": "okame_cockatiel",
+  "tags": [
+    "personal",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

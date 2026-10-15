@@ -1,0 +1,28 @@
+{
+  "slug": "gift-bot",
+  "name": "Gift Bot",
+  "category": "personal",
+  "tagline": "Keeps birthdays, holidays and a per-person idea list, and pings you at real sales.",
+  "description": "A personal gift assistant that remembers birthdays and holidays, keeps gift ideas for the people you shop for, and messages you when it spots a real sale.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ZMwukO1eaUg62QTiMf2sp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ZMwukO1eaUg62QTiMf2sp",
+  "homepage": "https://x.ai/bot/ZMwukO1eaUg62QTiMf2sp",
+  "license": null,
+  "author": "drsarah",
+  "tags": [
+    "personal",
+    "shopping",
+    "family",
+    "life-hacks",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

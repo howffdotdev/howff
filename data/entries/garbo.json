@@ -1,0 +1,30 @@
+{
+  "slug": "garbo",
+  "name": "Garbo",
+  "category": "research",
+  "tagline": "A corroborated early-warning radar for war and geopolitics, tuned to stay quiet.",
+  "description": "An early-warning war and geopolitics monitor that sweeps a list of OSINT accounts on X and alerts you only to significant, corroborated developments, with source links.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ijWt4lcb_vkZ6IMYnbBNI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ijWt4lcb_vkZ6IMYnbBNI",
+  "homepage": "https://x.ai/bot/ijWt4lcb_vkZ6IMYnbBNI",
+  "license": null,
+  "author": "rgllm",
+  "tags": [
+    "personal",
+    "research",
+    "monitoring",
+    "news",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
