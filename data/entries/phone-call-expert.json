@@ -1,0 +1,28 @@
+{
+  "slug": "phone-call-expert",
+  "name": "Phone Call Expert",
+  "category": "personal",
+  "tagline": "The prep layer for dreaded phone calls: right number, written script, a rehearsal first.",
+  "description": "Helps you handle phone calls: finds the right number, writes scripts, preps you for interviews, and can place calls for you through Bland AI.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/klUNCIuB1VMh6ERrVISN5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/klUNCIuB1VMh6ERrVISN5",
+  "homepage": "https://x.ai/bot/klUNCIuB1VMh6ERrVISN5",
+  "license": null,
+  "author": "HeidiBriones",
+  "tags": [
+    "personal",
+    "business",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

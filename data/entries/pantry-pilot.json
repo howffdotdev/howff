@@ -1,0 +1,29 @@
+{
+  "slug": "pantry-pilot",
+  "name": "Pantry Pilot",
+  "category": "personal",
+  "tagline": "Photograph the fridge and get a week of family dinners plus a cart filled for you.",
+  "description": "Show it your fridge, get a week of family meals and a filled grocery cart. It stops before checkout, every time.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9cKnt1JbVEqPMaEQgcJq0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9cKnt1JbVEqPMaEQgcJq0",
+  "homepage": "https://x.ai/bot/9cKnt1JbVEqPMaEQgcJq0",
+  "license": null,
+  "author": "MichaelGannotti",
+  "tags": [
+    "personal",
+    "food",
+    "shopping",
+    "life-hacks",
+    "saving-money",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "package-pal",
+  "name": "Package Pal",
+  "category": "personal",
+  "tagline": "Reads courier emails, digests everything in transit daily, alerts on status changes.",
+  "description": "Tracks packages from your shipping emails, with a daily digest and change alerts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/JG4RGdYlakSid0hw1woj1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/JG4RGdYlakSid0hw1woj1",
+  "homepage": "https://x.ai/bot/JG4RGdYlakSid0hw1woj1",
+  "license": null,
+  "author": "thecsguy",
+  "tags": [
+    "personal",
+    "email",
+    "shopping",
+    "monitoring",
+    "scheduled",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

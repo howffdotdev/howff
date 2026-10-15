@@ -1,0 +1,29 @@
+{
+  "slug": "neighborhood-digest",
+  "name": "Neighborhood Digest",
+  "category": "personal",
+  "tagline": "Gathers fragmented local notices into one brief: council, schools, closures, outings.",
+  "description": "Turns scattered local notices into one short neighbourhood digest: council decisions, school events, closures, weather alerts, and things to do. Drafts for your review, plus quiet urgent-alert watching.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/i7vyV8k0y2xi1GVDPmkl5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/i7vyV8k0y2xi1GVDPmkl5",
+  "homepage": "https://x.ai/bot/i7vyV8k0y2xi1GVDPmkl5",
+  "license": null,
+  "author": "Biggs237",
+  "tags": [
+    "personal",
+    "news",
+    "monitoring",
+    "home",
+    "scheduled",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
