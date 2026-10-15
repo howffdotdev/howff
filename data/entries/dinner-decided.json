@@ -1,0 +1,29 @@
+{
+  "slug": "dinner-decided",
+  "name": "Dinner Decided",
+  "category": "personal",
+  "tagline": "Picks tonight's dinner and maps the week to your budget and the store specials.",
+  "description": "Your personal dinner planner. Picks tonight's dinner, plans the week around your budget and local sales, rescues your pantry, and builds a clean shopping list.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ut4lZu2vLMn2mq4dzZP6G",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ut4lZu2vLMn2mq4dzZP6G",
+  "homepage": "https://x.ai/bot/ut4lZu2vLMn2mq4dzZP6G",
+  "license": null,
+  "author": "ashleyschendel",
+  "tags": [
+    "personal",
+    "food",
+    "shopping",
+    "saving-money",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

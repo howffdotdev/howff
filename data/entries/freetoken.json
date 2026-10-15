@@ -1,0 +1,30 @@
+{
+  "slug": "freetoken",
+  "name": "FreeToken",
+  "category": "development",
+  "tagline": "Finds OpenRouter models that are genuinely free and tool-capable, refreshed daily.",
+  "description": "帮你找到 OpenRouter 上真正免费、支持工具调用的大模型，给 Pi 子 agent 使用，并每天监控免费名单变化。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/G33RxzA5ocOTN3DmHcsFU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/G33RxzA5ocOTN3DmHcsFU",
+  "homepage": "https://x.ai/bot/G33RxzA5ocOTN3DmHcsFU",
+  "license": null,
+  "author": "MinLiBuilds",
+  "tags": [
+    "developer",
+    "automation",
+    "monitoring",
+    "data",
+    "saving-money",
+    "scheduled",
+    "agent-team"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

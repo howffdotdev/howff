@@ -1,0 +1,28 @@
+{
+  "slug": "daily-writing-buddy",
+  "name": "Daily Writing Buddy",
+  "category": "writing",
+  "tagline": "Guilt-free book progress tracking: one sentence counts and a missed day wipes nothing.",
+  "description": "Helps writers finish their books without guilt. Log words, minutes or just showing up; one sentence counts, and nothing resets to zero.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/G89nJRoQPa8u4jzAmLU1z",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/G89nJRoQPa8u4jzAmLU1z",
+  "homepage": "https://x.ai/bot/G89nJRoQPa8u4jzAmLU1z",
+  "license": null,
+  "author": "SpaceCowgirlTX",
+  "tags": [
+    "personal",
+    "creator",
+    "wellbeing",
+    "productivity",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

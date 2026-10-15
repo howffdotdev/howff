@@ -1,0 +1,28 @@
+{
+  "slug": "fine-print",
+  "name": "Fine Print",
+  "category": "personal",
+  "tagline": "Reads contracts, leases and terms pages, then tells you what you are really agreeing to.",
+  "description": "Send it any contract, lease, bill, or terms of service and it tells you what's really in it, flags hidden fees and gotchas, and writes the dispute letter.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Yetb1ei_7VvPfWlYqYwAM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Yetb1ei_7VvPfWlYqYwAM",
+  "homepage": "https://x.ai/bot/Yetb1ei_7VvPfWlYqYwAM",
+  "license": null,
+  "author": "DirtyTesLa",
+  "tags": [
+    "personal",
+    "business",
+    "saving-money",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
