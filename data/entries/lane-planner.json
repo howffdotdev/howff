@@ -1,0 +1,29 @@
+{
+  "slug": "lane-planner",
+  "name": "Lane Planner",
+  "category": "personal",
+  "tagline": "One main project, one slow read, one side bet: it trims a crowded week to daily steps.",
+  "description": "Helps you plan your week when you have too many interests. You get one main project, one slow reading track, one side project, and a parking lot for everything else, plus small daily steps and a kind weekly review. It is a planning tool, not medical treatment.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/QZ59mNTczWx2fi92XUbcD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/QZ59mNTczWx2fi92XUbcD",
+  "homepage": "https://x.ai/bot/QZ59mNTczWx2fi92XUbcD",
+  "license": null,
+  "author": "DavidTranAI",
+  "tags": [
+    "personal",
+    "productivity",
+    "learning",
+    "decision-support",
+    "scheduled",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

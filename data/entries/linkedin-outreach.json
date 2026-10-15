@@ -1,0 +1,32 @@
+{
+  "slug": "linkedin-outreach",
+  "name": "LinkedIn Outreach",
+  "category": "sales",
+  "tagline": "Seller-side prospecting: find the right buyers, send capped outreach, keep the replies.",
+  "description": "Finds decision makers at companies that fit your ICP and can afford you, writes personal connection notes, sends them safely every day, and hands you the warm replies. Built for agencies, consultants, and B2B sellers.",
+  "integrations": [
+    "LinkedIn"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/RoPTRP7mgY41LgyiaZVA1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/RoPTRP7mgY41LgyiaZVA1",
+  "homepage": "https://x.ai/bot/RoPTRP7mgY41LgyiaZVA1",
+  "license": null,
+  "author": "blayonX",
+  "tags": [
+    "sales",
+    "business",
+    "marketer",
+    "growth",
+    "social-media",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

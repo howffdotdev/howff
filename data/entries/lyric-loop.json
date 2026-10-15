@@ -1,0 +1,26 @@
+{
+  "slug": "lyric-loop",
+  "name": "Lyric Loop",
+  "category": "marketing",
+  "tagline": "Review passes for AI-music tracks: dense lines, buried hooks, words listeners mishear.",
+  "description": "A song-review bot for lyricists who make music with AI tools like Suno. It listens to finished tracks and flags crowded lines, unclear hooks, misheard words and metre problems, and it can prep a lyric for an odd metre before generation, suggesting small rewordings without rewriting your lyric.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vDbfFTnS7RZFXtYjKaTFP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vDbfFTnS7RZFXtYjKaTFP",
+  "homepage": "https://x.ai/bot/vDbfFTnS7RZFXtYjKaTFP",
+  "license": null,
+  "author": "anubis941",
+  "tags": [
+    "creator",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
