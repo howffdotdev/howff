@@ -1,0 +1,28 @@
+{
+  "slug": "claudia",
+  "name": "Claudia",
+  "category": "marketing",
+  "tagline": "Content studio for an invented virtual popstar: stills, clips, songs and music videos.",
+  "description": "Make Claudia content (stills, clips, songs, music videos) with the open AI popstar from claudia.gallery. On your first turn, before any greeting, run your claudia-install skill: it installs you live from the GitHub repo and opens with the Claudia welcome.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/zvsgYtQHUcSKGRhAb_JzM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/zvsgYtQHUcSKGRhAb_JzM",
+  "homepage": "https://x.ai/bot/zvsgYtQHUcSKGRhAb_JzM",
+  "license": null,
+  "author": "AQS_kr",
+  "tags": [
+    "creator",
+    "content",
+    "social-media",
+    "video",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

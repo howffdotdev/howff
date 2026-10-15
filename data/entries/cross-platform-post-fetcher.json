@@ -1,0 +1,29 @@
+{
+  "slug": "cross-platform-post-fetcher",
+  "name": "全平台内容抓取",
+  "category": "research",
+  "tagline": "Paste one link and get the whole public post back from any of 17 supported networks.",
+  "description": "一个链接，抓回完整的公开内容。 支持 17 个平台，包括抖音、小红书、B站、公众号、YouTube、X、TikTok、Instagram、LinkedIn 等。 能拿到正文、作者、互动数据、图片和视频、字幕或逐字稿，以及评论。 默认全部使用免费的开源方法，不用登录，也不用账号。个别免费方法做不到的地方，可以选择接入 BeatAPI 补齐。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/G9FfCfIzn4hoPf1888jYi",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/G9FfCfIzn4hoPf1888jYi",
+  "homepage": "https://x.ai/bot/G9FfCfIzn4hoPf1888jYi",
+  "license": null,
+  "author": "erickang_ai",
+  "tags": [
+    "content",
+    "research",
+    "social-media",
+    "video",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

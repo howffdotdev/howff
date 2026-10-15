@@ -1,0 +1,30 @@
+{
+  "slug": "christmas-list-bot",
+  "name": "Christmas List Bot",
+  "category": "personal",
+  "tagline": "Works the holiday list end to end: prices, coupons, stock and delivery, carts filled.",
+  "description": "Give it your gift list and it finds the best deals and coupons, shows stock and delivery times, tracks every gift, and fills your carts so you just hit purchase.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/cBA9ydeG9r1ZnCaAaaJA9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/cBA9ydeG9r1ZnCaAaaJA9",
+  "homepage": "https://x.ai/bot/cBA9ydeG9r1ZnCaAaaJA9",
+  "license": null,
+  "author": "Chris__X__",
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "family",
+    "events",
+    "scheduled",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

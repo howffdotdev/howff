@@ -1,0 +1,30 @@
+{
+  "slug": "daily-bangers",
+  "name": "daily bangers",
+  "category": "marketing",
+  "tagline": "A daily X coach: on-niche post ideas, short drafts and a look at what performed.",
+  "description": "Your daily X coach. It suggests topics from your profile, turns rough thoughts into short posts ready to go, and sends a daily review of how your posts performed.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/182OWDI636IzNxEUUnMsU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/182OWDI636IzNxEUUnMsU",
+  "homepage": "https://x.ai/bot/182OWDI636IzNxEUUnMsU",
+  "license": null,
+  "author": "NetSeg_io",
+  "tags": [
+    "creator",
+    "marketer",
+    "personal",
+    "social-media",
+    "content",
+    "growth",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
