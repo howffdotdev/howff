@@ -1,0 +1,30 @@
+{
+  "slug": "x-account-watcher",
+  "name": "X Account Watcher",
+  "category": "personal",
+  "tagline": "Watches a chosen X account around the clock, surfacing only the posts that matter.",
+  "description": "Watches one X account you choose. Every 2 hours it logs new posts with a summary and analysis wherever you like, and pings you only on important updates.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/e7dI4aLmitFXzNqPl_Z4U",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/e7dI4aLmitFXzNqPl_Z4U",
+  "homepage": "https://x.ai/bot/e7dI4aLmitFXzNqPl_Z4U",
+  "license": null,
+  "author": "bunkeideploy",
+  "tags": [
+    "personal",
+    "monitoring",
+    "research",
+    "social-media",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
