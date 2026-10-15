@@ -1,0 +1,29 @@
+{
+  "slug": "bfcm-email-planner",
+  "name": "BFCM Email Planner",
+  "category": "marketing",
+  "tagline": "Plans the whole Black Friday and Cyber Monday send calendar: segments, offers, subjects.",
+  "description": "Plans your full Black Friday / Cyber Monday email and SMS calendar: sends, segments, offer angles, subject lines, flow changes and a deliverability checklist. Built for beginner and intermediate ecommerce brand owners.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Uf1bydmjxYZZpgymtOzSZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Uf1bydmjxYZZpgymtOzSZ",
+  "homepage": "https://x.ai/bot/Uf1bydmjxYZZpgymtOzSZ",
+  "license": null,
+  "author": "ecomchasedimond",
+  "tags": [
+    "marketer",
+    "business",
+    "email",
+    "growth",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

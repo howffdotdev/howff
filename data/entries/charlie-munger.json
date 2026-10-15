@@ -1,0 +1,28 @@
+{
+  "slug": "charlie-munger",
+  "name": "Charlie Munger",
+  "category": "finance",
+  "tagline": "An investing desk on Munger's playbook: interrogate the moat, audit yourself, bet rarely.",
+  "description": "Investing bot built on Charlie Munger's playbook: filters ideas, judges the moat, audits your psychology and bets big but rarely. Paper book first, not investment advice.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/gsMvBGnKZFIjRU4bCsLR2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/gsMvBGnKZFIjRU4bCsLR2",
+  "homepage": "https://x.ai/bot/gsMvBGnKZFIjRU4bCsLR2",
+  "license": null,
+  "author": "carm1nee",
+  "tags": [
+    "investor",
+    "finance",
+    "decision-support",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

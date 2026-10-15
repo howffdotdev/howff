@@ -1,0 +1,28 @@
+{
+  "slug": "brick-scout",
+  "name": "Brick Scout",
+  "category": "personal",
+  "tagline": "Plans LEGO models from parts you can actually buy, with wanted lists and 3D checks.",
+  "description": "Designs LEGO builds from real, verified parts, exports part lists for Rebrickable, BrickLink and Studio, checks and renders 3D models, and prices parts from the BrickLink price guide. For LEGO builders, collectors and deal hunters.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/RHVbp2I2y0fIkZI54fcdf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/RHVbp2I2y0fIkZI54fcdf",
+  "homepage": "https://x.ai/bot/RHVbp2I2y0fIkZI54fcdf",
+  "license": null,
+  "author": "bradshannon",
+  "tags": [
+    "personal",
+    "design",
+    "engineering",
+    "shopping",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-15",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
