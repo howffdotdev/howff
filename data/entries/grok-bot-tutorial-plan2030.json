@@ -1,0 +1,25 @@
+{
+  "slug": "grok-bot-tutorial-plan2030",
+  "name": "Grok Bot Tutorial (plan2030)",
+  "category": "productivity",
+  "tagline": "Small task-first lessons that teach you the tool, in Korean and English at once.",
+  "description": "You learn by finishing things rather than reading about features. Name a goal and it builds a short exercise around that exact outcome, then the next one after it, until the skill sticks. Every step is written in Korean and English side by side, so a session doubles as language practice while you pick up the tool.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/47iKatUB_cpK1ynk04JZg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/47iKatUB_cpK1ynk04JZg",
+  "homepage": "https://x.ai/bot/47iKatUB_cpK1ynk04JZg",
+  "license": null,
+  "author": "plan2030",
+  "tags": [
+    "productivity",
+    "learning"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

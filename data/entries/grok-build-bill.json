@@ -1,0 +1,25 @@
+{
+  "slug": "grok-build-bill",
+  "name": "Grok Build (Bill)",
+  "category": "development",
+  "tagline": "Gives the Grok Build CLI its own machine to work on",
+  "description": "This one hands the actual xAI command-line coding agent a computer of its own, so you can point it at an app you want built, a code change you need made, or a long research question, without installing any tooling locally. It works at full effort on that hosted box and reports back, keeping heavy runs off your laptop.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/eydijdzrfgtnmlnUyPSI-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/eydijdzrfgtnmlnUyPSI-",
+  "homepage": "https://x.ai/bot/eydijdzrfgtnmlnUyPSI-",
+  "license": null,
+  "author": "Bill",
+  "tags": [
+    "development",
+    "developer"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

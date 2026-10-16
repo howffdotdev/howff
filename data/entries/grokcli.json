@@ -1,0 +1,25 @@
+{
+  "slug": "grokcli",
+  "name": "grokcli",
+  "category": "development",
+  "tagline": "Drafts tight coding prompts, runs them headless on your machine, ships the commit.",
+  "description": "A helper that lives on the terminal side of your workflow. You describe the job, it shapes a focused prompt for the task and executes it through a headless Grok CLI running on your own hardware. When the work is done you get a pushed commit plus a short report of what changed, so nothing ships silently.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0B7CBnzSyIA3aVLjMTwoF",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/0B7CBnzSyIA3aVLjMTwoF",
+  "homepage": "https://x.ai/bot/0B7CBnzSyIA3aVLjMTwoF",
+  "license": null,
+  "author": "nil0bject",
+  "tags": [
+    "development",
+    "developer"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

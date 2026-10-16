@@ -1,0 +1,25 @@
+{
+  "slug": "grok-build-zack",
+  "name": "Grok Build (Zack)",
+  "category": "development",
+  "tagline": "Runs the Grok Build CLI at full effort on an agent computer.",
+  "description": "Wraps a command-line build harness in a bot, so app work, coding and deep-research jobs can run hard on a hosted agent machine instead of occupying your own terminal. Useful when a task needs to run long or unattended and you would rather not keep a session open. Tooling only: nothing spends money.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wnFlIE6YpskdUekfkkwFO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wnFlIE6YpskdUekfkkwFO",
+  "homepage": "https://x.ai/bot/wnFlIE6YpskdUekfkkwFO",
+  "license": null,
+  "author": "Zack",
+  "tags": [
+    "development",
+    "developer"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
