@@ -1,0 +1,25 @@
+{
+  "slug": "gbrain",
+  "name": "GBrain",
+  "category": "development",
+  "tagline": "Moves a bot's memory into GBrain and keeps the server side running.",
+  "description": "Connects a bot's long-term memory to GBrain, whether you are on their hosted service or running the server yourself. Beyond the sync it covers the operational side: queuing jobs, running consolidation passes, calibration and keeping the deployment current. Useful once a bot's memory has outgrown a plain file.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ynoVbairpAPDOtdrS51Rf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ynoVbairpAPDOtdrS51Rf",
+  "homepage": "https://x.ai/bot/ynoVbairpAPDOtdrS51Rf",
+  "license": null,
+  "author": "massimodeluisa",
+  "tags": [
+    "development",
+    "developer"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

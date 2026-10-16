@@ -1,0 +1,24 @@
+{
+  "slug": "fantasy-gm-joe",
+  "name": "Fantasy GM (Joe)",
+  "category": "personal",
+  "tagline": "Front-office analyst for ESPN and Sleeper leagues: lineups, waivers, trades, injuries",
+  "description": "Runs like a front office for your ESPN or Sleeper league. Each week it makes the start and sit calls, lines up waiver and FAAB targets worth a bid, floats trade ideas, and keeps an eye on injury news that changes your plans. Every roster move stays yours - it advises, you execute.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/q1CDLzD89gR7dL_Qin9Wz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/q1CDLzD89gR7dL_Qin9Wz",
+  "homepage": "https://x.ai/bot/q1CDLzD89gR7dL_Qin9Wz",
+  "license": null,
+  "author": "Joe",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

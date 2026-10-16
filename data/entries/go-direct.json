@@ -1,0 +1,25 @@
+{
+  "slug": "go-direct",
+  "name": "Go Direct",
+  "category": "productivity",
+  "tagline": "Interviews founders until the story sounds like them, then helps place it.",
+  "description": "Rather than ghostwriting polished copy, this one questions you - the product, the vision, why it matters - until the story shows up sounding like you. It then helps place that story with the people who count: first investors, early buyers, wanted hires. The method comes from a founder-comms playbook, not the press.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/WxcRgxU7YtWNqL7ZIkg3e",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/WxcRgxU7YtWNqL7ZIkg3e",
+  "homepage": "https://x.ai/bot/WxcRgxU7YtWNqL7ZIkg3e",
+  "license": null,
+  "author": "LandonH",
+  "tags": [
+    "productivity",
+    "business"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
