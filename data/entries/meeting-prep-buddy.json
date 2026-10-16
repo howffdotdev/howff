@@ -1,0 +1,26 @@
+{
+  "slug": "meeting-prep-buddy",
+  "name": "Meeting Prep Buddy",
+  "category": "productivity",
+  "tagline": "A pre-meeting dossier: attendees, last touchpoint, open threads, talking points",
+  "description": "Puts together a dossier before each meeting by pulling from the agenda, your notes, the CRM, past recordings and Slack: who will be in the room, the last touchpoint with each of them, threads still open and suggested talking points. Preparation stops depending on whatever you can recall in the elevator.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s445a0c9a2ca4bea7729e",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s445a0c9a2ca4bea7729e",
+  "homepage": "https://x.ai/bot/s445a0c9a2ca4bea7729e",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "productivity",
+    "business",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

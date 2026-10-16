@@ -1,0 +1,25 @@
+{
+  "slug": "meeting-prep-follow-up",
+  "name": "Meeting Prep & Follow-up",
+  "category": "productivity",
+  "tagline": "A pre-meeting brief before you walk in, a drafted follow-up email when it ends.",
+  "description": "Ahead of each meeting on your calendar a short brief arrives, so you show up already knowing who is involved and what the session is about. Once it is over, the follow-up email gets written for you and waits for review before anything is sent. Together they cover the admin that usually eats the time around meetings.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Of0WZSYyqWtQXV9Z52pqv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Of0WZSYyqWtQXV9Z52pqv",
+  "homepage": "https://x.ai/bot/Of0WZSYyqWtQXV9Z52pqv",
+  "license": null,
+  "author": "cu30rry_",
+  "tags": [
+    "productivity",
+    "business"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

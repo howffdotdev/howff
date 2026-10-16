@@ -1,0 +1,26 @@
+{
+  "slug": "merch-fulfillment-operator",
+  "name": "Merch Fulfillment Operator",
+  "category": "marketing",
+  "tagline": "Runs the swag pipeline: outreach, redemption watch, approve calls, dispatch",
+  "description": "Handles the swag pipeline from first message to dispatch: prospect outreach goes out, the redemption form is watched, each approve-or-reject call arrives as a chat ping, and the box ships once you sign off. Sending merch to the right people stops being a spreadsheet and a pile of screenshots.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/se479952f3c9e373dfd64",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/se479952f3c9e373dfd64",
+  "homepage": "https://x.ai/bot/se479952f3c9e373dfd64",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "marketing",
+    "marketer",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

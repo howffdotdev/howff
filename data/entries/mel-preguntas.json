@@ -1,0 +1,25 @@
+{
+  "slug": "mel-preguntas",
+  "name": "MEL preguntas",
+  "category": "productivity",
+  "tagline": "Answers Mercado Libre buyer questions and post-sale chats in your store's voice.",
+  "description": "Built for Mercado Libre sellers drowning in buyer questions and post-sale chats. The bot reads the replies you have already sent so new answers match your store's tone, sorts each incoming message before touching it, and checks current stock before it promises a customer anything.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YvxsAro5SITkzr5x6TsWg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/YvxsAro5SITkzr5x6TsWg",
+  "homepage": "https://x.ai/bot/YvxsAro5SITkzr5x6TsWg",
+  "license": null,
+  "author": "maarmapa",
+  "tags": [
+    "productivity",
+    "business"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
