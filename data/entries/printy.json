@@ -1,0 +1,24 @@
+{
+  "slug": "printy",
+  "name": "Printy",
+  "category": "personal",
+  "tagline": "A shop hand for your 3D printer: find or draw models, slice, print, troubleshoot.",
+  "description": "Treat it like the attendant at a print shop. Ask for a part and it either tracks down a suitable model or drafts one, slices it for your specific machine, and kicks off the job after its safety checks pass. When a print fails halfway it stays on call, reads what went wrong and walks you through the fix.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/34Z9ljukhmJ7V5yEEQEsQ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/34Z9ljukhmJ7V5yEEQEsQ",
+  "homepage": "https://x.ai/bot/34Z9ljukhmJ7V5yEEQEsQ",
+  "license": null,
+  "author": "AdamDagx",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

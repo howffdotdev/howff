@@ -1,0 +1,25 @@
+{
+  "slug": "prospecting-plan-builder",
+  "name": "Prospecting Plan Builder",
+  "category": "sales",
+  "tagline": "Seeds the week's outbound list, enriches contacts, hands back a ready tracker",
+  "description": "Builds the week's outbound book of work from scratch: it seeds the contact list, fills in missing email addresses and mobile numbers, and returns a tracker that is ready to work immediately. Reps start Monday from a list worth calling instead of an empty sheet and good intentions.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s8b59eb62f90871ac5c36",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s8b59eb62f90871ac5c36",
+  "homepage": "https://x.ai/bot/s8b59eb62f90871ac5c36",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "sales",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

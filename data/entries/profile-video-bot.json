@@ -1,0 +1,24 @@
+{
+  "slug": "profile-video-bot",
+  "name": "プロフィール動画ボット",
+  "category": "personal",
+  "tagline": "Builds a narrated profile video from your birthday, MBTI and divination labels.",
+  "description": "Feed it your birthday, personality type and divination labels and it assembles a personal profile video with narration, music and subtitles included. Choose vertical or horizontal framing, then pick between ideas it deals out as cards. Everything runs in the browser with Grok or Gemini, so no outside API is involved.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/oFDEjFDH8whqVnBXf7Box",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/oFDEjFDH8whqVnBXf7Box",
+  "homepage": "https://x.ai/bot/oFDEjFDH8whqVnBXf7Box",
+  "license": null,
+  "author": "1123momojiro1",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

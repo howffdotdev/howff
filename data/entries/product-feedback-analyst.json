@@ -1,0 +1,25 @@
+{
+  "slug": "product-feedback-analyst",
+  "name": "Product Feedback Analyst",
+  "category": "ops",
+  "tagline": "Gathers feedback from every source, clusters it, weighs it, drafts priorities",
+  "description": "Collects product feedback from all of the connected sources, pulls the scattered asks into themes, scores each theme on evidence and urgency, then drafts a priority-ordered view the team can argue with. Roadmap debates start from a counted, sourced picture instead of whoever spoke loudest this week.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s9e2a2591b97ca74fbeaa",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s9e2a2591b97ca74fbeaa",
+  "homepage": "https://x.ai/bot/s9e2a2591b97ca74fbeaa",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "ops",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
