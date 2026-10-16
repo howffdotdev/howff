@@ -1,0 +1,25 @@
+{
+  "slug": "explainer-video-bot",
+  "name": "Explainer Video bot",
+  "category": "productivity",
+  "tagline": "Turns a topic into an upload-ready explainer with checked figures and AI narration.",
+  "description": "Give it a subject and it assembles the whole video: a story structure to carry the argument, animated motion graphics, real footage where it helps and an AI voice-over on top. Figures are verified before they reach the screen, so the piece is data-driven rather than vibes. What comes back is ready to upload.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/eTLAqnD45kW3h-THwU8XM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/eTLAqnD45kW3h-THwU8XM",
+  "homepage": "https://x.ai/bot/eTLAqnD45kW3h-THwU8XM",
+  "license": null,
+  "author": "cu30rry_",
+  "tags": [
+    "productivity",
+    "creator"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

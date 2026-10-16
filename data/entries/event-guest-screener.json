@@ -1,0 +1,26 @@
+{
+  "slug": "event-guest-screener",
+  "name": "Event Guest Screener",
+  "category": "marketing",
+  "tagline": "Screens event applicants against the ICP you define, approving the best fits in batch",
+  "description": "Grades each event applicant against the customer profile you define, approving the strongest fits in bulk inside the invite tool itself, so the room ends up full of the right kind of attendee. The review that used to eat an afternoon before a launch becomes a short check of the edge cases.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s47ebc74c9fcf9359b5a9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s47ebc74c9fcf9359b5a9",
+  "homepage": "https://x.ai/bot/s47ebc74c9fcf9359b5a9",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "marketing",
+    "marketer",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

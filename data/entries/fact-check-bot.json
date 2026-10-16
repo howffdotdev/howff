@@ -1,0 +1,24 @@
+{
+  "slug": "fact-check-bot",
+  "name": "Fact Check Bot",
+  "category": "personal",
+  "tagline": "Hand it a claim, stat or viral post and get a straight verdict on what holds up.",
+  "description": "Whatever the unit of doubt, whether a headline, a statistic, a screenshot or a piece of folk wisdom, it goes and checks the thing against dependable sources. The answer comes back plainly: what is supported, what is exaggerated and what falls apart. Useful before you repeat something, forward it or build on it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8RyeqTp5cgrjbzO9t2wXb",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8RyeqTp5cgrjbzO9t2wXb",
+  "homepage": "https://x.ai/bot/8RyeqTp5cgrjbzO9t2wXb",
+  "license": null,
+  "author": "cu30rry_",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

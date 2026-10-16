@@ -1,0 +1,25 @@
+{
+  "slug": "enablement-fulfillment-specialist",
+  "name": "Enablement Fulfillment Specialist",
+  "category": "ops",
+  "tagline": "Answers the where-are-those-recordings ask so nobody has to dig through Zoom",
+  "description": "Fields the recurring request for session recordings: it tracks down the right Zoom assets, packages them behind a one-pager, copies the files into Google Drive and drafts the reply that carries the links. The requester gets an answer in minutes instead of a hunt across tools.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s0dfd5486dc759d409d69",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s0dfd5486dc759d409d69",
+  "homepage": "https://x.ai/bot/s0dfd5486dc759d409d69",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "ops",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
