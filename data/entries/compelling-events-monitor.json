@@ -1,0 +1,25 @@
+{
+  "slug": "compelling-events-monitor",
+  "name": "Compelling Events Monitor",
+  "category": "sales",
+  "tagline": "Watches leadership accounts for outreach-worthy moments and bundles a digest",
+  "description": "Spots the moments that make outreach worth writing by watching leadership accounts for awards, product launches and hiring moves, then gathers the best engagement openings into a single digest. Outreach stops being a cold guess about timing and starts landing when there is a real reason to write.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sdeb02761a9d185e5899f",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sdeb02761a9d185e5899f",
+  "homepage": "https://x.ai/bot/sdeb02761a9d185e5899f",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "sales",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

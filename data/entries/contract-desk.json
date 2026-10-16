@@ -1,0 +1,25 @@
+{
+  "slug": "contract-desk",
+  "name": "Contract Desk",
+  "category": "ops",
+  "tagline": "A weekly view of the legal paper: terms extracted, stalled reviews flagged",
+  "description": "Gives one weekly view of everything currently in legal paper: contracts summarized by stage and owner, the key terms pulled into one place, and any review that has stalled highlighted before it becomes a launch blocker. The stack of agreements stops being an unreadable folder.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sd358e6cf5e8bed188eec",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sd358e6cf5e8bed188eec",
+  "homepage": "https://x.ai/bot/sd358e6cf5e8bed188eec",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "ops",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

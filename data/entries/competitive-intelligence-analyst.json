@@ -1,0 +1,26 @@
+{
+  "slug": "competitive-intelligence-analyst",
+  "name": "Competitive Intelligence Analyst",
+  "category": "marketing",
+  "tagline": "A night-shift competitive watch: rival launches in, your stale pages flagged",
+  "description": "Keeps a night-shift watch on competitors: it hunts for overnight rival launches while auditing your own pages for creative that has worn thin and messaging that has gone stale. The morning report covers what changed out there and what has quietly rotted on your side, before either becomes a surprise.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sa2d131975aaab07e43f2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sa2d131975aaab07e43f2",
+  "homepage": "https://x.ai/bot/sa2d131975aaab07e43f2",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "marketing",
+    "marketer",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

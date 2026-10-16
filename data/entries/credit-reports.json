@@ -1,0 +1,24 @@
+{
+  "slug": "credit-reports",
+  "name": "Credit Reports",
+  "category": "personal",
+  "tagline": "Pulls your three credit reports, marks errors and fraud, and fights them for you.",
+  "description": "It pulls all three bureau files - Experian, Equifax and TransUnion - then reads them line by line for anything inaccurate or that you never opened. Disputes go out the fast way where a bureau accepts online filings, and as mail-in letters ready to sign where it does not. Born of a real identity-theft cleanup.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/gZ0uuJdy7v4QJ-5JkI4E-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/gZ0uuJdy7v4QJ-5JkI4E-",
+  "homepage": "https://x.ai/bot/gZ0uuJdy7v4QJ-5JkI4E-",
+  "license": null,
+  "author": "josephstayhappy",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
