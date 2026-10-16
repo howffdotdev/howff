@@ -1,0 +1,25 @@
+{
+  "slug": "vercel-ops-monitor",
+  "name": "Vercel Ops Monitor",
+  "category": "development",
+  "tagline": "A daily once-over of a Vercel deployment, with quiet days summed up in one line.",
+  "description": "Each day it reviews a deployment on Vercel: how spend is tracking against plan credits, whether server errors spiked, how traffic is moving, which routes are missing and whether the latest deploys broke anything. A quiet day costs a single line, so the report stays readable even though it arrives daily.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/LSo2GKkmt_Fxh-TBz5RLX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/LSo2GKkmt_Fxh-TBz5RLX",
+  "homepage": "https://x.ai/bot/LSo2GKkmt_Fxh-TBz5RLX",
+  "license": null,
+  "author": "cu30rry_",
+  "tags": [
+    "development",
+    "developer"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "video-maker",
+  "name": "Video Maker",
+  "category": "marketing",
+  "tagline": "Gives your finished track two videos: a vertical lyric Short plus a longer cut.",
+  "description": "Hand it a completed song and you get two visuals back: a vertical Short with the words timed to the music, plus a longer video that carries the whole track. Every step uses no-cost tools, so an independent or AI-music artist can give a release a real video without a production budget.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/oIYrNsNhhm1OtJGpg0Vmq",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/oIYrNsNhhm1OtJGpg0Vmq",
+  "homepage": "https://x.ai/bot/oIYrNsNhhm1OtJGpg0Vmq",
+  "license": null,
+  "author": "PaulHPowell13",
+  "tags": [
+    "marketing",
+    "creator"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

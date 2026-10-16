@@ -1,0 +1,25 @@
+{
+  "slug": "vlog-producer",
+  "name": "Vlog Producer",
+  "category": "marketing",
+  "tagline": "Showruns your phone-shot vlog: plans episodes, cuts footage, cleans audio, adds subtitles.",
+  "description": "Hand it the footage from a filming session and it works like a showrunner. It decides what this installment is about, structures the cut around your strongest material, then hands back a finished edit with clean sound and subtitles. Aimed at creators who shoot on a phone and want a dependable editing partner.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/UF3Yo6xLgsyDafh05-Ldz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/UF3Yo6xLgsyDafh05-Ldz",
+  "homepage": "https://x.ai/bot/UF3Yo6xLgsyDafh05-Ldz",
+  "license": null,
+  "author": "LuigiMdpDev",
+  "tags": [
+    "marketing",
+    "creator"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

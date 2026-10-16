@@ -1,0 +1,25 @@
+{
+  "slug": "vendor-portal-operator",
+  "name": "Vendor Portal Operator",
+  "category": "ops",
+  "tagline": "Walks the same procurement portal click-path weekly and reports exceptions only",
+  "description": "Built for procurement portals with no usable API: it walks the same click-path weekly for renewals, seats and purchasing, and comes back only when a human decision is needed. The portal keeps working the way it always has while the routine part stops costing anyone an hour.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s98a7368e786130ad172b",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s98a7368e786130ad172b",
+  "homepage": "https://x.ai/bot/s98a7368e786130ad172b",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "ops",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
