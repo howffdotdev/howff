@@ -1,0 +1,25 @@
+{
+  "slug": "cso",
+  "name": "CSO",
+  "category": "development",
+  "tagline": "Scans files and repos for leaked API keys, then runs the rotation with you.",
+  "description": "Secrets end up in code all the time, and this one goes looking: it sweeps your files and repositories for API keys that should never have landed there. When exposure turns up, rotation is walked through step by step for the affected Cloudflare, AWS or 1Password credentials, so the leak stops mattering fast.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/IryynPCY3xK65akHLcubp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/IryynPCY3xK65akHLcubp",
+  "homepage": "https://x.ai/bot/IryynPCY3xK65akHLcubp",
+  "license": null,
+  "author": "cu30rry_",
+  "tags": [
+    "development",
+    "developer"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "crm-operations-manager",
+  "name": "CRM Operations Manager",
+  "category": "ops",
+  "tagline": "Does CRM and org-chart upkeep around every meeting so records stay current",
+  "description": "Handles the unglamorous upkeep around every meeting: contact and org-chart records get refreshed before you dial in and tidied again afterwards, without anyone booking a cleanup pass. The database stays close to reality as a side effect of ordinary meetings rather than a project nobody staffs.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s162b4ed38d6cf1d56731",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s162b4ed38d6cf1d56731",
+  "homepage": "https://x.ai/bot/s162b4ed38d6cf1d56731",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "ops",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

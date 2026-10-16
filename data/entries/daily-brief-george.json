@@ -1,0 +1,24 @@
+{
+  "slug": "daily-brief-george",
+  "name": "Daily Brief (George)",
+  "category": "productivity",
+  "tagline": "A two-minute morning read that assembles your day",
+  "description": "One short briefing when you wake up. Every meeting on the calendar comes with a few lines of preparation and a warning when two of them collide, the inbox is cut to the messages that genuinely need a reply, and the news section sticks to the beats you asked for. It reads and summarises only; it sends nothing for you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/cqHBw9pPg2EEd4zwoRX9J",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/cqHBw9pPg2EEd4zwoRX9J",
+  "homepage": "https://x.ai/bot/cqHBw9pPg2EEd4zwoRX9J",
+  "license": null,
+  "author": "gzikry",
+  "tags": [
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

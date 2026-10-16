@@ -1,0 +1,25 @@
+{
+  "slug": "daily-briefing-writer",
+  "name": "Daily Briefing Writer",
+  "category": "personal",
+  "tagline": "Trims the day's news to the stories you chose, in a brief you'll read",
+  "description": "Trims the day down to a short morning brief that draws only on the stories you have said matter to you, so the day starts with signal instead of an uncurated feed. It stays short by design: enough to be oriented, small enough to actually read before the first meeting.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sb94d44175e650dbb703e",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sb94d44175e650dbb703e",
+  "homepage": "https://x.ai/bot/sb94d44175e650dbb703e",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "personal",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
