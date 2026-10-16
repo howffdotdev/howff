@@ -1,0 +1,24 @@
+{
+  "slug": "weltzeit-rechner",
+  "name": "Weltzeit-Rechner",
+  "category": "personal",
+  "tagline": "Translates global event times into yours and renders shareable world-clock graphics.",
+  "description": "Answers the question every international audience asks: what time does that happen for me? Ask about a global event, a livestream or a rocket launch and the conversion to your own clock comes straight back. It also renders world-clock graphics ready to post, so the answer travels well to followers in other zones.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/gDPOM4zR1g4iIu7ha0NtM",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/gDPOM4zR1g4iIu7ha0NtM",
+  "homepage": "https://x.ai/bot/gDPOM4zR1g4iIu7ha0NtM",
+  "license": null,
+  "author": "GeorgGrok",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

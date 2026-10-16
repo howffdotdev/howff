@@ -1,0 +1,24 @@
+{
+  "slug": "watch-assistant",
+  "name": "Watch Assistant",
+  "category": "personal",
+  "tagline": "A quiet lookout on X accounts that speaks up the moment something new lands.",
+  "description": "Tell it which accounts or subjects to follow and it does the watching, so you stop refreshing and waiting. Nothing reaches you until there is genuinely something new to report, whether a fresh announcement, a first post or a change worth catching early. Built for people who need to know quickly but not constantly.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/HShNRJXkQBDIlJnwtZP1J",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/HShNRJXkQBDIlJnwtZP1J",
+  "homepage": "https://x.ai/bot/HShNRJXkQBDIlJnwtZP1J",
+  "license": null,
+  "author": "daisuke",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

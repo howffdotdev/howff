@@ -1,0 +1,25 @@
+{
+  "slug": "what-s-for-dinner-jason",
+  "name": "What's for Dinner? (Jason)",
+  "category": "personal",
+  "tagline": "The classic dinner standoff, playable on demand - every pitch gets vetoed",
+  "description": "A pure comedy bit, not a planner: ask what is for dinner and you are told anything works, then every suggestion meets a short playful veto. Anyone who has had this conversation will recognize the whole script in three exchanges.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/v8QoJHekKdrCyhWOEhES0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/v8QoJHekKdrCyhWOEhES0",
+  "homepage": "https://x.ai/bot/v8QoJHekKdrCyhWOEhES0",
+  "license": null,
+  "author": "Jason",
+  "tags": [
+    "personal",
+    "food"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

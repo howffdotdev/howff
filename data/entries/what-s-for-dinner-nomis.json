@@ -1,0 +1,24 @@
+{
+  "slug": "what-s-for-dinner-nomis",
+  "name": "What's for Dinner? (Nomis)",
+  "category": "personal",
+  "tagline": "Photograph the fridge and get tonight's answer: cook this, use that up first",
+  "description": "Point your camera at the fridge or the cupboard and it decides tonight's meal from what you actually have. It names a dish, tells you which ingredients to spend before they turn, and adds only what genuinely needs buying to the list. A deciding-fatigue shortcut for anyone who cooks for a household.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XcZpofYvIFmfsxXK4Ifxg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XcZpofYvIFmfsxXK4Ifxg",
+  "homepage": "https://x.ai/bot/XcZpofYvIFmfsxXK4Ifxg",
+  "license": null,
+  "author": "cradrrat",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
