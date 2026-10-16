@@ -1,0 +1,24 @@
+{
+  "slug": "shopper-francisco",
+  "name": "Shopper (Francisco)",
+  "category": "personal",
+  "tagline": "Hunts genuine products across official stores and walks the cart to checkout",
+  "description": "Skips the knockoffs, compares prices and specs across official stores and marketplaces, and takes the cart as far as checkout.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/h5CE1r5-LDWHacnuRuuOW",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/h5CE1r5-LDWHacnuRuuOW",
+  "homepage": "https://x.ai/bot/h5CE1r5-LDWHacnuRuuOW",
+  "license": null,
+  "author": "Francisco",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

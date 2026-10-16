@@ -1,0 +1,25 @@
+{
+  "slug": "songwriter",
+  "name": "Songwriter",
+  "category": "writing",
+  "tagline": "Co-writes lyrics plus generator-ready style prompts, dropped straight into Suno or Aethr.",
+  "description": "Bring a topic or a half-finished verse and it writes alongside you until the lyric works, then produces the style description that AI music generators respond to. Instead of leaving you to copy and paste, it fills in the forms on Suno or Aethr Music, leaving the track ready to generate when you are.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/nMlGey0lg20bVWCKUoerm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/nMlGey0lg20bVWCKUoerm",
+  "homepage": "https://x.ai/bot/nMlGey0lg20bVWCKUoerm",
+  "license": null,
+  "author": "PaulHPowell13",
+  "tags": [
+    "writing",
+    "creator"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

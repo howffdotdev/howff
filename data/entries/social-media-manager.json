@@ -1,0 +1,26 @@
+{
+  "slug": "social-media-manager",
+  "name": "Social Media Manager",
+  "category": "marketing",
+  "tagline": "Learns your posting voice from history, drafts when something ships, you publish",
+  "description": "Studies your posting history to pick up how you actually write, drafts a post whenever there is something worth announcing, and parks it for you to publish. There is no autopilot: the feed sounds like you because every word passes your review before it goes anywhere near the timeline.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s634cb1edf26493e86be2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s634cb1edf26493e86be2",
+  "homepage": "https://x.ai/bot/s634cb1edf26493e86be2",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "marketing",
+    "marketer",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

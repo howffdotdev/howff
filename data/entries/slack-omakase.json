@@ -1,0 +1,25 @@
+{
+  "slug": "slack-omakase",
+  "name": "Slackおまかせくん",
+  "category": "productivity",
+  "tagline": "React with an emoji on any Slack message and pick a ready-made task, reply or event.",
+  "description": "A small-chore assistant for Slack, made for the work that sits outside development. Add a robot emoji to any message and it prepares three moves from the message's context: a task entry, a draft reply, a calendar slot. You pick one and it carries through, so handing off the errand takes a couple of clicks.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/HoISpPn0PmZjzBzbI7nEn",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/HoISpPn0PmZjzBzbI7nEn",
+  "homepage": "https://x.ai/bot/HoISpPn0PmZjzBzbI7nEn",
+  "license": null,
+  "author": "osarupolice",
+  "tags": [
+    "productivity",
+    "business"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
