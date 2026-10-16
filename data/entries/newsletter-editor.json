@@ -1,0 +1,25 @@
+{
+  "slug": "newsletter-editor",
+  "name": "Newsletter Editor",
+  "category": "marketing",
+  "tagline": "Takes your beehiiv newsletter from outline to scheduled issue, one approval at a time.",
+  "description": "Turns a rough outline into a draft issue, fires a test send to you, and lines up the ad placements around it. Nothing reaches your list until you approve it - scheduling happens only after your sign-off. Made for creators running a weekly beehiiv publication who want the desk work off their plate.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_WDTIZiZCF43PWKoL5iUE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_WDTIZiZCF43PWKoL5iUE",
+  "homepage": "https://x.ai/bot/_WDTIZiZCF43PWKoL5iUE",
+  "license": null,
+  "author": "sholabuilds",
+  "tags": [
+    "marketing",
+    "creator"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "onboarding-manager",
+  "name": "Onboarding Manager",
+  "category": "ops",
+  "tagline": "A real path for new hires: checklist, right docs, first questions answered",
+  "description": "Swaps the link-dump welcome for an actual path through a first month: it lays out the new-hire checklist, pulls up the right documents at the right time, answers a newcomer's earliest questions and passes anything bigger to the person who owns it. Day one feels guided rather than like being handed a wiki.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s9c881536413c0bbfa776",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s9c881536413c0bbfa776",
+  "homepage": "https://x.ai/bot/s9c881536413c0bbfa776",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "ops",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

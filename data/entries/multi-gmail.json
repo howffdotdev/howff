@@ -1,0 +1,25 @@
+{
+  "slug": "multi-gmail",
+  "name": "Multi Gmail",
+  "category": "development",
+  "tagline": "One search now covers all of your Gmail inboxes - bridge them into your bot setup.",
+  "description": "Connects each Gmail address you use to your bot's setup in one go, so a single search sweeps every inbox instead of one at a time. You deploy the bridge yourself on your own Vercel project at no cost, and by default it can only read, doing more only when you say so. Handy once your mailboxes multiply.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/96EWGTulQPKJqVuozXaRx",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/96EWGTulQPKJqVuozXaRx",
+  "homepage": "https://x.ai/bot/96EWGTulQPKJqVuozXaRx",
+  "license": null,
+  "author": "ecoay",
+  "tags": [
+    "development",
+    "developer"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "newsletter-writer",
+  "name": "Newsletter Writer",
+  "category": "marketing",
+  "tagline": "A monthly newsletter drafted in your voice from launches, wins and calendar",
+  "description": "Puts together each month's newsletter out of the launches, wins and calendar highlights worth sharing, written the way you write, then leaves it parked as a draft so the final edit and the send remain yours. The recurring excuse that there was nothing to say stops working, because the material is already gathered.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s5d2839123b973b4480f9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s5d2839123b973b4480f9",
+  "homepage": "https://x.ai/bot/s5d2839123b973b4480f9",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "marketing",
+    "marketer",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
