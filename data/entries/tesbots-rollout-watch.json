@@ -1,0 +1,24 @@
+{
+  "slug": "tesbots-rollout-watch",
+  "name": "TesBots: Rollout Watch",
+  "category": "personal",
+  "tagline": "Pings you when a Tesla software or FSD release reaches cars like yours.",
+  "description": "A scheduled watch for Tesla software and FSD (Supervised) rollouts from the independent TesBots collection. It learns which car you drive, checks on a schedule, and messages you when a matching build starts landing, so the release finds you instead of you trawling owner forums.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/N_k8kqsKv0RH4Ud0kv1g_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/N_k8kqsKv0RH4Ud0kv1g_",
+  "homepage": "https://x.ai/bot/N_k8kqsKv0RH4Ud0kv1g_",
+  "license": null,
+  "author": "TimDOES",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

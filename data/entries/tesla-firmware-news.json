@@ -1,0 +1,24 @@
+{
+  "slug": "tesla-firmware-news",
+  "name": "테슬라 펌웨어 뉴스",
+  "category": "personal",
+  "tagline": "Korean-language watch on Tesla's FSD rollouts: versions, builds, hardware splits.",
+  "description": "Made for owners in Korea following the country's FSD rollout. It tracks which software version and build number is current, notes whether a release targets the HW3 or HW4 hardware generation, and reports in Korean. Word arrives only when something has actually moved, so a quiet stretch simply means nothing changed.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MMBZG5FBq-pNBSjRNmciH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MMBZG5FBq-pNBSjRNmciH",
+  "homepage": "https://x.ai/bot/MMBZG5FBq-pNBSjRNmciH",
+  "license": null,
+  "author": "gbmksquare",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

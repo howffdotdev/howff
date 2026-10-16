@@ -1,0 +1,25 @@
+{
+  "slug": "subscription-cleaner",
+  "name": "Subscription Cleaner",
+  "category": "personal",
+  "tagline": "Bundles the forgotten mail, proposes what to cut, unsubscribes only your picks",
+  "description": "Rounds up the mail you did not realize you had signed up for: receipts and newsletters get bundled, the subscriptions worth cutting are proposed with reasons, and nothing gets unsubscribed until you approve it. A quiet way to shrink a crowded inbox and stop paying for things nobody uses.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sb36667ce9e1fdc00cfe7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sb36667ce9e1fdc00cfe7",
+  "homepage": "https://x.ai/bot/sb36667ce9e1fdc00cfe7",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "personal",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
