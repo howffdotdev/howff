@@ -1,0 +1,25 @@
+{
+  "slug": "update-yourself",
+  "name": "Update Yourself",
+  "category": "development",
+  "tagline": "One shared AGENTS folder keeps every assistant you run working from the same facts.",
+  "description": "Point your assistants at a single shared AGENTS folder and it becomes the one source of truth for all of them. Say the phrase and new facts get folded in, so every helper, whichever company built it, works from the same updated context next time. It ends the drift where each bot remembers a different version of you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ef6Amgf63XdwgLY67NKn7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ef6Amgf63XdwgLY67NKn7",
+  "homepage": "https://x.ai/bot/ef6Amgf63XdwgLY67NKn7",
+  "license": null,
+  "author": "Lucaslongo",
+  "tags": [
+    "development",
+    "developer"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

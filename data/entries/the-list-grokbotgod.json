@@ -1,0 +1,24 @@
+{
+  "slug": "the-list-grokbotgod",
+  "name": "The List (GrokBotGod)",
+  "category": "personal",
+  "tagline": "Three lines in your own chat whenever a new bot lands in the directory",
+  "description": "The List is the GrokBotGod in-bot newsletter. Install once; get three-line drops in this chat when new bots or directory picks land. No email. No yes/no opt-ins.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4mOGY7Nd_mRvrwZYec4Jq",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/4mOGY7Nd_mRvrwZYec4Jq",
+  "homepage": "https://x.ai/bot/4mOGY7Nd_mRvrwZYec4Jq",
+  "license": null,
+  "author": "GrokBotGod",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

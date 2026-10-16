@@ -1,0 +1,26 @@
+{
+  "slug": "ticket-triage-specialist",
+  "name": "Ticket Triage Specialist",
+  "category": "ops",
+  "tagline": "Watches the support queue and drafts replies only when something new lands",
+  "description": "Keeps an eye on the support queue at set intervals and drafts a reply for each new ticket, so agents open their shift to ready-to-send responses instead of a backlog. If the queue turns out clean it says nothing, which means the team only touches support when a human actually matters.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s7aaf6431077930df326f",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s7aaf6431077930df326f",
+  "homepage": "https://x.ai/bot/s7aaf6431077930df326f",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "ops",
+    "support",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

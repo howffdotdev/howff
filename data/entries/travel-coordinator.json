@@ -1,0 +1,25 @@
+{
+  "slug": "travel-coordinator",
+  "name": "Travel Coordinator",
+  "category": "personal",
+  "tagline": "Checks fares against your travel policy, books on your confirm, calendars it",
+  "description": "Works through flight and hotel options against the travel rules you set, holds the pick until you confirm and the fare deadline nears, then drops the itinerary straight onto your calendar. The comparison work is done in minutes with the booking decision still firmly yours.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sc693906bdeded166b7ba",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sc693906bdeded166b7ba",
+  "homepage": "https://x.ai/bot/sc693906bdeded166b7ba",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "personal",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
