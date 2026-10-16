@@ -1,0 +1,25 @@
+{
+  "slug": "ai-operations-manager",
+  "name": "AI Operations Manager",
+  "category": "productivity",
+  "tagline": "An autonomous department head that staffs a bot team and steers coding agents.",
+  "description": "Pitched as a whole department in one bot: it scopes a website-selling project, staffs it by spinning up a crew of assistant templates covering outreach and content, and coordinates external coding agents to handle the building. The ambition is running the whole operation, so expect to supervise rather than spectate.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Yv50q-SVYos297uBEC1I_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Yv50q-SVYos297uBEC1I_",
+  "homepage": "https://x.ai/bot/Yv50q-SVYos297uBEC1I_",
+  "license": null,
+  "author": "gusttav90_",
+  "tags": [
+    "productivity",
+    "business"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

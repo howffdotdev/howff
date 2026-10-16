@@ -1,0 +1,25 @@
+{
+  "slug": "apartment-scout",
+  "name": "Apartment Scout",
+  "category": "personal",
+  "tagline": "Watches rentals, filters to what you qualify for, books tours and applies",
+  "description": "Keeps watch on the rental market for newly listed units, filters them down to the ones you actually qualify for, writes to landlords to hold viewing slots and moves the applications forward. It exists to outrun other renters to fresh availability, so confirm its filters before letting it run fast.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sd6f165284d7fd2f25e56",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sd6f165284d7fd2f25e56",
+  "homepage": "https://x.ai/bot/sd6f165284d7fd2f25e56",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "personal",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

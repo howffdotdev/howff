@@ -1,0 +1,24 @@
+{
+  "slug": "alfred-michael",
+  "name": "Alfred (Michael)",
+  "category": "personal",
+  "tagline": "A dry-witted butler persona that watches your inbox and assembles a daily briefing.",
+  "description": "Takes a butler's tone over a serious remit: it keeps an eye on mail and cloud files, compiles a daily briefing PDF, and files recipe binders or case documents where they belong. Around that it hands tasks to helper bots covering mail, calendar and code hosting, then reports back on what got done.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/moKscJ7PToJw_PVQWvkf_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/moKscJ7PToJw_PVQWvkf_",
+  "homepage": "https://x.ai/bot/moKscJ7PToJw_PVQWvkf_",
+  "license": null,
+  "author": "Michael",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

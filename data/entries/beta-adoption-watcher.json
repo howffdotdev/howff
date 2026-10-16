@@ -1,0 +1,25 @@
+{
+  "slug": "beta-adoption-watcher",
+  "name": "Beta Adoption Watcher",
+  "category": "ops",
+  "tagline": "Shows which customers actually picked up the new feature, on a schedule",
+  "description": "Watches how the product is actually being used to show which customers have genuinely picked up a new feature rather than merely logged in once, and hands the team a list worth following up with. Launch conversations move from how many accounts saw the announcement to who is really using the thing.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sfcf5d046a2784045938d",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sfcf5d046a2784045938d",
+  "homepage": "https://x.ai/bot/sfcf5d046a2784045938d",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "ops",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
