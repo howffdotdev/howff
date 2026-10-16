@@ -1,0 +1,25 @@
+{
+  "slug": "calendar-coordinator",
+  "name": "Calendar Coordinator",
+  "category": "ops",
+  "tagline": "Works every calendar to land the meeting and keeps chasing the stuck holds",
+  "description": "Chases scheduling across the whole team's calendars and keeps nudging the holds nobody else has chased for weeks. Meetings actually land because something is persistently willing to do the annoying part of getting a group into one room.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s634fd63ee875502d8df9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s634fd63ee875502d8df9",
+  "homepage": "https://x.ai/bot/s634fd63ee875502d8df9",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "ops",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

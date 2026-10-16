@@ -1,0 +1,24 @@
+{
+  "slug": "budget-coach-marlene",
+  "name": "Budget Coach (Marlene)",
+  "category": "personal",
+  "tagline": "A weekly money plan built from your real spending, via a read-only bank link",
+  "description": "Connect your bank and cards with view-only access and it builds the week's plan from what you actually spend, not what you wish you spent. Each bill gets an amount to set aside, and what remains comes back as a number that is genuinely safe to spend. It refreshes weekly as paydays and due dates arrive.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ZJrwuDsQRM1QBC-xQ-Ext",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ZJrwuDsQRM1QBC-xQ-Ext",
+  "homepage": "https://x.ai/bot/ZJrwuDsQRM1QBC-xQ-Ext",
+  "license": null,
+  "author": "Marlene",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "bot-builder-bernard",
+  "name": "Bot Builder (Bernard)",
+  "category": "productivity",
+  "tagline": "Turns a vague need into focused bots, or a small fleet with clear roles",
+  "description": "You describe a fuzzy problem and it comes back with a design: either one tightly scoped bot or a small team of them, each with a defined job. Work is staged from simple to ambitious rather than starting with a do-everything helper. Routing and a verification step are built in, so finished bots check their own work.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/xwzDwQIkd1LYOIN1akMxy",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/xwzDwQIkd1LYOIN1akMxy",
+  "homepage": "https://x.ai/bot/xwzDwQIkd1LYOIN1akMxy",
+  "license": null,
+  "author": "Bernard",
+  "tags": [
+    "productivity",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

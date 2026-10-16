@@ -1,0 +1,26 @@
+{
+  "slug": "call-faq-miner",
+  "name": "Call FAQ Miner",
+  "category": "ops",
+  "tagline": "A living FAQ grown from real customer calls, each answer tied to its recording",
+  "description": "Builds enablement documentation out of the questions customers really ask on sales and support calls: questions get logged as they come up, answers carry timestamps, and each entry points back at the exact recording it came from. New teammates learn from real conversations, and the doc keeps itself current.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s297976f738dc390d23df",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s297976f738dc390d23df",
+  "homepage": "https://x.ai/bot/s297976f738dc390d23df",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "ops",
+    "support",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
