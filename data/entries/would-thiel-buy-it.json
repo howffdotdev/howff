@@ -1,0 +1,25 @@
+{
+  "slug": "would-thiel-buy-it",
+  "name": "Would Thiel Buy It?",
+  "category": "productivity",
+  "tagline": "Grades any ticker on a monopoly-versus-rival scale, verdict card ready to share.",
+  "description": "Name a stock and one card comes back with a call: monopoly-grade, genuine challenger, or just another competitor. The reasoning is drawn from the company's regulatory filings and read through the competitive-moat lens of the book in its name. Cards come built for sharing, with the reminder this is not financial advice.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wzJ0u7WcdYGc_rDKTqpbE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wzJ0u7WcdYGc_rDKTqpbE",
+  "homepage": "https://x.ai/bot/wzJ0u7WcdYGc_rDKTqpbE",
+  "license": null,
+  "author": "shib2_inu",
+  "tags": [
+    "productivity",
+    "investor"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

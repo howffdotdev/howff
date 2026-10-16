@@ -1,0 +1,25 @@
+{
+  "slug": "zerotok-research",
+  "name": "ZeroTok Research",
+  "category": "marketing",
+  "tagline": "Send a Shopify domain, get back a competitor report: revenue, traffic, ads.",
+  "description": "Competitive research for storefronts on Shopify: hand over a domain and a report comes back covering estimated revenue, traffic levels, which products sell best, plus the advertising currently running. It is a quick read on how a rival store is doing, without assembling the picture from several dashboards yourself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/cy-_WGjLOPsiU5WOlzFr-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/cy-_WGjLOPsiU5WOlzFr-",
+  "homepage": "https://x.ai/bot/cy-_WGjLOPsiU5WOlzFr-",
+  "license": null,
+  "author": "cu30rry_",
+  "tags": [
+    "marketing",
+    "marketer"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
