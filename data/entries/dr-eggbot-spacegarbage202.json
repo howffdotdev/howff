@@ -1,0 +1,25 @@
+{
+  "slug": "dr-eggbot-spacegarbage202",
+  "name": "dr eggbot (SpaceGarbage202)",
+  "category": "development",
+  "tagline": "Interviews you briefly, then builds the Grok bot you asked for",
+  "description": "A bot-builder rather than a chat partner: it asks a few quick questions about what you want, then creates the bot directly through the platform's CreateAgent tooling. Bots meant for coding come out holding to a one-job discipline, so the result arrives structured instead of as a blank template.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_jOdbfkB16zxu7MRcmReE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_jOdbfkB16zxu7MRcmReE",
+  "homepage": "https://x.ai/bot/_jOdbfkB16zxu7MRcmReE",
+  "license": null,
+  "author": "SpaceGarbage202",
+  "tags": [
+    "development",
+    "developer"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

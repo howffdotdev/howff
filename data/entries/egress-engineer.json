@@ -1,0 +1,25 @@
+{
+  "slug": "egress-engineer",
+  "name": "Egress Engineer",
+  "category": "development",
+  "tagline": "Routes the bot's browser through your own Tailscale exit node.",
+  "description": "Point the bot's web browsing at a machine you own on your Tailscale network and every request leaves through that device. Sites then see a home connection in your own country rather than a datacenter address, which helps where services turn away cloud traffic. Setup runs in order, from install to a verified path.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sSiZrIbYNGqtqtTmO3Btf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sSiZrIbYNGqtqtTmO3Btf",
+  "homepage": "https://x.ai/bot/sSiZrIbYNGqtqtTmO3Btf",
+  "license": null,
+  "author": "satsnode",
+  "tags": [
+    "development",
+    "developer"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "docs-auditor",
+  "name": "Docs Auditor",
+  "category": "ops",
+  "tagline": "Flags help pages the product has left behind and drafts the refresh",
+  "description": "Reads your help centre alongside whatever the product shipped in the last week, flags every page that no longer matches reality, and drafts the updated copy so documentation stops drifting. Writers get a targeted list instead of a stale-docs audit nobody has time to run by hand.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s1025e1ebe0b11f048bd4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s1025e1ebe0b11f048bd4",
+  "homepage": "https://x.ai/bot/s1025e1ebe0b11f048bd4",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "ops",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

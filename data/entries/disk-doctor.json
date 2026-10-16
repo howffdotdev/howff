@@ -1,0 +1,24 @@
+{
+  "slug": "disk-doctor",
+  "name": "Disk Doctor",
+  "category": "personal",
+  "tagline": "Finds what is eating your Mac's drive, explains it, and deletes nothing without your OK.",
+  "description": "It starts with a read-only scan of a full Mac, then reports in plain language what is taking the space and what is safe to let go. You approve each group before anything is removed, so a cleanup never runs ahead of you. Useful before a system upgrade or when the drive is down to its last gigabytes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/EVQ-0yhShRgL-2qAfdD-8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/EVQ-0yhShRgL-2qAfdD-8",
+  "homepage": "https://x.ai/bot/EVQ-0yhShRgL-2qAfdD-8",
+  "license": null,
+  "author": "thecsguy",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
