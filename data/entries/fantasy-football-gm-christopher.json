@@ -1,0 +1,24 @@
+{
+  "slug": "fantasy-football-gm-christopher",
+  "name": "Fantasy Football GM (Christopher)",
+  "category": "personal",
+  "tagline": "Runs the weekly fantasy football checklist for Yahoo, ESPN and Sleeper leagues",
+  "description": "Set up your Yahoo, ESPN or Sleeper league and it takes over the weekly routine: lineup calls for each slot, waiver targets worth a bid, and the matchup context behind them. Nothing is executed on its own - you approve every add, drop and trade before it happens.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/nALI6ijv-K3XNVx45Y2tW",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/nALI6ijv-K3XNVx45Y2tW",
+  "homepage": "https://x.ai/bot/nALI6ijv-K3XNVx45Y2tW",
+  "license": null,
+  "author": "Christopher",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

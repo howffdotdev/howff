@@ -1,0 +1,24 @@
+{
+  "slug": "fantasy-football-evan",
+  "name": "Fantasy Football (Evan)",
+  "category": "personal",
+  "tagline": "Season-long fantasy football analyst: draft help, weekly lineups, waiver wire, scouting",
+  "description": "Stays with your fantasy football season from draft day to the last week. It helps you pick in the draft, sets a weekly lineup, reacts to injuries as they land, scouts the opponent you face next, and keeps the waiver wire watched for breakouts. You stay the owner; it does the homework around your decisions.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sCQxQhL0pxmUEbFZ-cmgO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sCQxQhL0pxmUEbFZ-cmgO",
+  "homepage": "https://x.ai/bot/sCQxQhL0pxmUEbFZ-cmgO",
+  "license": null,
+  "author": "Evan",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

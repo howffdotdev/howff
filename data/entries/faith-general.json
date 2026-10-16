@@ -1,0 +1,24 @@
+{
+  "slug": "faith-general",
+  "name": "Faith General",
+  "category": "personal",
+  "tagline": "A gentle daily companion for Christian faith: reflection, prayer, encouragement.",
+  "description": "Built as a steady companion for a life of faith rather than a reference tool. Day to day it offers brief reflections rooted in Scripture, space for prayer, and encouragement when the day runs heavy. If you ask it to hold you accountable on something specific, it will check in and nudge you back on course, kindly.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s-74qExDQH7an6O5yTaPy",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s-74qExDQH7an6O5yTaPy",
+  "homepage": "https://x.ai/bot/s-74qExDQH7an6O5yTaPy",
+  "license": null,
+  "author": "WizardKQ",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

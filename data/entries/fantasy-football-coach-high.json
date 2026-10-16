@@ -1,0 +1,24 @@
+{
+  "slug": "fantasy-football-coach-high",
+  "name": "Fantasy Football Coach (High)",
+  "category": "personal",
+  "tagline": "Reads a roster screenshot and returns start-bench, waiver and trade calls for the week",
+  "description": "Send one screenshot of your fantasy roster and the advice comes back concrete: who belongs in the lineup, which free agents justify a waiver claim, who is safe to release, and whether a proposed trade helps you. Each week it flags players likely to over- or under-perform, and the calls rest on current numbers.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sw6dnxtAjKOyNS5KRuDkN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sw6dnxtAjKOyNS5KRuDkN",
+  "homepage": "https://x.ai/bot/sw6dnxtAjKOyNS5KRuDkN",
+  "license": null,
+  "author": "Hightv",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
