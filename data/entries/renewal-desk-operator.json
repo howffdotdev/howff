@@ -1,0 +1,25 @@
+{
+  "slug": "renewal-desk-operator",
+  "name": "Renewal Desk Operator",
+  "category": "sales",
+  "tagline": "Builds each account's renewal file ninety days out and pings you before the date",
+  "description": "Puts a renewal file under every account roughly ninety days ahead of the date: usage numbers, open tickets, recorded calls and CRM history assembled into one picture, with the commercial note drafted and a ping as the date approaches. Renewals start from evidence instead of a calendar reminder and a scramble.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s4c86a54f188668096400",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s4c86a54f188668096400",
+  "homepage": "https://x.ai/bot/s4c86a54f188668096400",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "sales",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

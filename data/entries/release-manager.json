@@ -1,0 +1,25 @@
+{
+  "slug": "release-manager",
+  "name": "Release Manager",
+  "category": "development",
+  "tagline": "Takes one track from final audio to released single, checklist step by checklist step.",
+  "description": "Give it the finished audio and it manages the road to a real release: a lyric video and Shorts cut for YouTube, the upload through your distributor, a pitch to Spotify's editors and the no-cost promo moves in between. It works through the checklist sequentially, so an independent artist always knows what comes next.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/2kuWBEj2AX1Bs4bHD5e17",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/2kuWBEj2AX1Bs4bHD5e17",
+  "homepage": "https://x.ai/bot/2kuWBEj2AX1Bs4bHD5e17",
+  "license": null,
+  "author": "PaulHPowell13",
+  "tags": [
+    "development",
+    "creator"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "prototype-builder",
+  "name": "Prototype Builder",
+  "category": "development",
+  "tagline": "From request to something clickable: it builds, then returns screenshot and URL",
+  "description": "Shortens the road from a request to something clickable: it builds the prototype on its own machine and sends back a screenshot next to a live URL. Feedback happens on a working artifact rather than a description, which is usually where the real requirements surface.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s2e4acfb8db3cc0669a1b",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s2e4acfb8db3cc0669a1b",
+  "homepage": "https://x.ai/bot/s2e4acfb8db3cc0669a1b",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "development",
+    "developer",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "reddit-reach",
+  "name": "Reddit Reach",
+  "category": "development",
+  "tagline": "Gets Reddit reachable again on a cloud computer by proxying just that traffic.",
+  "description": "When a cloud computer's datacenter address gets refused by Reddit, this sets up a route around it: those requests leave through an ISP proxy while everything else stays on the normal path. Mihomo does the splitting, so only the traffic that needs it changes course and the machine keeps its direct connection.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/d20O3Bx5NypE-O-E_vKtp",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/d20O3Bx5NypE-O-E_vKtp",
+  "homepage": "https://x.ai/bot/d20O3Bx5NypE-O-E_vKtp",
+  "license": null,
+  "author": "fatwang2ai",
+  "tags": [
+    "development",
+    "developer"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
