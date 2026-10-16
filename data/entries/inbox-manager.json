@@ -1,0 +1,26 @@
+{
+  "slug": "inbox-manager",
+  "name": "Inbox Manager",
+  "category": "productivity",
+  "tagline": "Sorts mail into categories, lifts what is urgent, drafts replies and cleanup",
+  "description": "Brings order to mail by sorting it into tidy categories, raising the threads that are urgent or blocked to the top of the pile, and drafting both the replies and the cleanup moves each one needs. Every send remains a human decision, so the inbox gets worked without the account ever speaking for itself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s4f048c7b7da9e010c2c3",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s4f048c7b7da9e010c2c3",
+  "homepage": "https://x.ai/bot/s4f048c7b7da9e010c2c3",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "productivity",
+    "business",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

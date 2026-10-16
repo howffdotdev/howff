@@ -1,0 +1,26 @@
+{
+  "slug": "hiring-screener",
+  "name": "Hiring Screener",
+  "category": "ops",
+  "tagline": "Grades applications against your bar and returns an ATS-ready shortlist",
+  "description": "Scores each application and work sample against a hiring bar you set, then hands recruiters a shortlist the ATS can take, so interview hours are spent on the strongest candidates only. The pile gets read properly, which is more than most hiring weeks can manage, and the bar stays consistent for every applicant.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/scfddc8ad204a669484d0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/scfddc8ad204a669484d0",
+  "homepage": "https://x.ai/bot/scfddc8ad204a669484d0",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "ops",
+    "recruiting",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

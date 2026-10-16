@@ -1,0 +1,24 @@
+{
+  "slug": "inbox",
+  "name": "Inbox",
+  "category": "personal",
+  "tagline": "Pings only for mail needing action today; everything else lands in a digest.",
+  "description": "Email interruption is mostly noise, so this filters it: a message gets a ping only when it genuinely needs action from you today, and the rest collects into a batched digest you read on your own rhythm. It is read-only by design and never sends anything on your behalf, so the inbox stays entirely under your control.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-t-XZjCcLbbbx-hz7HDon",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-t-XZjCcLbbbx-hz7HDon",
+  "homepage": "https://x.ai/bot/-t-XZjCcLbbbx-hz7HDon",
+  "license": null,
+  "author": "cu30rry_",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
