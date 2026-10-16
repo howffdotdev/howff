@@ -1,0 +1,25 @@
+{
+  "slug": "2nd-brain-scott",
+  "name": "2nd Brain (Scott)",
+  "category": "development",
+  "tagline": "One shared facts file your other bots all read before they start.",
+  "description": "Keeps a short, stable record of how your work actually fits together: what you do, what you are aiming at, who matters, how your tools are set up, and which calls are already settled. Your other bots read it before they begin, so they stop guessing or contradicting each other. Nothing changes until you say yes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0XFvhY1cnpm9EnH-dlcPO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/0XFvhY1cnpm9EnH-dlcPO",
+  "homepage": "https://x.ai/bot/0XFvhY1cnpm9EnH-dlcPO",
+  "license": null,
+  "author": "scottxmetcalf",
+  "tags": [
+    "development",
+    "developer"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

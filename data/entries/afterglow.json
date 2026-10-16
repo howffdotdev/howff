@@ -1,0 +1,25 @@
+{
+  "slug": "afterglow",
+  "name": "Afterglow",
+  "category": "productivity",
+  "tagline": "Every morning it charts yesterday's X posts and tells you what actually moved.",
+  "description": "Think of it as a box score for your account. Each morning it lays out how the previous day's posts performed, charts the numbers, and names which ones pulled the engagement and why. It stops deliberately at analysis and never drafts or posts for you, so your voice stays untouched.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0pfVoOQLOV4O8Ujlk27x8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/0pfVoOQLOV4O8Ujlk27x8",
+  "homepage": "https://x.ai/bot/0pfVoOQLOV4O8Ujlk27x8",
+  "license": null,
+  "author": "thecsguy",
+  "tags": [
+    "productivity",
+    "creator"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
