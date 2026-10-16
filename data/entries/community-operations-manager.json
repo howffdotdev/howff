@@ -1,0 +1,26 @@
+{
+  "slug": "community-operations-manager",
+  "name": "Community Operations Manager",
+  "category": "marketing",
+  "tagline": "Keeps an ambassador scheme moving: apps screened, DMs sorted, nurture drafted",
+  "description": "Keeps an ambassador scheme moving: applications are reviewed, inbound DMs across the various channels get sorted, and cadence-based nurture is drafted so the community no longer needs a full-time person. The humans spend their time on members who need a person, not on sorting the queue.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/seb9d6ba6765c64113941",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/seb9d6ba6765c64113941",
+  "homepage": "https://x.ai/bot/seb9d6ba6765c64113941",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "marketing",
+    "marketer",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "clanker-collector",
+  "name": "Clanker Collector",
+  "category": "development",
+  "tagline": "A junkyard-mechanic persona that clears context rot out of bloated, forgetful bots.",
+  "description": "Bots that run a while pile up chats the way a workshop piles up scrap, and get slow and forgetful because of it. This one plays a gruff, zero-waste mechanic: it inspects what has piled up, keeps what still earns its place and clears the rest. The persona is the point; triage lands easier with a joke attached.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MqdUhT_uY9SoPKKwrDyKg",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MqdUhT_uY9SoPKKwrDyKg",
+  "homepage": "https://x.ai/bot/MqdUhT_uY9SoPKKwrDyKg",
+  "license": null,
+  "author": "lebeaujm",
+  "tags": [
+    "development",
+    "developer"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

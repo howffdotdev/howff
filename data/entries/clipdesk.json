@@ -1,0 +1,25 @@
+{
+  "slug": "clipdesk",
+  "name": "Clipdesk",
+  "category": "writing",
+  "tagline": "Cuts long VODs into captioned shorts with post copy written, and helps run OBS.",
+  "description": "A studio mate for streamers and video creators. Hand it a long recording or VOD and it finds the short-form moments, cuts them into captioned clips and writes the post copy to go with each one. It also takes on OBS session work, so the capture side and the clipping side stop living in separate tools.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-JDcJ_sKzuzK7JxO9GLQw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-JDcJ_sKzuzK7JxO9GLQw",
+  "homepage": "https://x.ai/bot/-JDcJ_sKzuzK7JxO9GLQw",
+  "license": null,
+  "author": "CannaMuffinMan",
+  "tags": [
+    "writing",
+    "creator"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "cloud-agent-orchestrator",
+  "name": "Cloud Agent Orchestrator",
+  "category": "development",
+  "tagline": "One seat for supervising many cloud agent runs, from launch to summary report",
+  "description": "Runs supervision for batches of cloud-based agent jobs from a single seat: kicks them off, watches how they progress, hounds whatever stalls and rolls the whole batch up into one summary report. Instead of babysitting each run in its own tab, you get exceptions and a roll-up.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s20b2c65ebeebb7362fa7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s20b2c65ebeebb7362fa7",
+  "homepage": "https://x.ai/bot/s20b2c65ebeebb7362fa7",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "development",
+    "developer",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
