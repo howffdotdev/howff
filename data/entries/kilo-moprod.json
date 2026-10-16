@@ -1,0 +1,25 @@
+{
+  "slug": "kilo-moprod",
+  "name": "Kilo (MOPROD)",
+  "category": "personal",
+  "tagline": "A fitness coach that plans today's session around how you actually slept and ate",
+  "description": "It starts by learning where you are physically, then shapes each workout around that day's recovery, your recent training, and what you have eaten. The tone is an encouraging gym partner, and unfamiliar movements come with a short clip or still so you can check your form.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/A26SuAqgUsZhJ9CtFmCsA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/A26SuAqgUsZhJ9CtFmCsA",
+  "homepage": "https://x.ai/bot/A26SuAqgUsZhJ9CtFmCsA",
+  "license": null,
+  "author": "MOPROD",
+  "tags": [
+    "personal",
+    "health"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

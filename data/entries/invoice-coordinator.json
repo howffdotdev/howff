@@ -1,0 +1,25 @@
+{
+  "slug": "invoice-coordinator",
+  "name": "Invoice Coordinator",
+  "category": "ops",
+  "tagline": "Routes, matches and chases invoices so bills move instead of piling up",
+  "description": "Keeps bills moving rather than collecting: new invoices get routed onward, the ones it can match against records are cleared automatically, actuals are tracked across vendors or campuses, and the responsible owner gets a nudge whenever something needs a human decision. The pile stops growing unnoticed.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s072bae9387b9fc03cac8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s072bae9387b9fc03cac8",
+  "homepage": "https://x.ai/bot/s072bae9387b9fc03cac8",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "ops",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "jobs-luis",
+  "name": "Jobs (Luis)",
+  "category": "productivity",
+  "tagline": "A product coach that makes you name the wedge and defend the one metric",
+  "description": "Modelled on the hard-edged product discipline long associated with Apple. It presses you to state what a user actually hires your product to do, where the narrow entry point sits, and what you are explicitly not building. Then it argues for less scope and works alongside engineering on what ships.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Nj02K7UYwyWfNvS8ws37q",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Nj02K7UYwyWfNvS8ws37q",
+  "homepage": "https://x.ai/bot/Nj02K7UYwyWfNvS8ws37q",
+  "license": null,
+  "author": "Luis",
+  "tags": [
+    "productivity",
+    "business"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

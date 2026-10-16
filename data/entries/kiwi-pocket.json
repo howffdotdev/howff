@@ -1,0 +1,24 @@
+{
+  "slug": "kiwi-pocket",
+  "name": "Kiwi Pocket",
+  "category": "personal",
+  "tagline": "Read-only view of NZ bank accounts for spending, bills and budgeting.",
+  "description": "Connects to New Zealand bank accounts through your own free Akahu app, and the connection reads only: money never moves and nothing can be paid from it. On that live view it follows where spending goes, keeps upcoming bills on schedule, and helps shape a budget that reflects what is really happening in the account.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/TBDkrl21y6qX-wk5G107W",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/TBDkrl21y6qX-wk5G107W",
+  "homepage": "https://x.ai/bot/TBDkrl21y6qX-wk5G107W",
+  "license": null,
+  "author": "daimenhutchison",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
