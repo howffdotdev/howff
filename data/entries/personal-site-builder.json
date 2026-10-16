@@ -1,0 +1,26 @@
+{
+  "slug": "personal-site-builder",
+  "name": "Personal Site Builder",
+  "category": "personal",
+  "tagline": "A short description in, a scaffolded personal site out, domain drama included",
+  "description": "Turns a short description of yourself into a scaffolded personal website, works through the domain headaches that usually stall the project, and leaves you a live starting point to refine. The blank-page problem is gone before you have opened an editor.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s3c76c85a840b32b8fed8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s3c76c85a840b32b8fed8",
+  "homepage": "https://x.ai/bot/s3c76c85a840b32b8fed8",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "personal",
+    "creator",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

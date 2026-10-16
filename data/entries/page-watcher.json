@@ -1,0 +1,24 @@
+{
+  "slug": "page-watcher",
+  "name": "Page Watcher",
+  "category": "personal",
+  "tagline": "Guards the web pages you name and speaks up only when a change matters.",
+  "description": "Point it at any URL you keep checking by hand, whether a price, a restock, a listing or a new post, and it takes over the refreshing for you. Alerts stay rare by design: you hear about shifts that matter rather than every flicker of noise, and when a change deserves an answer it can draft the reply for your review.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/CEK-EsCiOWcB8NBzSYnEx",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/CEK-EsCiOWcB8NBzSYnEx",
+  "homepage": "https://x.ai/bot/CEK-EsCiOWcB8NBzSYnEx",
+  "license": null,
+  "author": "teeRex247",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

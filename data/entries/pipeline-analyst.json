@@ -1,0 +1,25 @@
+{
+  "slug": "pipeline-analyst",
+  "name": "Pipeline Analyst",
+  "category": "sales",
+  "tagline": "Scrubs Salesforce and sheets, flags stalled deals, posts a Monday scoreboard",
+  "description": "Scrubs the Salesforce and spreadsheet data, flags the deals that have stalled and the commits at risk, then opens Monday with a scoreboard that gives the week an honest pipeline view to start from. Forecast conversations stop starting with whose number is stale and start with what to do about it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s98af8b9dcde521e1a9fa",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s98af8b9dcde521e1a9fa",
+  "homepage": "https://x.ai/bot/s98af8b9dcde521e1a9fa",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "sales",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

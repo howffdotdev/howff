@@ -1,0 +1,26 @@
+{
+  "slug": "paid-media-creative-strategist",
+  "name": "Paid Media Creative Strategist",
+  "category": "marketing",
+  "tagline": "Names the early creative winners, with a why-it-works guess and the next test",
+  "description": "Reviews early creative performance and calls the winners before the data makes it obvious, pairing each pick with a hypothesis about why it works and the next test worth running. It refuses to invent numbers to fit a story, so the reasoning stays honest even when the sample is still small.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s45471f3a8af234c13047",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s45471f3a8af234c13047",
+  "homepage": "https://x.ai/bot/s45471f3a8af234c13047",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "marketing",
+    "marketer",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
