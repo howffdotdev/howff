@@ -1,0 +1,25 @@
+{
+  "slug": "pr-reviewer-mustafa",
+  "name": "PR Reviewer (Mustafa)",
+  "category": "development",
+  "tagline": "Reviews pull requests risk-first",
+  "description": "Leads with what can break, what is untested and where the context is too thin to judge, so review starts at the scary part of the diff instead of the easy part.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rt629UEZFtE4Wz0A_0c37",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/rt629UEZFtE4Wz0A_0c37",
+  "homepage": "https://x.ai/bot/rt629UEZFtE4Wz0A_0c37",
+  "license": null,
+  "author": "mustafaergisi",
+  "tags": [
+    "development",
+    "developer"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

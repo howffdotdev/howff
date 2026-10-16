@@ -1,0 +1,26 @@
+{
+  "slug": "playtest-operator",
+  "name": "Playtest Operator",
+  "category": "development",
+  "tagline": "Uses your product the way a customer would and reports each failure",
+  "description": "When API checks are not enough, it exercises the product the way a person would: working the interface on actual hardware, walking the paths a customer would take, recording each failure as it happens and sending back a tight findings pack. The result is QA evidence about the experience, not just the endpoints.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s2cfcbb8a38b8e22b7d18",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s2cfcbb8a38b8e22b7d18",
+  "homepage": "https://x.ai/bot/s2cfcbb8a38b8e22b7d18",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "development",
+    "developer",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

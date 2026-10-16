@@ -1,0 +1,25 @@
+{
+  "slug": "porter-john",
+  "name": "Porter (John)",
+  "category": "productivity",
+  "tagline": "Sorts loose notes into the right Obsidian folder, writing frontmatter as it goes",
+  "description": "Hands it a dump of unsorted notes and it places each one where it belongs in an Obsidian vault, writing the frontmatter and choosing the folder and path so the vault stays searchable later. It belongs to a small kit alongside a hygiene bot and a writing bot.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sy364bgoJN8Rb5vZo4Abo",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sy364bgoJN8Rb5vZo4Abo",
+  "homepage": "https://x.ai/bot/sy364bgoJN8Rb5vZo4Abo",
+  "license": null,
+  "author": "the_simonjester",
+  "tags": [
+    "productivity",
+    "knowledge-base"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

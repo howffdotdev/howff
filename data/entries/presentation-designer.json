@@ -1,0 +1,26 @@
+{
+  "slug": "presentation-designer",
+  "name": "Presentation Designer",
+  "category": "productivity",
+  "tagline": "Decks that start on-theme, inside your master layout and brand kit",
+  "description": "Produces decks that already sit in your master template and house style, so the first slide is on-theme rather than blank. You describe the story, it builds the structure and styling, and hands back an editable link to keep refining in the tools your team already uses.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s25997c2d0308b4e76024",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s25997c2d0308b4e76024",
+  "homepage": "https://x.ai/bot/s25997c2d0308b4e76024",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "productivity",
+    "business",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
