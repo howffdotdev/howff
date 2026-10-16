@@ -1,0 +1,25 @@
+{
+  "slug": "sales-outbound",
+  "name": "Sales Outbound",
+  "category": "sales",
+  "tagline": "Researches accounts overnight, ranks contacts, drafts first-touch for review",
+  "description": "Lifts the research and the first-touch writing off the reps' plates: accounts get studied overnight, contacts ranked by intent, and email plus LinkedIn messages drafted in your voice, ready for a morning review pass. The outbound day starts from reviewed drafts rather than a cold list.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s8ff03023f140bab479f7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s8ff03023f140bab479f7",
+  "homepage": "https://x.ai/bot/s8ff03023f140bab479f7",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "sales",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "security-questionnaire-filler",
+  "name": "Security Questionnaire Filler",
+  "category": "ops",
+  "tagline": "Grinds through vendor security portals using your trust centre as the source",
+  "description": "Takes on vendor security questionnaires end to end: it signs into the portal, answers each field using your trust centre and the proposals you have already written, and leaves everything drafted for a final human pass. Days of copy-paste work collapse into a review session.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s1bde25ba45eca88ff276",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s1bde25ba45eca88ff276",
+  "homepage": "https://x.ai/bot/s1bde25ba45eca88ff276",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "ops",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

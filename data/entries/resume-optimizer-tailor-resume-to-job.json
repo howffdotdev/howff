@@ -1,0 +1,24 @@
+{
+  "slug": "resume-optimizer-tailor-resume-to-job",
+  "name": "Resume Optimizer: Tailor Resume to Job",
+  "category": "personal",
+  "tagline": "Tailors your resume to one job post, keyword-aware, and lists what is missing.",
+  "description": "Paste in a resume and the listing you are targeting, and get the resume reworked for that specific role, with the phrasing applicant-tracking systems look for. It also flags the gaps between what the posting asks for and what your resume actually shows, and it will not invent experience or numbers to fill them.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rEba1S2MuOrKRmLRbEflv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/rEba1S2MuOrKRmLRbEflv",
+  "homepage": "https://x.ai/bot/rEba1S2MuOrKRmLRbEflv",
+  "license": null,
+  "author": "GrokBotGod",
+  "tags": [
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

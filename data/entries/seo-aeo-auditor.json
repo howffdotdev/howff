@@ -1,0 +1,26 @@
+{
+  "slug": "seo-aeo-auditor",
+  "name": "SEO / AEO Auditor",
+  "category": "marketing",
+  "tagline": "One view of search and AI-answer visibility: keywords, tech, prompts, rivals",
+  "description": "Puts search visibility on a single dashboard spanning keywords, technical health, the prompts people feed AI answer engines and competitor movement, showing where you are gaining ground or losing it, and which site problems to fix first. It also covers what AI assistants say about you when nobody clicks at all.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sb6d579c33f7a32d0e7af",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sb6d579c33f7a32d0e7af",
+  "homepage": "https://x.ai/bot/sb6d579c33f7a32d0e7af",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "marketing",
+    "marketer",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
