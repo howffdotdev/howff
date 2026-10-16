@@ -1,0 +1,25 @@
+{
+  "slug": "dial-bot-matt",
+  "name": "dial bot (Matt)",
+  "category": "productivity",
+  "tagline": "Makes a real phone call on your behalf and tells you how it went",
+  "description": "Wires chat up to a voice-calling service, so asking it to ring a number and put a question to whoever answers actually dials. Once the call is over you get a written account of what happened. The first run collects the key and the voice it should use, and after that it simply works.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/NJXi2SWEuhNxjOjspMMPi",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/NJXi2SWEuhNxjOjspMMPi",
+  "homepage": "https://x.ai/bot/NJXi2SWEuhNxjOjspMMPi",
+  "license": null,
+  "author": "mattyp",
+  "tags": [
+    "productivity",
+    "business"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

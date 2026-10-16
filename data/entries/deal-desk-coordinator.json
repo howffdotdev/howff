@@ -1,0 +1,25 @@
+{
+  "slug": "deal-desk-coordinator",
+  "name": "Deal Desk Coordinator",
+  "category": "sales",
+  "tagline": "Context-rich internal deal notes from email, Salesforce and calls, filed on OK",
+  "description": "Writes a context-rich internal note per deal out of past email threads, Salesforce records and call history, then waits for your sign-off before filing them into Salesforce. Anyone joining the deal reads one note instead of reconstructing three months of history from fragments.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/sb434ef300dea2b88aa58",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/sb434ef300dea2b88aa58",
+  "homepage": "https://x.ai/bot/sb434ef300dea2b88aa58",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "sales",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

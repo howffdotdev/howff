@@ -1,0 +1,25 @@
+{
+  "slug": "deck-updater",
+  "name": "Deck Updater",
+  "category": "sales",
+  "tagline": "Keeps the pitch deck current during the call, next steps already slotted in",
+  "description": "Updates the pitch deck while the conversation happens: discovery notes get folded into the relevant slides during the call or right after it, with next steps slotted into place as they are agreed. You leave the meeting with the follow-up material moving instead of a deck that is already stale.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s2a289081613e5e361c79",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s2a289081613e5e361c79",
+  "homepage": "https://x.ai/bot/s2a289081613e5e361c79",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "sales",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
