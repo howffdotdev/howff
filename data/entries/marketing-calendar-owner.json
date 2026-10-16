@@ -1,0 +1,26 @@
+{
+  "slug": "marketing-calendar-owner",
+  "name": "Marketing Calendar Owner",
+  "category": "marketing",
+  "tagline": "Keeps regional and global marketing calendars in sync, straight out of Notion",
+  "description": "Keeps regional and worldwide marketing calendars in step across content, launches and events, drawing on Notion, so webinars and campaigns stay fresh without anyone chasing updates by hand each week. Conflicts between regions surface while there is still time to move one, rather than in launch week.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/se318a72a31fad75c277e",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/se318a72a31fad75c277e",
+  "homepage": "https://x.ai/bot/se318a72a31fad75c277e",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "marketing",
+    "marketer",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

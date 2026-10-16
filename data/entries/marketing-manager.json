@@ -1,0 +1,25 @@
+{
+  "slug": "marketing-manager",
+  "name": "Marketing Manager",
+  "category": "development",
+  "tagline": "Gets a finished song heard on YouTube, Spotify and in the fan communities it belongs in.",
+  "description": "This is the promotional arm for a completed track. It works out where the release belongs, from YouTube and Spotify to the forums where the genre's listeners already gather, and keeps every post unobtrusive, the way long-time members prefer. Built for indie artists and AI-music creators promoting without a budget.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/GW1Db37PnYoLXuaxX_Si-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/GW1Db37PnYoLXuaxX_Si-",
+  "homepage": "https://x.ai/bot/GW1Db37PnYoLXuaxX_Si-",
+  "license": null,
+  "author": "PaulHPowell13",
+  "tags": [
+    "development",
+    "creator"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

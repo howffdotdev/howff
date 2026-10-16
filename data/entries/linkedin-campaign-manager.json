@@ -1,0 +1,26 @@
+{
+  "slug": "linkedin-campaign-manager",
+  "name": "LinkedIn Campaign Manager",
+  "category": "marketing",
+  "tagline": "Watches the whole LinkedIn funnel and drafts campaigns for your sign-off",
+  "description": "Keeps watch over the whole LinkedIn lead funnel, covering ads, lead forms, the follow-up sequence and clean UTM tagging, and puts campaign drafts up for sign-off so messaging stays consistent at every step. Drift between what an ad promised and what the form delivered gets caught before it costs leads.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/s4d10d16bdbe2391aa753",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/s4d10d16bdbe2391aa753",
+  "homepage": "https://x.ai/bot/s4d10d16bdbe2391aa753",
+  "license": null,
+  "author": "SpaceX",
+  "tags": [
+    "marketing",
+    "marketer",
+    "marketplace"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

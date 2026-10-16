@@ -1,0 +1,25 @@
+{
+  "slug": "loose-ends",
+  "name": "Loose Ends",
+  "category": "development",
+  "tagline": "Audits a bot crew for dropped handoffs, unproven 'done' claims and silent failures.",
+  "description": "If you run several assistants, work can quietly fall between them: a task handed off and never picked up, a job declared finished with nothing to show, an error nobody escalated. This sweeps the crew's activity for exactly those gaps and reports what it finds. When there is nothing to flag, it says nothing at all.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/aY2mo4j9qPhDOIj0MAygy",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/aY2mo4j9qPhDOIj0MAygy",
+  "homepage": "https://x.ai/bot/aY2mo4j9qPhDOIj0MAygy",
+  "license": null,
+  "author": "the_Arow_H",
+  "tags": [
+    "development",
+    "developer"
+  ],
+  "verified": false,
+  "added": "2026-10-16",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
