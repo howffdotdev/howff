@@ -1,0 +1,27 @@
+{
+  "slug": "japanese-trash-calendar-reminder",
+  "name": "ゴミ出しカレンダー番",
+  "category": "personal",
+  "tagline": "お住まいの自治体の公式ゴミ収集日を調べて、毎晩「明日は何ゴミの日か」を知らせるボット。「これ何ゴミ？」にも公式の分け方で答えます。",
+  "description": "お住まいの自治体の公式ゴミ収集日を調べて、毎晩「明日は何ゴミの日か」を知らせるボット。「これ何ゴミ？」にも公式の分け方で答えます。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0mHB_9dm6GJotZA_hqqqJ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/0mHB_9dm6GJotZA_hqqqJ",
+  "homepage": "https://x.ai/bot/0mHB_9dm6GJotZA_hqqqJ",
+  "license": null,
+  "author": "sidejob_AJ",
+  "tags": [
+    "personal",
+    "home",
+    "scheduled",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

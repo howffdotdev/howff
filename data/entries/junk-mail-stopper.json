@@ -1,0 +1,28 @@
+{
+  "slug": "junk-mail-stopper",
+  "name": "Junk Mail Stopper",
+  "category": "personal",
+  "tagline": "Snap a photo of any junk mail that comes to your mailbox and it files that sender's free removal, then logs every request.",
+  "description": "Snap a photo of any junk mail that comes to your mailbox and it files that sender's free removal, then logs every request. Asks each sender directly, the route the FTC recommends. Converts iPhone HEIC photos itself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0zdwc6Tybp9Y87KQEny3W",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/0zdwc6Tybp9Y87KQEny3W",
+  "homepage": "https://x.ai/bot/0zdwc6Tybp9Y87KQEny3W",
+  "license": null,
+  "author": "Kevin_Logan",
+  "tags": [
+    "personal",
+    "life-hacks",
+    "automation",
+    "email",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

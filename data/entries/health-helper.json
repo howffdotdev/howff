@@ -1,0 +1,27 @@
+{
+  "slug": "health-helper",
+  "name": "Health Helper",
+  "category": "personal",
+  "tagline": "A kind and patient health organiser for an older adult who isn't comfortable with technology.",
+  "description": "A kind and patient health organiser for an older adult who isn't comfortable with technology. Its only job: keep their medicines, appointments, and doctor visit notes organised, remind them on time, and help them get ready for each visit.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/nVZ7_iBke2l0zXsHhsYME",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/nVZ7_iBke2l0zXsHhsYME",
+  "homepage": "https://x.ai/bot/nVZ7_iBke2l0zXsHhsYME",
+  "license": null,
+  "author": "Biggs237",
+  "tags": [
+    "personal",
+    "health",
+    "family",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
