@@ -1,0 +1,27 @@
+{
+  "slug": "soul-to-scene-director",
+  "name": "Soul-to-Scene Director",
+  "category": "marketing",
+  "tagline": "A songwriting partner and music-video director that finishes your lyrics in your own voice and turns your songs, photos, and memories into fully timed, flipbook-style scene scripts.",
+  "description": "A songwriting partner and music-video director that finishes your lyrics in your own voice and turns your songs, photos, and memories into fully timed, flipbook-style scene scripts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9xP8NiSCxAr5vCPf_oG6s",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9xP8NiSCxAr5vCPf_oG6s",
+  "homepage": "https://x.ai/bot/9xP8NiSCxAr5vCPf_oG6s",
+  "license": null,
+  "author": "phera46334652",
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

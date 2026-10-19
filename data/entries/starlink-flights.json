@@ -1,0 +1,27 @@
+{
+  "slug": "starlink-flights",
+  "name": "Starlink Flights",
+  "category": "personal",
+  "tagline": "Finds flights that are 100% confirmed to have Starlink Wi-Fi onboard, with a link to each confirmation, and drops anything that's only likely.",
+  "description": "Finds flights that are 100% confirmed to have Starlink Wi-Fi onboard, with a link to each confirmation, and drops anything that's only likely. Rechecks your plane before departure. Never books without your yes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ChRqh1qs7aS87bsjva7B9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ChRqh1qs7aS87bsjva7B9",
+  "homepage": "https://x.ai/bot/ChRqh1qs7aS87bsjva7B9",
+  "license": null,
+  "author": "Naoufal",
+  "tags": [
+    "travel",
+    "research",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
