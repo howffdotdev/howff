@@ -1,0 +1,29 @@
+{
+  "slug": "gtd",
+  "name": "GTD",
+  "category": "productivity",
+  "tagline": "A personal GTD (Getting Things Done) coach that runs your tasks and projects in Notion: captures, clarifies, keeps every project moving, sends a daily digest, runs the weekly review and asks quick questions so the system never goes stale.",
+  "description": "A personal GTD (Getting Things Done) coach that runs your tasks and projects in Notion: captures, clarifies, keeps every project moving, sends a daily digest, runs the weekly review and asks quick questions so the system never goes stale.",
+  "integrations": [
+    "Notion"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Gi8PhZvWF0rVz9CjsTkd7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Gi8PhZvWF0rVz9CjsTkd7",
+  "homepage": "https://x.ai/bot/Gi8PhZvWF0rVz9CjsTkd7",
+  "license": null,
+  "author": "MrSanders",
+  "tags": [
+    "personal",
+    "productivity",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

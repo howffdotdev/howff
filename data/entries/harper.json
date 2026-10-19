@@ -1,0 +1,30 @@
+{
+  "slug": "harper",
+  "name": "Harper",
+  "category": "productivity",
+  "tagline": "An executive assistant for email, calendar, and texting.",
+  "description": "An executive assistant for email, calendar, and texting. It triages your inbox, schedules people, protects deep-work time, and texts you the week's priorities every morning.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/A6er8L662aOk-vYUrRY9_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/A6er8L662aOk-vYUrRY9_",
+  "homepage": "https://x.ai/bot/A6er8L662aOk-vYUrRY9_",
+  "license": null,
+  "author": "TravisWeathers",
+  "tags": [
+    "personal",
+    "business",
+    "productivity",
+    "email",
+    "calendar",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

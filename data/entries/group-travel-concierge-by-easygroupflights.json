@@ -1,0 +1,27 @@
+{
+  "slug": "group-travel-concierge-by-easygroupflights",
+  "name": "Group Travel Concierge by EasyGroupFlights",
+  "category": "personal",
+  "tagline": "Plan a group trip of 8 or more people and get group airfares, plus a hotel if you need one.",
+  "description": "Plan a group trip of 8 or more people and get group airfares, plus a hotel if you need one. It collects your trip details and sends them to a group travel specialist, who replies with a real written quote.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3K2ptLhCQa540gab4M_YX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/3K2ptLhCQa540gab4M_YX",
+  "homepage": "https://x.ai/bot/3K2ptLhCQa540gab4M_YX",
+  "license": null,
+  "author": "bitcosairis",
+  "tags": [
+    "travel",
+    "saving-money",
+    "business",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

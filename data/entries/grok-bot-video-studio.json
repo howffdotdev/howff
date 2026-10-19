@@ -1,0 +1,27 @@
+{
+  "slug": "grok-bot-video-studio",
+  "name": "Grok Bot Video Studio",
+  "category": "marketing",
+  "tagline": "Your end-to-end AI video studio on Grok Imagine: cited explainers, presenter shorts, multi-shot stories with locked characters, and music videos for songs you own.",
+  "description": "Your end-to-end AI video studio on Grok Imagine: cited explainers, presenter shorts, multi-shot stories with locked characters, and music videos for songs you own. It plans, generates, edits, captions and QA-checks every video, and nothing goes public unless you post it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wVv54dUKjA2MYaq1XMCzN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wVv54dUKjA2MYaq1XMCzN",
+  "homepage": "https://x.ai/bot/wVv54dUKjA2MYaq1XMCzN",
+  "license": null,
+  "author": "MichaelGannotti",
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
