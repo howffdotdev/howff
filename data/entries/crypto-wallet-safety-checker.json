@@ -1,0 +1,27 @@
+{
+  "slug": "crypto-wallet-safety-checker",
+  "name": "Crypto Wallet Safety Checker",
+  "category": "finance",
+  "tagline": "Checks wallet addresses, links, tokens, and airdrops for scam and safety red flags before you send or sign.",
+  "description": "Checks wallet addresses, links, tokens, and airdrops for scam and safety red flags before you send or sign. Built for anyone who holds crypto and wants a second pair of eyes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/NK4EVTst02_7nIl2Ka4CO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/NK4EVTst02_7nIl2Ka4CO",
+  "homepage": "https://x.ai/bot/NK4EVTst02_7nIl2Ka4CO",
+  "license": null,
+  "author": "allthemoney",
+  "tags": [
+    "personal",
+    "investor",
+    "crypto",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

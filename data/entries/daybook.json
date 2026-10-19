@@ -1,0 +1,27 @@
+{
+  "slug": "daybook",
+  "name": "Daybook",
+  "category": "development",
+  "tagline": "Sends you a morning brief of yesterday's AI coding sessions: what moved, what needs you, and where to start, with every claim linked.",
+  "description": "Sends you a morning brief of yesterday's AI coding sessions: what moved, what needs you, and where to start, with every claim linked. Can keep your Obsidian vault up to date too.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/TOA1DYEKfWL6m9SnhRJtj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/TOA1DYEKfWL6m9SnhRJtj",
+  "homepage": "https://x.ai/bot/TOA1DYEKfWL6m9SnhRJtj",
+  "license": null,
+  "author": "taylorhbuilds",
+  "tags": [
+    "developer",
+    "productivity",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
