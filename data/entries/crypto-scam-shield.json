@@ -1,0 +1,28 @@
+{
+  "slug": "crypto-scam-shield",
+  "name": "Crypto Scam Shield",
+  "category": "finance",
+  "tagline": "A free, friendly coach that teaches everyday people how to spot and avoid crypto scams, with tips, quizzes, examples, and link or message checks.",
+  "description": "A free, friendly coach that teaches everyday people how to spot and avoid crypto scams, with tips, quizzes, examples, and link or message checks.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yu5DTLbi2VHKOSGJdZ6zk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/yu5DTLbi2VHKOSGJdZ6zk",
+  "homepage": "https://x.ai/bot/yu5DTLbi2VHKOSGJdZ6zk",
+  "license": null,
+  "author": "allthemoney",
+  "tags": [
+    "personal",
+    "investor",
+    "learning",
+    "crypto",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

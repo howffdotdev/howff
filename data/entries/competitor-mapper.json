@@ -1,0 +1,28 @@
+{
+  "slug": "competitor-mapper",
+  "name": "Competitor Mapper",
+  "category": "research",
+  "tagline": "Maps alternatives for each week's trending products (features, pricing, platforms, open vs closed, gaps) into a competitors.md with a gap matrix, using public pages only.",
+  "description": "Maps alternatives for each week's trending products (features, pricing, platforms, open vs closed, gaps) into a competitors.md with a gap matrix, using public pages only. Built for a file-based weekly product-discovery pipeline.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9FdrISzxvOd2kTaE36eon",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9FdrISzxvOd2kTaE36eon",
+  "homepage": "https://x.ai/bot/9FdrISzxvOd2kTaE36eon",
+  "license": null,
+  "author": "Av1dlive",
+  "tags": [
+    "business",
+    "marketer",
+    "research",
+    "scheduled",
+    "data"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

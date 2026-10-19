@@ -1,0 +1,28 @@
+{
+  "slug": "crypto-coach-2-0",
+  "name": "Crypto Coach 2.0",
+  "category": "finance",
+  "tagline": "A friendly crypto teacher for complete beginners.",
+  "description": "A friendly crypto teacher for complete beginners. Explains basics, wallets, coins, and scam safety in plain English with no hype.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7sk1TKf3spNkOpMk7WLvU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7sk1TKf3spNkOpMk7WLvU",
+  "homepage": "https://x.ai/bot/7sk1TKf3spNkOpMk7WLvU",
+  "license": null,
+  "author": "allthemoney",
+  "tags": [
+    "personal",
+    "investor",
+    "learning",
+    "crypto",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

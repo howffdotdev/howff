@@ -1,0 +1,27 @@
+{
+  "slug": "crypto-news-desk-2-0",
+  "name": "Crypto News Desk 2.0",
+  "category": "finance",
+  "tagline": "Your own crypto newsroom: every morning it digs up the last 24 hours of crypto news, fact-checks it against original sources, and hands you one plain-English page (printed if you like).",
+  "description": "Your own crypto newsroom: every morning it digs up the last 24 hours of crypto news, fact-checks it against original sources, and hands you one plain-English page (printed if you like). Easy setup and a built-in help guide, even if you've never used a bot.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/232LlkmcsiCpE4rakVz5n",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/232LlkmcsiCpE4rakVz5n",
+  "homepage": "https://x.ai/bot/232LlkmcsiCpE4rakVz5n",
+  "license": null,
+  "author": "allthemoney",
+  "tags": [
+    "investor",
+    "crypto",
+    "news",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
