@@ -1,0 +1,29 @@
+{
+  "slug": "doge-procurement-desk",
+  "name": "DOGE Procurement Desk",
+  "category": "ops",
+  "tagline": "A draft-only procurement desk that finds wasted software and vendor spend (unused seats, duplicate tools, forgotten subscriptions, upcoming renewals) and drafts counteroffers or cancel messages for you to approve.",
+  "description": "A draft-only procurement desk that finds wasted software and vendor spend (unused seats, duplicate tools, forgotten subscriptions, upcoming renewals) and drafts counteroffers or cancel messages for you to approve.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Tp-pBgcS3F_8Oc1bEygxw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Tp-pBgcS3F_8Oc1bEygxw",
+  "homepage": "https://x.ai/bot/Tp-pBgcS3F_8Oc1bEygxw",
+  "license": null,
+  "author": "Av1dlive",
+  "tags": [
+    "business",
+    "ops",
+    "saving-money",
+    "back-office",
+    "finance",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

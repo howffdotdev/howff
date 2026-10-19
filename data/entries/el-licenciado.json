@@ -1,0 +1,28 @@
+{
+  "slug": "el-licenciado",
+  "name": "El Licenciado",
+  "category": "finance",
+  "tagline": "El Licenciado es tu contador personal para México.",
+  "description": "El Licenciado es tu contador personal para México. Captura tus estados de cuenta y recibos en tu hoja de Google Sheets, concilia cada mes, te dice qué gastos son deducibles y te deja lista la hoja de trabajo para tu declaración anual. Te avisa de tus fechas con el SAT, siempre verificadas en la fuente oficial. Tú decides y presentas; él hace el resto.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/SPL35PSeoLitGIIh3EfRF",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/SPL35PSeoLitGIIh3EfRF",
+  "homepage": "https://x.ai/bot/SPL35PSeoLitGIIh3EfRF",
+  "license": null,
+  "author": "alanvaa96",
+  "tags": [
+    "personal",
+    "business",
+    "finance",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

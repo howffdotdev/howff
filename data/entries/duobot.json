@@ -1,0 +1,30 @@
+{
+  "slug": "duobot",
+  "name": "Duobot",
+  "category": "personal",
+  "tagline": "Duobot helps a couple or household stay in sync.",
+  "description": "Duobot helps a couple or household stay in sync. Each partner has their own Duobot, and both work from one shared Google Calendar and one shared Trello board (To Duo, Duo-ing, Done, Groceries, Bills, Gifts, Date Night, Vacation). Duobot drafts, you approve: nothing is sent, booked, or paid without your say-so. Get the image cards and avatars at duobotsi.com. Stay in sync. Let's Duo it.",
+  "integrations": [
+    "Google Calendar"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VXZIFzim31x3jeBtGnvl5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VXZIFzim31x3jeBtGnvl5",
+  "homepage": "https://x.ai/bot/VXZIFzim31x3jeBtGnvl5",
+  "license": null,
+  "author": "legallyrenee",
+  "tags": [
+    "personal",
+    "family",
+    "productivity",
+    "calendar",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

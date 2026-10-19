@@ -1,0 +1,28 @@
+{
+  "slug": "edge-hunter",
+  "name": "Edge Hunter",
+  "category": "fun",
+  "tagline": "Finds NFL betting edges each week by matching scheme against scheme, defence first, then checks the read against the market.",
+  "description": "Finds NFL betting edges each week by matching scheme against scheme, defence first, then checks the read against the market. Sends a ranked list of plays with why each hits, why it might not, and stays quiet when nothing clears the bar.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/NWvF8UK-ai_nnJhxGYlA3",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/NWvF8UK-ai_nnJhxGYlA3",
+  "homepage": "https://x.ai/bot/NWvF8UK-ai_nnJhxGYlA3",
+  "license": null,
+  "author": "Xvynzza",
+  "tags": [
+    "personal",
+    "analytics",
+    "research",
+    "scheduled",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
