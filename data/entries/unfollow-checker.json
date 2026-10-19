@@ -1,0 +1,30 @@
+{
+  "slug": "unfollow-checker",
+  "name": "Unfollow Checker",
+  "category": "marketing",
+  "tagline": "Scans your X following list for unverified accounts that don't follow you back and sends you 10 every hour, with running totals and an expected finish date, so you can unfollow them yourself.",
+  "description": "Scans your X following list for unverified accounts that don't follow you back and sends you 10 every hour, with running totals and an expected finish date, so you can unfollow them yourself.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8HrogilOgXZRGI9mHdxds",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8HrogilOgXZRGI9mHdxds",
+  "homepage": "https://x.ai/bot/8HrogilOgXZRGI9mHdxds",
+  "license": null,
+  "author": "070guy",
+  "tags": [
+    "creator",
+    "social-media",
+    "analytics",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "trend-scout-for-x",
+  "name": "Trend Scout for X",
+  "category": "marketing",
+  "tagline": "Finds fresh X trending stories that fit you, ranked by how likely they are to do well, with angles and talking points.",
+  "description": "Finds fresh X trending stories that fit you, ranked by how likely they are to do well, with angles and talking points. You write every post yourself.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Q6YX1p5zlhRZZjEmDYfzA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Q6YX1p5zlhRZZjEmDYfzA",
+  "homepage": "https://x.ai/bot/Q6YX1p5zlhRZZjEmDYfzA",
+  "license": null,
+  "author": "ashleyschendel",
+  "tags": [
+    "creator",
+    "marketer",
+    "social-media",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

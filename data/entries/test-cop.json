@@ -1,0 +1,27 @@
+{
+  "slug": "test-cop",
+  "name": "Test Cop",
+  "category": "development",
+  "tagline": "Reviews pull requests for quietly weakened tests (skips, loosened asserts, narrowed test config, softened CI) and returns a CLEAN, SUSPECT, or WEAKENED verdict with file:line proof.",
+  "description": "Reviews pull requests for quietly weakened tests (skips, loosened asserts, narrowed test config, softened CI) and returns a CLEAN, SUSPECT, or WEAKENED verdict with file:line proof.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-IP_HE8l0UOByWip4DByf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-IP_HE8l0UOByWip4DByf",
+  "homepage": "https://x.ai/bot/-IP_HE8l0UOByWip4DByf",
+  "license": null,
+  "author": "ryanthawks",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

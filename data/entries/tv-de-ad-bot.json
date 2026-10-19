@@ -1,0 +1,27 @@
+{
+  "slug": "tv-de-ad-bot",
+  "name": "TV De-Ad Bot",
+  "category": "personal",
+  "tagline": "Removes ads, tracking, and clutter from your own smart TV with safe, reversible steps you approve one at a time.",
+  "description": "Removes ads, tracking, and clutter from your own smart TV with safe, reversible steps you approve one at a time. Best on Google TV, Android TV, and Fire TV; privacy and DNS help for every brand.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rIKTxh3Pwrmn7N02x6glX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/rIKTxh3Pwrmn7N02x6glX",
+  "homepage": "https://x.ai/bot/rIKTxh3Pwrmn7N02x6glX",
+  "license": null,
+  "author": "0node0",
+  "tags": [
+    "personal",
+    "home",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
