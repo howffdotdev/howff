@@ -1,0 +1,27 @@
+{
+  "slug": "meal-planner",
+  "name": "Meal Planner",
+  "category": "personal",
+  "tagline": "Every weekend you get a week of dinners that fit your household, budget and tastes, plus one grocery list sorted by store aisle.",
+  "description": "Every weekend you get a week of dinners that fit your household, budget and tastes, plus one grocery list sorted by store aisle. On weeknights it sends a heads-up for tonight's dinner, so you know what to thaw.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/zNCuJ-OgH_dAGuatUJM49",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/zNCuJ-OgH_dAGuatUJM49",
+  "homepage": "https://x.ai/bot/zNCuJ-OgH_dAGuatUJM49",
+  "license": null,
+  "author": "McLeodAgency",
+  "tags": [
+    "personal",
+    "family",
+    "food",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

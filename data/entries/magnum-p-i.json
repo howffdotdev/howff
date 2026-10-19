@@ -1,0 +1,27 @@
+{
+  "slug": "magnum-p-i",
+  "name": "Magnum P.I.",
+  "category": "personal",
+  "tagline": "Magnum P.I. helps you build trust by vetting websites, sellers, credentials, and dating matches using public records, then gives you a clear verdict with sources.",
+  "description": "Magnum P.I. helps you build trust by vetting websites, sellers, credentials, and dating matches using public records, then gives you a clear verdict with sources.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/hSJYHTSH02J0ZchLG-zu8",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/hSJYHTSH02J0ZchLG-zu8",
+  "homepage": "https://x.ai/bot/hSJYHTSH02J0ZchLG-zu8",
+  "license": null,
+  "author": "congressdj",
+  "tags": [
+    "personal",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
