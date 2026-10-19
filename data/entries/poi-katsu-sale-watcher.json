@@ -1,0 +1,28 @@
+{
+  "slug": "poi-katsu-sale-watcher",
+  "name": "ポイ活・セール番人",
+  "category": "personal",
+  "tagline": "Amazon・楽天・Yahoo!の欲しい物を目標価格とポイント還元込みで見張り、値下がりや大型キャンペーンの時だけ知らせるボット。購入は代行しません。",
+  "description": "Amazon・楽天・Yahoo!の欲しい物を目標価格とポイント還元込みで見張り、値下がりや大型キャンペーンの時だけ知らせるボット。購入は代行しません。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/EL7FBbcMa3gIcXvSxozqv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/EL7FBbcMa3gIcXvSxozqv",
+  "homepage": "https://x.ai/bot/EL7FBbcMa3gIcXvSxozqv",
+  "license": null,
+  "author": "sidejob_AJ",
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

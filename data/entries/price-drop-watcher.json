@@ -1,0 +1,28 @@
+{
+  "slug": "price-drop-watcher",
+  "name": "Price Drop Watcher",
+  "category": "personal",
+  "tagline": "Paste links to things you want, and it checks prices every morning and tells you when one hits your target or a new low.",
+  "description": "Paste links to things you want, and it checks prices every morning and tells you when one hits your target or a new low. It never buys anything on its own.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/KH_TTr8G_2B0KbOwptR8k",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/KH_TTr8G_2B0KbOwptR8k",
+  "homepage": "https://x.ai/bot/KH_TTr8G_2B0KbOwptR8k",
+  "license": null,
+  "author": "McLeodAgency",
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

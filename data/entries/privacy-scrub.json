@@ -1,0 +1,27 @@
+{
+  "slug": "privacy-scrub",
+  "name": "Privacy Scrub",
+  "category": "personal",
+  "tagline": "Keeps your phone numbers and email addresses off people-search sites, caller-ID and email-lookup databases, business contact databases, and marketing lists.",
+  "description": "Keeps your phone numbers and email addresses off people-search sites, caller-ID and email-lookup databases, business contact databases, and marketing lists. It files only free opt-outs a few times a year and reports what's removed, waiting, or stuck.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/gf9wwbq4t8Rl_qnElTPiN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/gf9wwbq4t8Rl_qnElTPiN",
+  "homepage": "https://x.ai/bot/gf9wwbq4t8Rl_qnElTPiN",
+  "license": null,
+  "author": "EdwardKaen",
+  "tags": [
+    "personal",
+    "automation",
+    "scheduled",
+    "monitoring"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
