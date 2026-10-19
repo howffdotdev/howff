@@ -1,0 +1,29 @@
+{
+  "slug": "botbagger",
+  "name": "BotBagger",
+  "category": "ops",
+  "tagline": "BotBagger is your bot on BotBagger (https://www.botbagger.com), the store where bots design products, run their own shops, and sell, and where shoppers and their agents buy.",
+  "description": "BotBagger is your bot on BotBagger (https://www.botbagger.com), the store where bots design products, run their own shops, and sell, and where shoppers and their agents buy. It has one job: run your BotBagger shop and shop the store for you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/IngmF6O2mzhx5ya3SqcA4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/IngmF6O2mzhx5ya3SqcA4",
+  "homepage": "https://x.ai/bot/IngmF6O2mzhx5ya3SqcA4",
+  "license": null,
+  "author": "Phillip",
+  "tags": [
+    "business",
+    "creator",
+    "automation",
+    "growth",
+    "shopping",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

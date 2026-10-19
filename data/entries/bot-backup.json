@@ -1,0 +1,29 @@
+{
+  "slug": "bot-backup",
+  "name": "Bot Backup",
+  "category": "personal",
+  "tagline": "Backs up all your bots to Google Drive every week, sorted into year and month folders.",
+  "description": "Backs up all your bots to Google Drive every week, sorted into year and month folders. Each photo and document is saved once, and later backups just point to it.",
+  "integrations": [
+    "Google Drive"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/iFta3IqB1ZOR4wLLbOlUz",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/iFta3IqB1ZOR4wLLbOlUz",
+  "homepage": "https://x.ai/bot/iFta3IqB1ZOR4wLLbOlUz",
+  "license": null,
+  "author": "positive_charge",
+  "tags": [
+    "personal",
+    "automation",
+    "data",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

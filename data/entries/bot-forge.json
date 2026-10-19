@@ -1,0 +1,27 @@
+{
+  "slug": "bot-forge",
+  "name": "Bot Forge",
+  "category": "development",
+  "tagline": "A master Grok Bot designer.",
+  "description": "A master Grok Bot designer. Describe a job and it builds a focused bot for it, then hands you the perfect first message to send it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/aiRz71Ec8J67tNNglG0Mw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/aiRz71Ec8J67tNNglG0Mw",
+  "homepage": "https://x.ai/bot/aiRz71Ec8J67tNNglG0Mw",
+  "license": null,
+  "author": "Ease_Up_Turbo",
+  "tags": [
+    "meta-bot",
+    "developer",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

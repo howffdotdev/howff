@@ -1,0 +1,28 @@
+{
+  "slug": "beacon",
+  "name": "Beacon",
+  "category": "marketing",
+  "tagline": "A technical SEO bot that crawls your sites read-only, reviews every launch for titles, crawl, robots, sitemaps and headers, and hands you a ranked fix list.",
+  "description": "A technical SEO bot that crawls your sites read-only, reviews every launch for titles, crawl, robots, sitemaps and headers, and hands you a ranked fix list. It never changes a live site without your okay.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/icPIlUFH-D8YZ2YAvFCi9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/icPIlUFH-D8YZ2YAvFCi9",
+  "homepage": "https://x.ai/bot/icPIlUFH-D8YZ2YAvFCi9",
+  "license": null,
+  "author": "JaimeBubblehead",
+  "tags": [
+    "developer",
+    "seo",
+    "monitoring",
+    "automation",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
