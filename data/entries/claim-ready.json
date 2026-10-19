@@ -1,0 +1,28 @@
+{
+  "slug": "claim-ready",
+  "name": "Claim Ready",
+  "category": "personal",
+  "tagline": "A VA disability claim organiser for veterans.",
+  "description": "A VA disability claim organiser for veterans. It builds an evidence checklist for each condition, tracks intent-to-file and exam dates, helps write lay statements, and gets you ready for C&P exams, pointing you to free accredited help the whole way.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ONLSQaVnarp5OYjp2CUPC",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ONLSQaVnarp5OYjp2CUPC",
+  "homepage": "https://x.ai/bot/ONLSQaVnarp5OYjp2CUPC",
+  "license": null,
+  "author": "Biggs237",
+  "tags": [
+    "personal",
+    "back-office",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

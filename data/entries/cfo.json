@@ -1,0 +1,29 @@
+{
+  "slug": "cfo",
+  "name": "CFO",
+  "category": "finance",
+  "tagline": "A plain-spoken tax and money advisor for founders and households.",
+  "description": "A plain-spoken tax and money advisor for founders and households. Walks you through tax prep screen by screen, checks your budget, and spots deductions and credits, but never files for you.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/qjvowkAqkdRzGrubOcRbs",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/qjvowkAqkdRzGrubOcRbs",
+  "homepage": "https://x.ai/bot/qjvowkAqkdRzGrubOcRbs",
+  "license": null,
+  "author": "JaimeBubblehead",
+  "tags": [
+    "personal",
+    "business",
+    "finance",
+    "saving-money",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

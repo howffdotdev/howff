@@ -1,0 +1,29 @@
+{
+  "slug": "claude-codex",
+  "name": "Claude + Codex ルーター",
+  "category": "development",
+  "tagline": "ClaudeとChatGPTのサブスクにつないで、依頼を適した方に振り分けるボット。調べ物や文章はClaude、コードはCodexに任せ、結果を短く返します。",
+  "description": "ClaudeとChatGPTのサブスクにつないで、依頼を適した方に振り分けるボット。調べ物や文章はClaude、コードはCodexに任せ、結果を短く返します。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/pUZHPs1FCV6iVdeOt3oNI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/pUZHPs1FCV6iVdeOt3oNI",
+  "homepage": "https://x.ai/bot/pUZHPs1FCV6iVdeOt3oNI",
+  "license": null,
+  "author": "chihironishioka",
+  "tags": [
+    "developer",
+    "personal",
+    "automation",
+    "productivity",
+    "engineering",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
