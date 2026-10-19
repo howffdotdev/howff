@@ -1,0 +1,27 @@
+{
+  "slug": "number-guard",
+  "name": "Number Guard",
+  "category": "personal",
+  "tagline": "Cuts down spam calls by finding your phone number on people-search and data broker sites and submitting free opt-outs you approve, then re-checking monthly.",
+  "description": "Cuts down spam calls by finding your phone number on people-search and data broker sites and submitting free opt-outs you approve, then re-checking monthly.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/UDQglxTgFIcaLqet3cVt2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/UDQglxTgFIcaLqet3cVt2",
+  "homepage": "https://x.ai/bot/UDQglxTgFIcaLqet3cVt2",
+  "license": null,
+  "author": "KSJ_Kreative",
+  "tags": [
+    "personal",
+    "automation",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

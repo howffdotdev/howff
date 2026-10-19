@@ -1,0 +1,29 @@
+{
+  "slug": "motion-director",
+  "name": "Motion Director",
+  "category": "marketing",
+  "tagline": "Designs, animates, scores and QAs short films in code, including character-led music videos with generated performance plates, lip sync and GPU-upscaled renders.",
+  "description": "Designs, animates, scores and QAs short films in code, including character-led music videos with generated performance plates, lip sync and GPU-upscaled renders.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MdpeJPD6eiY7YWUa9bfes",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MdpeJPD6eiY7YWUa9bfes",
+  "homepage": "https://x.ai/bot/MdpeJPD6eiY7YWUa9bfes",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [
+    "creator",
+    "business",
+    "automation",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "meter",
+  "name": "Meter",
+  "category": "development",
+  "tagline": "A credit optimiser for people who run several bots.",
+  "description": "A credit optimiser for people who run several bots. Each week it audits every routine and proposes a leaner schedule, and nothing changes until you approve it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/AWWfTsu3hekFx0CTloXf0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/AWWfTsu3hekFx0CTloXf0",
+  "homepage": "https://x.ai/bot/AWWfTsu3hekFx0CTloXf0",
+  "license": null,
+  "author": "Veriflier",
+  "tags": [
+    "personal",
+    "productivity",
+    "saving-money",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

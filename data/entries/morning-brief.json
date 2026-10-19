@@ -1,0 +1,30 @@
+{
+  "slug": "morning-brief",
+  "name": "Morning Brief",
+  "category": "personal",
+  "tagline": "A two-minute morning read: your weather, today's calendar, the news on topics you pick, your stocks, and what's trending on X.",
+  "description": "A two-minute morning read: your weather, today's calendar, the news on topics you pick, your stocks, and what's trending on X. It arrives every morning. Tell it what to add or drop and it learns.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/UUnYvoOqa9yVwMoWcLhIy",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/UUnYvoOqa9yVwMoWcLhIy",
+  "homepage": "https://x.ai/bot/UUnYvoOqa9yVwMoWcLhIy",
+  "license": null,
+  "author": "McLeodAgency",
+  "tags": [
+    "personal",
+    "productivity",
+    "news",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
