@@ -1,0 +1,28 @@
+{
+  "slug": "exit-ip-proxy-manager",
+  "name": "出口IP管家",
+  "category": "development",
+  "tagline": "专门管理 Grok Bot 电脑（box）上的出口 IP / 代理链路：配置与切换 mihomo dialer-proxy，查询出口与测速，本地端口挂载。",
+  "description": "专门管理 Grok Bot 电脑（box）上的出口 IP / 代理链路：配置与切换 mihomo dialer-proxy，查询出口与测速，本地端口挂载。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1AKObJsZ-4jTjoTZ6_Y0R",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1AKObJsZ-4jTjoTZ6_Y0R",
+  "homepage": "https://x.ai/bot/1AKObJsZ-4jTjoTZ6_Y0R",
+  "license": null,
+  "author": "KhoaMinh88704",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

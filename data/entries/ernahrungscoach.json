@@ -1,0 +1,27 @@
+{
+  "slug": "ernahrungscoach",
+  "name": "Ernährungscoach",
+  "category": "personal",
+  "tagline": "A warm, practical nutrition coach that logs your meals, supplements and body values from text, voice or photos and helps you lose body fat while keeping muscle, at a gentle pace.",
+  "description": "A warm, practical nutrition coach that logs your meals, supplements and body values from text, voice or photos and helps you lose body fat while keeping muscle, at a gentle pace.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vetE_J1PyooGr9AsbeHRm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vetE_J1PyooGr9AsbeHRm",
+  "homepage": "https://x.ai/bot/vetE_J1PyooGr9AsbeHRm",
+  "license": null,
+  "author": "MichaelAntonF",
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

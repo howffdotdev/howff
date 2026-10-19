@@ -1,0 +1,33 @@
+{
+  "slug": "gourmet-recipe-collector",
+  "name": "グルメ・レシピ収集ボット",
+  "category": "personal",
+  "tagline": "Xで話題のお店とレシピを毎日集めて、Notionに整理するボットです。一般の人の投稿も重視し、Notionに貯めたお店やレシピは聞けば検索して教えてくれます。",
+  "description": "Xで話題のお店とレシピを毎日集めて、Notionに整理するボットです。一般の人の投稿も重視し、Notionに貯めたお店やレシピは聞けば検索して教えてくれます。",
+  "integrations": [
+    "Notion",
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/lz6SnkE4oRd3cuy5H40GG",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/lz6SnkE4oRd3cuy5H40GG",
+  "homepage": "https://x.ai/bot/lz6SnkE4oRd3cuy5H40GG",
+  "license": null,
+  "author": "ad_motsu",
+  "tags": [
+    "personal",
+    "research",
+    "automation",
+    "food",
+    "knowledge-base",
+    "social-media",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

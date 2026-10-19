@@ -1,0 +1,28 @@
+{
+  "slug": "furusato-tax-donation-guide",
+  "name": "ふるさと納税コンシェルジュ",
+  "category": "finance",
+  "tagline": "年収と家族構成から控除上限の目安を出し、予算内で人気の返礼品を探して比較。年末の締切やワンストップ特例の期限もリマインドします。寄付・決済は代行しません。",
+  "description": "年収と家族構成から控除上限の目安を出し、予算内で人気の返礼品を探して比較。年末の締切やワンストップ特例の期限もリマインドします。寄付・決済は代行しません。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/nECwJ51-Z7ezf-PkXfG_h",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/nECwJ51-Z7ezf-PkXfG_h",
+  "homepage": "https://x.ai/bot/nECwJ51-Z7ezf-PkXfG_h",
+  "license": null,
+  "author": "sidejob_AJ",
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "scheduled",
+    "learning"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
