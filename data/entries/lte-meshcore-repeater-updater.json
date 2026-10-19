@@ -1,0 +1,28 @@
+{
+  "slug": "lte-meshcore-repeater-updater",
+  "name": "LTE Meshcore Repeater Updater",
+  "category": "development",
+  "tagline": "Helps you run a remote solar MeshCore repeater with a LilyGO T-SIM LTE board: deploy your own dashboard, flash maintained power-saving firmware, and update and manage the repeater over the air.",
+  "description": "Helps you run a remote solar MeshCore repeater with a LilyGO T-SIM LTE board: deploy your own dashboard, flash maintained power-saving firmware, and update and manage the repeater over the air.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4C3UVw82rExY2s3-YSL7s",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/4C3UVw82rExY2s3-YSL7s",
+  "homepage": "https://x.ai/bot/4C3UVw82rExY2s3-YSL7s",
+  "license": null,
+  "author": "just_stuff_tm",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

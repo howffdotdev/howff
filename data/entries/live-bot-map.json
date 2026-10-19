@@ -1,0 +1,28 @@
+{
+  "slug": "live-bot-map",
+  "name": "Live Bot Map",
+  "category": "development",
+  "tagline": "Builds a live, animated map of all your Grok Bots, showing who's working, what they're doing and which projects they touch, on a web page that updates itself.",
+  "description": "Builds a live, animated map of all your Grok Bots, showing who's working, what they're doing and which projects they touch, on a web page that updates itself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/LBWRqJu3RkUutDrqSlSEc",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/LBWRqJu3RkUutDrqSlSEc",
+  "homepage": "https://x.ai/bot/LBWRqJu3RkUutDrqSlSEc",
+  "license": null,
+  "author": "kylekane",
+  "tags": [
+    "developer",
+    "meta-bot",
+    "agent-team",
+    "monitoring",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

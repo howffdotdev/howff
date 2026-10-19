@@ -1,0 +1,27 @@
+{
+  "slug": "keigo-email-polisher",
+  "name": "敬語メール清書係",
+  "category": "writing",
+  "tagline": "ざっくりしたメモを貼るだけで、相手に合った敬語のビジネスメールやお詫び文に整えるボット。やわらかめ・しっかりめの言い換えも出します。送信はしません。",
+  "description": "ざっくりしたメモを貼るだけで、相手に合った敬語のビジネスメールやお詫び文に整えるボット。やわらかめ・しっかりめの言い換えも出します。送信はしません。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/cMfJYFNz4lgGOdHc5m7Dm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/cMfJYFNz4lgGOdHc5m7Dm",
+  "homepage": "https://x.ai/bot/cMfJYFNz4lgGOdHc5m7Dm",
+  "license": null,
+  "author": "sidejob_AJ",
+  "tags": [
+    "personal",
+    "productivity",
+    "email",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "listing-agent-desk-lite",
+  "name": "Listing Agent Desk LITE",
+  "category": "sales",
+  "tagline": "For real-estate agents (listing side): turns property facts and photos into ready-to-paste listings in any language, runs a quick comparable-price check, and drafts replies to buyer and renter inquiries.",
+  "description": "For real-estate agents (listing side): turns property facts and photos into ready-to-paste listings in any language, runs a quick comparable-price check, and drafts replies to buyer and renter inquiries. Never publishes or sends without your yes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/8JiqD02tWEQRGcVqPsswi",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/8JiqD02tWEQRGcVqPsswi",
+  "homepage": "https://x.ai/bot/8JiqD02tWEQRGcVqPsswi",
+  "license": null,
+  "author": "ClaudiuBalaciv",
+  "tags": [
+    "real-estate",
+    "business",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
