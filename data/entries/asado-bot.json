@@ -1,0 +1,27 @@
+{
+  "slug": "asado-bot",
+  "name": "Asado bot",
+  "category": "personal",
+  "tagline": "Plans your asado shopping: tell it who is coming and it calculates how much meat, chorizo, and bread to buy, then tracks your progress at the supermarket.",
+  "description": "Plans your asado shopping: tell it who is coming and it calculates how much meat, chorizo, and bread to buy, then tracks your progress at the supermarket. All portion rules are configurable.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/b5Wez7fDDAGMnvjyUaoYY",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/b5Wez7fDDAGMnvjyUaoYY",
+  "homepage": "https://x.ai/bot/b5Wez7fDDAGMnvjyUaoYY",
+  "license": null,
+  "author": "kblok",
+  "tags": [
+    "personal",
+    "food",
+    "events",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

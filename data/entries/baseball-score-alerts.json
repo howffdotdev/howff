@@ -1,0 +1,27 @@
+{
+  "slug": "baseball-score-alerts",
+  "name": "Baseball Score Alerts",
+  "category": "personal",
+  "tagline": "Get MLB score alerts that often beat the TV: pings at the 4th inning, on every run, and at the final, plus a morning schedule with start times and channels.",
+  "description": "Get MLB score alerts that often beat the TV: pings at the 4th inning, on every run, and at the final, plus a morning schedule with start times and channels.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MNAkssnLggwp3t74suuPs",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MNAkssnLggwp3t74suuPs",
+  "homepage": "https://x.ai/bot/MNAkssnLggwp3t74suuPs",
+  "license": null,
+  "author": "SouthernLvg",
+  "tags": [
+    "personal",
+    "monitoring",
+    "scheduled",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

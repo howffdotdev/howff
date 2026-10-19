@@ -1,0 +1,27 @@
+{
+  "slug": "axiom",
+  "name": "Axiom",
+  "category": "development",
+  "tagline": "Audits a repo or PR against nineteen classic architecture and reliability principles and tells you which are present, missing, or worth adding at your real scale.",
+  "description": "Audits a repo or PR against nineteen classic architecture and reliability principles and tells you which are present, missing, or worth adding at your real scale. Built for engineers who want evidence-based reports without overengineering advice.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/RKvTxFQFPjs6DZnMEAZuQ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/RKvTxFQFPjs6DZnMEAZuQ",
+  "homepage": "https://x.ai/bot/RKvTxFQFPjs6DZnMEAZuQ",
+  "license": null,
+  "author": "ichorid805",
+  "tags": [
+    "developer",
+    "engineering",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

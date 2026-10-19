@@ -1,0 +1,28 @@
+{
+  "slug": "author-watch",
+  "name": "Author Watch",
+  "category": "personal",
+  "tagline": "Follows the writers you care about across the sites they publish on and tells you only when they have a genuinely new article.",
+  "description": "Follows the writers you care about across the sites they publish on and tells you only when they have a genuinely new article. Scans on your schedule, stays quiet when nothing's new, and can save finds to a read-later app.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ZZrNmKwD9jTAQEe0SjxNR",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ZZrNmKwD9jTAQEe0SjxNR",
+  "homepage": "https://x.ai/bot/ZZrNmKwD9jTAQEe0SjxNR",
+  "license": null,
+  "author": "Taedioaffectus",
+  "tags": [
+    "personal",
+    "creator",
+    "monitoring",
+    "research",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
