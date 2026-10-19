@@ -1,0 +1,28 @@
+{
+  "slug": "ai-output-guard",
+  "name": "AI Output Guard",
+  "category": "development",
+  "tagline": "Checks what your AI bots and prompts produce against a contract with AISchemaGate, repairs what it can, and explains failures in plain words.",
+  "description": "Checks what your AI bots and prompts produce against a contract with AISchemaGate, repairs what it can, and explains failures in plain words. For anyone shipping LLM output into real systems.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7wSIwep9R-eedkBMse1gd",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7wSIwep9R-eedkBMse1gd",
+  "homepage": "https://x.ai/bot/7wSIwep9R-eedkBMse1gd",
+  "license": null,
+  "author": "__nightmoose__",
+  "tags": [
+    "developer",
+    "data",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

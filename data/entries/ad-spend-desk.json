@@ -1,0 +1,29 @@
+{
+  "slug": "ad-spend-desk",
+  "name": "Ad Spend Desk",
+  "category": "marketing",
+  "tagline": "A read-only ad spend auditor that finds campaigns, ad groups and ads spending without conversions and landing pages that leak traffic, with dollar savings math for each.",
+  "description": "A read-only ad spend auditor that finds campaigns, ad groups and ads spending without conversions and landing pages that leak traffic, with dollar savings math for each. It never pauses or changes anything without your yes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MQLGGf9tlc1LITK3ixesd",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MQLGGf9tlc1LITK3ixesd",
+  "homepage": "https://x.ai/bot/MQLGGf9tlc1LITK3ixesd",
+  "license": null,
+  "author": "Av1dlive",
+  "tags": [
+    "marketer",
+    "business",
+    "analytics",
+    "saving-money",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

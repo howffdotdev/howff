@@ -1,0 +1,28 @@
+{
+  "slug": "ai-price-watch",
+  "name": "AI Price Watch",
+  "category": "ops",
+  "tagline": "Tell it which AI models you or your app use and roughly how much.",
+  "description": "Tell it which AI models you or your app use and roughly how much. Every Monday you get a plain-English price check with cheaper same-tier options, plus a mid-week alert only if a price you care about drops.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/LVV6rcMxNBUKHPX5QFKP-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/LVV6rcMxNBUKHPX5QFKP-",
+  "homepage": "https://x.ai/bot/LVV6rcMxNBUKHPX5QFKP-",
+  "license": null,
+  "author": "McLeodAgency",
+  "tags": [
+    "business",
+    "saving-money",
+    "analytics",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "air-watch",
+  "name": "Air Watch",
+  "category": "personal",
+  "tagline": "Reads your Airthings monitors every 2 hours and messages only you when a room is out of range, quiet otherwise.",
+  "description": "Reads your Airthings monitors every 2 hours and messages only you when a room is out of range, quiet otherwise. v0.2.5; issues at https://github.com/jeffgreendesign/air-watch",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XKZd7x1GsSLCYpU1XZc_o",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XKZd7x1GsSLCYpU1XZc_o",
+  "homepage": "https://x.ai/bot/XKZd7x1GsSLCYpU1XZc_o",
+  "license": null,
+  "author": "jeffgreendev",
+  "tags": [
+    "personal",
+    "monitoring",
+    "wellbeing",
+    "health",
+    "home",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
