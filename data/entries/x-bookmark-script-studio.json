@@ -1,0 +1,30 @@
+{
+  "slug": "x-bookmark-script-studio",
+  "name": "Xブクマ台本工房",
+  "category": "marketing",
+  "tagline": "毎朝あなたのXブックマークから使えるネタを選び、3行要約とショート動画の台本下書きを反応が良さそうな順に届けるボット。投稿はしません。",
+  "description": "毎朝あなたのXブックマークから使えるネタを選び、3行要約とショート動画の台本下書きを反応が良さそうな順に届けるボット。投稿はしません。",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/3tOP_ZthJfS0r3_7E4Gtq",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/3tOP_ZthJfS0r3_7E4Gtq",
+  "homepage": "https://x.ai/bot/3tOP_ZthJfS0r3_7E4Gtq",
+  "license": null,
+  "author": "sidejob_AJ",
+  "tags": [
+    "creator",
+    "content",
+    "social-media",
+    "scheduled",
+    "video"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

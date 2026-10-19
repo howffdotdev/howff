@@ -1,0 +1,29 @@
+{
+  "slug": "x-bookmarks-daily",
+  "name": "X Bookmarks Daily",
+  "category": "marketing",
+  "tagline": "Reads your X bookmarks, likes, and For You feed every day and sends a themed summary with a chart plus a rated report of every outside link shared.",
+  "description": "Reads your X bookmarks, likes, and For You feed every day and sends a themed summary with a chart plus a rated report of every outside link shared. Read-only: it never likes or posts.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wqpbL8VPhO575k2dClEGo",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wqpbL8VPhO575k2dClEGo",
+  "homepage": "https://x.ai/bot/wqpbL8VPhO575k2dClEGo",
+  "license": null,
+  "author": "genxtraders",
+  "tags": [
+    "social-media",
+    "analytics",
+    "scheduled",
+    "personal"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
