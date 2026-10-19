@@ -1,0 +1,29 @@
+{
+  "slug": "product-trial-applier",
+  "name": "체험단신청",
+  "category": "personal",
+  "tagline": "무신사와 카카오 선물하기 체험단을 매일 확인해서 조건에 맞는 공고에 대신 신청하고, 당첨 결과까지 알려주는 봇이에요.",
+  "description": "무신사와 카카오 선물하기 체험단을 매일 확인해서 조건에 맞는 공고에 대신 신청하고, 당첨 결과까지 알려주는 봇이에요.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/VSxAr0CZzf8qh5lUQ9gmA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/VSxAr0CZzf8qh5lUQ9gmA",
+  "homepage": "https://x.ai/bot/VSxAr0CZzf8qh5lUQ9gmA",
+  "license": null,
+  "author": "2ynch",
+  "tags": [
+    "personal",
+    "automation",
+    "saving-money",
+    "shopping",
+    "social-media",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

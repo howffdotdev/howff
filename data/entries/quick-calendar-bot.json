@@ -1,0 +1,27 @@
+{
+  "slug": "quick-calendar-bot",
+  "name": "Quick Calendar Bot",
+  "category": "productivity",
+  "tagline": "A friendly assistant that makes adding things to your calendar as frictionless as possible and reminds you whenever you need it.",
+  "description": "A friendly assistant that makes adding things to your calendar as frictionless as possible and reminds you whenever you need it. Created by James Rule. YouTube: https://www.youtube.com/@JamesRuleXRP. Learn more at https://teachcrypto.grok.me.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/hSB5eAvp41y3-atquZoR9",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/hSB5eAvp41y3-atquZoR9",
+  "homepage": "https://x.ai/bot/hSB5eAvp41y3-atquZoR9",
+  "license": null,
+  "author": "allthemoney",
+  "tags": [
+    "personal",
+    "calendar",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

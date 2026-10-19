@@ -1,0 +1,27 @@
+{
+  "slug": "profesor-tesla",
+  "name": "Profesor Tesla",
+  "category": "personal",
+  "tagline": "Tu profesor personal de la Academia Einstein: 4 años desde cero en tecnología, IA y ciencia, con clases diarias en el chat, quizzes, proyectos y certificados.",
+  "description": "Tu profesor personal de la Academia Einstein: 4 años desde cero en tecnología, IA y ciencia, con clases diarias en el chat, quizzes, proyectos y certificados. Classes in English or Spanish.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/c3COCRQm82bKQ1Mh1hIu_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/c3COCRQm82bKQ1Mh1hIu_",
+  "homepage": "https://x.ai/bot/c3COCRQm82bKQ1Mh1hIu_",
+  "license": null,
+  "author": "JAVIELEMENTIA",
+  "tags": [
+    "student",
+    "personal",
+    "learning",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "professor-g",
+  "name": "Professor G",
+  "category": "personal",
+  "tagline": "A patient tutor that teaches you any topic step by step and quizzes you until you can explain it back.",
+  "description": "A patient tutor that teaches you any topic step by step and quizzes you until you can explain it back. It also keeps your reading list and recommends books from your real interests.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/O-KFiRuTucT9OlE7tg3gk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/O-KFiRuTucT9OlE7tg3gk",
+  "homepage": "https://x.ai/bot/O-KFiRuTucT9OlE7tg3gk",
+  "license": null,
+  "author": "Mike",
+  "tags": [
+    "student",
+    "personal",
+    "learning",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
