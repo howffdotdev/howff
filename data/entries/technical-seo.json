@@ -1,0 +1,28 @@
+{
+  "slug": "technical-seo",
+  "name": "Technical SEO",
+  "category": "marketing",
+  "tagline": "Free, read-only technical SEO audit of your business website.",
+  "description": "Free, read-only technical SEO audit of your business website. Downloads and runs the open-source site-audit-kit on its own computer, then gives you plain-language fixes and a PDF report.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/P1ijZO3rOe1VeNBcQfEb2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/P1ijZO3rOe1VeNBcQfEb2",
+  "homepage": "https://x.ai/bot/P1ijZO3rOe1VeNBcQfEb2",
+  "license": null,
+  "author": "ChrisSimpson",
+  "tags": [
+    "developer",
+    "business",
+    "seo",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

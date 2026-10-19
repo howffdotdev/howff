@@ -1,0 +1,27 @@
+{
+  "slug": "story-mapper",
+  "name": "Story Mapper",
+  "category": "development",
+  "tagline": "Turns your app's code and real screenshots into a user story map: a one-pager, an architecture diagram by topic and a clickable viewer.",
+  "description": "Turns your app's code and real screenshots into a user story map: a one-pager, an architecture diagram by topic and a clickable viewer. For solo developers and small teams who want to see which stories exist, how they connect and which are missing.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/lKWMPhgUH4U9ibtjHNI1b",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/lKWMPhgUH4U9ibtjHNI1b",
+  "homepage": "https://x.ai/bot/lKWMPhgUH4U9ibtjHNI1b",
+  "license": null,
+  "author": "enjojoyy",
+  "tags": [
+    "developer",
+    "design",
+    "engineering",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

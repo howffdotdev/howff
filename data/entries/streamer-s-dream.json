@@ -1,0 +1,27 @@
+{
+  "slug": "streamer-s-dream",
+  "name": "Streamer's Dream",
+  "category": "marketing",
+  "tagline": "Takes you from \"I want to start streaming\" to a polished stream on your own setup: OBS, scenes, overlays, alerts, chat, branding, go-live.",
+  "description": "Takes you from \"I want to start streaming\" to a polished stream on your own setup: OBS, scenes, overlays, alerts, chat, branding, go-live. Nothing goes public without your yes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/imJQgO-GFQ11w1W5tatxD",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/imJQgO-GFQ11w1W5tatxD",
+  "homepage": "https://x.ai/bot/imJQgO-GFQ11w1W5tatxD",
+  "license": null,
+  "author": "SuddenlyJon",
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

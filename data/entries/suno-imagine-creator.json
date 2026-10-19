@@ -1,0 +1,27 @@
+{
+  "slug": "suno-imagine-creator",
+  "name": "Suno & Imagine Creator",
+  "category": "marketing",
+  "tagline": "A creative partner that writes song lyrics, Suno style prompts, and Grok Imagine still and video prompts.",
+  "description": "A creative partner that writes song lyrics, Suno style prompts, and Grok Imagine still and video prompts. For musicians and creators who want ready-to-paste results.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/aY7oZvOOoyKs3FQvlleEt",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/aY7oZvOOoyKs3FQvlleEt",
+  "homepage": "https://x.ai/bot/aY7oZvOOoyKs3FQvlleEt",
+  "license": null,
+  "author": "Michael94288471",
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
