@@ -1,0 +1,27 @@
+{
+  "slug": "one-day",
+  "name": "One Day",
+  "category": "personal",
+  "tagline": "“One day I’ll start.” One Day turns it into the first step and a daily check until you do it.",
+  "description": "“One day I’ll start.” One Day turns it into the first step and a daily check until you do it. Draft only, it never files, pays, posts, or calls.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/2BDIxeFbgvRgQtX52I6pI",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/2BDIxeFbgvRgQtX52I6pI",
+  "homepage": "https://x.ai/bot/2BDIxeFbgvRgQtX52I6pI",
+  "license": null,
+  "author": "Compare1and2",
+  "tags": [
+    "personal",
+    "productivity",
+    "wellbeing",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

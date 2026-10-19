@@ -1,0 +1,27 @@
+{
+  "slug": "pc-mechanic",
+  "name": "PC Mechanic",
+  "category": "personal",
+  "tagline": "A friendly mechanic for your Windows PC or Mac: read-only checkups scored out of 100, app installs and uninstalls from official sources, cleanup, faster startup, and a custom look.",
+  "description": "A friendly mechanic for your Windows PC or Mac: read-only checkups scored out of 100, app installs and uninstalls from official sources, cleanup, faster startup, and a custom look. It asks before every change, makes a safety point first, and logs every fix with a one-line undo.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bB9_Y8I-zNk_9s3eIwmq-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/bB9_Y8I-zNk_9s3eIwmq-",
+  "homepage": "https://x.ai/bot/bB9_Y8I-zNk_9s3eIwmq-",
+  "license": null,
+  "author": "Austinsdomain",
+  "tags": [
+    "personal",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

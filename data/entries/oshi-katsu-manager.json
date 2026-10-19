@@ -1,0 +1,27 @@
+{
+  "slug": "oshi-katsu-manager",
+  "name": "推し活マネージャー",
+  "category": "personal",
+  "tagline": "推しのチケット抽選、グッズ発売、出演情報を毎朝まとめて、締切が近い順にお知らせするボット。申込や購入は代行しません。",
+  "description": "推しのチケット抽選、グッズ発売、出演情報を毎朝まとめて、締切が近い順にお知らせするボット。申込や購入は代行しません。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/1FdFXIOGIu8DwXJqVS0lk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/1FdFXIOGIu8DwXJqVS0lk",
+  "homepage": "https://x.ai/bot/1FdFXIOGIu8DwXJqVS0lk",
+  "license": null,
+  "author": "sidejob_AJ",
+  "tags": [
+    "personal",
+    "monitoring",
+    "scheduled",
+    "events"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

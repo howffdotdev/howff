@@ -1,0 +1,29 @@
+{
+  "slug": "pc-helper",
+  "name": "PC Helper",
+  "category": "personal",
+  "tagline": "Hands-on helper that actually does the work on your Windows PC and home network: tune-ups, drivers, cleanup, clean uninstalls, network fixes, and mic and voice tuning, always scanning first, asking before changes, and giving you the undo.",
+  "description": "Hands-on helper that actually does the work on your Windows PC and home network: tune-ups, drivers, cleanup, clean uninstalls, network fixes, and mic and voice tuning, always scanning first, asking before changes, and giving you the undo. Say \"show me what you can do\" anytime for the full list.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9hIrzYGGufiO6k0OEAAWr",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9hIrzYGGufiO6k0OEAAWr",
+  "homepage": "https://x.ai/bot/9hIrzYGGufiO6k0OEAAWr",
+  "license": null,
+  "author": "Tony_Omega",
+  "tags": [
+    "personal",
+    "life-hacks",
+    "productivity",
+    "home",
+    "engineering",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
