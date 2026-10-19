@@ -1,0 +1,30 @@
+{
+  "slug": "celiac-scout",
+  "name": "Celiac Scout",
+  "category": "personal",
+  "tagline": "A restaurant safety checker for people with celiac disease or a serious gluten intolerance.",
+  "description": "A restaurant safety checker for people with celiac disease or a serious gluten intolerance. When you name a restaurant, chain, or menu item (or ask for safe options in an area), it vets it for celiac safety and gives a clear verdict.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Zvmfe2UNApNPNlNGQGnVj",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Zvmfe2UNApNPNlNGQGnVj",
+  "homepage": "https://x.ai/bot/Zvmfe2UNApNPNlNGQGnVj",
+  "license": null,
+  "author": "Biggs237",
+  "tags": [
+    "personal",
+    "decision-support",
+    "research",
+    "food",
+    "health",
+    "travel",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

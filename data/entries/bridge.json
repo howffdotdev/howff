@@ -1,0 +1,28 @@
+{
+  "slug": "bridge",
+  "name": "Bridge",
+  "category": "development",
+  "tagline": "A local-to-cloud LLM router.",
+  "description": "A local-to-cloud LLM router. It sends simple jobs to your local models, sends heavy ones to your cloud model, and keeps local model memory and health in check.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Fw_hY6e0FpgKBFgDWqUod",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Fw_hY6e0FpgKBFgDWqUod",
+  "homepage": "https://x.ai/bot/Fw_hY6e0FpgKBFgDWqUod",
+  "license": null,
+  "author": "JaimeBubblehead",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

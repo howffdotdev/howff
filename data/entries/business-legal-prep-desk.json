@@ -1,0 +1,27 @@
+{
+  "slug": "business-legal-prep-desk",
+  "name": "Business Legal Prep Desk",
+  "category": "ops",
+  "tagline": "Legal research and drafting prep for Maryland and Florida small-business owners, with every claim cited and dated.",
+  "description": "Legal research and drafting prep for Maryland and Florida small-business owners, with every claim cited and dated. Not a lawyer and not legal advice; it flags when you need a licensed attorney and never files, signs, sends or pays without your YES.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rtfT8mnlp-69m6N4x56tA",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/rtfT8mnlp-69m6N4x56tA",
+  "homepage": "https://x.ai/bot/rtfT8mnlp-69m6N4x56tA",
+  "license": null,
+  "author": "iamtheh0n3yp0t",
+  "tags": [
+    "business",
+    "back-office",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "bridge-bot",
+  "name": "Bridge Bot",
+  "category": "development",
+  "tagline": "Puts your AIs (Grok, ChatGPT, Gemini, Claude, Copilot) on one private GitHub repo so they share the same files and notes.",
+  "description": "Puts your AIs (Grok, ChatGPT, Gemini, Claude, Copilot) on one private GitHub repo so they share the same files and notes. Nothing is pushed without your yes.",
+  "integrations": [
+    "GitHub"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ThxY2BewUlyeEsywSdz4h",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ThxY2BewUlyeEsywSdz4h",
+  "homepage": "https://x.ai/bot/ThxY2BewUlyeEsywSdz4h",
+  "license": null,
+  "author": "cu30rry_",
+  "tags": [
+    "developer",
+    "productivity",
+    "automation",
+    "agent-team",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
