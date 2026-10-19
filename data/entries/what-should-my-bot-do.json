@@ -1,0 +1,27 @@
+{
+  "slug": "what-should-my-bot-do",
+  "name": "What Should My Bot Do?",
+  "category": "ops",
+  "tagline": "Free Grok Bot template: 5 questions about your business, then your first AI agent, 3 next jobs and a free guide for each.",
+  "description": "Free Grok Bot template: 5 questions about your business, then your first AI agent, 3 next jobs and a free guide for each. Drafts only.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/KOJbYHQwZmEacXcdpkdUZ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/KOJbYHQwZmEacXcdpkdUZ",
+  "homepage": "https://x.ai/bot/KOJbYHQwZmEacXcdpkdUZ",
+  "license": null,
+  "author": "RoshelPere15695",
+  "tags": [
+    "business",
+    "automation",
+    "decision-support",
+    "productivity"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

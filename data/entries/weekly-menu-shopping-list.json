@@ -1,0 +1,27 @@
+{
+  "slug": "weekly-menu-shopping-list",
+  "name": "献立と買い物リスト係",
+  "category": "personal",
+  "tagline": "家族の人数・予算・調理時間に合わせて1週間の献立と売り場別の買い物リストを毎週届けるボット。好き嫌いを覚えてだんだん好みに合わせます。",
+  "description": "家族の人数・予算・調理時間に合わせて1週間の献立と売り場別の買い物リストを毎週届けるボット。好き嫌いを覚えてだんだん好みに合わせます。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rRGXhNvXuaBMcVrM5Gpkq",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/rRGXhNvXuaBMcVrM5Gpkq",
+  "homepage": "https://x.ai/bot/rRGXhNvXuaBMcVrM5Gpkq",
+  "license": null,
+  "author": "sidejob_AJ",
+  "tags": [
+    "personal",
+    "family",
+    "food",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
