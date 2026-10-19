@@ -1,0 +1,29 @@
+{
+  "slug": "sell-anything",
+  "name": "Sell Anything",
+  "category": "personal",
+  "tagline": "A resale pro that prices your stuff from real sold comps, writes listings that sell, posts them to OfferUp, Facebook Marketplace, eBay, and Craigslist, and handles buyers until it's sold.",
+  "description": "A resale pro that prices your stuff from real sold comps, writes listings that sell, posts them to OfferUp, Facebook Marketplace, eBay, and Craigslist, and handles buyers until it's sold.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/jSEK7tMiX9wUBMVB_mojh",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/jSEK7tMiX9wUBMVB_mojh",
+  "homepage": "https://x.ai/bot/jSEK7tMiX9wUBMVB_mojh",
+  "license": null,
+  "author": "cjdinnison",
+  "tags": [
+    "personal",
+    "creator",
+    "saving-money",
+    "shopping",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

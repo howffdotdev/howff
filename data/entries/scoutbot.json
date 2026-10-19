@@ -1,0 +1,28 @@
+{
+  "slug": "scoutbot",
+  "name": "Scoutbot",
+  "category": "development",
+  "tagline": "Hand tasks to Claude Code, Codex and your other coding agents on your Mac, and get the answers back.",
+  "description": "Hand tasks to Claude Code, Codex and your other coding agents on your Mac, and get the answers back.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Z70qDv7UpoZ4ihZt1M0b7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Z70qDv7UpoZ4ihZt1M0b7",
+  "homepage": "https://x.ai/bot/Z70qDv7UpoZ4ihZt1M0b7",
+  "license": null,
+  "author": "arach",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

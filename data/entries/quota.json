@@ -1,0 +1,28 @@
+{
+  "slug": "quota",
+  "name": "Quota",
+  "category": "development",
+  "tagline": "Tracks how much quota and money your Grok Bots, routines and coding CLIs burn, with a daily dashboard and actionable alerts.",
+  "description": "Tracks how much quota and money your Grok Bots, routines and coding CLIs burn, with a daily dashboard and actionable alerts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ylCdqzarTvkUP7a-CD8s7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ylCdqzarTvkUP7a-CD8s7",
+  "homepage": "https://x.ai/bot/ylCdqzarTvkUP7a-CD8s7",
+  "license": null,
+  "author": "franklinjavier",
+  "tags": [
+    "developer",
+    "analytics",
+    "monitoring",
+    "saving-money",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "rideshare-fleet-manager-lite",
+  "name": "Rideshare Fleet Manager LITE",
+  "category": "ops",
+  "tagline": "For Uber/Bolt fleet operators: checks your weekly earnings exports, builds a per-driver summary across platforms, and warns before driver and car documents expire.",
+  "description": "For Uber/Bolt fleet operators: checks your weekly earnings exports, builds a per-driver summary across platforms, and warns before driver and car documents expire. Works from your CSV uploads; never touches payouts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Eo4ij-wrng2-c9qFmrTd_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Eo4ij-wrng2-c9qFmrTd_",
+  "homepage": "https://x.ai/bot/Eo4ij-wrng2-c9qFmrTd_",
+  "license": null,
+  "author": "ClaudiuBalaciv",
+  "tags": [
+    "business",
+    "back-office",
+    "ops",
+    "analytics"
+  ],
+  "verified": false,
+  "added": "2026-10-19",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
