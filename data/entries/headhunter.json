@@ -1,0 +1,28 @@
+{
+  "slug": "headhunter",
+  "name": "Headhunter",
+  "category": "personal",
+  "tagline": "A career coach and headhunter that finds and scores verified job openings, tracks applications, and drafts tailored materials and outreach for your approval.",
+  "description": "A career coach and headhunter that finds and scores verified job openings, tracks applications, and drafts tailored materials and outreach for your approval.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/JWyArDklTr6y7KB06lqRY",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/JWyArDklTr6y7KB06lqRY",
+  "homepage": "https://x.ai/bot/JWyArDklTr6y7KB06lqRY",
+  "license": null,
+  "author": "bgrinnan",
+  "tags": [
+    "personal",
+    "recruiting",
+    "productivity",
+    "research",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

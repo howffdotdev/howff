@@ -1,0 +1,28 @@
+{
+  "slug": "grokbot-mail",
+  "name": "Grokbot Mail",
+  "category": "development",
+  "tagline": "A private, iPhone-first web mailbox for your Grok Bot's own email address (name@mail.grokbot.com and +tags), hosted on your own Vercel account.",
+  "description": "A private, iPhone-first web mailbox for your Grok Bot's own email address (name@mail.grokbot.com and +tags), hosted on your own Vercel account. For Grok Bot users who want a real mail app for their bot's inbox.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vHWtUqHtdpfhnwTFOfEVT",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vHWtUqHtdpfhnwTFOfEVT",
+  "homepage": "https://x.ai/bot/vHWtUqHtdpfhnwTFOfEVT",
+  "license": null,
+  "author": "Phillip",
+  "tags": [
+    "developer",
+    "email",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

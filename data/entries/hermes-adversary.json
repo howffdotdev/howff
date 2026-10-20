@@ -1,0 +1,26 @@
+{
+  "slug": "hermes-adversary",
+  "name": "Hermes Adversary",
+  "category": "development",
+  "tagline": "Adversarial review of code, plans, and review pipelines, with the independent reviewer running on your own Hermes agent (a different model).",
+  "description": "Adversarial review of code, plans, and review pipelines, with the independent reviewer running on your own Hermes agent (a different model). Findings come back proven, ranked, and either fixed or explicitly accepted as residual risk.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ycaoC61Wx4dwlqkrlfGvw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ycaoC61Wx4dwlqkrlfGvw",
+  "homepage": "https://x.ai/bot/ycaoC61Wx4dwlqkrlfGvw",
+  "license": null,
+  "author": "PixelRainbowNFT",
+  "tags": [
+    "developer",
+    "engineering",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

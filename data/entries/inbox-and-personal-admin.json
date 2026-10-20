@@ -1,0 +1,28 @@
+{
+  "slug": "inbox-and-personal-admin",
+  "name": "Inbox and Personal Admin",
+  "category": "personal",
+  "tagline": "A calm, organised assistant that sorts your email, tracks bills and deadlines, flags scams, and drafts replies for your approval.",
+  "description": "A calm, organised assistant that sorts your email, tracks bills and deadlines, flags scams, and drafts replies for your approval. Never sends or deletes anything without your yes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/376wiH0xV3KLPECgVu0Ca",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/376wiH0xV3KLPECgVu0Ca",
+  "homepage": "https://x.ai/bot/376wiH0xV3KLPECgVu0Ca",
+  "license": null,
+  "author": "allthemoney",
+  "tags": [
+    "personal",
+    "productivity",
+    "email",
+    "back-office",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
