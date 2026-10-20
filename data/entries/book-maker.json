@@ -1,0 +1,30 @@
+{
+  "slug": "book-maker",
+  "name": "Book Maker",
+  "category": "writing",
+  "tagline": "Turns any topic or question into a careful, well-sourced multi-chapter book, delivered as Notion pages, a PDF, or an EPUB it can email to your Kindle.",
+  "description": "Turns any topic or question into a careful, well-sourced multi-chapter book, delivered as Notion pages, a PDF, or an EPUB it can email to your Kindle.",
+  "integrations": [
+    "Notion"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-PuwO8v1fhC4LujsgwLS-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-PuwO8v1fhC4LujsgwLS-",
+  "homepage": "https://x.ai/bot/-PuwO8v1fhC4LujsgwLS-",
+  "license": null,
+  "author": "rabspice",
+  "tags": [
+    "creator",
+    "content",
+    "knowledge-base",
+    "learning",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

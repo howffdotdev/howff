@@ -1,0 +1,28 @@
+{
+  "slug": "call-shield",
+  "name": "Call Shield",
+  "category": "personal",
+  "tagline": "Cuts the spam calls reaching your phone and keeps them down: Do Not Call registration, carrier and phone blockers, FTC complaint drafts, and data-broker opt-outs, all with your approval.",
+  "description": "Cuts the spam calls reaching your phone and keeps them down: Do Not Call registration, carrier and phone blockers, FTC complaint drafts, and data-broker opt-outs, all with your approval. Template by akirax.si.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/leKqVRHk7QbaX3VVcUbEv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/leKqVRHk7QbaX3VVcUbEv",
+  "homepage": "https://x.ai/bot/leKqVRHk7QbaX3VVcUbEv",
+  "license": null,
+  "author": "cryptorally",
+  "tags": [
+    "personal",
+    "monitoring",
+    "automation",
+    "support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

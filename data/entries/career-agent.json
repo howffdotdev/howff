@@ -1,0 +1,29 @@
+{
+  "slug": "career-agent",
+  "name": "Career Agent",
+  "category": "personal",
+  "tagline": "A career agent that finds job openings verified live on employer boards, tracks them, and preps truthful, tailored applications.",
+  "description": "A career agent that finds job openings verified live on employer boards, tracks them, and preps truthful, tailored applications. It's for anyone job hunting who wants honest fit notes and a weekly roundup, with nothing submitted until they approve it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/TP4PIzpIIrb3qXuLjUVU2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/TP4PIzpIIrb3qXuLjUVU2",
+  "homepage": "https://x.ai/bot/TP4PIzpIIrb3qXuLjUVU2",
+  "license": null,
+  "author": "phillipggreen",
+  "tags": [
+    "personal",
+    "business",
+    "productivity",
+    "research",
+    "recruiting",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

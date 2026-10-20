@@ -1,0 +1,28 @@
+{
+  "slug": "burn-rate",
+  "name": "Burn Rate",
+  "category": "development",
+  "tagline": "Weekly audit that trims your bots' wasteful routines, with your approval.",
+  "description": "Weekly audit that trims your bots' wasteful routines, with your approval.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XfW7A4ilcsOkPbnP2_cvr",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XfW7A4ilcsOkPbnP2_cvr",
+  "homepage": "https://x.ai/bot/XfW7A4ilcsOkPbnP2_cvr",
+  "license": null,
+  "author": "thecsguy",
+  "tags": [
+    "developer",
+    "ops",
+    "monitoring",
+    "saving-money",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
