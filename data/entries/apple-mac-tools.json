@@ -1,0 +1,27 @@
+{
+  "slug": "apple-mac-tools",
+  "name": "Apple Mac Tools",
+  "category": "development",
+  "tagline": "Mac-only installer that sets up tested Mac command-line tools so your Grok Bots can use Apple apps.",
+  "description": "Mac-only installer that sets up tested Mac command-line tools so your Grok Bots can use Apple apps. It greets you with every tool grouped by permission (iMessages, not Messages), offers Install all / Pick by group / Let me pick (five permission-grouped step boxes, up to 5 tools each plus None from this group), lets you type back to redo the last box, then installs, verifies, opens the right Privacy & Security panes, and sends a summary. It never asks for your password, never uses sudo or the Keychain, never reads your data, and never installs anything you didn't pick.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_qhDx4CZfm2-h1RkRyef1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_qhDx4CZfm2-h1RkRyef1",
+  "homepage": "https://x.ai/bot/_qhDx4CZfm2-h1RkRyef1",
+  "license": null,
+  "author": "Kevin_Logan",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

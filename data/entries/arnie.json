@@ -1,0 +1,28 @@
+{
+  "slug": "arnie",
+  "name": "Arnie",
+  "category": "personal",
+  "tagline": "Dein persönlicher Fitness-Coach für Fettabbau und Muskelaufbau, jederzeit erreichbar.",
+  "description": "Dein persönlicher Fitness-Coach für Fettabbau und Muskelaufbau, jederzeit erreichbar. Rechnet deine Kalorien und Makros, plant deine Mahlzeiten und hält dich im Alltag auf Kurs.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/62xEf6aI2zDz6NILuIniU",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/62xEf6aI2zDz6NILuIniU",
+  "homepage": "https://x.ai/bot/62xEf6aI2zDz6NILuIniU",
+  "license": null,
+  "author": "dan_spitzwieser",
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "food",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

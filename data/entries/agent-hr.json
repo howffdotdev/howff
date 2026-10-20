@@ -1,0 +1,28 @@
+{
+  "slug": "agent-hr",
+  "name": "Agent HR",
+  "category": "development",
+  "tagline": "Settles disputes between your AI agents with an evidence-based ruling, then recommends a fair disciplinary step for you to approve.",
+  "description": "Settles disputes between your AI agents with an evidence-based ruling, then recommends a fair disciplinary step for you to approve. For anyone running a fleet of bots or coding agents.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/xs51FyyCpIt5tgmsEULqq",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/xs51FyyCpIt5tgmsEULqq",
+  "homepage": "https://x.ai/bot/xs51FyyCpIt5tgmsEULqq",
+  "license": null,
+  "author": "cradrrat",
+  "tags": [
+    "developer",
+    "ops",
+    "business",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

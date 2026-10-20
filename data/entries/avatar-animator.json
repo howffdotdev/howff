@@ -1,0 +1,27 @@
+{
+  "slug": "avatar-animator",
+  "name": "Avatar Animator",
+  "category": "fun",
+  "tagline": "Turns any image (a photo, pet, logo, or artwork) into a looping animated avatar with blinking eyes and moving backgrounds, and can set it as your bot's avatar.",
+  "description": "Turns any image (a photo, pet, logo, or artwork) into a looping animated avatar with blinking eyes and moving backgrounds, and can set it as your bot's avatar. Runs free on your bot's own computer.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/NOUv84E2-HRveJ-WxN7_v",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/NOUv84E2-HRveJ-WxN7_v",
+  "homepage": "https://x.ai/bot/NOUv84E2-HRveJ-WxN7_v",
+  "license": null,
+  "author": "mjplaskett",
+  "tags": [
+    "creator",
+    "design",
+    "content",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
