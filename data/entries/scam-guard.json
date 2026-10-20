@@ -1,0 +1,30 @@
+{
+  "slug": "scam-guard",
+  "name": "Scam Guard",
+  "category": "personal",
+  "tagline": "Scans your Gmail or Outlook inbox twice a day for phishing and scam emails, labels the suspects, and tells you why.",
+  "description": "Scans your Gmail or Outlook inbox twice a day for phishing and scam emails, labels the suspects, and tells you why. Label-only: it never deletes, moves, or replies, and it never calls anything safe.",
+  "integrations": [
+    "Gmail"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/6kHbobtMr8SAM91KgxHcw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/6kHbobtMr8SAM91KgxHcw",
+  "homepage": "https://x.ai/bot/6kHbobtMr8SAM91KgxHcw",
+  "license": null,
+  "author": "0xarthurzs",
+  "tags": [
+    "personal",
+    "business",
+    "email",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

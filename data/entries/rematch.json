@@ -1,0 +1,28 @@
+{
+  "slug": "rematch",
+  "name": "Rematch",
+  "category": "sales",
+  "tagline": "Finds every stalled email, quiet lead, and open loop, then drafts the follow-up.",
+  "description": "Finds every stalled email, quiet lead, and open loop, then drafts the follow-up. Nothing sends without your OK.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_abcO9nWji9H9yX1r9XGV",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_abcO9nWji9H9yX1r9XGV",
+  "homepage": "https://x.ai/bot/_abcO9nWji9H9yX1r9XGV",
+  "license": null,
+  "author": "0xarthurzs",
+  "tags": [
+    "business",
+    "sales",
+    "email",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

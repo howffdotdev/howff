@@ -1,0 +1,28 @@
+{
+  "slug": "repobeagle",
+  "name": "RepoBeagle",
+  "category": "development",
+  "tagline": "Paste a repo link and get a safety verdict before you trust it.",
+  "description": "Paste a repo link and get a safety verdict before you trust it.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bTuuNK785OULBheQ5rPZ-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/bTuuNK785OULBheQ5rPZ-",
+  "homepage": "https://x.ai/bot/bTuuNK785OULBheQ5rPZ-",
+  "license": null,
+  "author": "jvr0x",
+  "tags": [
+    "developer",
+    "engineering",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
