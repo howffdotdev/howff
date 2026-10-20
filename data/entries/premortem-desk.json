@@ -1,0 +1,27 @@
+{
+  "slug": "premortem-desk",
+  "name": "Premortem Desk",
+  "category": "ops",
+  "tagline": "Paste a plan you've already committed to and get the most likely ways it fails, the early warning sign for each, and when to pivot or stop.",
+  "description": "Paste a plan you've already committed to and get the most likely ways it fails, the early warning sign for each, and when to pivot or stop. Optional weekly check-in tells you when a trigger fires.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/RMTU2Vv4BHQtoJwGFhYCm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/RMTU2Vv4BHQtoJwGFhYCm",
+  "homepage": "https://x.ai/bot/RMTU2Vv4BHQtoJwGFhYCm",
+  "license": null,
+  "author": "teeRex247",
+  "tags": [
+    "business",
+    "developer",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

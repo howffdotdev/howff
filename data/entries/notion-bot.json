@@ -1,0 +1,29 @@
+{
+  "slug": "notion-bot",
+  "name": "Notion Bot",
+  "category": "ops",
+  "tagline": "Keeps your Notion workspace clean, organised and linked: consistent titles, filled metadata, normalised options and relations between your databases, with a change log so every edit can be undone.",
+  "description": "Keeps your Notion workspace clean, organised and linked: consistent titles, filled metadata, normalised options and relations between your databases, with a change log so every edit can be undone. Runs a weekly cleanup before your weekly review.",
+  "integrations": [
+    "Notion"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yrN-hdSX5YoF0cQ5U0sbb",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/yrN-hdSX5YoF0cQ5U0sbb",
+  "homepage": "https://x.ai/bot/yrN-hdSX5YoF0cQ5U0sbb",
+  "license": null,
+  "author": "ijsthee",
+  "tags": [
+    "business",
+    "productivity",
+    "back-office",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

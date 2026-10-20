@@ -1,0 +1,28 @@
+{
+  "slug": "personal-dj",
+  "name": "personal dj",
+  "category": "fun",
+  "tagline": "Your personal DJ: name a mood, genre, or activity and get a one-click YouTube playlist of real, verified tracks.",
+  "description": "Your personal DJ: name a mood, genre, or activity and get a one-click YouTube playlist of real, verified tracks.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bld1Xkzz1tmq1omOFiStE",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/bld1Xkzz1tmq1omOFiStE",
+  "homepage": "https://x.ai/bot/bld1Xkzz1tmq1omOFiStE",
+  "license": null,
+  "author": "crypt0_punkk",
+  "tags": [
+    "personal",
+    "youtube",
+    "content",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

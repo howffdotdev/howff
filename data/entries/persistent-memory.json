@@ -1,0 +1,31 @@
+{
+  "slug": "persistent-memory",
+  "name": "Persistent memory",
+  "category": "development",
+  "tagline": "Gives all your bots one durable memory: each bot writes a daily log of decisions, shipped work, and standing preferences to a private GitHub repo you own.",
+  "description": "Gives all your bots one durable memory: each bot writes a daily log of decisions, shipped work, and standing preferences to a private GitHub repo you own.",
+  "integrations": [
+    "GitHub"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rp0gErUTW6Vth7cdtwPS_",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/rp0gErUTW6Vth7cdtwPS_",
+  "homepage": "https://x.ai/bot/rp0gErUTW6Vth7cdtwPS_",
+  "license": null,
+  "author": "andrerocha",
+  "tags": [
+    "developer",
+    "automation",
+    "knowledge-base",
+    "monitoring",
+    "meta-bot",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
