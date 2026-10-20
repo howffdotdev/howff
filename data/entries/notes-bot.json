@@ -1,0 +1,28 @@
+{
+  "slug": "notes-bot",
+  "name": "Notes Bot",
+  "category": "personal",
+  "tagline": "A simple personal notepad.",
+  "description": "A simple personal notepad. Toss it ideas, reminders or rambling dictated thoughts, and it saves clean, dated notes to your Google Doc and pings you when reminders are due.",
+  "integrations": [
+    "Google Docs"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/go9M2-A3GQM5-tpstIPIQ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/go9M2-A3GQM5-tpstIPIQ",
+  "homepage": "https://x.ai/bot/go9M2-A3GQM5-tpstIPIQ",
+  "license": null,
+  "author": "XFreeze",
+  "tags": [
+    "personal",
+    "productivity",
+    "knowledge-base"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

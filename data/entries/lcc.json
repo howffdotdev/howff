@@ -1,0 +1,29 @@
+{
+  "slug": "lcc",
+  "name": "LCCポーカー遠征サポーター",
+  "category": "personal",
+  "tagline": "LCCで安く行けるポーカー遠征を、追加料金込みの総額で比べて提案するボット。会社員のポーカープレイヤー向け。",
+  "description": "LCCで安く行けるポーカー遠征を、追加料金込みの総額で比べて提案するボット。会社員のポーカープレイヤー向け。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bcB5JEpUXmwNHgyNphT2k",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/bcB5JEpUXmwNHgyNphT2k",
+  "homepage": "https://x.ai/bot/bcB5JEpUXmwNHgyNphT2k",
+  "license": null,
+  "author": "hiruma_poker",
+  "tags": [
+    "personal",
+    "travel",
+    "shopping",
+    "saving-money",
+    "decision-support",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

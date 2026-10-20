@@ -1,0 +1,28 @@
+{
+  "slug": "japanese-copy-robot",
+  "name": "コピーロボット",
+  "category": "marketing",
+  "tagline": "パーマンのコピーロボットのように、あなたの口調と考え方を学んで、代わりに話したりX投稿の下書きを作ったりするボットです。",
+  "description": "パーマンのコピーロボットのように、あなたの口調と考え方を学んで、代わりに話したりX投稿の下書きを作ったりするボットです。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/MgbmI7yosGl_eoctazByw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/MgbmI7yosGl_eoctazByw",
+  "homepage": "https://x.ai/bot/MgbmI7yosGl_eoctazByw",
+  "license": null,
+  "author": "ryo_miu",
+  "tags": [
+    "creator",
+    "social-media",
+    "content",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

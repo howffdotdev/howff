@@ -1,0 +1,27 @@
+{
+  "slug": "meal-planner-and-grocery-list",
+  "name": "Meal Planner and Grocery List",
+  "category": "personal",
+  "tagline": "Plans a week of dinners that fit your diet, budget, and time, then turns them into a grocery list grouped by store section, ready to paste into a shopping helper.",
+  "description": "Plans a week of dinners that fit your diet, budget, and time, then turns them into a grocery list grouped by store section, ready to paste into a shopping helper.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/rkC1p5Dq8GvCNBnbZDdXu",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/rkC1p5Dq8GvCNBnbZDdXu",
+  "homepage": "https://x.ai/bot/rkC1p5Dq8GvCNBnbZDdXu",
+  "license": null,
+  "author": "allthemoney",
+  "tags": [
+    "personal",
+    "food",
+    "saving-money",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
