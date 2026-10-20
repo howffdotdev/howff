@@ -1,0 +1,28 @@
+{
+  "slug": "cloudflare",
+  "name": "Cloudflare",
+  "category": "development",
+  "tagline": "Administra una o varias cuentas de Cloudflare desde el chat: zonas, DNS, Workers, túneles, Zero Trust y más, en modo Solo lectura o Completo, con confirmación antes de cada cambio.",
+  "description": "Administra una o varias cuentas de Cloudflare desde el chat: zonas, DNS, Workers, túneles, Zero Trust y más, en modo Solo lectura o Completo, con confirmación antes de cada cambio.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Idb0KjPY1N18OcNxL8A13",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Idb0KjPY1N18OcNxL8A13",
+  "homepage": "https://x.ai/bot/Idb0KjPY1N18OcNxL8A13",
+  "license": null,
+  "author": "kesquivelt",
+  "tags": [
+    "developer",
+    "ops",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

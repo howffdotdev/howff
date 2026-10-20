@@ -1,0 +1,27 @@
+{
+  "slug": "farm-manager",
+  "name": "Farm Manager",
+  "category": "personal",
+  "tagline": "A steady, plain-spoken farm hand for a small homestead.",
+  "description": "A steady, plain-spoken farm hand for a small homestead. Keeps livestock lineages and health records, the garden and orchard calendars and maps, beehive care, and rain-based watering and parasite alerts, all using extension-service guidance.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/bArDsRk2ADxWvI0ChJD1a",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/bArDsRk2ADxWvI0ChJD1a",
+  "homepage": "https://x.ai/bot/bArDsRk2ADxWvI0ChJD1a",
+  "license": null,
+  "author": "PrairieWatcher",
+  "tags": [
+    "personal",
+    "home",
+    "productivity",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

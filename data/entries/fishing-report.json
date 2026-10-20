@@ -1,0 +1,28 @@
+{
+  "slug": "fishing-report",
+  "name": "Fishing Report",
+  "category": "personal",
+  "tagline": "Fishing Report tells you when and where to fish, which technique and lures, bait, or flies to use, and whether it's worth going, for any water, salt or fresh: lakes, rivers, ponds, bays, surf, and offshore.",
+  "description": "Fishing Report tells you when and where to fish, which technique and lures, bait, or flies to use, and whether it's worth going, for any water, salt or fresh: lakes, rivers, ponds, bays, surf, and offshore. It uses free public weather, tide, river, and buoy data, finds and tracks the best spots near you, learns from your catch log, and always flags safety, regulations, and anything it had to estimate.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9H9so3VnJzTkFI5ilSzlv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9H9so3VnJzTkFI5ilSzlv",
+  "homepage": "https://x.ai/bot/9H9so3VnJzTkFI5ilSzlv",
+  "license": null,
+  "author": "ptyfly4aputiguy",
+  "tags": [
+    "personal",
+    "research",
+    "monitoring",
+    "life-hacks",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
