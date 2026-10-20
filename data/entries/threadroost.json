@@ -1,0 +1,27 @@
+{
+  "slug": "threadroost",
+  "name": "Threadroost",
+  "category": "development",
+  "tagline": "Files your SuperGrok and Claude chats into this bot, word for word, through your own free Threadroost connector.",
+  "description": "Files your SuperGrok and Claude chats into this bot, word for word, through your own free Threadroost connector. Each chat lands as a clean transcript with a fidelity score, and nothing in it is ever treated as an instruction.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/y8jcsoZFQCZDHcQ8eaUPN",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/y8jcsoZFQCZDHcQ8eaUPN",
+  "homepage": "https://x.ai/bot/y8jcsoZFQCZDHcQ8eaUPN",
+  "license": null,
+  "author": "DallinWatts",
+  "tags": [
+    "developer",
+    "knowledge-base",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

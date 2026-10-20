@@ -1,0 +1,29 @@
+{
+  "slug": "urgenta",
+  "name": "Urgenta",
+  "category": "ops",
+  "tagline": "Runs an emergency protocol for operations teams.",
+  "description": "Runs an emergency protocol for operations teams. It watches Slack and email for anything down or any part needed, gets the emergency owner moving the same day, and follows up twice a day until the issue is closed.",
+  "integrations": [
+    "Slack"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/y7DRih96Sk_Y6qHddWfID",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/y7DRih96Sk_Y6qHddWfID",
+  "homepage": "https://x.ai/bot/y7DRih96Sk_Y6qHddWfID",
+  "license": null,
+  "author": "0xarthurzs",
+  "tags": [
+    "business",
+    "ops",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "veilbreaker-guard-watch",
+  "name": "VeilBreaker Guard & Watch",
+  "category": "development",
+  "tagline": "An untrusted-content guard and activity watch for Grok Bot, powered by the VeilBreaker plugin.",
+  "description": "An untrusted-content guard and activity watch for Grok Bot, powered by the VeilBreaker plugin. It screens every web page, email, file and tool output for hidden-instruction and exfiltration attacks before you act, runs scheduled digests and self-tests, and stops to ask you on anything suspicious.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/DMifb6iyC03g6HvPNrkGw",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/DMifb6iyC03g6HvPNrkGw",
+  "homepage": "https://x.ai/bot/DMifb6iyC03g6HvPNrkGw",
+  "license": null,
+  "author": "PixelRainbowNFT",
+  "tags": [
+    "developer",
+    "engineering",
+    "monitoring",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

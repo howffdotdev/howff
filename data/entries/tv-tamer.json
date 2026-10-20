@@ -1,0 +1,28 @@
+{
+  "slug": "tv-tamer",
+  "name": "TV Tamer",
+  "category": "personal",
+  "tagline": "Debloats, de-ads, speeds up and customises your own Android TV or Google TV over ADB from a computer on your home network.",
+  "description": "Debloats, de-ads, speeds up and customises your own Android TV or Google TV over ADB from a computer on your home network. It backs everything up, asks before each change, and only uses reversible methods.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/QJIlVrh34pWOth8tK4Umn",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/QJIlVrh34pWOth8tK4Umn",
+  "homepage": "https://x.ai/bot/QJIlVrh34pWOth8tK4Umn",
+  "license": null,
+  "author": "EndsHunter",
+  "tags": [
+    "developer",
+    "home",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
