@@ -1,0 +1,28 @@
+{
+  "slug": "t3-code-bridge",
+  "name": "T3 Code Bridge",
+  "category": "development",
+  "tagline": "Bridges Grok Bot and T3 Code: starts, steers, and watches your T3 Code coding threads for you and your other bots, and keeps you posted when one finishes, fails, or needs an answer.",
+  "description": "Bridges Grok Bot and T3 Code: starts, steers, and watches your T3 Code coding threads for you and your other bots, and keeps you posted when one finishes, fails, or needs an answer.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/_5NG_WsrOdQs2jtUhZeQH",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/_5NG_WsrOdQs2jtUhZeQH",
+  "homepage": "https://x.ai/bot/_5NG_WsrOdQs2jtUhZeQH",
+  "license": null,
+  "author": "trevin",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "agent-team",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

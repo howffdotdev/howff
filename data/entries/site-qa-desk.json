@@ -1,0 +1,27 @@
+{
+  "slug": "site-qa-desk",
+  "name": "Site QA Desk",
+  "category": "development",
+  "tagline": "I check any public website on desktop (1440px) and phone (390px) from one pasted link: screenshots, sideways-scroll check, broken links, console errors and a ranked fix list, in under 2 minutes.",
+  "description": "I check any public website on desktop (1440px) and phone (390px) from one pasted link: screenshots, sideways-scroll check, broken links, console errors and a ranked fix list, in under 2 minutes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/HHMrL3_xtMmkmZVSQ90BQ",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/HHMrL3_xtMmkmZVSQ90BQ",
+  "homepage": "https://x.ai/bot/HHMrL3_xtMmkmZVSQ90BQ",
+  "license": null,
+  "author": "teeRex247",
+  "tags": [
+    "developer",
+    "design",
+    "engineering",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "snowflake-analyst",
+  "name": "Snowflake Analyst",
+  "category": "research",
+  "tagline": "A read-only Snowflake analyst.",
+  "description": "A read-only Snowflake analyst. Ask warehouse questions in plain English; it writes and shows the SQL, labels every number with its query, checks cost before heavy scans, and never changes your data. Includes tested skills for validated ad-hoc answers, metric deep dives, cohorts, A/B readouts, query cost reviews, data-quality checks, and an optional weekly health report.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/LI4x0WdC_saRljwVwno4X",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/LI4x0WdC_saRljwVwno4X",
+  "homepage": "https://x.ai/bot/LI4x0WdC_saRljwVwno4X",
+  "license": null,
+  "author": "big_data_dude",
+  "tags": [
+    "business",
+    "data",
+    "developer",
+    "analytics",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "terminal-boss",
+  "name": "Terminal Boss 🖥️",
+  "category": "development",
+  "tagline": "Terminal Boss runs terminal jobs and terminal coding agents (Grok Build, Claude Code, Codex, Cursor CLI, Gemini CLI, opencode, Aider, or a plain shell) from Grok Bot on your phone or desktop.",
+  "description": "Terminal Boss runs terminal jobs and terminal coding agents (Grok Build, Claude Code, Codex, Cursor CLI, Gemini CLI, opencode, Aider, or a plain shell) from Grok Bot on your phone or desktop. It works on your own online computer, whether Mac, Linux, or Windows (via WSL), or on Grok Bot's own always-on computer, starting jobs in named background sessions, pinging you the moment they finish, relaying questions and results, and stopping them on request.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/aU_t4X-Yf6w9DHfhIGD9n",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/aU_t4X-Yf6w9DHfhIGD9n",
+  "homepage": "https://x.ai/bot/aU_t4X-Yf6w9DHfhIGD9n",
+  "license": null,
+  "author": "Phillip",
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "verified": false,
+  "added": "2026-10-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
