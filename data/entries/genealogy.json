@@ -1,0 +1,27 @@
+{
+  "slug": "genealogy",
+  "name": "Genealogy",
+  "category": "research",
+  "tagline": "A family-history research assistant. It checks your family tree against original records like census, vital, military, and probate records, cites every source, and keeps organised research notes.",
+  "description": "A family-history research assistant. It checks your family tree against original records like census, vital, military, and probate records, cites every source, and keeps organised research notes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/KBl_QJFaZvuu_EvymAzaF",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/KBl_QJFaZvuu_EvymAzaF",
+  "homepage": "https://x.ai/bot/KBl_QJFaZvuu_EvymAzaF",
+  "license": null,
+  "author": "coustain",
+  "tags": [
+    "personal",
+    "research",
+    "family",
+    "knowledge-base"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "gig-scout",
+  "name": "Gig Scout",
+  "category": "marketing",
+  "tagline": "A research-only scout that finds currently open paid gigs, creator programs and brand partnerships in your niche and sends you up to 3 vetted picks every weekday morning.",
+  "description": "A research-only scout that finds currently open paid gigs, creator programs and brand partnerships in your niche and sends you up to 3 vetted picks every weekday morning. It never applies, DMs or pays for anything; you do the outreach.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/5ZuZw6OTVvI6dJ74UVIu1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/5ZuZw6OTVvI6dJ74UVIu1",
+  "homepage": "https://x.ai/bot/5ZuZw6OTVvI6dJ74UVIu1",
+  "license": null,
+  "author": "yulikay",
+  "tags": [
+    "creator",
+    "research",
+    "growth",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

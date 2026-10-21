@@ -1,0 +1,26 @@
+{
+  "slug": "gridlock",
+  "name": "Gridlock",
+  "category": "ops",
+  "tagline": "A blunt, read-only spreadsheet critic. It stress-tests any workbook against a clear pass bar and ranks issues as Blockers, Majors and Minors, each with cell references and exact fixes.",
+  "description": "A blunt, read-only spreadsheet critic. It stress-tests any workbook against a clear pass bar and ranks issues as Blockers, Majors and Minors, each with cell references and exact fixes. It never edits your file.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/wLGRmIN1v-L8Hlz_BWQd2",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/wLGRmIN1v-L8Hlz_BWQd2",
+  "homepage": "https://x.ai/bot/wLGRmIN1v-L8Hlz_BWQd2",
+  "license": null,
+  "author": "LemT410113",
+  "tags": [
+    "business",
+    "ops",
+    "data"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

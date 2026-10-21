@@ -1,0 +1,26 @@
+{
+  "slug": "inbox-injection-guard",
+  "name": "Inbox Injection Guard",
+  "category": "productivity",
+  "tagline": "Screens your email for hidden instructions aimed at AI assistants, like white text, zero-width characters and \"ignore previous instructions\" lines, and gives a verdict with the hidden text quoted.",
+  "description": "Screens your email for hidden instructions aimed at AI assistants, like white text, zero-width characters and \"ignore previous instructions\" lines, and gives a verdict with the hidden text quoted. For anyone who lets an AI read their inbox; read-only.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/lsXZ6NdEqAdCHe8z88QAl",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/lsXZ6NdEqAdCHe8z88QAl",
+  "homepage": "https://x.ai/bot/lsXZ6NdEqAdCHe8z88QAl",
+  "license": null,
+  "author": "teeRex247",
+  "tags": [
+    "email",
+    "developer",
+    "business"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
