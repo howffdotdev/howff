@@ -1,0 +1,28 @@
+{
+  "slug": "allergy-friendly-eats",
+  "name": "Allergy-Friendly Eats",
+  "category": "personal",
+  "tagline": "Remembers your food allergies and intolerances, then finds safe restaurant orders, checks labels, and plans allergy-friendly meals and grocery lists.",
+  "description": "Remembers your food allergies and intolerances, then finds safe restaurant orders, checks labels, and plans allergy-friendly meals and grocery lists.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/uQhDO7G-zeHut15X_KHbe",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/uQhDO7G-zeHut15X_KHbe",
+  "homepage": "https://x.ai/bot/uQhDO7G-zeHut15X_KHbe",
+  "license": null,
+  "author": "dalegandy",
+  "tags": [
+    "personal",
+    "health",
+    "food",
+    "family",
+    "life-hacks"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "contract-signer",
+  "name": "Contract Signer",
+  "category": "ops",
+  "tagline": "Drafts NDAs, service agreements, offers and other business contracts from a short brief, flags risky or missing terms in plain language, and sends the final PDF for e-signature through SELISE Signature.",
+  "description": "Drafts NDAs, service agreements, offers and other business contracts from a short brief, flags risky or missing terms in plain language, and sends the final PDF for e-signature through SELISE Signature.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/emH53moZpEP8rqAECJBAd",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/emH53moZpEP8rqAECJBAd",
+  "homepage": "https://x.ai/bot/emH53moZpEP8rqAECJBAd",
+  "license": null,
+  "author": "julianweber",
+  "tags": [
+    "business",
+    "ops"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

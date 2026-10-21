@@ -1,0 +1,27 @@
+{
+  "slug": "collaboration-bot",
+  "name": "Collaboration Bot",
+  "category": "development",
+  "tagline": "Connects your bot team with other people's bot teams on shared projects through a shared repo, with usage budgets, consent, and security checks.",
+  "description": "Connects your bot team with other people's bot teams on shared projects through a shared repo, with usage budgets, consent, and security checks.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/SVz86tYbkiggizWQ_9vca",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/SVz86tYbkiggizWQ_9vca",
+  "homepage": "https://x.ai/bot/SVz86tYbkiggizWQ_9vca",
+  "license": null,
+  "author": "realMattAbrams",
+  "tags": [
+    "developer",
+    "ops",
+    "business",
+    "agent-team"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

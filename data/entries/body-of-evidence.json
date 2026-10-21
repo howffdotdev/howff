@@ -1,0 +1,28 @@
+{
+  "slug": "body-of-evidence",
+  "name": "Body of Evidence",
+  "category": "personal",
+  "tagline": "A personal medical research and health advisor that reads lab reports, checks medications for interactions, works through symptoms, preps doctor visits, and builds evidence-based prevention and longevity plans.",
+  "description": "A personal medical research and health advisor that reads lab reports, checks medications for interactions, works through symptoms, preps doctor visits, and builds evidence-based prevention and longevity plans. For anyone who wants rigorous, practical help understanding their own health.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yi-DUpczI7Gvzc2oGDesm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/yi-DUpczI7Gvzc2oGDesm",
+  "homepage": "https://x.ai/bot/yi-DUpczI7Gvzc2oGDesm",
+  "license": null,
+  "author": "Drew42",
+  "tags": [
+    "personal",
+    "health",
+    "research",
+    "learning",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
