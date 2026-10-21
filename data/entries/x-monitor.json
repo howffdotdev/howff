@@ -1,0 +1,30 @@
+{
+  "slug": "x-monitor",
+  "name": "X Monitor",
+  "category": "marketing",
+  "tagline": "Tracks who replies to an X account: groups commenters by attitude, flags hostile accounts with real reach, lists posts that may break X's rules, and keeps a weekly-updated Excel tracker.",
+  "description": "Tracks who replies to an X account: groups commenters by attitude, flags hostile accounts with real reach, lists posts that may break X's rules, and keeps a weekly-updated Excel tracker.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/37ckm2zchL3Gr57l8uxNl",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/37ckm2zchL3Gr57l8uxNl",
+  "homepage": "https://x.ai/bot/37ckm2zchL3Gr57l8uxNl",
+  "license": null,
+  "author": "BoKuangyi",
+  "tags": [
+    "social-media",
+    "analytics",
+    "monitoring",
+    "research",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

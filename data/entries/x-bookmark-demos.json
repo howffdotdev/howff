@@ -1,0 +1,30 @@
+{
+  "slug": "x-bookmark-demos",
+  "name": "X Bookmark Demos",
+  "category": "productivity",
+  "tagline": "A daily scout that reads your X bookmarks, pitches one or two new tools worth trying, and once you approve, installs and tests them for real on your own computers.",
+  "description": "A daily scout that reads your X bookmarks, pitches one or two new tools worth trying, and once you approve, installs and tests them for real on your own computers.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0HhqUJQH2FwInXRK5SVZ5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/0HhqUJQH2FwInXRK5SVZ5",
+  "homepage": "https://x.ai/bot/0HhqUJQH2FwInXRK5SVZ5",
+  "license": null,
+  "author": "JaimeBubblehead",
+  "tags": [
+    "personal",
+    "productivity",
+    "automation",
+    "scheduled",
+    "social-media"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

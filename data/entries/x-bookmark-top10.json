@@ -1,0 +1,29 @@
+{
+  "slug": "x-bookmark-top10",
+  "name": "X Bookmark Top10",
+  "category": "research",
+  "tagline": "Every morning, sends you the 10 most-bookmarked X posts on your topic from the last 24 hours, each summarised in a sentence with a link.",
+  "description": "Every morning, sends you the 10 most-bookmarked X posts on your topic from the last 24 hours, each summarised in a sentence with a link. Flags scams. Read-only, no X sign-in needed.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/kD7dWJasb_V3a49-qI40N",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/kD7dWJasb_V3a49-qI40N",
+  "homepage": "https://x.ai/bot/kD7dWJasb_V3a49-qI40N",
+  "license": null,
+  "author": "Hmountain5",
+  "tags": [
+    "personal",
+    "news",
+    "social-media",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
