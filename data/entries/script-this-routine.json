@@ -1,0 +1,28 @@
+{
+  "slug": "script-this-routine",
+  "name": "Script This Routine",
+  "category": "development",
+  "tagline": "Audits every routine on your Grok Bots and turns mechanical checks into small tested scripts, so each routine wakes the bot only when there's something to act on.",
+  "description": "Audits every routine on your Grok Bots and turns mechanical checks into small tested scripts, so each routine wakes the bot only when there's something to act on. As soon as it's installed, it asks each bot for its routines and sends one short report: a summary line, one line per suggestion, a single Leave alone line, and an estimated weekly token savings line. Then it builds only the scripts you pick, tests each one, asks the owning bot to update its own routine, and offers a Monday 9am weekly check once. It never changes schedules, touches the Keychain, puts secrets in scripts, or scripts anything that sends, buys, or posts.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/9E8iw2zlg2fTWzUT6RUsP",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/9E8iw2zlg2fTWzUT6RUsP",
+  "homepage": "https://x.ai/bot/9E8iw2zlg2fTWzUT6RUsP",
+  "license": null,
+  "author": "Kevin_Logan",
+  "tags": [
+    "developer",
+    "ops",
+    "automation",
+    "saving-money",
+    "meta-bot"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

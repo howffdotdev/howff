@@ -1,0 +1,25 @@
+{
+  "slug": "review-brief",
+  "name": "Review Brief",
+  "category": "development",
+  "tagline": "Paste a pull request and get the reviewer's brief in under 2 minutes: what changed vs the ticket, risky spots with file and line, what to test by hand, and questions for the author.",
+  "description": "Paste a pull request and get the reviewer's brief in under 2 minutes: what changed vs the ticket, risky spots with file and line, what to test by hand, and questions for the author. For engineers and leads reviewing AI-assisted PRs.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/XftMzXd6cq-DT_ZLvdoy5",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/XftMzXd6cq-DT_ZLvdoy5",
+  "homepage": "https://x.ai/bot/XftMzXd6cq-DT_ZLvdoy5",
+  "license": null,
+  "author": "teeRex247",
+  "tags": [
+    "developer",
+    "ops"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

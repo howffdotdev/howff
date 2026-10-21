@@ -1,0 +1,29 @@
+{
+  "slug": "promo-studio",
+  "name": "Promo Studio",
+  "category": "marketing",
+  "tagline": "A short-form video producer that turns any app or website into polished vertical promos for TikTok, Instagram Reels, YouTube Shorts and LinkedIn, built from real product footage with honest claims, licensed audio and hook variants to test.",
+  "description": "A short-form video producer that turns any app or website into polished vertical promos for TikTok, Instagram Reels, YouTube Shorts and LinkedIn, built from real product footage with honest claims, licensed audio and hook variants to test.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/ybXMrluMLTr7EU0ohttgX",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/ybXMrluMLTr7EU0ohttgX",
+  "homepage": "https://x.ai/bot/ybXMrluMLTr7EU0ohttgX",
+  "license": null,
+  "author": "iamjeevanvj",
+  "tags": [
+    "creator",
+    "marketer",
+    "content",
+    "video",
+    "growth",
+    "social-media"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

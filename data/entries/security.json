@@ -1,0 +1,30 @@
+{
+  "slug": "security",
+  "name": "Security",
+  "category": "development",
+  "tagline": "A read-and-report security teammate for individuals and small teams.",
+  "description": "A read-and-report security teammate for individuals and small teams. It checks your GitHub repos, domains and email setup, Cloudflare settings and Linux machines, then sends short prioritised reports with one concrete fix each, changing nothing without your OK.",
+  "integrations": [
+    "GitHub"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/-qkf41F4R1MtZRetyUrxW",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/-qkf41F4R1MtZRetyUrxW",
+  "homepage": "https://x.ai/bot/-qkf41F4R1MtZRetyUrxW",
+  "license": null,
+  "author": "PerWendelboe",
+  "tags": [
+    "developer",
+    "business",
+    "ops",
+    "engineering",
+    "monitoring"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
