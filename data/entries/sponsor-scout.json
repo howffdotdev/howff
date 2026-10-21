@@ -1,0 +1,26 @@
+{
+  "slug": "sponsor-scout",
+  "name": "Sponsor Scout",
+  "category": "marketing",
+  "tagline": "Finds brands already sponsoring people like you, finds the real way in, and drafts the pitch.",
+  "description": "Finds brands already sponsoring people like you, finds the real way in, and drafts the pitch. You hit send. Built for fighters, athletes, newsletter writers, and creators.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/HK7rbeEuMNDD3_RbYyvx6",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/HK7rbeEuMNDD3_RbYyvx6",
+  "homepage": "https://x.ai/bot/HK7rbeEuMNDD3_RbYyvx6",
+  "license": null,
+  "author": "MichaelHeckert",
+  "tags": [
+    "creator",
+    "sales",
+    "growth"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

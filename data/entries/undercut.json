@@ -1,0 +1,27 @@
+{
+  "slug": "undercut",
+  "name": "Undercut",
+  "category": "finance",
+  "tagline": "Drop in a bill. See what new customers pay near you, plus the exact script to get your price down.",
+  "description": "Drop in a bill. See what new customers pay near you, plus the exact script to get your price down. You make the call.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/mzY8PRsWQZCuKuTEFQteB",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/mzY8PRsWQZCuKuTEFQteB",
+  "homepage": "https://x.ai/bot/mzY8PRsWQZCuKuTEFQteB",
+  "license": null,
+  "author": "MichaelHeckert",
+  "tags": [
+    "personal",
+    "saving-money",
+    "finance",
+    "decision-support"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

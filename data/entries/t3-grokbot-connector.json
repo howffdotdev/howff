@@ -1,0 +1,27 @@
+{
+  "slug": "t3-grokbot-connector",
+  "name": "T3/GrokBot Connector",
+  "category": "development",
+  "tagline": "Sends you one short note whenever a T3 Code, Claude Code, or Codex thread finishes, stalls, or errors, so you know what happened and what needs you.",
+  "description": "Sends you one short note whenever a T3 Code, Claude Code, or Codex thread finishes, stalls, or errors, so you know what happened and what needs you. Works with the open-source t3-done-notify webhook.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/FfyFNHvtbtuRV04Rg9hBm",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/FfyFNHvtbtuRV04Rg9hBm",
+  "homepage": "https://x.ai/bot/FfyFNHvtbtuRV04Rg9hBm",
+  "license": null,
+  "author": "taylorhbuilds",
+  "tags": [
+    "developer",
+    "ops",
+    "monitoring",
+    "automation"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

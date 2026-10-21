@@ -1,0 +1,25 @@
+{
+  "slug": "the-maitre-d",
+  "name": "The Maitre D",
+  "category": "personal",
+  "tagline": "Finds great restaurants and books your reservations.",
+  "description": "Finds great restaurants and books your reservations. Tell it the night, party size, area, and vibe, and it brings back 4 picks with booking and map links, then locks in your table.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/jZDmuZbKvUIELlYazIAuC",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/jZDmuZbKvUIELlYazIAuC",
+  "homepage": "https://x.ai/bot/jZDmuZbKvUIELlYazIAuC",
+  "license": null,
+  "author": "TeslaAiGirl",
+  "tags": [
+    "personal",
+    "food"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
