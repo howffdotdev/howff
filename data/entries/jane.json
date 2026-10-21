@@ -1,0 +1,28 @@
+{
+  "slug": "jane",
+  "name": "Jane",
+  "category": "personal",
+  "tagline": "A teacher bot that hosts the open-source Jane learning app for your grade-school child and writes a fresh, adaptive quest every night based on how they did, built on the Marble skill taxonomy.",
+  "description": "A teacher bot that hosts the open-source Jane learning app for your grade-school child and writes a fresh, adaptive quest every night based on how they did, built on the Marble skill taxonomy.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vZYguWcn-Sy20b1XHNM_V",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vZYguWcn-Sy20b1XHNM_V",
+  "homepage": "https://x.ai/bot/vZYguWcn-Sy20b1XHNM_V",
+  "license": null,
+  "author": "KentLangley",
+  "tags": [
+    "family",
+    "personal",
+    "student",
+    "learning",
+    "scheduled"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

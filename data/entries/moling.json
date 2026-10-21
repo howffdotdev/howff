@@ -1,0 +1,27 @@
+{
+  "slug": "moling",
+  "name": "墨灵 Moling",
+  "category": "writing",
+  "tagline": "墨灵是灵境出品的长文写手，写给需要流量的项目操盘手和自媒体创业者：学你的口吻，写没有 AI 味、值得收藏的爆款长文，一篇改成 X、公众号、抖音、小红书、知乎、微博多个版本。",
+  "description": "墨灵是灵境出品的长文写手，写给需要流量的项目操盘手和自媒体创业者：学你的口吻，写没有 AI 味、值得收藏的爆款长文，一篇改成 X、公众号、抖音、小红书、知乎、微博多个版本。",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/4JFu2Vhw9D2U2ZJfd-zd0",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/4JFu2Vhw9D2U2ZJfd-zd0",
+  "homepage": "https://x.ai/bot/4JFu2Vhw9D2U2ZJfd-zd0",
+  "license": null,
+  "author": "LZJ5460",
+  "tags": [
+    "creator",
+    "marketer",
+    "content",
+    "social-media"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

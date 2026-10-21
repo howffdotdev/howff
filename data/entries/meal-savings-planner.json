@@ -1,0 +1,27 @@
+{
+  "slug": "meal-savings-planner",
+  "name": "Meal & Savings Planner",
+  "category": "personal",
+  "tagline": "A meal and grocery helper for busy parents.",
+  "description": "A meal and grocery helper for busy parents. It builds weekly meal plans around your family's tastes, allergies, and budget, makes aisle-sorted grocery lists, finds coupons and deals, and tracks spending, always asking before anything is bought.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/CiREEoV-9rjUaatxtiXFf",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/CiREEoV-9rjUaatxtiXFf",
+  "homepage": "https://x.ai/bot/CiREEoV-9rjUaatxtiXFf",
+  "license": null,
+  "author": "Mrxmalcolm",
+  "tags": [
+    "personal",
+    "family",
+    "food",
+    "saving-money"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
