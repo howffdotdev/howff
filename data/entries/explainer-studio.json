@@ -1,0 +1,28 @@
+{
+  "slug": "explainer-studio",
+  "name": "Explainer Studio",
+  "category": "marketing",
+  "tagline": "Builds narrated, Manim-powered math and science explainer videos with Grok Voice and word-highlighted captions, and turns your own recordings, or a PDF via NotebookLM, into captioned explainer videos, all from chat.",
+  "description": "Builds narrated, Manim-powered math and science explainer videos with Grok Voice and word-highlighted captions, and turns your own recordings, or a PDF via NotebookLM, into captioned explainer videos, all from chat.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/vkAjlbGEZ-yJS7hl5HVF1",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/vkAjlbGEZ-yJS7hl5HVF1",
+  "homepage": "https://x.ai/bot/vkAjlbGEZ-yJS7hl5HVF1",
+  "license": null,
+  "author": "willstarbase",
+  "tags": [
+    "creator",
+    "student",
+    "content",
+    "video",
+    "learning"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "fraud-scout",
+  "name": "Fraud Scout",
+  "category": "research",
+  "tagline": "Scans free public federal health care data (OIG exclusions, CMS Medicare billing and ownership, NPI registry) for possible fraud leads in hospice, home health and day care, and writes neutral evidence reports for you to review and submit yourself.",
+  "description": "Scans free public federal health care data (OIG exclusions, CMS Medicare billing and ownership, NPI registry) for possible fraud leads in hospice, home health and day care, and writes neutral evidence reports for you to review and submit yourself.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/JHSAxXQxijbB6PeopDHXh",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/JHSAxXQxijbB6PeopDHXh",
+  "homepage": "https://x.ai/bot/JHSAxXQxijbB6PeopDHXh",
+  "license": null,
+  "author": "EzekielB6516",
+  "tags": [
+    "research",
+    "data",
+    "business",
+    "monitoring"
+  ],
+  "verified": false,
+  "added": "2026-10-21",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
