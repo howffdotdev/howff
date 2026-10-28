@@ -1,0 +1,27 @@
+{
+  "slug": "director",
+  "name": "Director",
+  "category": "marketing",
+  "tagline": "Your video director: turn briefs into short films, ads, explainers, music videos, micro-dramas, and more.",
+  "description": "Your video director: turn briefs into short films, ads, explainers, music videos, micro-dramas, and more. Plan, shoot, cut, and deliver.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/r9v2LNQY0VHF8JXe8y6VF",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/r9v2LNQY0VHF8JXe8y6VF",
+  "homepage": "https://x.ai/bot/r9v2LNQY0VHF8JXe8y6VF",
+  "license": null,
+  "author": "yanxi0830",
+  "tags": [
+    "video",
+    "marketing",
+    "design",
+    "product"
+  ],
+  "verified": false,
+  "added": "2026-10-28",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
