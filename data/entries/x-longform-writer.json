@@ -1,0 +1,24 @@
+{
+  "slug": "x-longform-writer",
+  "name": "X Longform Writer",
+  "category": "writing",
+  "tagline": "Finds, scores and drafts evidence-backed X long-form articles in your voice from your own videos, posts and call themes.",
+  "description": "Finds, scores and drafts evidence-backed X long-form articles in your voice from your own videos, posts and call themes. Ideas need your approval before drafting, and it never publishes. Recommended setup: connect the SingleBrain Gateway on first run.",
+  "integrations": [
+    "X"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/JKvcw0VlXD8fxLQOagrOn",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/JKvcw0VlXD8fxLQOagrOn",
+  "homepage": "https://x.ai/bot/JKvcw0VlXD8fxLQOagrOn",
+  "license": null,
+  "author": "Eric",
+  "tags": [],
+  "verified": false,
+  "added": "2026-11-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

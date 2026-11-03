@@ -1,0 +1,22 @@
+{
+  "slug": "outreach-command-center",
+  "name": "Outreach Command Center",
+  "category": "sales",
+  "tagline": "One daily decision surface across your outreach bots: reads their handoffs, catches conflicts and stale lanes, and ranks a few actions without ever sending.",
+  "description": "One daily decision surface across your outreach bots: reads their handoffs, catches conflicts and stale lanes, and ranks a few actions without ever sending. Recommended setup: connect the SingleBrain Gateway on first run.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/YMSD7YQJh1kpYEgIfpG_-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/YMSD7YQJh1kpYEgIfpG_-",
+  "homepage": "https://x.ai/bot/YMSD7YQJh1kpYEgIfpG_-",
+  "license": null,
+  "author": "Eric",
+  "tags": [],
+  "verified": false,
+  "added": "2026-11-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

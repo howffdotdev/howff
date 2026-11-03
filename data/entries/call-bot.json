@@ -1,0 +1,22 @@
+{
+  "slug": "call-bot",
+  "name": "Call Bot",
+  "category": "personal",
+  "tagline": "Sits on hold and works through phone menus for your personal and vendor calls, like airlines, banks, insurance and support lines.",
+  "description": "Sits on hold and works through phone menus for your personal and vendor calls, like airlines, banks, insurance and support lines. You approve every dial, it says it's your AI assistant, and it reports back with the outcome and confirmation numbers. Recommended setup: connect the SingleBrain Gateway on first run.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/uu_BiNYe0qW6AbH55Zx6g",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/uu_BiNYe0qW6AbH55Zx6g",
+  "homepage": "https://x.ai/bot/uu_BiNYe0qW6AbH55Zx6g",
+  "license": null,
+  "author": "Eric",
+  "tags": [],
+  "verified": false,
+  "added": "2026-11-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
