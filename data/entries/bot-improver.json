@@ -1,0 +1,22 @@
+{
+  "slug": "bot-improver",
+  "name": "Bot Improver",
+  "category": "productivity",
+  "tagline": "Once a week, checks that your AI bots and automations are actually moving the numbers you care about, and brings you only the fixes and disagreements.",
+  "description": "Once a week, checks that your AI bots and automations are actually moving the numbers you care about, and brings you only the fixes and disagreements. Connects your tools through the SingleBrain Gateway.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/DsOFtUSYp4MhaOq_jv8qO",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/DsOFtUSYp4MhaOq_jv8qO",
+  "homepage": "https://x.ai/bot/DsOFtUSYp4MhaOq_jv8qO",
+  "license": null,
+  "author": "Eric",
+  "tags": [],
+  "verified": false,
+  "added": "2026-11-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

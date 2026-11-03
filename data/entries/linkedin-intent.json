@@ -1,0 +1,24 @@
+{
+  "slug": "linkedin-intent",
+  "name": "LinkedIn Intent",
+  "category": "sales",
+  "tagline": "Finds ICP-fit buyers showing a buying signal (funding, a new marketing-leader hire, engagement) and queues personalised LinkedIn connection requests tied to that signal, sending only on your yes or inside a standing cap.",
+  "description": "Finds ICP-fit buyers showing a buying signal (funding, a new marketing-leader hire, engagement) and queues personalised LinkedIn connection requests tied to that signal, sending only on your yes or inside a standing cap. Recommended setup: connect the SingleBrain Gateway on first run.",
+  "integrations": [
+    "LinkedIn"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/7cN8hvQ7cHIT4rKRjmvsk",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/7cN8hvQ7cHIT4rKRjmvsk",
+  "homepage": "https://x.ai/bot/7cN8hvQ7cHIT4rKRjmvsk",
+  "license": null,
+  "author": "Eric",
+  "tags": [],
+  "verified": false,
+  "added": "2026-11-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "speed-to-lead",
+  "name": "Speed-to-Lead",
+  "category": "sales",
+  "tagline": "Qualifies new inbound consultation-form leads in seconds, posts a short Slack note to your sales owner, and calls the ones in your budget band during calling hours.",
+  "description": "Qualifies new inbound consultation-form leads in seconds, posts a short Slack note to your sales owner, and calls the ones in your budget band during calling hours. Recommended setup: connect the SingleBrain Gateway on first run.",
+  "integrations": [
+    "Slack"
+  ],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/Ef9KogyUvf0HUKWZoD-nv",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/Ef9KogyUvf0HUKWZoD-nv",
+  "homepage": "https://x.ai/bot/Ef9KogyUvf0HUKWZoD-nv",
+  "license": null,
+  "author": "Eric",
+  "tags": [],
+  "verified": false,
+  "added": "2026-11-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}

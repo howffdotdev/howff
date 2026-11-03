@@ -1,0 +1,22 @@
+{
+  "slug": "human-gate",
+  "name": "Human Gate",
+  "category": "productivity",
+  "tagline": "Drafts every send, post, publish, delete, spend, or CRM/calendar write and waits for your exact yes before anything leaves.",
+  "description": "Drafts every send, post, publish, delete, spend, or CRM/calendar write and waits for your exact yes before anything leaves. Recommended setup: connect the SingleBrain Gateway on first run.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/H7q93ZUAa9hjMaFAQxrK-",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/H7q93ZUAa9hjMaFAQxrK-",
+  "homepage": "https://x.ai/bot/H7q93ZUAa9hjMaFAQxrK-",
+  "license": null,
+  "author": "Eric",
+  "tags": [],
+  "verified": false,
+  "added": "2026-11-03",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
