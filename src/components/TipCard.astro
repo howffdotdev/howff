@@ -1,0 +1,25 @@
+---
+import { short, shortDate } from '../lib/signals.js';
+
+// A static card for one X post. No embed script: the text is stored at build
+// time and the card links out to the original post.
+const { tip, entry, showBot = true } = Astro.props;
+---
+<article class="tip">
+  <p class="tip-title">{tip.title}</p>
+  <blockquote class="tip-text" cite={tip.url}>
+    <p>{tip.excerpt}</p>
+  </blockquote>
+  <div class="tip-foot">
+    <a class="tip-src" href={tip.url} target="_blank" rel="noreferrer">
+      @{tip.author} · {shortDate(tip.postedAt)}
+      <span class="sr-only">(opens the post on X)</span>
+    </a>
+    {tip.metrics.likes > 0 && <span class="tip-n">♥ {short(tip.metrics.likes)}</span>}
+  </div>
+  {showBot && entry && (
+    <a class="tip-bot" href={`/${entry.slug}`} style={`--cat: var(--cat-${entry.category})`}>
+      {entry.name} →
+    </a>
+  )}
+</article>
