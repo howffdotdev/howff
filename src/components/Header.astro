@@ -3,13 +3,12 @@ import ThemeToggle from './ThemeToggle.astro';
 
 const here = Astro.url.pathname.replace(/\/$/, '') || '/';
 const links = [
-  ['/', 'Shelf', false],
+  ['/all', 'All bots', false],
   ['/about', 'About', true],
-  ['/contribute', 'Contribute', true],
 ];
 
 function current(href) {
-  if (href === '/') return here === '/' || here.startsWith('/c/');
+  if (href === '/all') return here === '/all' || here.startsWith('/c/');
   return here === href || here.startsWith(`${href}/`);
 }
 ---
