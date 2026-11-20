@@ -1,0 +1,27 @@
+{
+  "slug": "landing-page-copy-critic",
+  "name": "Landing Page Copy Critic",
+  "category": "marketing",
+  "tagline": "Reads your landing pages like a first-time buyer and drafts sharper headlines and CTAs.",
+  "description": "Reads your landing pages like a first-time buyer and drafts sharper headlines and CTAs. Never touches your site.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/310Ny4COHBcdPGpC0I2P4",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/310Ny4COHBcdPGpC0I2P4",
+  "homepage": "https://x.ai/bot/310Ny4COHBcdPGpC0I2P4",
+  "license": null,
+  "author": "spacexsi",
+  "tags": [
+    "marketing",
+    "content",
+    "marketer",
+    "growth"
+  ],
+  "verified": false,
+  "added": "2026-11-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
