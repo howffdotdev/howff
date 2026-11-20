@@ -1,0 +1,22 @@
+{
+  "slug": "revenue-radar",
+  "name": "Revenue Radar",
+  "category": "sales",
+  "tagline": "Ranks current-quarter expansion opportunities, stalled deals and evidence-backed closed-lost revivals, and drafts the next step for your approval.",
+  "description": "Ranks current-quarter expansion opportunities, stalled deals and evidence-backed closed-lost revivals, and drafts the next step for your approval.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/yhm4iSzDaIBvMrFstPqC7",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/yhm4iSzDaIBvMrFstPqC7",
+  "homepage": "https://x.ai/bot/yhm4iSzDaIBvMrFstPqC7",
+  "license": null,
+  "author": "Eric",
+  "tags": [],
+  "verified": false,
+  "added": "2026-11-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
