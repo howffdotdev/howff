@@ -1,0 +1,246 @@
+{
+  "collectedAt": "2026-11-20",
+  "how": "Hand-picked public X posts that explain how to get more out of a specific Howff bot. Excerpts are the post text with links removed; every card links to the original post.",
+  "tips": [
+    {
+      "id": "2093835123498340611",
+      "url": "https://x.com/waynesutton/status/2093835123498340611",
+      "author": "waynesutton",
+      "postedAt": "2026-08-29T22:56:09.000Z",
+      "title": "Type \"scan\" in the morning",
+      "excerpt": "Bot inbox: type \"scan\". One line per unread bot or group chat. I use it in the morning so I do not have to open 40 chats. It does not change other bots or mark anything as read.",
+      "metrics": {
+        "likes": 7,
+        "reposts": 0,
+        "bookmarks": 3,
+        "views": 630
+      },
+      "slug": "bot-inbox"
+    },
+    {
+      "id": "2095287853450399859",
+      "url": "https://x.com/andymadrick/status/2095287853450399859",
+      "author": "andymadrick",
+      "postedAt": "2026-09-02T23:08:47.000Z",
+      "title": "Log every brew",
+      "excerpt": "fun little @bot i made: coffee companion ☕ i tell it what beans i have and it recommends a pour over recipe. after brewing, i chat with it to record tasting notes, drawdown time, what worked, what didn’t, etc.",
+      "metrics": {
+        "likes": 98,
+        "reposts": 5,
+        "bookmarks": 49,
+        "views": 47853
+      },
+      "slug": "coffee-companion"
+    },
+    {
+      "id": "2103877651165282341",
+      "url": "https://x.com/itsmechase/status/2103877651165282341",
+      "author": "itsmechase",
+      "postedAt": "2026-09-26T16:01:34.000Z",
+      "title": "Give it timestamps and a size",
+      "excerpt": "Manual video clipping is dead 💀 Just give @bot a YouTube link, tell it the time stamps you want to cut, choose the file dimensions, and BOOM you’ve got a 4k clipped video.",
+      "metrics": {
+        "likes": 7,
+        "reposts": 2,
+        "bookmarks": 8,
+        "views": 590
+      },
+      "slug": "youtube-clipper"
+    },
+    {
+      "id": "2120189995936104735",
+      "url": "https://x.com/realcoachmatt23/status/2120189995936104735",
+      "author": "realcoachmatt23",
+      "postedAt": "2026-11-10T16:21:00.000Z",
+      "title": "Set a salary floor",
+      "excerpt": "…Then tell it the job titles you want, where, and your salary floor. It searches every day and sends you the best fits.",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0,
+        "bookmarks": 0,
+        "views": 71
+      },
+      "slug": "job-hunt-bot"
+    },
+    {
+      "id": "2112136795840274841",
+      "url": "https://x.com/allthemoney/status/2112136795840274841",
+      "author": "allthemoney",
+      "postedAt": "2026-10-19T11:00:28.000Z",
+      "title": "Talk to it like a person",
+      "excerpt": "It adds things to your calendar and reminds you ⏰. On the first chat it asks which calendar and time zone you use. 👉 Try: \"Dentist Tuesday at 3, remind me an hour before\" 🦷 Plans changed? Just say \"move it to Thursday\" 🔄",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0,
+        "bookmarks": 0,
+        "views": 115
+      },
+      "slug": "quick-calendar-bot"
+    },
+    {
+      "id": "2111911929463894414",
+      "url": "https://x.com/teeRex247/status/2111911929463894414",
+      "author": "teeRex247",
+      "postedAt": "2026-10-18T20:06:56.000Z",
+      "title": "Snapshot the page first",
+      "excerpt": "Nice. The step before buying works great too: give @bot the product page and it saves a snapshot, then pings you only when the price drops or it's back in stock. Then you just tell it to order. Thanks @elonmusk.",
+      "metrics": {
+        "likes": 2,
+        "reposts": 0,
+        "bookmarks": 1,
+        "views": 303
+      },
+      "slug": "page-watcher"
+    },
+    {
+      "id": "2122563856170152024",
+      "url": "https://x.com/TimDOES/status/2122563856170152024",
+      "author": "TimDOES",
+      "postedAt": "2026-11-17T05:33:53.000Z",
+      "title": "Let everyone swap meals",
+      "excerpt": "Yup. Does it all for me. Creates the weeks meals, I can swap out the ones I don’t like, my wife can swap out what she doesn’t want, we tell it how many plates per night, creates the recipes, creates the shopping lists per store,…",
+      "metrics": {
+        "likes": 4,
+        "reposts": 0,
+        "bookmarks": 2,
+        "views": 137
+      },
+      "slug": "bot-my-meals"
+    },
+    {
+      "id": "2100456208427585809",
+      "url": "https://x.com/SuddenlyJon/status/2100456208427585809",
+      "author": "SuddenlyJon",
+      "postedAt": "2026-09-17T05:25:59.000Z",
+      "title": "Photograph the fridge",
+      "excerpt": "Nourishment 🍱 Open fridge, take pic, snap one of pantry. Get real recipes, a grocery list on $x budget, new things to try based on what your taste.",
+      "metrics": {
+        "likes": 3,
+        "reposts": 0,
+        "bookmarks": 0,
+        "views": 296
+      },
+      "slug": "nourishment"
+    },
+    {
+      "id": "2116241955021881740",
+      "url": "https://x.com/thecsguy/status/2116241955021881740",
+      "author": "thecsguy",
+      "postedAt": "2026-10-30T18:52:54.000Z",
+      "title": "Scan before you delete",
+      "excerpt": "if you want to try the disk doctor one, here's the template. it scans first, then asks before touching each group.",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0,
+        "bookmarks": 0,
+        "views": 72
+      },
+      "slug": "disk-doctor"
+    },
+    {
+      "id": "2093426221732532457",
+      "url": "https://x.com/TylerNishida/status/2093426221732532457",
+      "author": "TylerNishida",
+      "postedAt": "2026-08-28T19:51:19.000Z",
+      "title": "Split life and work",
+      "excerpt": "i use grok bot by splitting tasks into two buckets: Life and Work. these bots will create new channels and specialist bots under them to complete tasks. if there is a task that counts as life and work, i default to life.",
+      "metrics": {
+        "likes": 5,
+        "reposts": 0,
+        "bookmarks": 1,
+        "views": 741
+      },
+      "slug": "life-life-door"
+    },
+    {
+      "id": "2106748588202095019",
+      "url": "https://x.com/MichaelGannotti/status/2106748588202095019",
+      "author": "MichaelGannotti",
+      "postedAt": "2026-10-04T14:09:39.000Z",
+      "title": "One bot, one job",
+      "excerpt": "Shared First-Week Coach last week. The gist: Day 1: one bot, one job. Day 2: connect read-only. Day 3: schedule it. Day 7: keep, tune or retire.",
+      "metrics": {
+        "likes": 3,
+        "reposts": 0,
+        "bookmarks": 0,
+        "views": 920
+      },
+      "slug": "first-week-coach"
+    },
+    {
+      "id": "2093385343928033312",
+      "url": "https://x.com/aryamankhawow/status/2093385343928033312",
+      "author": "aryamankhawow",
+      "postedAt": "2026-08-28T17:08:53.000Z",
+      "title": "Start with a chief of staff",
+      "excerpt": "First ship into @bot! If you haven't started using Grok Bot yet, would recommend starting with just one Chief of Staff bot. Use it to manage all the busy work in your life.",
+      "metrics": {
+        "likes": 53,
+        "reposts": 1,
+        "bookmarks": 6,
+        "views": 5698
+      },
+      "slug": "chief-of-staff-aryaman"
+    },
+    {
+      "id": "2115384866024149396",
+      "url": "https://x.com/_jsolly/status/2115384866024149396",
+      "author": "_jsolly",
+      "postedAt": "2026-10-28T10:07:08.000Z",
+      "title": "Let a VM do the watching",
+      "excerpt": "Link to @bot template: I pair it with a persistent VM in the cloud to reduce token use (think stuff like watching to see if a webpage changes). The VM ‘wakes’ the bot if something triggers. Could show my setup sometime if anyone is interested.",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0,
+        "bookmarks": 0,
+        "views": 23
+      },
+      "slug": "river-rubbernecker"
+    },
+    {
+      "id": "2102526890879963587",
+      "url": "https://x.com/matthewbarge/status/2102526890879963587",
+      "author": "matthewbarge",
+      "postedAt": "2026-09-22T22:34:08.000Z",
+      "title": "Connect first, then forget it",
+      "excerpt": "Need to add receipts to your Ramp transactions? I'm sharing a Grok Bot that'll grab receipts from your Gmail and upload them to your Ramp transactions. Set up your Gmail and Ramp connectors in Grok Bot and the bot will run daily. Boom!",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0,
+        "bookmarks": 0,
+        "views": 125
+      },
+      "slug": "ramp-bot"
+    },
+    {
+      "id": "2104432967565312018",
+      "url": "https://x.com/mattkim1/status/2104432967565312018",
+      "author": "mattkim1",
+      "postedAt": "2026-09-28T04:48:12.000Z",
+      "title": "Say yes before it submits",
+      "excerpt": "Public template if you want the same Grok Bot Fantasy Football GM setup I run. Start/sit, waivers, trades, injury flags in your scoring. It can submit after you say yes.",
+      "metrics": {
+        "likes": 9,
+        "reposts": 1,
+        "bookmarks": 3,
+        "views": 5341
+      },
+      "slug": "fantasy-football-gm"
+    },
+    {
+      "id": "2112049540396126322",
+      "url": "https://x.com/teeRex247/status/2112049540396126322",
+      "author": "teeRex247",
+      "postedAt": "2026-10-19T05:13:45.000Z",
+      "title": "Paste the PR, get a brief",
+      "excerpt": "Good loop. The human review step goes a lot faster with a brief up front: what changed vs the ticket, risky spots with file and line, and what to test by hand.",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0,
+        "bookmarks": 0,
+        "views": 75
+      },
+      "slug": "review-brief"
+    }
+  ]
+}
