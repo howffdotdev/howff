@@ -39,21 +39,23 @@ function writeUrl() {
 }
 
 function order() {
-  const sorted = [...cards].sort((a, b) =>
-    state.sort === 'az'
-      ? a.dataset.name.localeCompare(b.dataset.name, 'en-GB')
-      : b.dataset.added.localeCompare(a.dataset.added) ||
-        a.dataset.name.localeCompare(b.dataset.name, 'en-GB'),
+  const byName = (a, b) => a.dataset.name.localeCompare(b.dataset.name, 'en-GB');
+  const byNew = (a, b) => b.dataset.added.localeCompare(a.dataset.added) || byName(a, b);
+  const byUse = (a, b) => (Number(b.dataset.score) || 0) - (Number(a.dataset.score) || 0) || byNew(a, b);
+  const sorted = [...cards].sort(
+    state.sort === 'az' ? byName : state.sort === 'used' ? byUse : byNew,
   );
   list.append(...sorted);
 }
 
 function apply({ quiet = false } = {}) {
-  const query = state.q.toLowerCase();
+  // Every word must appear somewhere, in any order: "meal plan" finds
+  // "Plans the week's meals".
+  const words = state.q.toLowerCase().split(/\s+/).filter(Boolean);
   let n = 0;
   for (const card of cards) {
     const show =
-      (!query || card.dataset.search.includes(query)) &&
+      words.every((w) => card.dataset.search.includes(w)) &&
       (state.cat === 'all' || card.dataset.category === state.cat) &&
       (state.int === 'all' || card.dataset.integrations.split('|').includes(state.int)) &&
       (state.tag === 'all' || card.dataset.tags.split('|').includes(state.tag));
@@ -84,7 +86,7 @@ function readUrl() {
   state.cat = params.get('cat') ?? 'all';
   state.int = params.get('int') ?? 'all';
   state.tag = params.get('tag') ?? 'all';
-  state.sort = params.get('sort') === 'az' ? 'az' : 'new';
+  state.sort = ['az', 'used'].includes(params.get('sort')) ? params.get('sort') : 'new';
 
   if (cat && !hasOption(cat, state.cat)) state.cat = 'all';
   if (int && !hasOption(int, state.int)) state.int = 'all';

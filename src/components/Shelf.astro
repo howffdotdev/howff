@@ -7,6 +7,7 @@ import {
   categoryCounts,
   readInstructions,
 } from '../lib/entries.js';
+import { popularityBySlug } from '../lib/signals.js';
 
 const { entries, scope = 'all' } = Astro.props;
 
@@ -15,6 +16,7 @@ const { entries, scope = 'all' } = Astro.props;
 const categories = categoryCounts(entries);
 const integrations = allIntegrations(entries);
 const tags = allTags(entries);
+const pop = popularityBySlug();
 const instructions = new Map(entries.map((e) => [e.slug, readInstructions(e) ?? '']));
 ---
 <FilterBar
@@ -26,7 +28,7 @@ const instructions = new Map(entries.map((e) => [e.slug, readInstructions(e) ?? 
 />
 <div class="list" id="list">
   {entries.map((entry) => (
-    <BotCard entry={entry} instructions={instructions.get(entry.slug)} />
+    <BotCard entry={entry} instructions={instructions.get(entry.slug)} score={pop.get(entry.slug)?.score} />
   ))}
 </div>
 <div class="empty" id="empty" hidden>
