@@ -74,4 +74,4 @@ export const ADD_HINT = {
 };
 
 // Page names and route prefixes an entry slug must never claim.
-export const RESERVED_SLUGS = ['about', 'submit', 'contribute', 'stats', 'c', 'i'];
+export const RESERVED_SLUGS = ['about', 'submit', 'contribute', 'stats', 'all', 'search', 'c', 'i'];
