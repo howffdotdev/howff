@@ -8,7 +8,7 @@ const scoped = scope !== 'all';
 ---
 {/* Marks where the sticky bar latches, so the script can tell when it sticks. */}
 <div class="filters-sentinel" aria-hidden="true"></div>
-<form class="filters" id="filters" role="search" aria-label="Search the shelf" action="/" method="get">
+<form class="filters" id="filters" role="search" aria-label="Search the shelf" action={scoped ? `/c/${scope}` : "/all"} method="get">
   <div class="filters-top">
     <label class="field search-field" for="q">
       <span class="field-label">Search</span>
@@ -71,6 +71,7 @@ const scoped = scope !== 'all';
         Sort
         <select id="sort" name="sort">
           <option value="new">Newest first</option>
+          <option value="used">Most used</option>
           <option value="az">A to Z</option>
         </select>
       </label>
@@ -85,7 +86,7 @@ const scoped = scope !== 'all';
     {scoped && (
       <>
         {' · '}
-        <a href="/">All categories</a>
+        <a href="/all">All categories</a>
       </>
     )}
   </p>

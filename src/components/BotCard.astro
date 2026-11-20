@@ -1,59 +1,56 @@
 ---
-import { CATEGORY_LABEL, ADD_LABEL } from '../lib/entries.js';
+import { CATEGORY_LABEL } from '../lib/entries.js';
 import { botMark } from '../lib/botmark.js';
 
-const { entry, instructions = '' } = Astro.props;
+// `instructions` is only passed on the filterable shelf, where the card also
+// carries the data the client filter reads. Elsewhere the card stays light.
+// `note` is a short extra line, such as why a bot ranks or when it arrived.
+const { entry, instructions, rank, note, score } = Astro.props;
+const shelf = instructions !== undefined;
 
 const mark = botMark(entry.slug, entry.category, { size: 34, attrs: 'aria-hidden="true"' });
 
 // One lowercase haystack for the client filter. Instructions are included so a
 // search for "gmail" finds bots that only mention it in their prompt.
-const search = [
-  entry.name,
-  entry.slug,
-  entry.tagline,
-  entry.description,
-  entry.author,
-  entry.category,
-  ...entry.integrations,
-  ...entry.tags,
-  instructions,
-]
-  .filter(Boolean)
-  .join(' ')
-  .toLowerCase();
-
-const isShare = entry.add.kind === 'share-link';
+const search = shelf
+  ? [
+      entry.name,
+      entry.slug,
+      entry.tagline,
+      entry.description,
+      entry.author,
+      entry.category,
+      ...entry.integrations,
+      ...entry.tags,
+      instructions,
+    ]
+      .filter(Boolean)
+      .join(' ')
+      .toLowerCase()
+  : undefined;
 ---
 <article
-  class="card"
-  data-entry
-  data-name={entry.name}
-  data-added={entry.added}
-  data-category={entry.category}
-  data-integrations={entry.integrations.join('|')}
-  data-tags={entry.tags.join('|')}
+  class:list={['card', { ranked: rank }]}
+  data-entry={shelf ? '' : undefined}
+  data-name={shelf ? entry.name : undefined}
+  data-added={shelf ? entry.added : undefined}
+  data-score={shelf && score ? score : undefined}
+  data-category={shelf ? entry.category : undefined}
+  data-integrations={shelf ? entry.integrations.join('|') : undefined}
+  data-tags={shelf ? entry.tags.join('|') : undefined}
   data-search={search}
   style={`--cat: var(--cat-${entry.category})`}
 >
-  <div class="card-top">
-    <span class="cat">{CATEGORY_LABEL[entry.category]}</span>
-    <span class="card-author">{entry.author ?? 'anon'}</span>
-  </div>
   <div class="card-head">
-    <span class="botmark" set:html={mark} />
-    <h3><a href={`/${entry.slug}`}>{entry.name}</a></h3>
+    {rank ? <span class="rank" aria-label={`Number ${rank}`}>{rank}</span> : <span class="botmark" set:html={mark} />}
+    <div class="card-title">
+      <h3><a href={`/${entry.slug}`}>{entry.name}</a></h3>
+      <span class="card-author">{entry.author ?? 'anon'}</span>
+    </div>
   </div>
   <p class="card-tagline">{entry.tagline}</p>
   <div class="card-foot">
-    <div class="chips">
-      {entry.integrations.slice(0, 3).map((name) => <span class="chip">{name}</span>)}
-      {entry.integrations.length > 3 && (
-        <span class="chip">+{entry.integrations.length - 3}</span>
-      )}
-    </div>
-    <span class:list={['add-mark', { 'is-share': isShare }]}>
-      {ADD_LABEL[entry.add.kind]}
-    </span>
+    <span class="cat">{CATEGORY_LABEL[entry.category]}</span>
+    {note && <span class="card-note">{note}</span>}
   </div>
 </article>
