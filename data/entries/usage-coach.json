@@ -1,0 +1,22 @@
+{
+  "slug": "usage-coach",
+  "name": "Usage Coach",
+  "category": "productivity",
+  "tagline": "A weekly Grok Bot usage coach.",
+  "description": "A weekly Grok Bot usage coach. Each week it sends a clean, shareable chart of your usage by bot and up to three concrete ways to use less, and it never changes anything without your yes.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/whI3o2Z17xW5I4VYvan-l",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/whI3o2Z17xW5I4VYvan-l",
+  "homepage": "https://x.ai/bot/whI3o2Z17xW5I4VYvan-l",
+  "license": null,
+  "author": "Nikola",
+  "tags": [],
+  "verified": false,
+  "added": "2026-11-20",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
