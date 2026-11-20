@@ -5,6 +5,8 @@ import BotCard from '../components/BotCard.astro';
 import CopyButton from '../components/CopyButton.astro';
 import { loadEntries, related, readInstructions, CATEGORY_LABEL } from '../lib/entries.js';
 import { botMark } from '../lib/botmark.js';
+import TipCard from '../components/TipCard.astro';
+import { popularityBySlug, tipsFor, signalLine, shortDate } from '../lib/signals.js';
 
 export async function getStaticPaths() {
   const docs = await getCollection('instructions');
@@ -23,9 +25,12 @@ const { Content } = doc ? await render(doc) : { Content: null };
 const raw = readInstructions(entry);
 const also = related(entry);
 const isShare = entry.add.kind === 'share-link';
-const host = (url) => url.replace(/^https?:\/\//, '').replace(/\/$/, '');
+// Attribution is a licence condition for CC-BY, so it stays whenever the
+// instructions are shown.
 const cc = entry.license?.startsWith('CC-BY');
 const mark = botMark(entry.slug, entry.category, { size: 64, attrs: 'aria-hidden="true"' });
+const pop = popularityBySlug().get(entry.slug);
+const tips = tipsFor(entry.slug);
 ---
 <Base
   title={entry.name}
@@ -37,7 +42,7 @@ const mark = botMark(entry.slug, entry.category, { size: 64, attrs: 'aria-hidden
   <main id="main" class="wrap entry">
     <div>
       <nav class="breadcrumb" aria-label="Breadcrumb">
-        <a href="/">Shelf</a> · <a href={`/c/${entry.category}`}>{CATEGORY_LABEL[entry.category]}</a>
+        <a href="/">Home</a> · <a href={`/c/${entry.category}`}>{CATEGORY_LABEL[entry.category]}</a>
       </nav>
       <div class="entry-head">
         <span class="botmark botmark-lg" set:html={mark} />
@@ -46,124 +51,104 @@ const mark = botMark(entry.slug, entry.category, { size: 64, attrs: 'aria-hidden
           <p class="tagline">{entry.tagline}</p>
         </div>
       </div>
-      <div class="entry-meta">
+      <p class="entry-byline">
         <a class="cat" href={`/c/${entry.category}`} style={`--cat: var(--cat-${entry.category})`}>
           {CATEGORY_LABEL[entry.category]}
         </a>
-        {entry.integrations.map((name) => <span class="chip">{name}</span>)}
-        {entry.tags.map((t) => <span class="chip">{t}</span>)}
-        {entry.verified && <span class="verified">✓ Checked</span>}
-      </div>
+        <span>by {entry.author ?? 'anon'}</span>
+        <span>added {shortDate(entry.added, true)}</span>
+        {pop && pop.score > 0 && <span>{signalLine(pop.signals)}</span>}
+      </p>
 
-      <section class="panel add-panel" aria-labelledby="add-h">
-        <div class="panel-head">
-          <h2 id="add-h">Add this bot</h2>
-          <span class="muted mono">{isShare ? 'One click' : 'Paste one URL'}</span>
-        </div>
-        <div class="panel-body">
-          {isShare ? (
-            <>
-              <div class="actions">
-                <a class="btn lg" href={entry.add.url} target="_blank" rel="noreferrer">
-                  Add to Grok Bot ↗
-                </a>
-                <CopyButton text={entry.add.url} label="Copy link" ghost />
-              </div>
-              <p class="muted mono" style="margin: 0">Opens x.ai · nothing installs here.</p>
-            </>
-          ) : (
-            <>
-              <ol class="steps">
-                <li>Start a new Grok Bot chat.</li>
-                <li>Paste this URL as the first message.</li>
-                <li>The bot sets itself up from the profile.</li>
-              </ol>
+      <div class="add-row">
+        {isShare ? (
+          <>
+            <a
+              class="btn lg"
+              href={entry.add.url}
+              target="_blank"
+              rel="noreferrer"
+              data-umami-event="add-bot"
+              data-umami-event-bot={entry.slug}
+            >
+              Add to Grok Bot ↗
+            </a>
+            <CopyButton text={entry.add.url} label="Copy link" ghost />
+          </>
+        ) : (
+          <div class="panel add-panel">
+            <div class="panel-body">
+              <p style="margin: 0">Paste this URL as the first message in a new Grok Bot chat.</p>
               <div class="url-box">
                 <code>{entry.add.url}</code>
                 <CopyButton text={entry.add.url} label="Copy URL" />
               </div>
-            </>
-          )}
-          {entry.add.hint && <p class="notice" style="margin: 0">{entry.add.hint}</p>}
-        </div>
-      </section>
+            </div>
+          </div>
+        )}
+      </div>
+      {entry.add.hint && <p class="notice">{entry.add.hint}</p>}
 
       <div class="prose">
         <p>{entry.description}</p>
-        {entry.notes && <p class="notice">{entry.notes}</p>}
       </div>
+      {entry.integrations.length > 0 && (
+        <p class="entry-tools">
+          <span class="muted">Connects to</span>
+          {entry.integrations.map((name) => <span class="chip">{name}</span>)}
+        </p>
+      )}
 
-      <section class="panel instructions" aria-labelledby="ins-h" style="margin-top: 1.5rem">
-        <div class="panel-head">
-          <h2 id="ins-h">Instructions</h2>
-          {raw && (
+      {tips.length > 0 && (
+        <section class="entry-tips" aria-labelledby="tips-h">
+          <h2 id="tips-h" class="kicker">Tips from X</h2>
+          <div class="tips">
+            {tips.map((t) => <TipCard tip={t} showBot={false} />)}
+          </div>
+        </section>
+      )}
+
+      {raw && (
+        <section class="panel instructions" aria-labelledby="ins-h">
+          <div class="panel-head">
+            <h2 id="ins-h">Instructions</h2>
             <div class="actions">
               <button type="button" class="pill" id="expand" aria-expanded="false" hidden>
                 Show all
               </button>
               <CopyButton text={raw} label="Copy instructions" done="Copied ✓" />
             </div>
-          )}
-        </div>
-        {raw ? (
-          <>
-            {/* The CSS cap is only safe because JS supplies the expand control. */}
-            <noscript>
-              <style is:inline>
-                .instructions-body { max-height: none; }
-                .instructions-body::after { content: none; }
-              </style>
-            </noscript>
-            <div class="instructions-body" id="ins-body">
-              <div><Content /></div>
-            </div>
+          </div>
+          {/* The CSS cap is only safe because JS supplies the expand control. */}
+          <noscript>
+            <style is:inline>
+              .instructions-body { max-height: none; }
+              .instructions-body::after { content: none; }
+            </style>
+          </noscript>
+          <div class="instructions-body" id="ins-body">
+            <div><Content /></div>
+          </div>
+          {(entry.license || entry.source) && (
             <p class="panel-foot">
-              Instructions by {entry.author ?? 'unknown'}
+              By {entry.author ?? 'unknown'}
               {entry.license && ` · ${entry.license}`}
               {entry.source && <> · <a href={entry.source}>source</a></>}
               {cc && ' · attribution required if you republish'}
             </p>
-          </>
-        ) : (
-          <div class="panel-body">
-            <p class="muted" style="margin: 0">
-              Not published. This is a native share link, so the author's prompt is not public
-              anywhere. Open it to review the bot in Grok before you keep it.
-            </p>
-          </div>
-        )}
-      </section>
+          )}
+        </section>
+      )}
     </div>
 
-    <aside class="entry-side">
-      <div>
-        <h2 class="kicker">Details</h2>
-        <dl class="facts">
-          <dt>Author</dt>
-          <dd>{entry.author ?? 'anon'}</dd>
-          <dt>Licence</dt>
-          <dd>{entry.license ?? 'unspecified'}</dd>
-          <dt>Add method</dt>
-          <dd>{isShare ? 'Share link' : 'Profile URL'}</dd>
-          <dt>Source</dt>
-          <dd>{entry.source ? <a href={entry.source}>{host(entry.source)}</a> : 'n/a'}</dd>
-          <dt>Homepage</dt>
-          <dd>{entry.homepage ? <a href={entry.homepage}>{host(entry.homepage)}</a> : 'n/a'}</dd>
-          <dt>Added</dt>
-          <dd>{entry.added}</dd>
-          <dt>Checked</dt>
-          <dd>{entry.verified ? 'yes' : 'not yet'}</dd>
-        </dl>
-      </div>
-      {also.length > 0 && (
-        <div>
-          <h2 class="kicker">Nearby on the shelf</h2>
-          <div class="related">
-            {also.map((e) => <BotCard entry={e} />)}
-          </div>
+    {also.length > 0 && (
+      <aside class="entry-side" aria-labelledby="also-h">
+        <h2 id="also-h" class="kicker">More like this</h2>
+        <div class="related">
+          {also.map((e) => <BotCard entry={e} />)}
         </div>
-      )}
-    </aside>
+      </aside>
+    )}
   </main>
   <script src="../scripts/copy.js"></script>
   <script src="../scripts/instructions.js"></script>

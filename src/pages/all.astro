@@ -1,0 +1,20 @@
+---
+import Base from '../layouts/Base.astro';
+import Shelf from '../components/Shelf.astro';
+import { loadEntries } from '../lib/entries.js';
+
+const entries = loadEntries();
+---
+<Base
+  title="All bots"
+  description={`Every Grok Bot on Howff. Filter ${entries.length} bots by category, tool, or tag.`}
+  path="/all"
+>
+  <main id="main">
+    <div class="wrap">
+      <h1 class="all-title">All bots</h1>
+      <Shelf entries={entries} />
+    </div>
+  </main>
+  <script src="../scripts/shelf.js"></script>
+</Base>
