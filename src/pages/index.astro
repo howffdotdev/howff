@@ -1,11 +1,30 @@
 ---
 import Base from '../layouts/Base.astro';
-import Shelf from '../components/Shelf.astro';
-import { loadEntries } from '../lib/entries.js';
+import BotCard from '../components/BotCard.astro';
+import TipCard from '../components/TipCard.astro';
+import { loadEntries, categoryCounts, CATEGORY_LABEL } from '../lib/entries.js';
+import { loadPopularity, loadTips, signalLine, shortDate } from '../lib/signals.js';
 
 const entries = loadEntries();
-const description =
-  'An open shelf of Grok Bots. Read the full instructions, then add one in a click.';
+const bySlug = new Map(entries.map((e) => [e.slug, e]));
+
+const top = loadPopularity()
+  .bots.filter((b) => bySlug.has(b.slug) && b.score > 0)
+  .slice(0, 12)
+  .map((b) => ({ entry: bySlug.get(b.slug), signals: b.signals, featured: b.featured }));
+
+// "This week" only when the week actually has enough to show.
+const weekAgo = new Date(Date.now() - 7 * 86_400_000).toISOString().slice(0, 10);
+const thisWeek = entries.filter((e) => e.added >= weekAgo);
+const fresh = thisWeek.length >= 4 ? thisWeek.slice(0, 8) : entries.slice(0, 8);
+const freshTitle = thisWeek.length >= 4 ? 'New this week' : 'Just added';
+
+const tips = loadTips().filter((t) => bySlug.has(t.slug));
+const TIPS_FIRST = 6;
+const categories = categoryCounts(entries);
+const suggestions = ['email', 'calendar', 'GitHub', 'meal plan', 'job hunt', 'crypto'];
+
+const description = `${entries.length} Grok Bots, ranked by what people actually share and use. Search, pick one, add it in a click.`;
 
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -15,32 +34,128 @@ const jsonLd = {
   description,
   potentialAction: {
     '@type': 'SearchAction',
-    target: 'https://howff.dev/?q={search_term_string}',
+    target: 'https://howff.dev/all?q={search_term_string}',
     'query-input': 'required name=search_term_string',
   },
 };
 ---
 <Base title="Howff" description={description} path="/">
   <main id="main">
-    <section class="hero">
+    <section class="hero hero-home">
       <div class="wrap">
-        <p class="kicker">{entries.length} Grok Bots</p>
-        <h1>Grok Bots you can <span>read</span> before you run.</h1>
-        <p class="pronounce">HOWFF · how + f · a Scots meeting-place</p>
-        <p class="lede">
-          Every bot here shows its full instructions. Copy the prompt, or add the bot in one
-          click. One JSON file and one markdown file per bot, in the open, in the repo.
-        </p>
-        <div class="hero-actions">
-          <a class="btn lg" href="#list">Browse the shelf</a>
-          <a class="btn ghost lg" href="/submit">Add your bot</a>
+        <h1>Find a Grok Bot <span>worth adding.</span></h1>
+        <p class="lede">{entries.length.toLocaleString('en-GB')} bots, ranked by what people actually use.</p>
+        <form
+          class="finder"
+          id="finder"
+          role="search"
+          action="/all"
+          method="get"
+          data-cats={JSON.stringify(CATEGORY_LABEL)}
+        >
+          <label class="sr-only" for="find">Search Grok Bots</label>
+          <div class="finder-box">
+            <svg class="finder-icon" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+              <circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2" />
+              <path d="m20 20-3.5-3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+            </svg>
+            <input
+              id="find"
+              name="q"
+              type="search"
+              role="combobox"
+              aria-expanded="false"
+              aria-controls="find-results"
+              aria-autocomplete="list"
+              autocomplete="off"
+              spellcheck="false"
+              enterkeyhint="search"
+              placeholder="What do you want a bot to do?"
+            />
+            <kbd aria-hidden="true">/</kbd>
+          </div>
+          <ul class="find-results" id="find-results" role="listbox" aria-label="Matching bots" hidden></ul>
+          <p class="sr-only" id="find-status" role="status" aria-live="polite"></p>
+        </form>
+        <div class="suggest" aria-label="Try a search">
+          {suggestions.map((s) => (
+            <button type="button" class="pill" data-fill={s}>{s}</button>
+          ))}
         </div>
       </div>
     </section>
-    <div class="wrap">
-      <Shelf entries={entries} />
+
+    <div class="wrap home">
+      {top.length > 0 && (
+        <section class="home-section" aria-labelledby="top-h">
+          <div class="section-head">
+            <h2 id="top-h">Most used right now</h2>
+            <a class="section-more" href="/stats#ranking">How we rank</a>
+          </div>
+          <ol class="list top-list">
+            {top.map(({ entry, signals, featured }, i) => (
+              <li>
+                <BotCard
+                  entry={entry}
+                  rank={i + 1}
+                  note={featured ? `xAI pick · ${signalLine(signals)}` : signalLine(signals)}
+                />
+              </li>
+            ))}
+          </ol>
+        </section>
+      )}
+
+      {tips.length > 0 && (
+        <section class="home-section" aria-labelledby="tips-h">
+          <div class="section-head">
+            <h2 id="tips-h">Tips from X</h2>
+            <span class="section-sub">How people get more out of their bots</span>
+          </div>
+          <div class="tips">
+            {tips.slice(0, TIPS_FIRST).map((t) => <TipCard tip={t} entry={bySlug.get(t.slug)} />)}
+          </div>
+          {tips.length > TIPS_FIRST && (
+            <details class="more-tips">
+              <summary class="pill">{tips.length - TIPS_FIRST} more tips</summary>
+              <div class="tips">
+                {tips.slice(TIPS_FIRST).map((t) => <TipCard tip={t} entry={bySlug.get(t.slug)} />)}
+              </div>
+            </details>
+          )}
+        </section>
+      )}
+
+      <section class="home-section" aria-labelledby="cat-h">
+        <div class="section-head">
+          <h2 id="cat-h">Browse by category</h2>
+        </div>
+        <nav class="cat-tiles" aria-labelledby="cat-h">
+          {categories.map(([cat, n]) => (
+            <a class="cat-tile" href={`/c/${cat}`} style={`--cat: var(--cat-${cat})`}>
+              <span class="label">{CATEGORY_LABEL[cat]}</span>
+              <span class="n">{n} bots</span>
+            </a>
+          ))}
+        </nav>
+      </section>
+
+      <section class="home-section" aria-labelledby="new-h">
+        <div class="section-head">
+          <h2 id="new-h">{freshTitle}</h2>
+          <a class="section-more" href="/all">Everything, newest first</a>
+        </div>
+        <div class="list">
+          {fresh.map((e) => <BotCard entry={e} note={`Added ${shortDate(e.added)}`} />)}
+        </div>
+      </section>
+
+      <div class="home-cta">
+        <a class="btn lg" href="/all">Browse all {entries.length.toLocaleString('en-GB')} bots</a>
+        <a class="btn ghost lg" href="/submit">Add your bot</a>
+      </div>
     </div>
   </main>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
-  <script src="../scripts/shelf.js"></script>
+  <script src="../scripts/search.js"></script>
 </Base>
