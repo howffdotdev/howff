@@ -1,0 +1,22 @@
+{
+  "slug": "aeo-seo-bot-content-os",
+  "name": "AEO/SEO Bot (Content OS)",
+  "category": "marketing",
+  "tagline": "Finds evidence-backed SEO/AEO opportunities, checks live-page overlap, and prepares unpublished drafts for your review",
+  "description": "Finds evidence-backed SEO/AEO opportunities, checks live-page overlap, and prepares unpublished drafts for your review. Works right away.",
+  "integrations": [],
+  "add": {
+    "kind": "share-link",
+    "url": "https://x.ai/bot/0ItXqBSmqCWRth0j49zbb",
+    "hint": null
+  },
+  "instructions": null,
+  "source": "https://x.ai/bot/0ItXqBSmqCWRth0j49zbb",
+  "homepage": "https://x.ai/bot/0ItXqBSmqCWRth0j49zbb",
+  "license": null,
+  "author": "Eric",
+  "tags": [],
+  "verified": false,
+  "added": "2026-11-24",
+  "notes": "Native Grok Bot share. Third-party bot; not from xAI."
+}
